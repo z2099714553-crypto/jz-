@@ -1,6 +1,13 @@
 # jz的分身
 
-追踪中英文商业分析领域博客的自动阅读流。GitHub Actions 定时抓取 RSS，Claude 生成中文摘要并判断是否值得细读，结果发布成网页。
+追踪**行业大 V 的个人博客与深度访谈**的自动阅读流，主题聚焦商业分析。
+
+只收两类内容：
+
+- **个人博客** —— 署名个人的博客和 newsletter，不收机构号和媒体
+- **采访** —— 对这些人的深度访谈，主要是访谈类播客
+
+GitHub Actions 定时抓取，可选地用 Claude 生成中文摘要并判断是否值得细读，结果发布成网页。
 
 **[→ 在线阅读](https://z2099714553-crypto.github.io/jz-/)**（需先按下面的步骤开启 GitHub Pages）
 
@@ -55,7 +62,28 @@
 
 ## 管理订阅源
 
-编辑 `feeds.yml`。停用某个源用 `enabled: false`，不用删掉。
+编辑 `feeds.yml`。每个源必须标 `type: blog`（个人博客）或 `type: interview`（采访）。
+
+地址有三种写法，播客推荐用后两种 —— 播客的 RSS 托管方五花八门，靠猜命中率很低，
+但 Apple 的公开接口能直接给出准确地址：
+
+```yaml
+  - name: 某人的博客
+    url: https://example.com/feed        # 直接写 RSS 地址
+    type: blog
+
+  - name: 某访谈节目
+    apple_id: 1634356920                 # Apple Podcasts 的节目 ID,自动解析
+    type: interview
+
+  - name: 另一档节目
+    apple_search: 节目名称                # 按名字搜索,取第一个结果
+    type: interview
+```
+
+用 `apple_search` 时，解析到的节目名会记进 `data/health.json`，可以核对有没有匹配错节目。
+
+停用某个源用 `enabled: false`，不用删掉 —— **停用后它此前抓到的文章也会自动从库里清掉**。
 
 每轮抓取的结果记在 `data/health.json`，Actions 的运行摘要页会列出失败的源。连续失败 3 次以上的源会在网页顶部标出来。
 
@@ -74,7 +102,7 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-14 16:11 UTC*
+*更新于 2026-09-14 16:27 UTC*
 
 **[🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs](https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers)**  
 `Lenny Rachitsky` · 1 小时前  
@@ -83,42 +111,42 @@ open docs/index.html
 `Lenny Rachitsky` · 4 小时前  
 
 **[AI, Redistribution, and the Size of the Pie](https://marginalrevolution.com/marginalrevolution/2026/09/ai-redistribution-and-the-size-of-the-pie.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-redistribution-and-the-size-of-the-pie)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 5 小时前  
 
 **[Pacing the Frontier, AI’s Digital Limits, AI Commissars](https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/)**  
 `Ben Thompson` · 6 小时前  
 
-**[派评｜近期值得关注的 App](https://sspai.com/post/114577)**  
-`少数派` · 6 小时前  
-
-**[Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？](https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey)**  
-`少数派` · 7 小时前  
-
-**[新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试](https://sspai.com/post/114453)**  
-`少数派` · 8 小时前  
-
 **[Is it the screens? Or education systems?](https://marginalrevolution.com/marginalrevolution/2026/09/is-it-the-screens-or-education-systems.html?utm_source=rss&utm_medium=rss&utm_campaign=is-it-the-screens-or-education-systems)**  
 `Tyler Cowen` · 9 小时前  
 
-**[专访爆火「机器鸭」背后的硬件推手：这是个信号，未来推动新故事的并非硬件](http://www.geekpark.net/news/370269)**  
-`极客公园` · 10 小时前  
-
 **[Does AI assistance enhance or erode expertise?](https://marginalrevolution.com/marginalrevolution/2026/09/does-ai-assistance-enhance-or-erode-expertise.html?utm_source=rss&utm_medium=rss&utm_campaign=does-ai-assistance-enhance-or-erode-expertise)**  
-`Tyler Cowen` · 11 小时前  
-
-**[众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」](https://sspai.com/post/114410)**  
-`少数派` · 13 小时前  
-
-**[派早报：美国 AI 高管呼吁放缓研发，特朗普反对](https://sspai.com/post/114539)**  
-`少数派` · 17 小时前  
-
-**[苹果的折叠屏等了十五年，体验还差临门一脚](http://www.geekpark.net/news/370231)**  
-`极客公园` · 22 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-578)**  
 `Tyler Cowen` · 23 小时前  
 
 **[Diversity Is Our Strength?](https://marginalrevolution.com/marginalrevolution/2026/09/diversity-is-our-strength.html?utm_source=rss&utm_medium=rss&utm_campaign=diversity-is-our-strength)**  
 `Tyler Cowen` · 1 天前  
+
+**[A simple model of AI-aided economic growth](https://marginalrevolution.com/marginalrevolution/2026/09/a-simple-model-of-ai-aided-economic-growth.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-model-of-ai-aided-economic-growth)**  
+`Tyler Cowen` · 1 天前  
+
+**[🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more](https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching)**  
+`Lenny Rachitsky` · 1 天前  
+
+**[The mathematicians rebel against AI](https://marginalrevolution.com/marginalrevolution/2026/09/the-mathematicians-rebel-against-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mathematicians-rebel-against-ai)**  
+`Tyler Cowen` · 1 天前  
+
+**[Dario Calls for a Pause](https://marginalrevolution.com/marginalrevolution/2026/09/dario-calls-for-a-pause.html?utm_source=rss&utm_medium=rss&utm_campaign=dario-calls-for-a-pause)**  
+`Tyler Cowen` · 2 天前  
+
+**[UK fact of the day](https://marginalrevolution.com/marginalrevolution/2026/09/uk-fact-of-the-day-8.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-fact-of-the-day-8)**  
+`Tyler Cowen` · 2 天前  
+
+**[The Prediction Archive](https://marginalrevolution.com/marginalrevolution/2026/09/the-prediction-archive.html?utm_source=rss&utm_medium=rss&utm_campaign=the-prediction-archive)**  
+`Tyler Cowen` · 2 天前  
+
+**[Labor reallocation during the Industrial Revolution](https://marginalrevolution.com/marginalrevolution/2026/09/labor-reallocation-during-the-industrial-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=labor-reallocation-during-the-industrial-revolution)**  
+`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->

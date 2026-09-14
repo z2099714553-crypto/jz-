@@ -60,9 +60,48 @@ def entry_text(entry) -> str:
     return strip_html(best)
 
 
+ITUNES_LOOKUP = "https://itunes.apple.com/lookup"
+ITUNES_SEARCH = "https://itunes.apple.com/search"
+
+
+def resolve_apple(feed_cfg: dict) -> tuple[str | None, str | None, str | None]:
+    """把 Apple Podcasts 的 ID 或节目名换成真实 RSS 地址。
+
+    播客的 RSS 地址五花八门(megaphone/transistor/libsyn/自建),靠猜命中率很低,
+    但 Apple 的公开接口能直接给出。返回 (rss地址, Apple上的节目名, 错误)。
+    节目名一并返回,用于核对按名字搜索时有没有匹配错节目。
+    """
+    try:
+        if feed_cfg.get("apple_id"):
+            r = requests.get(ITUNES_LOOKUP, params={"id": str(feed_cfg["apple_id"])},
+                             timeout=TIMEOUT, headers={"User-Agent": UA})
+        else:
+            r = requests.get(ITUNES_SEARCH,
+                             params={"term": feed_cfg["apple_search"], "entity": "podcast", "limit": 1},
+                             timeout=TIMEOUT, headers={"User-Agent": UA})
+        r.raise_for_status()
+        results = r.json().get("results") or []
+    except (requests.RequestException, ValueError) as exc:
+        return None, None, f"Apple 接口失败: {type(exc).__name__}: {exc}"
+
+    if not results:
+        return None, None, "Apple 上找不到这个节目"
+    feed_url = results[0].get("feedUrl")
+    matched = results[0].get("collectionName")
+    if not feed_url:
+        return None, matched, f"Apple 有该节目({matched})但没给 RSS 地址"
+    return feed_url, matched, None
+
+
 def fetch_one(feed_cfg: dict) -> tuple[dict, list, str | None]:
     """返回 (源配置, 文章列表, 错误信息)。异常一律转成错误信息,不让单个源拖垮整轮。"""
-    url = feed_cfg["url"]
+    url = feed_cfg.get("url")
+    matched_name = None
+    if not url:
+        url, matched_name, err = resolve_apple(feed_cfg)
+        if err:
+            return feed_cfg, [], err
+        feed_cfg = {**feed_cfg, "url": url, "apple_matched": matched_name}
     try:
         resp = requests.get(
             url, timeout=TIMEOUT, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*"}
@@ -102,6 +141,7 @@ def fetch_one(feed_cfg: dict) -> tuple[dict, list, str | None]:
             "author": feed_cfg.get("author") or feed_cfg["name"],
             "lang": feed_cfg.get("lang", "en"),
             "tags": list(feed_cfg.get("tags") or []),
+            "type": feed_cfg.get("type", "blog"),
             "raw_text": entry_text(entry),
             "fetched_at": iso(now_utc()),
         })
@@ -112,6 +152,11 @@ def main() -> int:
     with FEEDS_FILE.open(encoding="utf-8") as f:
         config = yaml.safe_load(f)
     feeds = [f for f in config.get("feeds", []) if f.get("enabled", True)]
+    bad = [f.get("name", "?") for f in feeds
+           if not (f.get("url") or f.get("apple_id") or f.get("apple_search"))]
+    if bad:
+        print(f"[error] 这些源没写 url/apple_id/apple_search: {', '.join(bad)}")
+        return 1
     if not feeds:
         print("[error] feeds.yml 里没有启用的源")
         return 1
@@ -129,6 +174,12 @@ def main() -> int:
 
     existing = {p["id"]: p for p in load_posts()}
     added = 0
+
+    # 停用某个源后,它此前留下的文章也要清掉,否则会一直挂在页面上
+    active_names = {f["name"] for f in feeds}
+    stale = [pid for pid, post in existing.items() if post.get("source") not in active_names]
+    for pid in stale:
+        del existing[pid]
     for _, entries, _ in results:
         for post in entries:
             prior = existing.get(post["id"])
@@ -150,8 +201,10 @@ def main() -> int:
         name = feed_cfg["name"]
         record = health.get(name, {"consecutive_failures": 0})
         record.update({
-            "url": feed_cfg["url"],
+            "url": feed_cfg.get("url") or f"apple:{feed_cfg.get('apple_id') or feed_cfg.get('apple_search')}",
+            "type": feed_cfg.get("type", "blog"),
             "lang": feed_cfg.get("lang", "en"),
+            "apple_matched": feed_cfg.get("apple_matched"),
             "last_checked": iso(now_utc()),
             "last_status": "error" if error else "ok",
             "last_error": error,
@@ -167,6 +220,8 @@ def main() -> int:
     broken = [n for n, r in health.items() if r.get("consecutive_failures", 0) >= 3]
     print(f"\n完成: {ok}/{len(feeds)} 个源正常, 新增 {added} 篇, 库存 {len(existing)} 篇"
           f" ({time.monotonic() - started:.1f}s)")
+    if stale:
+        print(f"清理 {len(stale)} 篇来自已停用源的旧文章")
     if broken:
         print(f"[warn] 连续失败 3 次以上的源: {', '.join(broken)}")
     return 0
