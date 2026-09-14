@@ -18,7 +18,6 @@ on:
 
 permissions:
   contents: write
-  models: read      # GitHub Models 免费推理额度,摘要环节用
 
 concurrency:
   group: update-feed
@@ -45,12 +44,10 @@ jobs:
       - name: 生成中文摘要
         if: inputs.skip_summaries != true
         env:
-          # 设了 ANTHROPIC_API_KEY 就用 Claude,否则自动降级到免费的 GitHub Models
+          # 没设这个 secret 就跳过摘要,零成本运行
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SUMMARY_BACKEND: ${{ vars.SUMMARY_BACKEND }}
           SUMMARY_MODEL: ${{ vars.SUMMARY_MODEL }}
-          GITHUB_MODEL: ${{ vars.GITHUB_MODEL }}
           MAX_SUMMARIES_PER_RUN: ${{ inputs.max_summaries || vars.MAX_SUMMARIES_PER_RUN || '25' }}
         run: python scripts/summarize.py
 

@@ -22,29 +22,34 @@
 仓库 **Settings → Pages → Source** 选 **Deploy from a branch**，分支选 `main`，目录选 `/docs`。
 免费版 Pages 要求仓库是 public。
 
-### 2. 配置 Claude API Key（可选，但没有就没有摘要）
+### 2. 中文摘要（可选，默认关闭）
 
-**Settings → Secrets and variables → Actions → New repository secret**
+**默认不生成摘要，整套东西零成本运行** —— 抓取、去重、网页、README 全都照常，
+只是每篇文章显示「摘要待生成」，英文源保持英文标题和原文摘录。
+
+想要中文摘要就加一个 secret：**Settings → Secrets and variables → Actions → New repository secret**
 
 | 名称 | 值 |
 |---|---|
-| `ANTHROPIC_API_KEY` | 你的 key，在 [console.anthropic.com](https://console.anthropic.com/) 申请 |
+| `ANTHROPIC_API_KEY` | 在 [console.anthropic.com](https://console.anthropic.com/) 申请 |
 
-没配这个 secret 的话，抓取和页面照常工作，只是每篇文章显示「摘要待生成」。
-
-### 3. 调成本（可选）
-
-同一页面的 **Variables** 标签（不是 Secrets）：
+加了之后每轮自动给新文章生成中文摘要、要点和「是否值得读」判断。
+同一页面的 **Variables** 标签（不是 Secrets）可以调：
 
 | 变量 | 默认 | 说明 |
 |---|---|---|
-| `SUMMARY_MODEL` | `claude-opus-5` | 换成 `claude-haiku-4-5` 可把成本降到约 1/5 |
-| `MAX_SUMMARIES_PER_RUN` | `25` | 每轮最多处理多少篇，是成本的硬上限 |
+| `SUMMARY_MODEL` | `claude-opus-5` | 换成 `claude-haiku-4-5` 成本约为 1/5 |
+| `MAX_SUMMARIES_PER_RUN` | `25` | 每轮最多处理多少篇，成本的硬上限 |
+| `SUMMARY_BACKEND` | 自动 | 设成 `none` 可强制关闭摘要 |
 
-按每天约 30 篇新文章估算：Opus 5 大约 $15–20/月，Haiku 4.5 大约 $3–4/月。
+按每天约 30 篇新文章估算：Opus 5 约 $15–20/月，Haiku 4.5 约 $3–4/月。
 每轮实际花费会打印在 Actions 日志里。
 
-### 4. 手动跑一次
+> **关于免费摘要**：GitHub Models 曾经是可行的免费方案（Actions 内置 token 即可调用），
+> 但该服务已于 2026-07-30 彻底关停，现在请求返回 `410 github_models_retirement_brownout`。
+> 相关代码已移除，不要再尝试。
+
+### 3. 手动跑一次
 
 **Actions → 更新阅读流 → Run workflow**。第一次会回溯最近 45 天的文章。
 
