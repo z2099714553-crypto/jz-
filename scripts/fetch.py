@@ -26,6 +26,9 @@ WORKERS = env_int("FETCH_WORKERS", 8)
 MAX_ENTRIES_PER_FEED = env_int("MAX_ENTRIES_PER_FEED", 30)
 
 UA = "Mozilla/5.0 (compatible; jz-fenshen/1.0; +https://github.com/z2099714553-crypto/jz-)"
+# 默认用上面这个能表明身份的 UA;只在被 403 拦下时才退回伪装成浏览器
+BROWSER_UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36")
 
 
 def parse_date(entry) -> str | None:
@@ -102,10 +105,12 @@ def fetch_one(feed_cfg: dict) -> tuple[dict, list, str | None]:
         if err:
             return feed_cfg, [], err
         feed_cfg = {**feed_cfg, "url": url, "apple_matched": matched_name}
+    accept = "application/rss+xml, application/xml, text/xml, */*"
     try:
-        resp = requests.get(
-            url, timeout=TIMEOUT, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*"}
-        )
+        resp = requests.get(url, timeout=TIMEOUT, headers={"User-Agent": UA, "Accept": accept})
+        # 小宇宙等平台会按 UA 拦爬虫,换成浏览器 UA 再试一次
+        if resp.status_code == 403:
+            resp = requests.get(url, timeout=TIMEOUT, headers={"User-Agent": BROWSER_UA, "Accept": accept})
         resp.raise_for_status()
     except requests.RequestException as exc:
         return feed_cfg, [], f"{type(exc).__name__}: {exc}"
@@ -197,6 +202,8 @@ def main() -> int:
 
     # 健康度:连续失败次数攒着,方便判断某个源是彻底死了还是偶发
     health = load_json(HEALTH_FILE, {"feeds": {}}).get("feeds", {})
+    # 只保留当前启用的源,否则停用后的旧记录会一直留在统计里
+    health = {n: r for n, r in health.items() if n in active_names}
     for feed_cfg, entries, error in results:
         name = feed_cfg["name"]
         record = health.get(name, {"consecutive_failures": 0})
