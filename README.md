@@ -69,13 +69,13 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-14 16:03 UTC*
+*更新于 2026-09-14 16:11 UTC*
 
 **[🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs](https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers)**  
 `Lenny Rachitsky` · 1 小时前  
 
 **[How Grok Bot designers use AI agents to build personal sites and product prototypes \| John Bai & Peng Zheng](https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents)**  
-`Lenny Rachitsky` · 3 小时前  
+`Lenny Rachitsky` · 4 小时前  
 
 **[AI, Redistribution, and the Size of the Pie](https://marginalrevolution.com/marginalrevolution/2026/09/ai-redistribution-and-the-size-of-the-pie.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-redistribution-and-the-size-of-the-pie)**  
 `Tyler Cowen` · 4 小时前  

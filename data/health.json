@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-09-14T16:03:56Z",
+  "generated_at": "2026-09-14T16:10:09Z",
   "feeds": {
     "Stratechery": {
       "consecutive_failures": 0,
       "url": "https://stratechery.com/feed/",
       "lang": "en",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 10,
-      "last_success": "2026-09-14T16:03:56Z"
+      "last_success": "2026-09-14T16:10:09Z"
     },
     "Benedict Evans": {
       "consecutive_failures": 0,
       "url": "https://www.ben-evans.com/benedictevans?format=rss",
       "lang": "en",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 1,
-      "last_success": "2026-09-14T16:03:56Z"
+      "last_success": "2026-09-14T16:10:09Z"
     },
     "Not Boring": {
       "consecutive_failures": 0,
       "url": "https://www.notboring.co/feed",
       "lang": "en",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 10,
-      "last_success": "2026-09-14T16:03:56Z"
+      "last_success": "2026-09-14T16:10:09Z"
     },
     "a16z": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "url": "https://a16z.com/feed/",
       "lang": "en",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "error",
       "last_error": "HTTPError: 404 Client Error: Not Found for url: https://a16z.com/feed/",
       "entries_last_run": 0
@@ -44,67 +44,67 @@
       "consecutive_failures": 0,
       "url": "https://www.lennysnewsletter.com/feed",
       "lang": "en",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 20,
-      "last_success": "2026-09-14T16:03:56Z"
+      "last_success": "2026-09-14T16:10:09Z"
     },
     "Platformer": {
       "consecutive_failures": 0,
       "url": "https://www.platformer.news/rss/",
       "lang": "en",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 13,
-      "last_success": "2026-09-14T16:03:56Z"
+      "last_success": "2026-09-14T16:10:09Z"
     },
     "The Generalist": {
       "consecutive_failures": 0,
       "url": "https://www.generalist.com/feed",
       "lang": "en",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 4,
-      "last_success": "2026-09-14T16:03:56Z"
+      "last_success": "2026-09-14T16:10:09Z"
     },
     "Marginal Revolution": {
       "consecutive_failures": 0,
       "url": "https://marginalrevolution.com/feed",
       "lang": "en",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 15,
-      "last_success": "2026-09-14T16:03:56Z"
+      "last_success": "2026-09-14T16:10:09Z"
     },
     "Tomasz Tunguz": {
       "consecutive_failures": 0,
       "url": "https://tomtunguz.com/index.xml",
       "lang": "en",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 2,
-      "last_success": "2026-09-14T16:03:56Z"
+      "last_success": "2026-09-14T16:10:09Z"
     },
     "Andrew Chen": {
       "consecutive_failures": 0,
       "url": "https://andrewchen.com/feed/",
       "lang": "en",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 0,
-      "last_success": "2026-09-14T16:03:56Z"
+      "last_success": "2026-09-14T16:10:09Z"
     },
     "First Round Review": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "url": "https://review.firstround.com/feed.xml",
       "lang": "en",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "error",
       "last_error": "HTTPError: 404 Client Error: Not Found for url: https://review.firstround.com/feed.xml",
       "entries_last_run": 0
@@ -113,55 +113,56 @@
       "consecutive_failures": 0,
       "url": "https://abovethecrowd.com/feed/",
       "lang": "en",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 0,
-      "last_success": "2026-09-14T16:03:56Z"
+      "last_success": "2026-09-14T16:10:09Z"
     },
     "SemiAnalysis": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 0,
       "url": "https://semianalysis.com/feed/",
       "lang": "en",
-      "last_checked": "2026-09-14T16:03:56Z",
-      "last_status": "error",
-      "last_error": "HTTPError: 403 Client Error: Forbidden for url: https://semianalysis.com/feed/",
-      "entries_last_run": 0
+      "last_checked": "2026-09-14T16:10:09Z",
+      "last_status": "ok",
+      "last_error": null,
+      "entries_last_run": 0,
+      "last_success": "2026-09-14T16:10:09Z"
     },
     "The Diff": {
       "consecutive_failures": 0,
       "url": "https://www.thediff.co/feed",
       "lang": "en",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 0,
-      "last_success": "2026-09-14T16:03:56Z"
+      "last_success": "2026-09-14T16:10:09Z"
     },
     "Net Interest": {
       "consecutive_failures": 0,
       "url": "https://www.netinterest.co/feed",
       "lang": "en",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 6,
-      "last_success": "2026-09-14T16:03:56Z"
+      "last_success": "2026-09-14T16:10:09Z"
     },
     "Every": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "url": "https://every.to/feed.xml",
       "lang": "en",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "error",
-      "last_error": "解析失败: <unknown>:8:40: not well-formed (invalid token)",
+      "last_error": "解析失败: <unknown>:8:40: not well-formed (invalid token) | content-type=text/html; charset=utf-8 | 开头: <!DOCTYPE html><html data-dpl-id=\"70fbf8ef36f1a1932950abf98927d3893c52083a\" lang=\"en\" data-scroll-behavior=\"smooth\"><head><meta charSet=\"utf-8\"/><meta name=\"vie",
       "entries_last_run": 0
     },
     "Harvard Business Review": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "url": "https://feeds.hbr.org/harvardbusiness",
       "lang": "en",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "error",
       "last_error": "SSLError: HTTPSConnectionPool(host='feeds.hbr.org', port=443): Max retries exceeded with url: /harvardbusiness (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
       "entries_last_run": 0
@@ -170,77 +171,77 @@
       "consecutive_failures": 0,
       "url": "https://blog.eladgil.com/feed",
       "lang": "en",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 0,
-      "last_success": "2026-09-14T16:03:56Z"
+      "last_success": "2026-09-14T16:10:09Z"
     },
     "阮一峰的网络日志": {
       "consecutive_failures": 0,
       "url": "https://www.ruanyifeng.com/blog/atom.xml",
       "lang": "zh",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 3,
-      "last_success": "2026-09-14T16:03:56Z"
+      "last_success": "2026-09-14T16:10:09Z"
     },
     "虎嗅": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "url": "https://www.huxiu.com/rss/0.xml",
       "lang": "zh",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "error",
       "last_error": "ReadTimeout: HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=25)",
       "entries_last_run": 0
     },
     "36氪": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "url": "https://36kr.com/feed",
       "lang": "zh",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "error",
-      "last_error": "解析失败: <unknown>:10:542: not well-formed (invalid token)",
+      "last_error": "解析失败: <unknown>:10:542: not well-formed (invalid token) | content-type=text/html | 开头: <!DOCTYPE html> <html lang=\"en\">  <head> \t<meta charset=\"UTF-8\" /> \t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" /> \t<link rel=\"icon\" hre",
       "entries_last_run": 0
     },
     "少数派": {
       "consecutive_failures": 0,
       "url": "https://sspai.com/feed",
       "lang": "zh",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 10,
-      "last_success": "2026-09-14T16:03:56Z"
+      "last_success": "2026-09-14T16:10:09Z"
     },
     "PingWest 品玩": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "url": "https://www.pingwest.com/feed",
       "lang": "zh",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "error",
-      "last_error": "解析失败: <unknown>:57:1: not well-formed (invalid token)",
+      "last_error": "解析失败: <unknown>:57:1: not well-formed (invalid token) | content-type=text/html; charset=utf-8 | 开头: <!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">   <html xmlns=\"http://www.w3.org/1999/",
       "entries_last_run": 0
     },
     "机器之心": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "url": "https://www.jiqizhixin.com/rss",
       "lang": "zh",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "error",
-      "last_error": "解析失败: <unknown>:8:82: not well-formed (invalid token)",
+      "last_error": "解析失败: <unknown>:8:82: not well-formed (invalid token) | content-type=text/html; charset=utf-8 | 开头: <!DOCTYPE html> <html lang=\"zh-CN\"> <head> <meta charset=\"UTF-8\"/> <meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/> <title>机器之心·数据服务</title>",
       "entries_last_run": 0
     },
     "极客公园": {
       "consecutive_failures": 0,
       "url": "https://www.geekpark.net/rss",
       "lang": "zh",
-      "last_checked": "2026-09-14T16:03:56Z",
+      "last_checked": "2026-09-14T16:10:09Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 30,
-      "last_success": "2026-09-14T16:03:56Z"
+      "last_success": "2026-09-14T16:10:09Z"
     }
   }
 }
