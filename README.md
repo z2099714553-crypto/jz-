@@ -69,6 +69,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-14 15:39 UTC*
+*更新于 2026-09-14 16:03 UTC*
+
+**[🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs](https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers)**  
+`Lenny Rachitsky` · 1 小时前  
+
+**[How Grok Bot designers use AI agents to build personal sites and product prototypes \| John Bai & Peng Zheng](https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents)**  
+`Lenny Rachitsky` · 3 小时前  
+
+**[AI, Redistribution, and the Size of the Pie](https://marginalrevolution.com/marginalrevolution/2026/09/ai-redistribution-and-the-size-of-the-pie.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-redistribution-and-the-size-of-the-pie)**  
+`Tyler Cowen` · 4 小时前  
+
+**[Pacing the Frontier, AI’s Digital Limits, AI Commissars](https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/)**  
+`Ben Thompson` · 6 小时前  
+
+**[派评｜近期值得关注的 App](https://sspai.com/post/114577)**  
+`少数派` · 6 小时前  
+
+**[Excel AI 辅助工作流横评：数据分析高手还是照葫芦画瓢？](https://sspai.com/prime/story/ai-assisted-spreadsheeting-a-survey)**  
+`少数派` · 7 小时前  
+
+**[新 iPhone 相机如何记录照片真实性？开发者视角的猜想和尝试](https://sspai.com/post/114453)**  
+`少数派` · 8 小时前  
+
+**[Is it the screens? Or education systems?](https://marginalrevolution.com/marginalrevolution/2026/09/is-it-the-screens-or-education-systems.html?utm_source=rss&utm_medium=rss&utm_campaign=is-it-the-screens-or-education-systems)**  
+`Tyler Cowen` · 9 小时前  
+
+**[专访爆火「机器鸭」背后的硬件推手：这是个信号，未来推动新故事的并非硬件](http://www.geekpark.net/news/370269)**  
+`极客公园` · 10 小时前  
+
+**[Does AI assistance enhance or erode expertise?](https://marginalrevolution.com/marginalrevolution/2026/09/does-ai-assistance-enhance-or-erode-expertise.html?utm_source=rss&utm_medium=rss&utm_campaign=does-ai-assistance-enhance-or-erode-expertise)**  
+`Tyler Cowen` · 11 小时前  
+
+**[众测招募｜泡泡骚 Low Pro：给新 iPhone 添一件极简「背心」](https://sspai.com/post/114410)**  
+`少数派` · 13 小时前  
+
+**[派早报：美国 AI 高管呼吁放缓研发，特朗普反对](https://sspai.com/post/114539)**  
+`少数派` · 17 小时前  
+
+**[苹果的折叠屏等了十五年，体验还差临门一脚](http://www.geekpark.net/news/370231)**  
+`极客公园` · 22 小时前  
+
+**[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-578)**  
+`Tyler Cowen` · 23 小时前  
+
+**[Diversity Is Our Strength?](https://marginalrevolution.com/marginalrevolution/2026/09/diversity-is-our-strength.html?utm_source=rss&utm_medium=rss&utm_campaign=diversity-is-our-strength)**  
+`Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
