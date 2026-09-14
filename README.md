@@ -102,34 +102,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-14 16:46 UTC*
+*更新于 2026-09-14 21:50 UTC*
+
+**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-577)**  
+`Tyler Cowen` · 4 小时前  
 
 **[🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs](https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers)**  
-`Lenny Rachitsky` · 1 小时前  
+`Lenny Rachitsky` · 6 小时前  
 
 **[How Grok Bot designers use AI agents to build personal sites and product prototypes \| John Bai & Peng Zheng](https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents)**  
-`Lenny Rachitsky` · 4 小时前  
+`Lenny Rachitsky` · 9 小时前  
 
 **[AI, Redistribution, and the Size of the Pie](https://marginalrevolution.com/marginalrevolution/2026/09/ai-redistribution-and-the-size-of-the-pie.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-redistribution-and-the-size-of-the-pie)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 10 小时前  
 
 **[Pacing the Frontier, AI’s Digital Limits, AI Commissars](https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/)**  
-`Ben Thompson` · 6 小时前  
+`Ben Thompson` · 11 小时前  
 
 **[20VC: How LPs Allocate to Venture in 2026: What They Want, What They Do Not Want \| Why Fund Multiple Does Not Matter Without a Timeline \| Why Velocity of Cashback is the Most Important Thing with David Morehead, CIO @ Baylor](https://thetwentyminutevc.libsyn.com/20vc-how-lps-allocate-to-venture-in-2026-what-they-want-what-they-do-not-want-why-fund-multiple-does-not-matter-without-a-timeline-why-velocity-of-cashback-is-the-most-important-thing-with-david-morehead-cio-baylor)**  
-`Harry Stebbings` · 9 小时前  
+`Harry Stebbings` · 14 小时前  
 
 **[Is it the screens? Or education systems?](https://marginalrevolution.com/marginalrevolution/2026/09/is-it-the-screens-or-education-systems.html?utm_source=rss&utm_medium=rss&utm_campaign=is-it-the-screens-or-education-systems)**  
-`Tyler Cowen` · 9 小时前  
+`Tyler Cowen` · 14 小时前  
 
 **[Does AI assistance enhance or erode expertise?](https://marginalrevolution.com/marginalrevolution/2026/09/does-ai-assistance-enhance-or-erode-expertise.html?utm_source=rss&utm_medium=rss&utm_campaign=does-ai-assistance-enhance-or-erode-expertise)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 17 小时前  
 
-**[Home Depot](https://www.acquired.fm/episodes/home-depot)**  
-`Ben Gilbert & David Rosenthal` · 13 小时前  
+**[The Home Depot](https://www.acquired.fm/episodes/home-depot)**  
+`Ben Gilbert & David Rosenthal` · 18 小时前  
 
 **[What Does Pacing Mean?](https://tomtunguz.com/what-does-the-pause-mean/)**  
-`Tomasz Tunguz` · 16 小时前  
+`Tomasz Tunguz` · 21 小时前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-578)**  
 `Tyler Cowen` · 1 天前  
@@ -141,12 +144,9 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more](https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching)**  
-`Lenny Rachitsky` · 1 天前  
+`Lenny Rachitsky` · 2 天前  
 
 **[The mathematicians rebel against AI](https://marginalrevolution.com/marginalrevolution/2026/09/the-mathematicians-rebel-against-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mathematicians-rebel-against-ai)**  
-`Tyler Cowen` · 1 天前  
-
-**[Dario Calls for a Pause](https://marginalrevolution.com/marginalrevolution/2026/09/dario-calls-for-a-pause.html?utm_source=rss&utm_medium=rss&utm_campaign=dario-calls-for-a-pause)**  
 `Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
