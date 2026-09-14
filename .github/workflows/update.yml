@@ -1,0 +1,94 @@
+name: 更新阅读流
+
+on:
+  schedule:
+    # 每 3 小时一次(UTC)。GitHub 的定时任务在整点前后有几分钟到几十分钟的排队延迟,属正常现象。
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      max_summaries:
+        description: 本次最多生成多少篇摘要
+        required: false
+        default: "25"
+      skip_summaries:
+        description: 跳过摘要环节(只抓取和渲染)
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feed
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 抓取订阅源
+        run: python scripts/fetch.py
+
+      - name: 生成中文摘要
+        if: inputs.skip_summaries != true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SUMMARY_MODEL: ${{ vars.SUMMARY_MODEL }}
+          MAX_SUMMARIES_PER_RUN: ${{ inputs.max_summaries || vars.MAX_SUMMARIES_PER_RUN || '25' }}
+        run: python scripts/summarize.py
+
+      - name: 渲染页面和 README
+        run: python scripts/render.py
+
+      - name: 提交变更
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data docs README.md; then
+            echo "没有变更,跳过提交。"
+            exit 0
+          fi
+          git add data docs README.md
+          git commit -m "chore: 更新阅读流 $(date -u '+%Y-%m-%d %H:%M UTC')"
+          # 并发跑或手动推过内容时可能落后,rebase 后重试几次
+          for i in 1 2 3 4; do
+            if git push; then
+              echo "推送成功。"
+              exit 0
+            fi
+            echo "推送失败,第 $i 次重试..."
+            sleep $((2 ** i))
+            git pull --rebase origin "${GITHUB_REF_NAME}" || true
+          done
+          echo "::error::重试 4 次后仍无法推送"
+          exit 1
+
+      - name: 输出源健康状况
+        if: always()
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json, pathlib
+          p = pathlib.Path("data/health.json")
+          if not p.exists():
+              print("没有 health.json"); raise SystemExit
+          feeds = json.loads(p.read_text(encoding="utf-8"))["feeds"]
+          bad = {k: v for k, v in feeds.items() if v.get("last_status") != "ok"}
+          print(f"## 订阅源状况\n\n正常 {len(feeds) - len(bad)} / {len(feeds)}\n")
+          if bad:
+              print("| 源 | 连续失败 | 错误 |\n|---|---|---|")
+              for name, rec in sorted(bad.items(), key=lambda kv: -kv[1].get("consecutive_failures", 0)):
+                  err = str(rec.get("last_error") or "")[:110].replace("|", "\\|")
+                  print(f"| {name} | {rec.get('consecutive_failures', 0)} | {err} |")
+          PY
