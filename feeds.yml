@@ -1,0 +1,186 @@
+# 「jz的分身」订阅源配置
+#
+# 字段说明:
+#   name     显示名
+#   url      RSS/Atom 地址
+#   lang     zh | en
+#   author   作者/机构(用于页面筛选)
+#   tags     标签,用于分类
+#   enabled  false 可临时停用而不删除
+#
+# 注意: 下面的 URL 无法在开发容器里联网验证(网络策略限制),
+# 首次 Actions 跑完后看 data/health.json,把连续失败的源修掉或停用。
+
+feeds:
+  # ---------- 英文:科技/商业战略分析 ----------
+  - name: Stratechery
+    url: https://stratechery.com/feed/
+    lang: en
+    author: Ben Thompson
+    tags: [战略, 科技商业]
+    note: 部分内容付费墙,RSS 通常只给免费周一篇
+
+  - name: Benedict Evans
+    url: https://www.ben-evans.com/benedictevans?format=rss
+    lang: en
+    author: Benedict Evans
+    tags: [战略, 科技趋势]
+
+  - name: Not Boring
+    url: https://www.notboring.co/feed
+    lang: en
+    author: Packy McCormick
+    tags: [公司分析, 创投]
+
+  - name: a16z
+    url: https://a16z.com/feed/
+    lang: en
+    author: Andreessen Horowitz
+    tags: [创投, 行业研究]
+
+  - name: Lenny's Newsletter
+    url: https://www.lennysnewsletter.com/feed
+    lang: en
+    author: Lenny Rachitsky
+    tags: [产品, 增长]
+
+  - name: Platformer
+    url: https://www.platformer.news/rss/
+    lang: en
+    author: Casey Newton
+    tags: [平台经济, 科技商业]
+
+  - name: The Generalist
+    url: https://www.generalist.com/feed
+    lang: en
+    author: Mario Gabriele
+    tags: [公司分析, 创投]
+
+  - name: Marginal Revolution
+    url: https://marginalrevolution.com/feed
+    lang: en
+    author: Tyler Cowen
+    tags: [经济学, 商业评论]
+
+  - name: Tomasz Tunguz
+    url: https://tomtunguz.com/index.xml
+    lang: en
+    author: Tomasz Tunguz
+    tags: [SaaS, 数据分析]
+
+  - name: Andrew Chen
+    url: https://andrewchen.com/feed/
+    lang: en
+    author: Andrew Chen
+    tags: [增长, 网络效应]
+
+  - name: First Round Review
+    url: https://review.firstround.com/feed.xml
+    lang: en
+    author: First Round
+    tags: [创业方法论]
+
+  - name: Above the Crowd
+    url: https://abovethecrowd.com/feed/
+    lang: en
+    author: Bill Gurley
+    tags: [创投, 市场结构]
+
+  - name: SemiAnalysis
+    url: https://semianalysis.com/feed/
+    lang: en
+    author: Dylan Patel
+    tags: [半导体, 产业链]
+
+  - name: The Diff
+    url: https://www.thediff.co/feed
+    lang: en
+    author: Byrne Hobart
+    tags: [金融, 商业分析]
+
+  - name: Net Interest
+    url: https://www.netinterest.co/feed
+    lang: en
+    author: Marc Rubinstein
+    tags: [金融, 商业分析]
+
+  - name: Every
+    url: https://every.to/feed.xml
+    lang: en
+    author: Every
+    tags: [商业写作, AI]
+
+  - name: Harvard Business Review
+    url: https://feeds.hbr.org/harvardbusiness
+    lang: en
+    author: HBR
+    tags: [管理, 商业理论]
+
+  - name: Elad Gil
+    url: https://blog.eladgil.com/feed
+    lang: en
+    author: Elad Gil
+    tags: [创投, 高增长]
+
+  # ---------- 中文:有官方 RSS 的源(相对稳定) ----------
+  - name: 阮一峰的网络日志
+    url: https://www.ruanyifeng.com/blog/atom.xml
+    lang: zh
+    author: 阮一峰
+    tags: [科技周刊, 商业观察]
+
+  - name: 虎嗅
+    url: https://www.huxiu.com/rss/0.xml
+    lang: zh
+    author: 虎嗅网
+    tags: [商业深度]
+
+  - name: 36氪
+    url: https://36kr.com/feed
+    lang: zh
+    author: 36氪
+    tags: [创投, 商业资讯]
+
+  - name: 少数派
+    url: https://sspai.com/feed
+    lang: zh
+    author: 少数派
+    tags: [效率, 科技消费]
+
+  - name: PingWest 品玩
+    url: https://www.pingwest.com/feed
+    lang: zh
+    author: 品玩
+    tags: [科技商业]
+
+  - name: 机器之心
+    url: https://www.jiqizhixin.com/rss
+    lang: zh
+    author: 机器之心
+    tags: [AI产业]
+
+  - name: 极客公园
+    url: https://www.geekpark.net/rss
+    lang: zh
+    author: 极客公园
+    tags: [科技商业]
+
+  # ---------- 中文:微信公众号(默认关闭,见 docs/SOURCES.md) ----------
+  # 刘润、42章经、caoz的梦呓、半佛仙人等只在公众号发文,没有官方 RSS。
+  # 需要自建 RSSHub 或 wechat2rss 才能抓,公共实例基本都被限流。
+  # 配好自己的实例后,把 url 换成你的地址并将 enabled 改成 true。
+  - name: 刘润
+    url: https://rsshub.app/wechat/ce/liurun
+    lang: zh
+    author: 刘润
+    tags: [商业洞察]
+    enabled: false
+    note: 需自建 RSSHub 实例,公共实例不可靠
+
+  - name: 42章经
+    url: https://rsshub.app/wechat/ce/42zhangjing
+    lang: zh
+    author: 曲凯
+    tags: [创投, 商业分析]
+    enabled: false
+    note: 需自建 RSSHub 实例,公共实例不可靠

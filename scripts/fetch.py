@@ -1,0 +1,171 @@
+"""抓取 feeds.yml 里的所有源,增量合并进 data/posts.json。
+
+设计要点:
+  - 已有文章只补字段,绝不覆盖已生成的摘要(摘要要花钱,不能白扔)
+  - 每个源的成败记进 data/health.json,连续失败的源在页面上会标出来
+  - 首次运行只回溯 BACKFILL_DAYS 天,避免一次灌进几千篇
+"""
+import concurrent.futures as futures
+import sys
+import time
+from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
+
+import feedparser
+import requests
+import yaml
+
+from common import (
+    FEEDS_FILE, HEALTH_FILE, canonical_url, env_int, iso, load_json,
+    load_posts, now_utc, save_json, save_posts, strip_html,
+)
+
+BACKFILL_DAYS = env_int("BACKFILL_DAYS", 45)
+TIMEOUT = env_int("FETCH_TIMEOUT", 25)
+WORKERS = env_int("FETCH_WORKERS", 8)
+MAX_ENTRIES_PER_FEED = env_int("MAX_ENTRIES_PER_FEED", 30)
+
+UA = "Mozilla/5.0 (compatible; jz-fenshen/1.0; +https://github.com/z2099714553-crypto/jz-)"
+
+
+def parse_date(entry) -> str | None:
+    """RSS 的日期格式五花八门,挨个试。"""
+    for key in ("published", "updated", "created"):
+        raw = entry.get(key)
+        if not raw:
+            continue
+        try:
+            dt = parsedate_to_datetime(raw)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return iso(dt)
+        except (TypeError, ValueError):
+            pass
+    for key in ("published_parsed", "updated_parsed"):
+        st = entry.get(key)
+        if st:
+            try:
+                return iso(datetime(*st[:6], tzinfo=timezone.utc))
+            except (TypeError, ValueError):
+                pass
+    return None
+
+
+def entry_text(entry) -> str:
+    """优先取全文 content,退回 summary。"""
+    blocks = entry.get("content") or []
+    best = max((b.get("value", "") for b in blocks), key=len, default="")
+    if len(best) < len(entry.get("summary", "") or ""):
+        best = entry.get("summary", "")
+    return strip_html(best)
+
+
+def fetch_one(feed_cfg: dict) -> tuple[dict, list, str | None]:
+    """返回 (源配置, 文章列表, 错误信息)。异常一律转成错误信息,不让单个源拖垮整轮。"""
+    url = feed_cfg["url"]
+    try:
+        resp = requests.get(
+            url, timeout=TIMEOUT, headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*"}
+        )
+        resp.raise_for_status()
+    except requests.RequestException as exc:
+        return feed_cfg, [], f"{type(exc).__name__}: {exc}"
+
+    parsed = feedparser.parse(resp.content)
+    if parsed.bozo and not parsed.entries:
+        return feed_cfg, [], f"解析失败: {parsed.get('bozo_exception', '未知错误')}"
+    if not parsed.entries:
+        return feed_cfg, [], "源可访问但没有条目"
+
+    cutoff = iso(now_utc() - timedelta(days=BACKFILL_DAYS))
+    out = []
+    for entry in parsed.entries[:MAX_ENTRIES_PER_FEED]:
+        link = canonical_url(entry.get("link", ""))
+        title = (entry.get("title") or "").strip()
+        if not link or not title:
+            continue
+        published = parse_date(entry)
+        # 没有日期的条目保留(有些源就是不给),但排序时会排在最后
+        if published and published < cutoff:
+            continue
+        out.append({
+            "id": link,
+            "title": title,
+            "link": entry.get("link", link),
+            "published": published,
+            "source": feed_cfg["name"],
+            "author": feed_cfg.get("author") or feed_cfg["name"],
+            "lang": feed_cfg.get("lang", "en"),
+            "tags": list(feed_cfg.get("tags") or []),
+            "raw_text": entry_text(entry),
+            "fetched_at": iso(now_utc()),
+        })
+    return feed_cfg, out, None
+
+
+def main() -> int:
+    with FEEDS_FILE.open(encoding="utf-8") as f:
+        config = yaml.safe_load(f)
+    feeds = [f for f in config.get("feeds", []) if f.get("enabled", True)]
+    if not feeds:
+        print("[error] feeds.yml 里没有启用的源")
+        return 1
+
+    print(f"开始抓取 {len(feeds)} 个源 (并发 {WORKERS}, 回溯 {BACKFILL_DAYS} 天)\n")
+    started = time.monotonic()
+
+    results = []
+    with futures.ThreadPoolExecutor(max_workers=WORKERS) as pool:
+        for feed_cfg, entries, error in pool.map(fetch_one, feeds):
+            results.append((feed_cfg, entries, error))
+            mark = "✗" if error else "✓"
+            detail = error if error else f"{len(entries)} 篇"
+            print(f"  {mark} {feed_cfg['name']:<26} {detail}")
+
+    existing = {p["id"]: p for p in load_posts()}
+    added = 0
+    for _, entries, _ in results:
+        for post in entries:
+            prior = existing.get(post["id"])
+            if prior is None:
+                existing[post["id"]] = post
+                added += 1
+            else:
+                # 保住已有摘要,只刷新可能变动的元数据
+                prior["title"] = post["title"] or prior.get("title")
+                prior["published"] = prior.get("published") or post["published"]
+                if len(post["raw_text"]) > len(prior.get("raw_text", "")):
+                    prior["raw_text"] = post["raw_text"]
+
+    save_posts(list(existing.values()))
+
+    # 健康度:连续失败次数攒着,方便判断某个源是彻底死了还是偶发
+    health = load_json(HEALTH_FILE, {"feeds": {}}).get("feeds", {})
+    for feed_cfg, entries, error in results:
+        name = feed_cfg["name"]
+        record = health.get(name, {"consecutive_failures": 0})
+        record.update({
+            "url": feed_cfg["url"],
+            "lang": feed_cfg.get("lang", "en"),
+            "last_checked": iso(now_utc()),
+            "last_status": "error" if error else "ok",
+            "last_error": error,
+            "entries_last_run": len(entries),
+        })
+        record["consecutive_failures"] = record.get("consecutive_failures", 0) + 1 if error else 0
+        if not error:
+            record["last_success"] = iso(now_utc())
+        health[name] = record
+    save_json(HEALTH_FILE, {"generated_at": iso(now_utc()), "feeds": health})
+
+    ok = sum(1 for _, _, e in results if not e)
+    broken = [n for n, r in health.items() if r.get("consecutive_failures", 0) >= 3]
+    print(f"\n完成: {ok}/{len(feeds)} 个源正常, 新增 {added} 篇, 库存 {len(existing)} 篇"
+          f" ({time.monotonic() - started:.1f}s)")
+    if broken:
+        print(f"[warn] 连续失败 3 次以上的源: {', '.join(broken)}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
