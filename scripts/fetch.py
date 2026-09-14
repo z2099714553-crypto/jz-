@@ -72,10 +72,15 @@ def fetch_one(feed_cfg: dict) -> tuple[dict, list, str | None]:
         return feed_cfg, [], f"{type(exc).__name__}: {exc}"
 
     parsed = feedparser.parse(resp.content)
-    if parsed.bozo and not parsed.entries:
-        return feed_cfg, [], f"解析失败: {parsed.get('bozo_exception', '未知错误')}"
     if not parsed.entries:
-        return feed_cfg, [], "源可访问但没有条目"
+        ctype = resp.headers.get("content-type", "未知")
+        head = resp.text[:160].replace("\n", " ").strip()
+        if parsed.bozo:
+            reason = f"解析失败: {parsed.get('bozo_exception', '未知错误')}"
+        else:
+            reason = "源可访问但没有条目"
+        # 返回的常常不是 XML 而是反爬页面,带上这两项才看得出是哪种情况
+        return feed_cfg, [], f"{reason} | content-type={ctype} | 开头: {head}"
 
     cutoff = iso(now_utc() - timedelta(days=BACKFILL_DAYS))
     out = []
