@@ -1,186 +1,294 @@
 # 「jz的分身」订阅源配置
 #
-# 字段说明:
-#   name     显示名
-#   url      RSS/Atom 地址
-#   lang     zh | en
-#   author   作者/机构(用于页面筛选)
-#   tags     标签,用于分类
-#   enabled  false 可临时停用而不删除
+# 只收两类内容:
+#   type: blog       行业大 V 的个人博客(署名个人,不是机构或媒体)
+#   type: interview  对这些人的深度访谈(访谈类播客、访谈型 newsletter)
 #
-# 注意: 下面的 URL 无法在开发容器里联网验证(网络策略限制),
-# 首次 Actions 跑完后看 data/health.json,把连续失败的源修掉或停用。
+# 地址三选一:
+#   url           直接写 RSS 地址
+#   apple_id      Apple Podcasts 的节目 ID,抓取时自动换成 RSS 地址
+#   apple_search  Apple Podcasts 上的节目名,自动搜索并取第一个结果
+#                 (解析到的节目名会记进 data/health.json,可核对有没有匹配错)
+#
+# 播客的 RSS 地址托管方五花八门,靠猜命中率很低,所以走 Apple 的公开接口解析。
+#
+# enabled: false 可停用而不删除。
 
 feeds:
-  # ---------- 英文:科技/商业战略分析 ----------
+  # ======================= 个人博客 =======================
+  # 以下 14 个均已在实际抓取中验证可用
+
   - name: Stratechery
     url: https://stratechery.com/feed/
+    type: blog
     lang: en
     author: Ben Thompson
     tags: [战略, 科技商业]
-    note: 部分内容付费墙,RSS 通常只给免费周一篇
+    note: 部分内容付费墙,RSS 通常只给免费文章
 
   - name: Benedict Evans
     url: https://www.ben-evans.com/benedictevans?format=rss
+    type: blog
     lang: en
     author: Benedict Evans
     tags: [战略, 科技趋势]
 
   - name: Not Boring
     url: https://www.notboring.co/feed
+    type: blog
     lang: en
     author: Packy McCormick
     tags: [公司分析, 创投]
 
-  - name: a16z
-    url: https://a16z.com/feed/
+  - name: Marginal Revolution
+    url: https://marginalrevolution.com/feed
+    type: blog
     lang: en
-    author: Andreessen Horowitz
-    tags: [创投, 行业研究]
-
-  - name: Lenny's Newsletter
-    url: https://www.lennysnewsletter.com/feed
-    lang: en
-    author: Lenny Rachitsky
-    tags: [产品, 增长]
+    author: Tyler Cowen
+    tags: [经济学, 商业评论]
 
   - name: Platformer
     url: https://www.platformer.news/rss/
+    type: blog
     lang: en
     author: Casey Newton
     tags: [平台经济, 科技商业]
 
   - name: The Generalist
     url: https://www.generalist.com/feed
+    type: blog
     lang: en
     author: Mario Gabriele
     tags: [公司分析, 创投]
 
-  - name: Marginal Revolution
-    url: https://marginalrevolution.com/feed
+  - name: Net Interest
+    url: https://www.netinterest.co/feed
+    type: blog
     lang: en
-    author: Tyler Cowen
-    tags: [经济学, 商业评论]
+    author: Marc Rubinstein
+    tags: [金融, 商业分析]
+
+  - name: The Diff
+    url: https://www.thediff.co/feed
+    type: blog
+    lang: en
+    author: Byrne Hobart
+    tags: [金融, 商业分析]
+
+  - name: SemiAnalysis
+    url: https://semianalysis.com/feed/
+    type: blog
+    lang: en
+    author: Dylan Patel
+    tags: [半导体, 产业链]
 
   - name: Tomasz Tunguz
     url: https://tomtunguz.com/index.xml
+    type: blog
     lang: en
     author: Tomasz Tunguz
     tags: [SaaS, 数据分析]
 
   - name: Andrew Chen
     url: https://andrewchen.com/feed/
+    type: blog
     lang: en
     author: Andrew Chen
     tags: [增长, 网络效应]
 
-  - name: First Round Review
-    url: https://review.firstround.com/feed.xml
-    lang: en
-    author: First Round
-    tags: [创业方法论]
-
-  - name: Above the Crowd
-    url: https://abovethecrowd.com/feed/
-    lang: en
-    author: Bill Gurley
-    tags: [创投, 市场结构]
-
-  - name: SemiAnalysis
-    url: https://semianalysis.com/feed/
-    lang: en
-    author: Dylan Patel
-    tags: [半导体, 产业链]
-
-  - name: The Diff
-    url: https://www.thediff.co/feed
-    lang: en
-    author: Byrne Hobart
-    tags: [金融, 商业分析]
-
-  - name: Net Interest
-    url: https://www.netinterest.co/feed
-    lang: en
-    author: Marc Rubinstein
-    tags: [金融, 商业分析]
-
-  - name: Every
-    url: https://every.to/feed.xml
-    lang: en
-    author: Every
-    tags: [商业写作, AI]
-
-  - name: Harvard Business Review
-    url: https://feeds.hbr.org/harvardbusiness
-    lang: en
-    author: HBR
-    tags: [管理, 商业理论]
-
   - name: Elad Gil
     url: https://blog.eladgil.com/feed
+    type: blog
     lang: en
     author: Elad Gil
     tags: [创投, 高增长]
 
-  # ---------- 中文:有官方 RSS 的源(相对稳定) ----------
+  - name: Above the Crowd
+    url: https://abovethecrowd.com/feed/
+    type: blog
+    lang: en
+    author: Bill Gurley
+    tags: [创投, 市场结构]
+
   - name: 阮一峰的网络日志
     url: https://www.ruanyifeng.com/blog/atom.xml
+    type: blog
     lang: zh
     author: 阮一峰
     tags: [科技周刊, 商业观察]
 
-  - name: 虎嗅
-    url: https://www.huxiu.com/rss/0.xml
-    lang: zh
-    author: 虎嗅网
-    tags: [商业深度]
+  # ========================= 采访 =========================
 
-  - name: 36氪
-    url: https://36kr.com/feed
-    lang: zh
-    author: 36氪
-    tags: [创投, 商业资讯]
+  - name: Lenny's Newsletter
+    url: https://www.lennysnewsletter.com/feed
+    type: interview
+    lang: en
+    author: Lenny Rachitsky
+    tags: [产品, 增长, 访谈]
+    note: 已验证可用,内容以对产品/增长负责人的访谈为主
 
-  - name: 少数派
-    url: https://sspai.com/feed
-    lang: zh
-    author: 少数派
-    tags: [效率, 科技消费]
+  - name: Dwarkesh Podcast
+    url: https://www.dwarkesh.com/feed
+    type: interview
+    lang: en
+    author: Dwarkesh Patel
+    tags: [深度访谈, AI, 经济]
+    note: Substack 托管,/feed 模式与已验证的几个源一致
 
-  - name: PingWest 品玩
-    url: https://www.pingwest.com/feed
-    lang: zh
-    author: 品玩
-    tags: [科技商业]
+  - name: Conversations with Tyler
+    apple_search: Conversations with Tyler
+    type: interview
+    lang: en
+    author: Tyler Cowen
+    tags: [深度访谈, 经济学]
 
-  - name: 机器之心
-    url: https://www.jiqizhixin.com/rss
+  - name: Invest Like the Best
+    apple_search: Invest Like the Best
+    type: interview
+    lang: en
+    author: Patrick O'Shaughnessy
+    tags: [深度访谈, 投资, 公司分析]
+
+  - name: Acquired
+    apple_search: Acquired
+    type: interview
+    lang: en
+    author: Ben Gilbert & David Rosenthal
+    tags: [公司史, 商业分析]
+
+  - name: BG2Pod
+    apple_search: BG2Pod with Brad Gerstner and Bill Gurley
+    type: interview
+    lang: en
+    author: Bill Gurley & Brad Gerstner
+    tags: [创投, 市场结构]
+
+  - name: The Knowledge Project
+    apple_search: The Knowledge Project with Shane Parrish
+    type: interview
+    lang: en
+    author: Shane Parrish
+    tags: [深度访谈, 决策方法]
+
+  - name: 20VC
+    apple_search: The Twenty Minute VC
+    type: interview
+    lang: en
+    author: Harry Stebbings
+    tags: [创投, 深度访谈]
+
+  - name: 张小珺商业访谈录
+    apple_id: 1634356920
+    type: interview
     lang: zh
-    author: 机器之心
-    tags: [AI产业]
+    author: 张小珺
+    tags: [深度访谈, 商业分析]
+    note: ID 已核实。中文商业访谈里密度最高的一档,单集常 2-7 小时
+
+  - name: 晚点聊 LateTalk
+    apple_search: 晚点聊 LateTalk
+    type: interview
+    lang: zh
+    author: 晚点团队
+    tags: [深度访谈, 商业分析]
+
+  - name: 硅谷101
+    apple_search: 硅谷101
+    type: interview
+    lang: zh
+    author: 陈茜
+    tags: [深度访谈, 科技商业]
+
+  # =================== 已停用:机构与媒体 ===================
+  # 按「行业大 V 个人博客 + 采访」的标准,以下都是机构号或媒体,不符合。
+  # 保留条目便于随时恢复,改 enabled: true 即可。
 
   - name: 极客公园
     url: https://www.geekpark.net/rss
+    type: blog
     lang: zh
     author: 极客公园
     tags: [科技商业]
-
-  # ---------- 中文:微信公众号(默认关闭,见 docs/SOURCES.md) ----------
-  # 刘润、42章经、caoz的梦呓、半佛仙人等只在公众号发文,没有官方 RSS。
-  # 需要自建 RSSHub 或 wechat2rss 才能抓,公共实例基本都被限流。
-  # 配好自己的实例后,把 url 换成你的地址并将 enabled 改成 true。
-  - name: 刘润
-    url: https://rsshub.app/wechat/ce/liurun
-    lang: zh
-    author: 刘润
-    tags: [商业洞察]
     enabled: false
-    note: 需自建 RSSHub 实例,公共实例不可靠
+    note: 媒体机构,非个人博客。此前每轮能抓 30 篇,是停用前中文内容的主要来源
 
-  - name: 42章经
-    url: https://rsshub.app/wechat/ce/42zhangjing
+  - name: 少数派
+    url: https://sspai.com/feed
+    type: blog
     lang: zh
-    author: 曲凯
-    tags: [创投, 商业分析]
+    author: 少数派
+    tags: [效率, 科技消费]
     enabled: false
-    note: 需自建 RSSHub 实例,公共实例不可靠
+    note: 社区媒体,非个人博客
+
+  - name: a16z
+    url: https://a16z.com/feed/
+    type: blog
+    lang: en
+    author: Andreessen Horowitz
+    tags: [创投]
+    enabled: false
+    note: 机构号;且该地址已 404
+
+  - name: First Round Review
+    url: https://review.firstround.com/feed.xml
+    type: blog
+    lang: en
+    author: First Round
+    tags: [创业方法论]
+    enabled: false
+    note: 机构号;且该地址已 404
+
+  - name: Harvard Business Review
+    url: https://feeds.hbr.org/harvardbusiness
+    type: blog
+    lang: en
+    author: HBR
+    tags: [管理]
+    enabled: false
+    note: 机构刊物;且该地址 TLS 握手失败
+
+  - name: Every
+    url: https://every.to/feed.xml
+    type: blog
+    lang: en
+    author: Every
+    tags: [商业写作]
+    enabled: false
+    note: 多作者刊物;且该地址返回 HTML 而非 RSS
+
+  - name: 虎嗅
+    url: https://www.huxiu.com/rss/0.xml
+    type: blog
+    lang: zh
+    author: 虎嗅网
+    tags: [商业深度]
+    enabled: false
+    note: 媒体机构;且该地址请求超时
+
+  - name: 36氪
+    url: https://36kr.com/feed
+    type: blog
+    lang: zh
+    author: 36氪
+    tags: [创投资讯]
+    enabled: false
+    note: 媒体机构;且该地址返回 HTML 而非 RSS
+
+  - name: PingWest 品玩
+    url: https://www.pingwest.com/feed
+    type: blog
+    lang: zh
+    author: 品玩
+    tags: [科技商业]
+    enabled: false
+    note: 媒体机构;且该地址返回 HTML 而非 RSS
+
+  - name: 机器之心
+    url: https://www.jiqizhixin.com/rss
+    type: blog
+    lang: zh
+    author: 机器之心
+    tags: [AI产业]
+    enabled: false
+    note: 媒体机构;且该地址返回 HTML 而非 RSS

@@ -1,21 +1,18 @@
 """给还没有中文摘要的文章补摘要。
 
-后端按以下顺序自动选择(可用 SUMMARY_BACKEND 强制指定 claude/github/none):
-  1. claude —— 设了 ANTHROPIC_API_KEY 时使用,质量最好,按量付费
-  2. github —— GitHub Models,用 Actions 内置 GITHUB_TOKEN,免费但有速率上限
-  3. 都没有则整个环节跳过,流水线其余部分照常跑
+默认不生成摘要——没有 ANTHROPIC_API_KEY 时整个环节跳过,抓取和渲染照常,
+文章显示「摘要待生成」。这是零成本的默认状态。
 
-成本/配额控制:
+设了 ANTHROPIC_API_KEY 才会调用 Claude 生成中文摘要,按量付费。
+用仓库变量 SUMMARY_MODEL 可切换模型(claude-haiku-4-5 成本约为 Opus 5 的 1/5)。
+
+成本控制:
   - MAX_SUMMARIES_PER_RUN 卡死每轮处理篇数
-  - 摘要写回 posts.json 后永不重算
-  - github 后端在每次请求间隔 REQUEST_DELAY 秒,避开 RPM 限制
+  - 摘要写回 posts.json 后永不重算,每篇文章只花一次钱
 """
 import json
 import os
 import sys
-import time
-
-import requests
 
 from common import env_int, iso, load_posts, now_utc, save_posts
 
@@ -23,14 +20,8 @@ SCHEMA_VERSION = 1
 MAX_PER_RUN = env_int("MAX_SUMMARIES_PER_RUN", 25)
 
 CLAUDE_MODEL = os.environ.get("SUMMARY_MODEL", "claude-opus-5").strip() or "claude-opus-5"
-GITHUB_MODEL = os.environ.get("GITHUB_MODEL", "openai/gpt-4o-mini").strip() or "openai/gpt-4o-mini"
-GITHUB_ENDPOINT = "https://models.github.ai/inference/chat/completions"
-GITHUB_CATALOG = "https://models.github.ai/catalog/models"
 
-# GitHub Models 免费额度限制单次请求 8K 输入,中文约 1 字符 1 token,留足余量
 CLAUDE_MAX_CHARS = env_int("SUMMARY_MAX_CHARS", 12000)
-GITHUB_MAX_CHARS = env_int("GITHUB_MAX_CHARS", 5500)
-REQUEST_DELAY = float(os.environ.get("REQUEST_DELAY", "7"))
 
 SYSTEM = """你在为一个商业分析读者做信息过滤。读者是中文母语者,关注商业战略、公司分析、行业结构、创投。
 
@@ -151,114 +142,29 @@ class ClaudeBackend:
             print(f"本轮约 ${tin / 1e6 * 5 + tout / 1e6 * 25:.3f} (Opus 5 $5/$25 per MTok)")
 
 
-# --------------------------------------------------------- GitHub Models 后端
-
-class GitHubBackend:
-    """GitHub Models,免费。用 Actions 内置 GITHUB_TOKEN,workflow 需要 permissions: models: read。"""
-    name = "github"
-    model = GITHUB_MODEL
-    max_chars = GITHUB_MAX_CHARS
-    delay = REQUEST_DELAY
-
-    def __init__(self, token: str):
-        self.session = requests.Session()
-        self.session.headers.update({
-            "Authorization": f"Bearer {token}",
-            "Content-Type": "application/json",
-            "Accept": "application/vnd.github+json",
-        })
-        self.catalog_shown = False
-
-    def show_catalog(self) -> None:
-        """模型名报错时把可用列表打出来,省得靠猜。"""
-        if self.catalog_shown:
-            return
-        self.catalog_shown = True
-        try:
-            r = self.session.get(GITHUB_CATALOG, timeout=20)
-            r.raise_for_status()
-            ids = [m.get("id") or m.get("name") for m in r.json()]
-            print(f"    [info] 可用模型 ({len(ids)} 个): {', '.join(str(i) for i in ids[:25])}")
-            print(f"    [info] 用仓库变量 GITHUB_MODEL 指定其中一个")
-        except (requests.RequestException, ValueError, TypeError) as exc:
-            print(f"    [info] 模型列表也拿不到: {exc}")
-
-    def summarize(self, post: dict) -> dict | None:
-        body = {
-            "model": self.model,
-            "messages": [
-                {"role": "system", "content": SYSTEM},
-                {"role": "user", "content": build_prompt(post, self.max_chars)},
-            ],
-            "max_tokens": 1500,
-            "response_format": {
-                "type": "json_schema",
-                "json_schema": {"name": "summary", "strict": True, "schema": OUTPUT_SCHEMA},
-            },
-        }
-        try:
-            r = self.session.post(GITHUB_ENDPOINT, json=body, timeout=90)
-        except requests.RequestException as exc:
-            print(f"    [skip] 网络错误: {exc}")
-            return None
-
-        if r.status_code == 429:
-            raise RuntimeError(f"GitHub Models 配额用尽 (429)。剩余额度: {r.headers.get('x-ratelimit-remaining', '未知')}")
-        if r.status_code in (400, 404) and self.model.lower() in r.text.lower():
-            print(f"    [skip] 模型名 {self.model} 可能不对: {r.text[:180]}")
-            self.show_catalog()
-            return None
-        if r.status_code >= 400:
-            print(f"    [skip] HTTP {r.status_code}: {r.text[:200]}")
-            if r.status_code in (401, 403):
-                raise RuntimeError("认证失败。检查 workflow 里有没有 permissions: models: read")
-            return None
-
-        try:
-            payload = r.json()
-            data = json.loads(payload["choices"][0]["message"]["content"])
-            usage = payload.get("usage") or {}
-        except (ValueError, KeyError, IndexError, TypeError) as exc:
-            print(f"    [skip] 返回无法解析: {exc}")
-            return None
-
-        for key in ("summary_zh", "key_points", "topics", "worth_reading"):
-            if key not in data:
-                print(f"    [skip] 返回缺字段 {key}")
-                return None
-        return record(data, self.model, usage.get("prompt_tokens", 0), usage.get("completion_tokens", 0))
-
-    def report(self, tin: int, tout: int) -> None:
-        print("费用: $0 (GitHub Models 免费额度)")
-
-
 def pick_backend():
+    """目前只有 Claude 一个后端。默认不设 key,即免费运行但没有摘要。
+
+    GitHub Models 曾作为免费选项接入,但该服务已于 2026-07-30 彻底关停
+    (请求返回 410 github_models_retirement_brownout),故已移除。
+    """
     choice = (os.environ.get("SUMMARY_BACKEND") or "").strip().lower()
     anthropic_key = (os.environ.get("ANTHROPIC_API_KEY") or "").strip()
-    gh_token = (os.environ.get("GITHUB_TOKEN") or "").strip()
 
     if choice == "none":
         print("[skip] SUMMARY_BACKEND=none,跳过摘要环节。")
         return None
-    if choice == "claude" or (not choice and anthropic_key):
-        if not anthropic_key:
-            print("[error] SUMMARY_BACKEND=claude 但没有 ANTHROPIC_API_KEY")
-            return None
-        try:
-            return ClaudeBackend()
-        except ImportError:
-            print("[error] 没装 anthropic 包,跑 pip install -r requirements.txt")
-            return None
-    if choice == "github" or (not choice and gh_token):
-        if not gh_token:
-            print("[error] SUMMARY_BACKEND=github 但没有 GITHUB_TOKEN")
-            return None
-        return GitHubBackend(gh_token)
-
-    print("[skip] 没有可用的摘要后端,跳过。")
-    print("       免费方案: workflow 里加 permissions: models: read (用 GitHub Models)")
-    print("       付费方案: 仓库 Secrets 里加 ANTHROPIC_API_KEY (用 Claude,质量更好)")
-    return None
+    if not anthropic_key:
+        print("[skip] 没有设置 ANTHROPIC_API_KEY,跳过摘要环节。")
+        print("       抓取和网页照常工作,文章显示「摘要待生成」。")
+        print("       想要中文摘要: 仓库 Secrets 里加 ANTHROPIC_API_KEY,")
+        print("       并可用仓库变量 SUMMARY_MODEL 选 claude-haiku-4-5 降低成本。")
+        return None
+    try:
+        return ClaudeBackend()
+    except ImportError:
+        print("[error] 没装 anthropic 包,跑 pip install -r requirements.txt")
+        return None
 
 
 def main() -> int:
@@ -290,8 +196,6 @@ def main() -> int:
             tin += summary["input_tokens"]
             tout += summary["output_tokens"]
             done += 1
-        if backend.delay and i < len(batch):
-            time.sleep(backend.delay)
 
     save_posts(posts)
     print(f"\n完成 {done}/{len(batch)} 篇 | tokens: {tin:,} in / {tout:,} out")

@@ -38,6 +38,7 @@ def build_page(posts: list, health: dict) -> str:
         "source": p.get("source", ""),
         "author": p.get("author", ""),
         "lang": p.get("lang", "en"),
+        "type": p.get("type", "blog"),
         "published": p.get("published"),
         "when": relative_time(p.get("published")),
         "summary": (p.get("summary") or {}).get("summary_zh", ""),
@@ -50,6 +51,8 @@ def build_page(posts: list, health: dict) -> str:
     topics = sorted({t for p in payload for t in p["topics"]})
     broken = [n for n, r in health.items() if r.get("consecutive_failures", 0) >= 3]
     summarized = sum(1 for p in payload if p["summary"])
+    n_blog = sum(1 for p in payload if p["type"] == "blog")
+    n_talk = sum(1 for p in payload if p["type"] == "interview")
 
     data_json = json.dumps(payload, ensure_ascii=False)
     authors_json = json.dumps(authors, ensure_ascii=False)
@@ -102,6 +105,7 @@ article h2 a {{ color: var(--text); text-decoration: none; }}
 article h2 a:hover {{ color: var(--accent); text-decoration: underline; }}
 .meta {{ font-size: 0.82rem; color: var(--muted); margin-bottom: 12px; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }}
 .badge {{ background: var(--accent-soft); color: var(--accent); padding: 2px 9px; border-radius: 999px; font-size: 0.75rem; }}
+.badge-alt {{ background: transparent; border: 1px solid var(--accent); }}
 .summary {{ margin: 0 0 12px; }}
 ul.points {{ margin: 0 0 12px; padding-left: 20px; color: var(--muted); font-size: 0.92rem; }}
 ul.points li {{ margin-bottom: 4px; }}
@@ -117,12 +121,13 @@ footer a {{ color: var(--accent); }}
 <div class="wrap">
 <header>
   <h1>jz的分身</h1>
-  <p class="sub">商业分析阅读流 · 共 {len(payload)} 篇（{summarized} 篇已生成摘要）· 更新于 {updated}</p>
+  <p class="sub">行业大 V 的个人博客与深度访谈 · 博客 {n_blog} 篇 / 采访 {n_talk} 篇（{summarized} 篇已生成摘要）· 更新于 {updated}</p>
   {broken_note}
 </header>
 
 <div class="filters">
   <button class="chip" id="worthOnly" aria-pressed="false">只看值得读</button>
+  <select id="typeSel"><option value="">博客+采访</option><option value="blog">只看个人博客</option><option value="interview">只看采访</option></select>
   <select id="langSel"><option value="">全部语言</option><option value="zh">中文</option><option value="en">英文</option></select>
   <select id="authorSel"><option value="">全部作者</option></select>
   <select id="topicSel"><option value="">全部主题</option></select>
@@ -149,9 +154,11 @@ for (const t of TOPICS) $('topicSel').insertAdjacentHTML('beforeend', `<option v
 
 function render() {{
   const lang = $('langSel').value, author = $('authorSel').value, topic = $('topicSel').value;
+  const type = $('typeSel').value;
   const worthOnly = $('worthOnly').getAttribute('aria-pressed') === 'true';
 
   const rows = POSTS.filter(p =>
+    (!type || p.type === type) &&
     (!lang || p.lang === lang) &&
     (!author || p.author === author) &&
     (!topic || p.topics.includes(topic)) &&
@@ -168,6 +175,7 @@ function render() {{
       <h2><a href="${{esc(p.link)}}" target="_blank" rel="noopener">${{esc(p.title)}}</a></h2>
       <div class="meta">
         <span>${{esc(p.author)}}</span><span>·</span><span>${{esc(p.when)}}</span>
+        ${{p.type === 'interview' ? '<span class="badge badge-alt">采访</span>' : ''}}
         ${{p.worth === true ? '<span class="badge">值得读</span>' : ''}}
         ${{p.lang === 'en' ? '<span class="badge">EN</span>' : ''}}
       </div>
@@ -184,7 +192,7 @@ $('worthOnly').addEventListener('click', e => {{
   btn.setAttribute('aria-pressed', btn.getAttribute('aria-pressed') === 'true' ? 'false' : 'true');
   render();
 }});
-for (const id of ['langSel', 'authorSel', 'topicSel']) $(id).addEventListener('change', render);
+for (const id of ['typeSel', 'langSel', 'authorSel', 'topicSel']) $(id).addEventListener('change', render);
 render();
 </script>
 </body>
