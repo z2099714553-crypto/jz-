@@ -102,7 +102,7 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-14 16:27 UTC*
+*更新于 2026-09-14 16:42 UTC*
 
 **[🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs](https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers)**  
 `Lenny Rachitsky` · 1 小时前  
@@ -116,14 +116,23 @@ open docs/index.html
 **[Pacing the Frontier, AI’s Digital Limits, AI Commissars](https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/)**  
 `Ben Thompson` · 6 小时前  
 
+**[20VC: How LPs Allocate to Venture in 2026: What They Want, What They Do Not Want \| Why Fund Multiple Does Not Matter Without a Timeline \| Why Velocity of Cashback is the Most Important Thing with David Morehead, CIO @ Baylor](https://thetwentyminutevc.libsyn.com/20vc-how-lps-allocate-to-venture-in-2026-what-they-want-what-they-do-not-want-why-fund-multiple-does-not-matter-without-a-timeline-why-velocity-of-cashback-is-the-most-important-thing-with-david-morehead-cio-baylor)**  
+`Harry Stebbings` · 9 小时前  
+
 **[Is it the screens? Or education systems?](https://marginalrevolution.com/marginalrevolution/2026/09/is-it-the-screens-or-education-systems.html?utm_source=rss&utm_medium=rss&utm_campaign=is-it-the-screens-or-education-systems)**  
 `Tyler Cowen` · 9 小时前  
 
 **[Does AI assistance enhance or erode expertise?](https://marginalrevolution.com/marginalrevolution/2026/09/does-ai-assistance-enhance-or-erode-expertise.html?utm_source=rss&utm_medium=rss&utm_campaign=does-ai-assistance-enhance-or-erode-expertise)**  
 `Tyler Cowen` · 12 小时前  
 
+**[Home Depot](https://www.acquired.fm/episodes/home-depot)**  
+`Ben Gilbert & David Rosenthal` · 13 小时前  
+
+**[What Does Pacing Mean?](https://tomtunguz.com/what-does-the-pause-mean/)**  
+`Tomasz Tunguz` · 16 小时前  
+
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-578)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Diversity Is Our Strength?](https://marginalrevolution.com/marginalrevolution/2026/09/diversity-is-our-strength.html?utm_source=rss&utm_medium=rss&utm_campaign=diversity-is-our-strength)**  
 `Tyler Cowen` · 1 天前  
@@ -138,15 +147,6 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[Dario Calls for a Pause](https://marginalrevolution.com/marginalrevolution/2026/09/dario-calls-for-a-pause.html?utm_source=rss&utm_medium=rss&utm_campaign=dario-calls-for-a-pause)**  
-`Tyler Cowen` · 2 天前  
-
-**[UK fact of the day](https://marginalrevolution.com/marginalrevolution/2026/09/uk-fact-of-the-day-8.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-fact-of-the-day-8)**  
-`Tyler Cowen` · 2 天前  
-
-**[The Prediction Archive](https://marginalrevolution.com/marginalrevolution/2026/09/the-prediction-archive.html?utm_source=rss&utm_medium=rss&utm_campaign=the-prediction-archive)**  
-`Tyler Cowen` · 2 天前  
-
-**[Labor reallocation during the Industrial Revolution](https://marginalrevolution.com/marginalrevolution/2026/09/labor-reallocation-during-the-industrial-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=labor-reallocation-during-the-industrial-revolution)**  
 `Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->

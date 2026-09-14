@@ -1,35 +1,41 @@
 {
-  "generated_at": "2026-09-14T16:10:09Z",
+  "generated_at": "2026-09-14T16:42:37Z",
   "feeds": {
     "Stratechery": {
       "consecutive_failures": 0,
       "url": "https://stratechery.com/feed/",
       "lang": "en",
-      "last_checked": "2026-09-14T16:10:09Z",
+      "last_checked": "2026-09-14T16:42:37Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 10,
-      "last_success": "2026-09-14T16:10:09Z"
+      "last_success": "2026-09-14T16:42:37Z",
+      "type": "blog",
+      "apple_matched": null
     },
     "Benedict Evans": {
       "consecutive_failures": 0,
       "url": "https://www.ben-evans.com/benedictevans?format=rss",
       "lang": "en",
-      "last_checked": "2026-09-14T16:10:09Z",
+      "last_checked": "2026-09-14T16:42:37Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 1,
-      "last_success": "2026-09-14T16:10:09Z"
+      "last_success": "2026-09-14T16:42:37Z",
+      "type": "blog",
+      "apple_matched": null
     },
     "Not Boring": {
       "consecutive_failures": 0,
       "url": "https://www.notboring.co/feed",
       "lang": "en",
-      "last_checked": "2026-09-14T16:10:09Z",
+      "last_checked": "2026-09-14T16:42:37Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 10,
-      "last_success": "2026-09-14T16:10:09Z"
+      "last_success": "2026-09-14T16:42:37Z",
+      "type": "blog",
+      "apple_matched": null
     },
     "a16z": {
       "consecutive_failures": 2,
@@ -44,61 +50,73 @@
       "consecutive_failures": 0,
       "url": "https://www.lennysnewsletter.com/feed",
       "lang": "en",
-      "last_checked": "2026-09-14T16:10:09Z",
+      "last_checked": "2026-09-14T16:42:37Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 20,
-      "last_success": "2026-09-14T16:10:09Z"
+      "last_success": "2026-09-14T16:42:37Z",
+      "type": "interview",
+      "apple_matched": null
     },
     "Platformer": {
       "consecutive_failures": 0,
       "url": "https://www.platformer.news/rss/",
       "lang": "en",
-      "last_checked": "2026-09-14T16:10:09Z",
+      "last_checked": "2026-09-14T16:42:37Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 13,
-      "last_success": "2026-09-14T16:10:09Z"
+      "last_success": "2026-09-14T16:42:37Z",
+      "type": "blog",
+      "apple_matched": null
     },
     "The Generalist": {
       "consecutive_failures": 0,
       "url": "https://www.generalist.com/feed",
       "lang": "en",
-      "last_checked": "2026-09-14T16:10:09Z",
+      "last_checked": "2026-09-14T16:42:37Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 4,
-      "last_success": "2026-09-14T16:10:09Z"
+      "last_success": "2026-09-14T16:42:37Z",
+      "type": "blog",
+      "apple_matched": null
     },
     "Marginal Revolution": {
       "consecutive_failures": 0,
       "url": "https://marginalrevolution.com/feed",
       "lang": "en",
-      "last_checked": "2026-09-14T16:10:09Z",
+      "last_checked": "2026-09-14T16:42:37Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 15,
-      "last_success": "2026-09-14T16:10:09Z"
+      "last_success": "2026-09-14T16:42:37Z",
+      "type": "blog",
+      "apple_matched": null
     },
     "Tomasz Tunguz": {
       "consecutive_failures": 0,
       "url": "https://tomtunguz.com/index.xml",
       "lang": "en",
-      "last_checked": "2026-09-14T16:10:09Z",
+      "last_checked": "2026-09-14T16:42:37Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 2,
-      "last_success": "2026-09-14T16:10:09Z"
+      "last_success": "2026-09-14T16:42:37Z",
+      "type": "blog",
+      "apple_matched": null
     },
     "Andrew Chen": {
       "consecutive_failures": 0,
       "url": "https://andrewchen.com/feed/",
       "lang": "en",
-      "last_checked": "2026-09-14T16:10:09Z",
+      "last_checked": "2026-09-14T16:42:37Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 0,
-      "last_success": "2026-09-14T16:10:09Z"
+      "last_success": "2026-09-14T16:42:37Z",
+      "type": "blog",
+      "apple_matched": null
     },
     "First Round Review": {
       "consecutive_failures": 2,
@@ -113,41 +131,49 @@
       "consecutive_failures": 0,
       "url": "https://abovethecrowd.com/feed/",
       "lang": "en",
-      "last_checked": "2026-09-14T16:10:09Z",
+      "last_checked": "2026-09-14T16:42:37Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 0,
-      "last_success": "2026-09-14T16:10:09Z"
+      "last_success": "2026-09-14T16:42:37Z",
+      "type": "blog",
+      "apple_matched": null
     },
     "SemiAnalysis": {
       "consecutive_failures": 0,
       "url": "https://semianalysis.com/feed/",
       "lang": "en",
-      "last_checked": "2026-09-14T16:10:09Z",
+      "last_checked": "2026-09-14T16:42:37Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 0,
-      "last_success": "2026-09-14T16:10:09Z"
+      "last_success": "2026-09-14T16:42:37Z",
+      "type": "blog",
+      "apple_matched": null
     },
     "The Diff": {
       "consecutive_failures": 0,
       "url": "https://www.thediff.co/feed",
       "lang": "en",
-      "last_checked": "2026-09-14T16:10:09Z",
+      "last_checked": "2026-09-14T16:42:37Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 0,
-      "last_success": "2026-09-14T16:10:09Z"
+      "last_success": "2026-09-14T16:42:37Z",
+      "type": "blog",
+      "apple_matched": null
     },
     "Net Interest": {
       "consecutive_failures": 0,
       "url": "https://www.netinterest.co/feed",
       "lang": "en",
-      "last_checked": "2026-09-14T16:10:09Z",
+      "last_checked": "2026-09-14T16:42:37Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 6,
-      "last_success": "2026-09-14T16:10:09Z"
+      "last_success": "2026-09-14T16:42:37Z",
+      "type": "blog",
+      "apple_matched": null
     },
     "Every": {
       "consecutive_failures": 2,
@@ -171,21 +197,25 @@
       "consecutive_failures": 0,
       "url": "https://blog.eladgil.com/feed",
       "lang": "en",
-      "last_checked": "2026-09-14T16:10:09Z",
+      "last_checked": "2026-09-14T16:42:37Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 0,
-      "last_success": "2026-09-14T16:10:09Z"
+      "last_success": "2026-09-14T16:42:37Z",
+      "type": "blog",
+      "apple_matched": null
     },
     "阮一峰的网络日志": {
       "consecutive_failures": 0,
       "url": "https://www.ruanyifeng.com/blog/atom.xml",
       "lang": "zh",
-      "last_checked": "2026-09-14T16:10:09Z",
+      "last_checked": "2026-09-14T16:42:37Z",
       "last_status": "ok",
       "last_error": null,
       "entries_last_run": 3,
-      "last_success": "2026-09-14T16:10:09Z"
+      "last_success": "2026-09-14T16:42:37Z",
+      "type": "blog",
+      "apple_matched": null
     },
     "虎嗅": {
       "consecutive_failures": 2,
@@ -242,6 +272,125 @@
       "last_error": null,
       "entries_last_run": 30,
       "last_success": "2026-09-14T16:10:09Z"
+    },
+    "Dwarkesh Podcast": {
+      "consecutive_failures": 0,
+      "url": "https://www.dwarkesh.com/feed",
+      "type": "interview",
+      "lang": "en",
+      "apple_matched": null,
+      "last_checked": "2026-09-14T16:42:37Z",
+      "last_status": "ok",
+      "last_error": null,
+      "entries_last_run": 9,
+      "last_success": "2026-09-14T16:42:37Z"
+    },
+    "Conversations with Tyler": {
+      "consecutive_failures": 0,
+      "url": "https://rss.libsyn.com/shows/137081/destinations/850607.xml",
+      "type": "interview",
+      "lang": "en",
+      "apple_matched": "Conversations with Tyler",
+      "last_checked": "2026-09-14T16:42:37Z",
+      "last_status": "ok",
+      "last_error": null,
+      "entries_last_run": 5,
+      "last_success": "2026-09-14T16:42:37Z"
+    },
+    "Invest Like the Best": {
+      "consecutive_failures": 0,
+      "url": "https://www.spreaker.com/show/7309953/episodes/feed",
+      "type": "interview",
+      "lang": "en",
+      "apple_matched": "Invest Like The Best",
+      "last_checked": "2026-09-14T16:42:37Z",
+      "last_status": "ok",
+      "last_error": null,
+      "entries_last_run": 5,
+      "last_success": "2026-09-14T16:42:37Z"
+    },
+    "Acquired": {
+      "consecutive_failures": 0,
+      "url": "https://feeds.transistor.fm/acquired",
+      "type": "interview",
+      "lang": "en",
+      "apple_matched": "Acquired",
+      "last_checked": "2026-09-14T16:42:37Z",
+      "last_status": "ok",
+      "last_error": null,
+      "entries_last_run": 2,
+      "last_success": "2026-09-14T16:42:37Z"
+    },
+    "BG2Pod": {
+      "consecutive_failures": 0,
+      "url": "https://anchor.fm/s/f06c2370/podcast/rss",
+      "type": "interview",
+      "lang": "en",
+      "apple_matched": "BG2Pod with Brad Gerstner and Bill Gurley",
+      "last_checked": "2026-09-14T16:42:37Z",
+      "last_status": "ok",
+      "last_error": null,
+      "entries_last_run": 0,
+      "last_success": "2026-09-14T16:42:37Z"
+    },
+    "The Knowledge Project": {
+      "consecutive_failures": 0,
+      "url": "https://feeds.megaphone.fm/FSMI7575968096",
+      "type": "interview",
+      "lang": "en",
+      "apple_matched": "The Knowledge Project",
+      "last_checked": "2026-09-14T16:42:37Z",
+      "last_status": "ok",
+      "last_error": null,
+      "entries_last_run": 3,
+      "last_success": "2026-09-14T16:42:37Z"
+    },
+    "20VC": {
+      "consecutive_failures": 0,
+      "url": "https://rss.libsyn.com/shows/61840/destinations/240976.xml",
+      "type": "interview",
+      "lang": "en",
+      "apple_matched": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
+      "last_checked": "2026-09-14T16:42:37Z",
+      "last_status": "ok",
+      "last_error": null,
+      "entries_last_run": 20,
+      "last_success": "2026-09-14T16:42:37Z"
+    },
+    "张小珺商业访谈录": {
+      "consecutive_failures": 1,
+      "url": "https://feed.xyzfm.space/dk4yh3pkpjp3",
+      "type": "interview",
+      "lang": "zh",
+      "apple_matched": "张小珺Jùn｜商业访谈录",
+      "last_checked": "2026-09-14T16:42:37Z",
+      "last_status": "error",
+      "last_error": "HTTPError: 403 Client Error: Forbidden for url: https://feed.xyzfm.space/dk4yh3pkpjp3",
+      "entries_last_run": 0
+    },
+    "晚点聊 LateTalk": {
+      "consecutive_failures": 0,
+      "url": "https://feeds.fireside.fm/latetalk/rss",
+      "type": "interview",
+      "lang": "zh",
+      "apple_matched": "晚点聊 LateTalk",
+      "last_checked": "2026-09-14T16:42:37Z",
+      "last_status": "ok",
+      "last_error": null,
+      "entries_last_run": 4,
+      "last_success": "2026-09-14T16:42:37Z"
+    },
+    "硅谷101": {
+      "consecutive_failures": 0,
+      "url": "https://feeds.fireside.fm/sv101/rss",
+      "type": "interview",
+      "lang": "zh",
+      "apple_matched": "硅谷101",
+      "last_checked": "2026-09-14T16:42:37Z",
+      "last_status": "ok",
+      "last_error": null,
+      "entries_last_run": 5,
+      "last_success": "2026-09-14T16:42:37Z"
     }
   }
 }
