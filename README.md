@@ -112,34 +112,43 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-15 04:56 UTC*
+*更新于 2026-09-15 11:45 UTC*
 
-**[Did the ACA reduce mortality?](https://marginalrevolution.com/marginalrevolution/2026/09/did-the-aca-reduce-mortality.html?utm_source=rss&utm_medium=rss&utm_campaign=did-the-aca-reduce-mortality)**  
+**[The striking thing is how late the market moved](https://marginalrevolution.com/marginalrevolution/2026/09/the-striking-thing-is-how-late-the-market-moved.html?utm_source=rss&utm_medium=rss&utm_campaign=the-striking-thing-is-how-late-the-market-moved)**  
 `Tyler Cowen` · 刚刚  
 
+**[OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay](https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/)**  
+`Ben Thompson` · 1 小时前  
+
+**[Those new service sector jobs](https://marginalrevolution.com/marginalrevolution/2026/09/those-new-service-sector-jobs-17.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-17)**  
+`Tyler Cowen` · 4 小时前  
+
+**[Did the ACA reduce mortality?](https://marginalrevolution.com/marginalrevolution/2026/09/did-the-aca-reduce-mortality.html?utm_source=rss&utm_medium=rss&utm_campaign=did-the-aca-reduce-mortality)**  
+`Tyler Cowen` · 7 小时前  
+
 **[Following: The government doesn't want to regulate AI](https://www.platformer.news/trump-johnson-ai-safety-regulation/)**  
-`Casey Newton` · 4 小时前  
+`Casey Newton` · 11 小时前  
 
 **[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-577)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs](https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers)**  
-`Lenny Rachitsky` · 13 小时前  
+`Lenny Rachitsky` · 20 小时前  
 
 **[How Grok Bot designers use AI agents to build personal sites and product prototypes \| John Bai & Peng Zheng](https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents)**  
-`Lenny Rachitsky` · 16 小时前  
+`Lenny Rachitsky` · 23 小时前  
 
 **[AI, Redistribution, and the Size of the Pie](https://marginalrevolution.com/marginalrevolution/2026/09/ai-redistribution-and-the-size-of-the-pie.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-redistribution-and-the-size-of-the-pie)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Pacing the Frontier, AI’s Digital Limits, AI Commissars](https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/)**  
-`Ben Thompson` · 18 小时前  
+`Ben Thompson` · 1 天前  
 
 **[20VC: How LPs Allocate to Venture in 2026: What They Want, What They Do Not Want \| Why Fund Multiple Does Not Matter Without a Timeline \| Why Velocity of Cashback is the Most Important Thing with David Morehead, CIO @ Baylor](https://thetwentyminutevc.libsyn.com/20vc-how-lps-allocate-to-venture-in-2026-what-they-want-what-they-do-not-want-why-fund-multiple-does-not-matter-without-a-timeline-why-velocity-of-cashback-is-the-most-important-thing-with-david-morehead-cio-baylor)**  
-`Harry Stebbings` · 21 小时前  
+`Harry Stebbings` · 1 天前  
 
 **[Is it the screens? Or education systems?](https://marginalrevolution.com/marginalrevolution/2026/09/is-it-the-screens-or-education-systems.html?utm_source=rss&utm_medium=rss&utm_campaign=is-it-the-screens-or-education-systems)**  
-`Tyler Cowen` · 21 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Does AI assistance enhance or erode expertise?](https://marginalrevolution.com/marginalrevolution/2026/09/does-ai-assistance-enhance-or-erode-expertise.html?utm_source=rss&utm_medium=rss&utm_campaign=does-ai-assistance-enhance-or-erode-expertise)**  
 `Tyler Cowen` · 1 天前  
@@ -149,14 +158,5 @@ open docs/index.html
 
 **[What Does Pacing Mean?](https://tomtunguz.com/what-does-the-pause-mean/)**  
 `Tomasz Tunguz` · 1 天前  
-
-**[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-578)**  
-`Tyler Cowen` · 1 天前  
-
-**[Diversity Is Our Strength?](https://marginalrevolution.com/marginalrevolution/2026/09/diversity-is-our-strength.html?utm_source=rss&utm_medium=rss&utm_campaign=diversity-is-our-strength)**  
-`Tyler Cowen` · 1 天前  
-
-**[A simple model of AI-aided economic growth](https://marginalrevolution.com/marginalrevolution/2026/09/a-simple-model-of-ai-aided-economic-growth.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-model-of-ai-aided-economic-growth)**  
-`Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->

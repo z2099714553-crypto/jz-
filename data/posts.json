@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-09-15T04:56:32Z",
-  "count": 145,
+  "generated_at": "2026-09-15T11:45:35Z",
+  "count": 148,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/the-striking-thing-is-how-late-the-market-moved.html",
+      "title": "The striking thing is how late the market moved",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/the-striking-thing-is-how-late-the-market-moved.html?utm_source=rss&utm_medium=rss&utm_campaign=the-striking-thing-is-how-late-the-market-moved",
+      "published": "2026-09-15T11:18:36Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Here s the S&P 500 (daily close) with the key COVID and policy events marked; the numbered key is below the chart.\n\n Event key:\n\n Dec 31 – China reports the Wuhan pneumonia cluster to the WHO\n\n Jan 21 – First confirmed US case (Washington state)\n\n Jan 23 – Wuhan locked down\n\n Jan 30 – WHO declares a global health emergency (PHEIC)\n\n Feb 19 – S&P 500 all-time high, 3,386\n\n Feb 24 – Italy outbreak; first big US selloff\n\n Mar 3 – Fed emergency 50 bp cut\n\n Mar 11 – WHO declares pandemic; Europe travel ban; NBA suspends season\n\n Mar 13 – US national emergency declared\n\n Mar 15–16 – Fed cuts to zero and restarts QE; worst day since 1987 (−12%)\n\n Mar 23 – Fed announces unlimited QE; market bottom at 2,237\n\n Mar 27 – CARES Act signed\n\n Apr 2 – 6.6 million initial jobless claims in one week\n\n Apr 20 – WTI oil futures settle below zero\n\n May 8 – April jobs report: 20.5 million jobs lost, 14.7% unemployment\n\n The striking thing is how late the market moved. Wuhan was locked down and the WHO had declared an emergency a full month before the peak. The 34% drawdown then took 23 trading days, and the bottom coincided with the Fed s unlimited-QE announcement rather than with any turn in the epidemiological news, which was still getting worse through April.\n\n Addendum : Mostly from a query to Claude. You may fill in the missing context.\n\n The post The striking thing is how late the market moved appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-15T11:45:20Z"
+    },
+    {
+      "id": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay",
+      "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
+      "link": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
+      "published": "2026-09-15T10:00:00Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "ChatGPT ads are working, and solve Amazon's biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard.",
+      "fetched_at": "2026-09-15T11:45:20Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/those-new-service-sector-jobs-17.html",
+      "title": "Those new service sector jobs",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/those-new-service-sector-jobs-17.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-17",
+      "published": "2026-09-15T07:33:49Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Horwitz is in the business of playing a version of mom for local college students. Concierge companies offering student support have existed for decades. But in recent years, a new crop of upstarts — such as Horwitz’s company, MindyKnows; the Bama Mama in Alabama; the GA Mom in Georgia; and Campus Mom in Texas — have met additional demand from a new generation of worried parents \n\n The specific services vary here and there, but share commonalities. Campus Mom offers “holistic wellness check-ins,” laundry services and sorority recruitment support packages, sent to the sisters to up a child’s odds of acceptance. Carrie Eckhardt, the Bama Mama, will clean students’ dorm rooms and check in if parents haven’t heard from their child in a few days (“just pop in and say hi, and take a picture and send it to their mom”) \n\n Horwitz, for her part, brings students balloons on their birthdays and chicken soup when they’re sick, sits with them in the emergency room and picks up their prescriptions if they’re busy. She bakes homemade challah, coordinates with the bedbug exterminator, texts photos and updates to faraway parents and doles out recommendations on the best local doctors and landlords.\n\n Here is more from Kristy Alpert at the NYT .\n\n The post Those new service sector jobs appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-15T11:45:20Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/09/did-the-aca-reduce-mortality.html",
       "title": "Did the ACA reduce mortality?",
