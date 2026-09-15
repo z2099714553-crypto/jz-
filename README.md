@@ -112,31 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-15 11:45 UTC*
+*更新于 2026-09-15 17:00 UTC*
 
-**[The striking thing is how late the market moved](https://marginalrevolution.com/marginalrevolution/2026/09/the-striking-thing-is-how-late-the-market-moved.html?utm_source=rss&utm_medium=rss&utm_campaign=the-striking-thing-is-how-late-the-market-moved)**  
+**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-586)**  
 `Tyler Cowen` · 刚刚  
 
+**[60+ new creative growth ideas](https://www.lennysnewsletter.com/p/60-creative-growth-ideas)**  
+`Lenny Rachitsky` · 4 小时前  
+
+**[The striking thing is how late the market moved](https://marginalrevolution.com/marginalrevolution/2026/09/the-striking-thing-is-how-late-the-market-moved.html?utm_source=rss&utm_medium=rss&utm_campaign=the-striking-thing-is-how-late-the-market-moved)**  
+`Tyler Cowen` · 5 小时前  
+
 **[OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay](https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/)**  
-`Ben Thompson` · 1 小时前  
+`Ben Thompson` · 7 小时前  
 
 **[Those new service sector jobs](https://marginalrevolution.com/marginalrevolution/2026/09/those-new-service-sector-jobs-17.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-17)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 9 小时前  
 
 **[Did the ACA reduce mortality?](https://marginalrevolution.com/marginalrevolution/2026/09/did-the-aca-reduce-mortality.html?utm_source=rss&utm_medium=rss&utm_campaign=did-the-aca-reduce-mortality)**  
-`Tyler Cowen` · 7 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[Following: The government doesn't want to regulate AI](https://www.platformer.news/trump-johnson-ai-safety-regulation/)**  
-`Casey Newton` · 11 小时前  
+`Casey Newton` · 16 小时前  
 
 **[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-577)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs](https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers)**  
-`Lenny Rachitsky` · 20 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[How Grok Bot designers use AI agents to build personal sites and product prototypes \| John Bai & Peng Zheng](https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents)**  
-`Lenny Rachitsky` · 23 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[AI, Redistribution, and the Size of the Pie](https://marginalrevolution.com/marginalrevolution/2026/09/ai-redistribution-and-the-size-of-the-pie.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-redistribution-and-the-size-of-the-pie)**  
 `Tyler Cowen` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[Does AI assistance enhance or erode expertise?](https://marginalrevolution.com/marginalrevolution/2026/09/does-ai-assistance-enhance-or-erode-expertise.html?utm_source=rss&utm_medium=rss&utm_campaign=does-ai-assistance-enhance-or-erode-expertise)**  
 `Tyler Cowen` · 1 天前  
-
-**[The Home Depot](https://www.acquired.fm/episodes/home-depot)**  
-`Ben Gilbert & David Rosenthal` · 1 天前  
-
-**[What Does Pacing Mean?](https://tomtunguz.com/what-does-the-pause-mean/)**  
-`Tomasz Tunguz` · 1 天前  
 
 <!-- POSTS:END -->
