@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-09-15T17:00:18Z",
-  "count": 150,
+  "generated_at": "2026-09-15T21:22:05Z",
+  "count": 152,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/callum-williams-on-cybersecurity-prices.html",
+      "title": "Callum Williams on cybersecurity prices",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/callum-williams-on-cybersecurity-prices.html?utm_source=rss&utm_medium=rss&utm_campaign=callum-williams-on-cybersecurity-prices",
+      "published": "2026-09-15T18:40:18Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Share prices of cyber firms have jumped around a lot in recent weeks, leading one side or the other to claim victory. But the crucial point is that, relative to the historical norm, the market is not really pricing ANYTHING big to change. There was a much bigger move in cyber stocks in both 2020-22 (up) and 2022-23 (down) but no one read AI x-risk into this.\n \n Here is the full post with graph .\n\n Hardly the final word, and I am myself more pessimistic than those numbers indicate. But at least with this we are getting somewhere concrete and scientific rather than just scare stories. As for meta-commentary on the discourse itself, you really should be asking who are the people insisting on data here, and who are the people trying to talk you away from focusing on the data so much.\n\n The post Callum Williams on cybersecurity prices appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-15T21:21:49Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-586.html",
       "title": "Tuesday assorted links",
@@ -114,6 +130,22 @@
       "type": "blog",
       "raw_text": "The leaders of AI labs agree that the United States to act, and soon. But the president and the speaker of the House aren't interested",
       "fetched_at": "2026-09-15T04:56:18Z"
+    },
+    {
+      "id": "https://tomtunguz.com/single-digit-thousand-dollar-ai-sdr",
+      "title": "Single Digit Thousand Dollar AI SDR",
+      "link": "https://tomtunguz.com/single-digit-thousand-dollar-ai-sdr/",
+      "published": "2026-09-15T00:00:00Z",
+      "source": "Tomasz Tunguz",
+      "author": "Tomasz Tunguz",
+      "lang": "en",
+      "tags": [
+        "SaaS",
+        "数据分析"
+      ],
+      "type": "blog",
+      "raw_text": "Vercel took its inbound sales development team from 10 people to 1.25.\n\n Jeanne DeWitt Grosser , COO of Vercel, shared this on our Information interview together 1 :\n\n &ldquo;We had 90% automation of sales development for inbound. And our support agent that we&rsquo;ve home-built handles 93% of all support cases…\n\n In both of those cases, the total annual infrastructure bill is in the single-digit thousands…\n\n Our sales development agent is a 32x ROI. So it&rsquo;s worth it, no matter how much that model costs…\n\n There are many ways in which we&rsquo;re now getting AI to sort of be a 99th percentile performer 99% of the time.&rdquo;\n\n Sales development was one of the immediate use cases for AI in the early days.\n\n Like self-driving cars, the promise arrived & fulfillment required a bit more time until the Waymo could navigate the streets of the Inner Sunset. It&rsquo;s a coincidence that Waymos reduce pedestrian collisions by 92%, nearly identical to the figures above 2 .\n\n Today, AI is in a place where the original promises have now been kept.\n\n On Wednesday, September 16th at 9:30 AM PT, Theory Office Hours welcomes Jeanne DeWitt Grosser of Vercel to talk about what happens to the sales development function when the inbound agent manages leads itself. If you&rsquo;d like to attend, please register here .\n\n Jeanne DeWitt Grosser on The Information&rsquo;s TITV . Detail on the 10→1.25 compression from SaaStrAI&rsquo;s coverage of the same session . \n\n Waymo, New Study: Waymo is reducing serious crashes and making streets safer for those most at risk , May 1 2025. The study reports a 92% reduction in injury-involving pedestrian crashes, with 82% for cyclists & motorcyclists.",
+      "fetched_at": "2026-09-15T21:21:49Z"
     },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-577.html",
@@ -256,7 +288,7 @@
         "商业分析"
       ],
       "type": "interview",
-      "raw_text": "The Home Depot's founding story is like an Avengers movie… if the Avengers got fired, went broke, and stacked empty paint cans ten feet high to look legitimate. After being unceremoniously fired from their previous hardware chain at ages 48 and 35, Bernie Marcus and Arthur Blank took the words of their New York banker Ken Langone (who had also just accidentally caused their firings) to heart: they'd just been \"kicked in the ass with a golden horseshoe.” They proceeded to author the greatest compounding story in American retail history, helped by some legendary cameos along the way from Sol Price, Jamie Dimon, and Ross Perot (to name a few). And the ending is as good as any superhero film: from its 1981 IPO to today, Home Depot has been the single highest-returning equity in the entire US stock market — higher than Apple, Microsoft, Berkshire Hathaway, and everything else!\n Sponsors: \n Many thanks to our fantastic Fall '26 Season partners:\n Sierra \n WorkOS \n Anthropic \n Sentry \n Links: \n Sign up for email updates , get our takeaways and research photos from each episode, and vote on future topics!\n The Official Acquired Meetup on Sept 17th with our friends at Sentry. Join us! \n The Acquired Home Depot Companion PDF \n Our Visual Artifacts page for Home Depot \n Built from Scratch by Bernie Marcus and Arthur Blank \n Kick Up Some Dust by Bernie Marcus \n The Board Wore Chicken Suits by Joe Nocera, The New York Times \n Frank Blake on Invest Like the Best \n Ken Langone's interview with Arvind Navaratnam \n Worldly Partners' Multi-Decade Home Depot Study \n All episode sources \n Carve Outs: \n Silo Season 3 \n Tires Season 3 \n Ratio 8 Coffee Maker \n Trade Coffee \n Quarterback \n Comedian \n More Acquired: \n Get email updates and vote on future episodes!\n Join the Slack \n Check out the latest swag in the ACQ Merch Store !\n 00:00:00 Start\n00:00:43 Intro\n00:05:32 Bernie Marcus's Early Career and meeting Arthur Blank (1972)\n00:15:58 Ken Langone & Handy Dan (1970s)\n00:33:08 Ken Buys Handy Dan, Bernie & Arthur Fired\n00:43:55 Ross Perot Almost Buys Home Depot\n00:51:20 Pat Farrah & The HomeCo Interlude\n01:05:03 First Stores & Early Model (1979)\n01:14:16 Home Depot Goes Public & Expands (1981)\n01:24:35 Home Depot's Unique Operating System\n01:46:01 Arthur Blank Takes CEO & Early Cracks (1997)\n01:56:07 The Bob Nardelli Era (2000-2007)\n02:12:09 Nardelli's Public Downfall & Firing (2006-2007)\n02:24:24 Frank Blake's Turnaround: Crisis & Culture (2007)\n02:42:30 E-commerce & Distribution Revolution\n02:59:57 Home Depot Today: Pro & DIY (2024)\n03:12:04 Analysis: The Paradox of Specialness\n03:16:18 7 Powers: Home Depot's Competitive Advantages\n03:19:17 Quintessence: Why It Got So Big\n03:26:27 Carve-Outs + Outro\n ‍Note: Acquired hosts and guests may hold assets discussed in this episode. This podcast is not investment advice, and is intended for informational and entertainment purposes only. You should do your own research and make your own independent decisions when considering any financial transactions.",
+      "raw_text": "The Home Depot's founding story is like an Avengers movie… if the Avengers got fired, went broke, and stacked empty paint cans ten feet high to look legitimate. After being unceremoniously fired from their previous hardware chain at ages 48 and 35, Bernie Marcus and Arthur Blank took the words of their New York banker Ken Langone (who had also just accidentally caused their firings) to heart: they'd just been \"kicked in the ass with a golden horseshoe.” They proceeded to author the greatest compounding story in American retail history, helped by some legendary cameos along the way from Sol Price, Jamie Dimon, and Ross Perot (to name a few). And the ending is as good as any superhero film: from its 1981 IPO to today, The Home Depot has been the single highest-returning equity in the entire US stock market — higher than Apple, Microsoft, Berkshire Hathaway, and everything else!\n Sponsors: \n Many thanks to our fantastic Fall '26 Season partners:\n Sierra \n WorkOS \n Anthropic \n Sentry \n Links: \n Sign up for email updates , get our takeaways and research photos from each episode, and vote on future topics!\n The Official Acquired Meetup on Sept 17th with our friends at Sentry. Join us! \n The Acquired Home Depot Companion PDF \n Our Visual Artifacts page for Home Depot \n Built from Scratch by Bernie Marcus and Arthur Blank \n Kick Up Some Dust by Bernie Marcus \n The Board Wore Chicken Suits by Joe Nocera, The New York Times \n Frank Blake on Invest Like the Best \n Ken Langone's interview with Arvind Navaratnam \n Worldly Partners' Multi-Decade Home Depot Study \n All episode sources \n Carve Outs: \n Silo Season 3 \n Tires Season 3 \n Ratio 8 Coffee Maker \n Trade Coffee \n Quarterback \n Comedian \n More Acquired: \n Get email updates and vote on future episodes!\n Join the Slack \n Check out the latest swag in the ACQ Merch Store !\n 00:00:00 Start\n00:00:43 Intro\n00:05:32 Bernie Marcus's Early Career and meeting Arthur Blank (1972)\n00:15:58 Ken Langone & Handy Dan (1970s)\n00:33:08 Ken Buys Handy Dan, Bernie & Arthur Fired\n00:43:55 Ross Perot Almost Buys Home Depot\n00:51:20 Pat Farrah & The HomeCo Interlude\n01:05:03 First Stores & Early Model (1979)\n01:14:16 Home Depot Goes Public & Expands (1981)\n01:24:35 Home Depot's Unique Operating System\n01:46:01 Arthur Blank Takes CEO & Early Cracks (1997)\n01:56:07 The Bob Nardelli Era (2000-2007)\n02:12:09 Nardelli's Public Downfall & Firing (2006-2007)\n02:24:24 Frank Blake's Turnaround: Crisis & Culture (2007)\n02:42:30 E-commerce & Distribution Revolution\n02:59:57 Home Depot Today: Pro & DIY (2024)\n03:12:04 Analysis: The Paradox of Specialness\n03:16:18 7 Powers: Home Depot's Competitive Advantages\n03:19:17 Quintessence: Why It Got So Big\n03:26:27 Carve-Outs + Outro\n ‍Note: Acquired hosts and guests may hold assets discussed in this episode. This podcast is not investment advice, and is intended for informational and entertainment purposes only. You should do your own research and make your own independent decisions when considering any financial transactions.",
       "fetched_at": "2026-09-14T16:42:28Z"
     },
     {
