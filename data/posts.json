@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-09-14T21:50:36Z",
-  "count": 143,
+  "generated_at": "2026-09-15T04:56:32Z",
+  "count": 145,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/did-the-aca-reduce-mortality.html",
+      "title": "Did the ACA reduce mortality?",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/did-the-aca-reduce-mortality.html?utm_source=rss&utm_medium=rss&utm_campaign=did-the-aca-reduce-mortality",
+      "published": "2026-09-15T04:30:10Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Many of us brought up related points at the time, but basically we were booed off the reservation:\n\n While recent research has provided evidence that the Medicaid expansions of the Affordable Care Act (ACA) reduced mortality, there is no evidence on the effect of the Affordable Care Act (ACA) net of the Medicaid expansions on mortality. This is an important gap in knowledge because the ACA significantly increased health insurance coverage in non-expansion states. In this article, we exploit the large increase in health insurance coverage brought forth by the ACA to examine the effect of the ACA and Medicaid expansions on mortality. Unlike prior studies that relied solely on geographic variation in Medicaid expansions to estimate the net effect of the expansion, we use a novel empirical approach that allows us to investigate the effect of the ACA net of Medicaid expansion on mortality, the incremental effect of the Medicaid expansion, and the overall effect of the ACA including Medicaid expansion. We use longitudinal data from the NHIS Linked Mortality Files (LMF) and a nationally representative sample of 40 to 58-year-olds combined with a difference-in-differences and a difference-in-differences-in-differences research design to obtain estimates of the effect of the ACA on mortality. We find no evidence that the Medicaid expansions had a beneficial effect on mortality but do find that the ACA net of Medicaid expansion reduced mortality.\n \n That is from a new NBER working paper by Anuj Gangopadhyaya , Cuiping Schiman & Robert Kaestner . Via Glenn Mercer. \n\n The post Did the ACA reduce mortality? appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-15T04:56:17Z"
+    },
+    {
+      "id": "https://www.platformer.news/trump-johnson-ai-safety-regulation",
+      "title": "Following: The government doesn't want to regulate AI",
+      "link": "https://www.platformer.news/trump-johnson-ai-safety-regulation/",
+      "published": "2026-09-15T00:30:47Z",
+      "source": "Platformer",
+      "author": "Casey Newton",
+      "lang": "en",
+      "tags": [
+        "平台经济",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "The leaders of AI labs agree that the United States to act, and soon. But the president and the speaker of the House aren't interested",
+      "fetched_at": "2026-09-15T04:56:18Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-577.html",
       "title": "Monday assorted links",
