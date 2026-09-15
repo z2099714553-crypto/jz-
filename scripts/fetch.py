@@ -21,6 +21,8 @@ from common import (
 )
 
 BACKFILL_DAYS = env_int("BACKFILL_DAYS", 45)
+# 超过这个天数的文章从库里清掉,否则 posts.json 会无限增长
+RETENTION_DAYS = env_int("RETENTION_DAYS", 90)
 TIMEOUT = env_int("FETCH_TIMEOUT", 25)
 WORKERS = env_int("FETCH_WORKERS", 8)
 MAX_ENTRIES_PER_FEED = env_int("MAX_ENTRIES_PER_FEED", 30)
@@ -198,6 +200,15 @@ def main() -> int:
                 if len(post["raw_text"]) > len(prior.get("raw_text", "")):
                     prior["raw_text"] = post["raw_text"]
 
+    # 过期清理:没有发布时间的按抓取时间算,否则这类文章会永远留着
+    cutoff = iso(now_utc() - timedelta(days=RETENTION_DAYS))
+    expired = [
+        pid for pid, post in existing.items()
+        if (post.get("published") or post.get("fetched_at") or "") < cutoff
+    ]
+    for pid in expired:
+        del existing[pid]
+
     save_posts(list(existing.values()))
 
     # 健康度:连续失败次数攒着,方便判断某个源是彻底死了还是偶发
@@ -229,6 +240,8 @@ def main() -> int:
           f" ({time.monotonic() - started:.1f}s)")
     if stale:
         print(f"清理 {len(stale)} 篇来自已停用源的旧文章")
+    if expired:
+        print(f"清理 {len(expired)} 篇超过 {RETENTION_DAYS} 天的过期文章")
     if broken:
         print(f"[warn] 连续失败 3 次以上的源: {', '.join(broken)}")
     return 0
