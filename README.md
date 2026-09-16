@@ -112,37 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-16 16:56 UTC*
+*更新于 2026-09-16 21:19 UTC*
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-571)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 4 小时前  
 
 **[Very good news](https://marginalrevolution.com/marginalrevolution/2026/09/very-good-news.html?utm_source=rss&utm_medium=rss&utm_campaign=very-good-news)**  
-`Tyler Cowen` · 3 小时前  
+`Tyler Cowen` · 8 小时前  
 
 **[Muse review: The personal AI agent that gets consumer UX right](https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent)**  
-`Lenny Rachitsky` · 4 小时前  
+`Lenny Rachitsky` · 9 小时前  
 
 **[What Regulatory Capture Actually Looks Like](https://marginalrevolution.com/marginalrevolution/2026/09/what-regulatory-capture-actually-looks-like.html?utm_source=rss&utm_medium=rss&utm_campaign=what-regulatory-capture-actually-looks-like)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 10 小时前  
 
 **[Annie Lowrey on the Time Tax, Fraud, and Rationing by Paperwork](https://cowenconvos.libsyn.com/annie-lowrey-on-the-time-tax-fraud-and-rationing-by-paperwork)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 10 小时前  
 
 **[Salesforce AI Force, Agents as UI, The Race to Headless](https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/)**  
-`Ben Thompson` · 6 小时前  
+`Ben Thompson` · 11 小时前  
 
 **[The economics of cyber risk](https://marginalrevolution.com/marginalrevolution/2026/09/the-economics-of-cyber-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-cyber-risk)**  
-`Tyler Cowen` · 9 小时前  
+`Tyler Cowen` · 13 小时前  
 
 **[When discussing AI policy, start with China](https://marginalrevolution.com/marginalrevolution/2026/09/when-discussing-ai-policy-start-with-china.html?utm_source=rss&utm_medium=rss&utm_campaign=when-discussing-ai-policy-start-with-china)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学](https://sv101.fireside.fm/264)**  
-`陈茜` · 16 小时前  
+`陈茜` · 21 小时前  
 
 **[Callum Williams on cybersecurity prices](https://marginalrevolution.com/marginalrevolution/2026/09/callum-williams-on-cybersecurity-prices.html?utm_source=rss&utm_medium=rss&utm_campaign=callum-williams-on-cybersecurity-prices)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-586)**  
 `Tyler Cowen` · 1 天前  
