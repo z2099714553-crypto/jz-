@@ -112,34 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-15 21:22 UTC*
+*更新于 2026-09-16 04:50 UTC*
+
+**[E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学](https://sv101.fireside.fm/264)**  
+`陈茜` · 4 小时前  
 
 **[Callum Williams on cybersecurity prices](https://marginalrevolution.com/marginalrevolution/2026/09/callum-williams-on-cybersecurity-prices.html?utm_source=rss&utm_medium=rss&utm_campaign=callum-williams-on-cybersecurity-prices)**  
-`Tyler Cowen` · 2 小时前  
-
-**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-586)**  
-`Tyler Cowen` · 5 小时前  
-
-**[60+ new creative growth ideas](https://www.lennysnewsletter.com/p/60-creative-growth-ideas)**  
-`Lenny Rachitsky` · 8 小时前  
-
-**[The striking thing is how late the market moved](https://marginalrevolution.com/marginalrevolution/2026/09/the-striking-thing-is-how-late-the-market-moved.html?utm_source=rss&utm_medium=rss&utm_campaign=the-striking-thing-is-how-late-the-market-moved)**  
 `Tyler Cowen` · 10 小时前  
 
+**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-586)**  
+`Tyler Cowen` · 12 小时前  
+
+**[60+ new creative growth ideas](https://www.lennysnewsletter.com/p/60-creative-growth-ideas)**  
+`Lenny Rachitsky` · 16 小时前  
+
+**[The striking thing is how late the market moved](https://marginalrevolution.com/marginalrevolution/2026/09/the-striking-thing-is-how-late-the-market-moved.html?utm_source=rss&utm_medium=rss&utm_campaign=the-striking-thing-is-how-late-the-market-moved)**  
+`Tyler Cowen` · 17 小时前  
+
 **[OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay](https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/)**  
-`Ben Thompson` · 11 小时前  
+`Ben Thompson` · 18 小时前  
 
 **[Those new service sector jobs](https://marginalrevolution.com/marginalrevolution/2026/09/those-new-service-sector-jobs-17.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-17)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 21 小时前  
 
 **[Did the ACA reduce mortality?](https://marginalrevolution.com/marginalrevolution/2026/09/did-the-aca-reduce-mortality.html?utm_source=rss&utm_medium=rss&utm_campaign=did-the-aca-reduce-mortality)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Following: The government doesn't want to regulate AI](https://www.platformer.news/trump-johnson-ai-safety-regulation/)**  
-`Casey Newton` · 20 小时前  
+`Casey Newton` · 1 天前  
 
-**[Single Digit Thousand Dollar AI SDR](https://tomtunguz.com/single-digit-thousand-dollar-ai-sdr/)**  
-`Tomasz Tunguz` · 21 小时前  
+**[When Inbound Sells Itself](https://tomtunguz.com/single-digit-thousand-dollar-ai-sdr/)**  
+`Tomasz Tunguz` · 1 天前  
 
 **[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-577)**  
 `Tyler Cowen` · 1 天前  
@@ -155,8 +158,5 @@ open docs/index.html
 
 **[Pacing the Frontier, AI’s Digital Limits, AI Commissars](https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/)**  
 `Ben Thompson` · 1 天前  
-
-**[20VC: How LPs Allocate to Venture in 2026: What They Want, What They Do Not Want \| Why Fund Multiple Does Not Matter Without a Timeline \| Why Velocity of Cashback is the Most Important Thing with David Morehead, CIO @ Baylor](https://thetwentyminutevc.libsyn.com/20vc-how-lps-allocate-to-venture-in-2026-what-they-want-what-they-do-not-want-why-fund-multiple-does-not-matter-without-a-timeline-why-velocity-of-cashback-is-the-most-important-thing-with-david-morehead-cio-baylor)**  
-`Harry Stebbings` · 1 天前  
 
 <!-- POSTS:END -->
