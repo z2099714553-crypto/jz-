@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-09-16T04:50:42Z",
-  "count": 153,
+  "generated_at": "2026-09-16T11:36:01Z",
+  "count": 158,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/what-regulatory-capture-actually-looks-like.html",
+      "title": "What Regulatory Capture Actually Looks Like",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/what-regulatory-capture-actually-looks-like.html?utm_source=rss&utm_medium=rss&utm_campaign=what-regulatory-capture-actually-looks-like",
+      "published": "2026-09-16T11:16:50Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "It s amazing how a theory can take over a brain. Consider the idea that people believe what serves their interests. As heuristics go, it s a good one. I use it all the time. Yet when Dario Amodei says AI is dangerous, perhaps even an extinction risk, some people conclude he must be running a marketing campaign. That is stupid. Which is more likely, that a useful heuristic sometimes misfires or that our product might kill you is a clever way to sell it? Death threats are a poor marketing strategy.\n\n We also have plenty of evidence that the fears of AI experts are sincere. Amodei , Altman and Musk were all publicly warning about AI risk long before they had AI companies to promote. The worry runs well beyond the executive suite ; rank and file researchers share it. And it extends outside the industry altogether, to computer scientists with no product to sell, among them Nobel laureate Geoffrey Hinton . Hinton left a high-paying job at Google precisely so he could speak out and Hinton is not in a Berkeley polycule with Eliezer Yudkowsky, at least as far as I know. Whatever else you may say about the belief that AI presents a serious risk, plenty of AI researchers believe it sincerely.\n\n Similarly, when Amodei recently proposed to slow the pace and install independent safety teams at AI companies many people jumped to the conclusion that this was regulatory capture. Sorry, but no, that theory doesn t make sense. To see why, we should review the theory of regulatory capture.\n\n Regulatory capture came out of the political science literature especially Marver Bernstein s 1955 classic, Regulating Business by Independent Commission . Bernstein argues for a regulatory life cycle: Gestation, Youth, Maturity, Old Age. A scandal brings a bureaucracy into existence—or gives an existing one new powers. The public’s attention, like Sauron’s eye, fixes on the issue of the day: something must be done. The thalidomide scandal, for example, helped establish the modern FDA.\n\n Gestation gives way to a youthful burst of reform and the do-gooders come to Washington ready to battle the industry. Inevitably, however, the public’s eye looks elsewhere. But the industry never looks away. It lobbies Congress, hires former regulators, trains future ones, and supplies much of the information the agency needs. As the agency matures, accommodation replaces confrontation. By old age, the regulator has become the industry’s protector. The classic example is the ICC, created to regulate the railroads but it eventually came to shield them from competition from the trucking industry.\n\n Notice that classic regulatory capture takes time, it s a process of erosion rather than a battle, it happens in the shadows, in the backrooms, away from the public s eye. As Culpepper argues in Quiet Politics and Business Power , business power goes down as political salience goes up. Regulatory capture and lobbying does a good job explaining why roasting coffee beans was defined as domestic manufacturing , thereby lowering Starbuck s tax rate by 2%. It does less well at explaining big cross-industry issues the public cares about such as environmental regulation or race and gender discrimination regulation . Finally, don t confuse capture with firms making the best of a bad situation. Philip Morris supported the 2009 Tobacco Control Act not because FDA regulation was Philip Morris s unconstrained ideal but because it knew regulation was coming and it wanted a seat at the table to nudge the rules in its favor. That s ordinary political bargaining—or rent-seeking—not evidence that the regulator has been captured.\n\n Now let s evaluate Amodei s call for regulation in light of regulatory capture theory. AI regulation is in gestation. Public attention is fixed on the industry, and much of that attention is hostile. The big profits in AI lie in automating work, and job loss is a much more salient fear than extinction. AI politics is now loud precisely the environment in which Culpepper predicts business power will be weakest. A mature industry can bend regulation to its purposes through revolving doors, longstanding relationships and obscure rulemaking. An industry under Sauron s eye has much less power and faces much greater risk that politics will bend regulation to its purposes. Political actors are eager for an excuse to redistribute AI rents away from capitalists and toward favored groups ( ala Peltzman ).\n\n Regulation will reduce AI profits. That doesn t prove that every rule Amodei favors is innocent of self-interest, an absurd proposition. I suspect that Amodei s ideal may be something like a single regulated AI monopoly—safe and reasonable profitable, like the old AT&T. But that s not the profit maximizing outcome. If transformative AI can capture even a fraction of the enormous labor market the world s biggest market laissez-faire would mean vastly greater profits. Amodei may simply prefer a smaller fortune and a safer world. That is perfectly consistent with self-interest playing a role; it is not consistent with the bastardized theory that profit maximization is the only thing that matters or that capture is universal.\n\n Go ahead: argue that Amodei and other AI experts are wrong about AI risk. Ask whether his proposals favor Anthropic. But calling “our product might kill you” a clever marketing and regulatory-capture strategy isn’t sophisticated analysis. The facts don t fit regulatory capture theory and trying to make them fit requires epistemically painful Ptolemaic epicycles. Even a dull Ockham’s razor cuts through that story to the obvious alternative: Amodei actually believes what he’s saying. \n\n The post What Regulatory Capture Actually Looks Like appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-16T11:35:51Z"
+    },
+    {
+      "id": "https://cowenconvos.libsyn.com/annie-lowrey-on-the-time-tax-fraud-and-rationing-by-paperwork",
+      "title": "Annie Lowrey on the Time Tax, Fraud, and Rationing by Paperwork",
+      "link": "https://cowenconvos.libsyn.com/annie-lowrey-on-the-time-tax-fraud-and-rationing-by-paperwork",
+      "published": "2026-09-16T11:06:00Z",
+      "source": "Conversations with Tyler",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "深度访谈",
+        "经济学"
+      ],
+      "type": "interview",
+      "raw_text": "Annie Lowrey's new book, The Time Tax , argues that the most regressive levy in American life is the hours each of us must spend on hold, in waiting rooms, and filling out forms a competent state would have pre-filled — roughly fifty a year on average, and far more if you're poor. Tyler spends much of this conversation pressing the opposite case, asking whether that bureaucracy is quietly serving a useful purpose by rationing knee surgeries that don't work, deterring fraud, or screening for immigrants with gumption.\n So Tyler and Annie hash it out over an hour, covering why TANF and other welfare programs are the worst offenders, the political economy of submerged benefits like the child tax credit, whether the postal service should be zeroed out over ten years the way Denmark did, whether the government should be nudging people out of rural areas, lessons from the COVID unemployment fraud, areas where the time tax is flat instead of regressive, which private sector time taxes are most onerous, whether AI agents will pay these taxes for us within five years, the logic of easy benefits plus randomized harsh audits, the case for less federalism, whether voting should be easier or harder, how the UBI studies changed her priors, where you can find the best moss in the world, her favorite example of Brutalist architecture, tattoos as permanent ephemera, Christianity's role in liberalism and the post-Christian right, how reporting beats tourism, the time tax of friendship, what she'll learn next, and more.\n Read a transcript enhanced with helpful links, or watch the full video on YouTube.\n Recorded September 1st, 2026.\n Other ways to connect\n Follow us on X and Instagram \n Follow Tyler on X\n Follow Annie on X\n Sign up for our newsletter \n Join our Discord \n Email us: cowenconvos@mercatus.gmu.edu \n Learn more about Conversations with Tyler and other Mercatus Center podcasts here .\n Timestamps:\n 00:00:00 - Intro\n 00:00:58 - On taxing our time\n 00:19:47 - On private-sector time taxes \n 00:22:57 - On AI eliminating paperwork\n 00:25:03 - On immigration as a filter\n 00:28:49 - On reducing fraud\n 00:33:03 - On federalizing bureaucracy\n 00:35:12 - On breaking up New York\n 00:36:25 - On making voting easy\n 00:38:28 - On updating universal basic income\n 00:41:29 - On banning exotic pets\n 00:42:13 - On deserts and moss\n 00:43:18 - On beautiful brutalism\n 00:43:50 - On tattoo culture\n 00:44:38 - On Christianity after Christianity\n 00:48:29 - On escaping the global monoculture\n 00:51:42 - On the time tax of friendship\n 00:54:49 - On what comes next\n 00:55:43 - Outro",
+      "fetched_at": "2026-09-16T11:35:55Z"
+    },
+    {
+      "id": "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless",
+      "title": "Salesforce AI Force, Agents as UI, The Race to Headless",
+      "link": "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/",
+      "published": "2026-09-16T10:18:04Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "Salesforce is abandoning UI as a moat, which is a very smart move because it's disappearing for everyone.",
+      "fetched_at": "2026-09-16T11:35:51Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/the-economics-of-cyber-risk.html",
+      "title": "The economics of cyber risk",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/the-economics-of-cyber-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-cyber-risk",
+      "published": "2026-09-16T07:30:24Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "From Aniket Baksy and Daniele Caratelli , here is part of the abstract:\n\n Because larger firms are more attractive targets but also invest more in protection, the model generates an inverse-U relationship between firm size and attack risk, consistent with the data. Introducing cyber risk reduces firm entry by 3.6 percent, aggregate productivity by 0.6 percent, and total output by 1.8 percent. These effects arise from general equilibrium adjustments in entry, firm size, and spillovers that are absent in typical partial-equilibrium analyses. Policy responses differ sharply: appropriately designed subsidies and minimum cybersecurity requirements can raise aggregate output, while bailouts reduce it.\n \n Note this is not a paper about AI. But it may help us develop estimates of the future costs of AI cyberattacks. We need much more effort in this direction, and I hope this subfield rises in status rapidly.\n\n The post The economics of cyber risk appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-16T11:35:51Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/when-discussing-ai-policy-start-with-china.html",
+      "title": "When discussing AI policy, start with China",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/when-discussing-ai-policy-start-with-china.html?utm_source=rss&utm_medium=rss&utm_campaign=when-discussing-ai-policy-start-with-china",
+      "published": "2026-09-16T04:58:51Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Whatever your ideas for regulating AI, I say start with China. Do not put China as an afterthought at the end of your proposal, mentioned in a vague wish that something good ought to happen and that maybe the future of humanity can be secured.\n\n During the 2023 U.S.-China nuclear talks, America proposed missile-launch notifications, a nuclear crisis hotline, and processes to limit the use of outer space for military conflict. China declined all of those. Blame the U.S. if you wish (do we always keep our word?), but that is what happened.\n\n China also broke off meaningful arms control talks . You may think it is their right to play catch-up, and to be cynical of our motives, but that is what happened.\n\n How well did China exchange timely information about Covid, and cooperate with stopping its initial spread?\n\n Get the picture?\n\n If you start with China in your discussion, you will end up with sensible proposals before getting too caught up in your moods of the day. If you are reading proposals or for that matter tweets for AI regulation, and the writer does not deal with these China issues in a forthright and very specific manner, you should be very suspicious indeed.\n\n Here is Ezra and Matt Sheehan, discussing related issues (NYT).\n\n The post When discussing AI policy, start with China appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-16T11:35:51Z"
+    },
     {
       "id": "https://sv101.fireside.fm/264",
       "title": "E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学",
