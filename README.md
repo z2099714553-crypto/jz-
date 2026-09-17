@@ -112,34 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-16 21:19 UTC*
+*更新于 2026-09-17 04:54 UTC*
+
+**[The correct model of AI CEO behavior](https://marginalrevolution.com/marginalrevolution/2026/09/the-correct-model-of-ai-ceo-behavior.html?utm_source=rss&utm_medium=rss&utm_campaign=the-correct-model-of-ai-ceo-behavior)**  
+`Tyler Cowen` · 刚刚  
+
+**[METR, EA, and others being attacked](https://marginalrevolution.com/marginalrevolution/2026/09/metr-ea-and-others-being-attacked.html?utm_source=rss&utm_medium=rss&utm_campaign=metr-ea-and-others-being-attacked)**  
+`Tyler Cowen` · 1 小时前  
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-571)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[Very good news](https://marginalrevolution.com/marginalrevolution/2026/09/very-good-news.html?utm_source=rss&utm_medium=rss&utm_campaign=very-good-news)**  
-`Tyler Cowen` · 8 小时前  
+`Tyler Cowen` · 15 小时前  
 
 **[Muse review: The personal AI agent that gets consumer UX right](https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent)**  
-`Lenny Rachitsky` · 9 小时前  
+`Lenny Rachitsky` · 16 小时前  
 
 **[What Regulatory Capture Actually Looks Like](https://marginalrevolution.com/marginalrevolution/2026/09/what-regulatory-capture-actually-looks-like.html?utm_source=rss&utm_medium=rss&utm_campaign=what-regulatory-capture-actually-looks-like)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[Annie Lowrey on the Time Tax, Fraud, and Rationing by Paperwork](https://cowenconvos.libsyn.com/annie-lowrey-on-the-time-tax-fraud-and-rationing-by-paperwork)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[Salesforce AI Force, Agents as UI, The Race to Headless](https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/)**  
-`Ben Thompson` · 11 小时前  
+`Ben Thompson` · 18 小时前  
 
 **[The economics of cyber risk](https://marginalrevolution.com/marginalrevolution/2026/09/the-economics-of-cyber-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-cyber-risk)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 21 小时前  
 
 **[When discussing AI policy, start with China](https://marginalrevolution.com/marginalrevolution/2026/09/when-discussing-ai-policy-start-with-china.html?utm_source=rss&utm_medium=rss&utm_campaign=when-discussing-ai-policy-start-with-china)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学](https://sv101.fireside.fm/264)**  
-`陈茜` · 21 小时前  
+`陈茜` · 1 天前  
 
 **[Callum Williams on cybersecurity prices](https://marginalrevolution.com/marginalrevolution/2026/09/callum-williams-on-cybersecurity-prices.html?utm_source=rss&utm_medium=rss&utm_campaign=callum-williams-on-cybersecurity-prices)**  
 `Tyler Cowen` · 1 天前  
@@ -151,12 +157,6 @@ open docs/index.html
 `Lenny Rachitsky` · 1 天前  
 
 **[The striking thing is how late the market moved](https://marginalrevolution.com/marginalrevolution/2026/09/the-striking-thing-is-how-late-the-market-moved.html?utm_source=rss&utm_medium=rss&utm_campaign=the-striking-thing-is-how-late-the-market-moved)**  
-`Tyler Cowen` · 1 天前  
-
-**[OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay](https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/)**  
-`Ben Thompson` · 1 天前  
-
-**[Those new service sector jobs](https://marginalrevolution.com/marginalrevolution/2026/09/those-new-service-sector-jobs-17.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-17)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
