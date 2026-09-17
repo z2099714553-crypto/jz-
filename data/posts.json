@@ -1,7 +1,71 @@
 {
-  "generated_at": "2026-09-17T04:54:32Z",
-  "count": 163,
+  "generated_at": "2026-09-17T11:43:01Z",
+  "count": 167,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/pandemic-preparation-is-ai-safety.html",
+      "title": "Pandemic Preparation is AI Safety",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/pandemic-preparation-is-ai-safety.html?utm_source=rss&utm_medium=rss&utm_campaign=pandemic-preparation-is-ai-safety",
+      "published": "2026-09-17T11:17:01Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "I am not a big fan of the “now more than ever” post, which interprets recent events to support—surprise!—something the writer already believed. And yet…is it not obvious that AI risk increases the value of pandemic preparation?\n\n If COVID began with a laboratory leak— plausible, though unproven —then a research accident has already killed millions. Whatever its origin, COVID demonstrated the scale of the potential damage. AI surely increases pandemic risks. If you have ever used AI to fix your washing machine, you understand the difference between reading a manual and having a tutor by your side helping to troubleshoot each problem. The same distinction matters for biological research at the laboratory bench.\n\n Anthropic’s threat report documents five cases of researchers using its models in ways that “could support biological weapons development.” These included military-linked virus research and plans for work on pathogens with enhanced pandemic potential. Did the researchers intend to build weapons? We don’t know. But some users circumvented access controls and concealed sensitive aspects of their research.\n\n Some safeguards appear to have worked but we don t know the base rate. And what will happen with open-weight models and AIs not under the control of a large corporation? The safeguards also burden legitimate researchers. We should accept that AI will magnify the power of small groups, ill-intentioned or not.\n\n Of course, AI can accelerate vaccines and treatments too. But faster science does not automatically mean faster defense. Turning discoveries into deployed vaccines and treatments requires institutions that can act quickly. We should not assume those institutions will keep pace with the technology.\n\n That makes the recommendations in my 2025 paper, Pandemic Preparation Without Romance , more urgent (surprise!): wastewater surveillance; prediction markets; pre-developed vaccine libraries; human challenge trials planned in advance; a Pandemic Trust Fund; and temporary Operation Warp Speed–style public–private partnerships.\n\n My paper argues that pandemic policy should not depend on unusually farsighted or wise politicians. Public tripwires and banked resources are what you build when you don’t trust the authorities to move quickly in a crisis hence the value of i deas like wastewater surveillance, vaccine libraries, and ready challenge-trial protocols. None of these technologies is highly expensive nor do they require much in the way of continued investment and attention, hence pandemic preparation without romance. \n\n The post Pandemic Preparation is AI Safety appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-17T11:42:44Z"
+    },
+    {
+      "id": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people",
+      "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+      "link": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
+      "published": "2026-09-17T10:00:00Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+      "fetched_at": "2026-09-17T11:42:45Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/my-excellent-conversation-with-annie-lowrey.html",
+      "title": "My excellent Conversation with Annie Lowrey",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/my-excellent-conversation-with-annie-lowrey.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-annie-lowrey",
+      "published": "2026-09-17T08:20:16Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Here is the audio, video, and transcript . Here is the episode summary:\n\n Annie Lowrey’s new book, The Time Tax , argues that the most regressive levy in American life is the hours each of us must spend on hold, in waiting rooms, and filling out forms a competent state would have pre-filled — roughly fifty a year on average, and far more if you’re poor. Tyler spends much of this conversation pressing the opposite case, asking whether that bureaucracy is quietly serving a useful purpose by rationing knee surgeries that don’t work, deterring fraud, or screening for immigrants with gumption.\n\n So Tyler and Annie hash it out over an hour, covering why TANF and other welfare programs are the worst offenders, the political economy of submerged benefits like the child tax credit, whether the postal service should be zeroed out over ten years the way Denmark did, whether the government should be nudging people out of rural areas, lessons from the COVID unemployment fraud, areas where the time tax is flat instead of regressive, which private sector time taxes are most onerous, whether AI agents will pay these taxes for us within five years, the logic of easy benefits plus randomized harsh audits, the case for less federalism, whether voting should be easier or harder, how the UBI studies changed her priors, where you can find the best moss in the world, her favorite example of Brutalist architecture, tattoos as permanent ephemera, Christianity’s role in liberalism and the post-Christian right, how reporting beats tourism, the time tax of friendship, what she’ll learn next, and more.\n \n Excerpt:\n\n LOWREY: The postal service and Social Security’s retirement programs. Those are both pretty good. Social Security also has other programs, SSI, which is mostly used by very, very low-income seniors with disabilities or who are blind. Disability insurance is run by the Social Security Administration. The retirement program, it’s less than 1 percent overhead. It’s great. It does all the work for you.\n\n COWEN: Isn’t our whole postal service a time tax in the aggregate? Denmark, just this year, abolished its postal service. They don’t have any. Now, I understand we’re not in a position to do exactly the same, but shouldn’t we be moving away from postal service, basically zeroing it out over the next 10 years?\n\n LOWREY: Did they make it so that it’s all digital? Did they digitize things?\n\n COWEN: Well, I don’t know who the “they” is. Direct mail there has gone away.\n\n LOWREY: Oh, yes, that’s interesting. I don’t know. I think in a high inequality country such as ours, where you still have a lot of people who don’t have smartphones and don’t have computers, that’s why I would be very concerned about the postal service going away.\n\n COWEN: That’s why we need 10 years. You want to tax people, tax in the broad sense of the term, living in rural areas, if only because it’s much harder to have government help them, right?\n\n LOWREY: Yes.\n\n COWEN: If rural areas don’t get mail anymore, maybe that’s a good thing.\n\n LOWREY: I don’t think that that’s a good thing for the people in the rural areas, though. There’s always going to be people in rural areas. As a general point, do you want the government to be encouraging people to not live in rural areas?\n\n COWEN: Absolutely, that’s me. Welcome to the show.\n\n LOWREY: That’s feels very nanny state-ish of you, Tyler.\n\n COWEN: I don’t want to subsidize rural areas, and we do it in so many ways, including with our farm programs.\n\n LOWREY: We do. We really, really absolutely do.\n\n COWEN: It gets harder to help people with government. There’s a lot more market power in rural areas, like how many supermarkets are there, how many hospitals, probably just one, if that. Let’s get everyone into the suburbs, or heaven forbid, the cities.\n\n LOWREY: I can’t imagine a less popular policy than that.\n\n COWEN: Absolutely.\n \n Interesting throughout, and full of good spirit. Again, here is Annie s very good book The Time Tax: How Government Wastes Our Time And How to Fix It .\n\n The post My excellent Conversation with Annie Lowrey appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-17T11:42:44Z"
+    },
+    {
+      "id": "https://thetwentyminutevc.libsyn.com/20vc-why-pacing-the-frontier-is-bs-instinct-raising-1bn-at-10bn-meta-launches-muse-miro-sells-for-135bn-after-a-175bn-valuation-mistral-raises-3bn-could-sam-bankman-fried-win-his-freedom",
+      "title": "20VC: Why \"Pacing the Frontier\" is BS | Instinct Raising $1BN at $10BN & Meta Launches Muse | Miro Sells for $1.35BN After a $17.5BN Valuation | Mistral Raises €3BN & Could Sam Bankman-Fried Win His Freedom?",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-why-pacing-the-frontier-is-bs-instinct-raising-1bn-at-10bn-meta-launches-muse-miro-sells-for-135bn-after-a-175bn-valuation-mistral-raises-3bn-could-sam-bankman-fried-win-his-freedom",
+      "published": "2026-09-17T07:07:00Z",
+      "source": "20VC",
+      "author": "Harry Stebbings",
+      "lang": "en",
+      "tags": [
+        "创投",
+        "深度访谈"
+      ],
+      "type": "interview",
+      "raw_text": "AGENDA:\n 03:40 Dario Calls to \"Pace the Frontier\"\n 11:30 Why the Fed Will Raid Anthropic if Needed \n 21:50 Meta Launches Muse to Take On Instinct\n 28:30 Instinct Raising $1BN at $10BN—Would You Invest?\n 39:55 Miro Sells for $1.35BN After a $17.5BN Valuation\n 47:45 Could Sam Bankman-Fried Win His Freedom?\n 51:25 WordPress Power Struggle: Matt Mullenweg Ousted, Then Returns\n 1:01:20 Mistral Raises €3BN in Europe's Biggest-Ever Tech Round\n 1:05:00 Adobe's New CEO & Canva's Slowing Growth: SaaS Giants Under Pressure",
+      "fetched_at": "2026-09-17T11:43:01Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/09/the-correct-model-of-ai-ceo-behavior.html",
       "title": "The correct model of AI CEO behavior",
