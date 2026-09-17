@@ -112,34 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-17 11:43 UTC*
+*更新于 2026-09-17 17:01 UTC*
+
+**[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-570)**  
+`Tyler Cowen` · 1 小时前  
+
+**[Noam Brown – Agent swarms, alignment, & recursive self-improvement](https://www.dwarkesh.com/p/noam-brown)**  
+`Dwarkesh Patel` · 1 小时前  
 
 **[Pandemic Preparation is AI Safety](https://marginalrevolution.com/marginalrevolution/2026/09/pandemic-preparation-is-ai-safety.html?utm_source=rss&utm_medium=rss&utm_campaign=pandemic-preparation-is-ai-safety)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 5 小时前  
 
 **[An Interview with Joanna Stern About the iPhone Duo and AI for Normal People](https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/)**  
-`Ben Thompson` · 1 小时前  
+`Ben Thompson` · 7 小时前  
 
 **[My excellent Conversation with Annie Lowrey](https://marginalrevolution.com/marginalrevolution/2026/09/my-excellent-conversation-with-annie-lowrey.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-annie-lowrey)**  
-`Tyler Cowen` · 3 小时前  
-
-**[20VC: Why "Pacing the Frontier" is BS \| Instinct Raising $1BN at $10BN & Meta Launches Muse \| Miro Sells for $1.35BN After a $17.5BN Valuation \| Mistral Raises €3BN & Could Sam Bankman-Fried Win His Freedom?](https://thetwentyminutevc.libsyn.com/20vc-why-pacing-the-frontier-is-bs-instinct-raising-1bn-at-10bn-meta-launches-muse-miro-sells-for-135bn-after-a-175bn-valuation-mistral-raises-3bn-could-sam-bankman-fried-win-his-freedom)**  
-`Harry Stebbings` · 4 小时前  
-
-**[The correct model of AI CEO behavior](https://marginalrevolution.com/marginalrevolution/2026/09/the-correct-model-of-ai-ceo-behavior.html?utm_source=rss&utm_medium=rss&utm_campaign=the-correct-model-of-ai-ceo-behavior)**  
-`Tyler Cowen` · 7 小时前  
-
-**[METR, EA, and others being attacked](https://marginalrevolution.com/marginalrevolution/2026/09/metr-ea-and-others-being-attacked.html?utm_source=rss&utm_medium=rss&utm_campaign=metr-ea-and-others-being-attacked)**  
 `Tyler Cowen` · 8 小时前  
 
+**[20VC: Why "Pacing the Frontier" is BS \| Instinct Raising $1BN at $10BN & Meta Launches Muse \| Miro Sells for $1.35BN After a $17.5BN Valuation \| Mistral Raises €3BN & Could Sam Bankman-Fried Win His Freedom?](https://thetwentyminutevc.libsyn.com/20vc-why-pacing-the-frontier-is-bs-instinct-raising-1bn-at-10bn-meta-launches-muse-miro-sells-for-135bn-after-a-175bn-valuation-mistral-raises-3bn-could-sam-bankman-fried-win-his-freedom)**  
+`Harry Stebbings` · 9 小时前  
+
+**[The correct model of AI CEO behavior](https://marginalrevolution.com/marginalrevolution/2026/09/the-correct-model-of-ai-ceo-behavior.html?utm_source=rss&utm_medium=rss&utm_campaign=the-correct-model-of-ai-ceo-behavior)**  
+`Tyler Cowen` · 12 小时前  
+
+**[METR, EA, and others being attacked](https://marginalrevolution.com/marginalrevolution/2026/09/metr-ea-and-others-being-attacked.html?utm_source=rss&utm_medium=rss&utm_campaign=metr-ea-and-others-being-attacked)**  
+`Tyler Cowen` · 13 小时前  
+
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-571)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Very good news](https://marginalrevolution.com/marginalrevolution/2026/09/very-good-news.html?utm_source=rss&utm_medium=rss&utm_campaign=very-good-news)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Muse review: The personal AI agent that gets consumer UX right](https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent)**  
-`Lenny Rachitsky` · 23 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[What Regulatory Capture Actually Looks Like](https://marginalrevolution.com/marginalrevolution/2026/09/what-regulatory-capture-actually-looks-like.html?utm_source=rss&utm_medium=rss&utm_campaign=what-regulatory-capture-actually-looks-like)**  
 `Tyler Cowen` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[The economics of cyber risk](https://marginalrevolution.com/marginalrevolution/2026/09/the-economics-of-cyber-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-cyber-risk)**  
 `Tyler Cowen` · 1 天前  
-
-**[When discussing AI policy, start with China](https://marginalrevolution.com/marginalrevolution/2026/09/when-discussing-ai-policy-start-with-china.html?utm_source=rss&utm_medium=rss&utm_campaign=when-discussing-ai-policy-start-with-china)**  
-`Tyler Cowen` · 1 天前  
-
-**[E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学](https://sv101.fireside.fm/264)**  
-`陈茜` · 1 天前  
 
 <!-- POSTS:END -->
