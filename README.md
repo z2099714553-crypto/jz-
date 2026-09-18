@@ -112,34 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-18 04:44 UTC*
+*更新于 2026-09-18 11:16 UTC*
+
+**[Reimagining research papers as interactive and reliable AI agents](https://marginalrevolution.com/marginalrevolution/2026/09/reimagining-research-papers-as-interactive-and-reliable-ai-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=reimagining-research-papers-as-interactive-and-reliable-ai-agents)**  
+`Tyler Cowen` · 4 小时前  
+
+**[Why Papua New Guinea is so interesting](https://marginalrevolution.com/marginalrevolution/2026/09/why-papua-new-guinea-is-so-interesting.html?utm_source=rss&utm_medium=rss&utm_campaign=why-papua-new-guinea-is-so-interesting)**  
+`Tyler Cowen` · 6 小时前  
 
 **[What was Hard Fork?](https://www.platformer.news/hard-fork-machine-gods/)**  
-`Casey Newton` · 3 小时前  
+`Casey Newton` · 10 小时前  
 
 **[科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html)**  
-`阮一峰` · 4 小时前  
+`阮一峰` · 11 小时前  
 
 **[外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建](https://sv101.fireside.fm/265)**  
-`陈茜` · 4 小时前  
+`陈茜` · 11 小时前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-570)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 19 小时前  
 
 **[Noam Brown – Agent swarms, alignment, & recursive self-improvement](https://www.dwarkesh.com/p/noam-brown)**  
-`Dwarkesh Patel` · 13 小时前  
+`Dwarkesh Patel` · 19 小时前  
 
 **[Pandemic Preparation is AI Safety](https://marginalrevolution.com/marginalrevolution/2026/09/pandemic-preparation-is-ai-safety.html?utm_source=rss&utm_medium=rss&utm_campaign=pandemic-preparation-is-ai-safety)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[An Interview with Joanna Stern About the iPhone Duo and AI for Normal People](https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/)**  
-`Ben Thompson` · 18 小时前  
+`Ben Thompson` · 1 天前  
 
 **[My excellent Conversation with Annie Lowrey](https://marginalrevolution.com/marginalrevolution/2026/09/my-excellent-conversation-with-annie-lowrey.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-annie-lowrey)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[20VC: Why "Pacing the Frontier" is BS \| Instinct Raising $1BN at $10BN & Meta Launches Muse \| Miro Sells for $1.35BN After a $17.5BN Valuation \| Mistral Raises €3BN & Could Sam Bankman-Fried Win His Freedom?](https://thetwentyminutevc.libsyn.com/20vc-why-pacing-the-frontier-is-bs-instinct-raising-1bn-at-10bn-meta-launches-muse-miro-sells-for-135bn-after-a-175bn-valuation-mistral-raises-3bn-could-sam-bankman-fried-win-his-freedom)**  
-`Harry Stebbings` · 21 小时前  
+`Harry Stebbings` · 1 天前  
 
 **[The correct model of AI CEO behavior](https://marginalrevolution.com/marginalrevolution/2026/09/the-correct-model-of-ai-ceo-behavior.html?utm_source=rss&utm_medium=rss&utm_campaign=the-correct-model-of-ai-ceo-behavior)**  
 `Tyler Cowen` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-571)**  
 `Tyler Cowen` · 1 天前  
-
-**[Very good news](https://marginalrevolution.com/marginalrevolution/2026/09/very-good-news.html?utm_source=rss&utm_medium=rss&utm_campaign=very-good-news)**  
-`Tyler Cowen` · 1 天前  
-
-**[Muse review: The personal AI agent that gets consumer UX right](https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent)**  
-`Lenny Rachitsky` · 1 天前  
 
 <!-- POSTS:END -->
