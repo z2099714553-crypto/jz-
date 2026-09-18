@@ -112,37 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-18 20:55 UTC*
+*更新于 2026-09-18 23:19 UTC*
 
 **[Scott Beaulier interviews me, in part about Wyoming](https://marginalrevolution.com/marginalrevolution/2026/09/scott-beaulier-interviews-me-in-part-about-wyoming.html?utm_source=rss&utm_medium=rss&utm_campaign=scott-beaulier-interviews-me-in-part-about-wyoming)**  
-`Tyler Cowen` · 2 小时前  
-
-**[2026.38: Doomforce](https://stratechery.com/2026/doomforce/)**  
-`Ben Thompson` · 3 小时前  
-
-**[Saplings: The World Outside](https://www.generalist.com/p/saplings-the-world-outside)**  
-`Mario Gabriele` · 4 小时前  
-
-**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-591)**  
 `Tyler Cowen` · 5 小时前  
 
+**[2026.38: Doomforce](https://stratechery.com/2026/doomforce/)**  
+`Ben Thompson` · 6 小时前  
+
+**[Saplings: The World Outside](https://www.generalist.com/p/saplings-the-world-outside)**  
+`Mario Gabriele` · 6 小时前  
+
+**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-591)**  
+`Tyler Cowen` · 7 小时前  
+
 **[Weekly Dose of Optimism #211](https://www.notboring.co/p/weekly-dose-of-optimism-211)**  
-`Packy McCormick` · 7 小时前  
+`Packy McCormick` · 10 小时前  
 
 **[Reimagining research papers as interactive and reliable AI agents](https://marginalrevolution.com/marginalrevolution/2026/09/reimagining-research-papers-as-interactive-and-reliable-ai-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=reimagining-research-papers-as-interactive-and-reliable-ai-agents)**  
-`Tyler Cowen` · 13 小时前  
-
-**[Why Papua New Guinea is so interesting](https://marginalrevolution.com/marginalrevolution/2026/09/why-papua-new-guinea-is-so-interesting.html?utm_source=rss&utm_medium=rss&utm_campaign=why-papua-new-guinea-is-so-interesting)**  
 `Tyler Cowen` · 16 小时前  
 
+**[Why Papua New Guinea is so interesting](https://marginalrevolution.com/marginalrevolution/2026/09/why-papua-new-guinea-is-so-interesting.html?utm_source=rss&utm_medium=rss&utm_campaign=why-papua-new-guinea-is-so-interesting)**  
+`Tyler Cowen` · 18 小时前  
+
 **[What was Hard Fork?](https://www.platformer.news/hard-fork-machine-gods/)**  
-`Casey Newton` · 19 小时前  
+`Casey Newton` · 22 小时前  
 
 **[科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html)**  
-`阮一峰` · 20 小时前  
+`阮一峰` · 23 小时前  
 
 **[外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建](https://sv101.fireside.fm/265)**  
-`陈茜` · 20 小时前  
+`陈茜` · 23 小时前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-570.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-570)**  
 `Tyler Cowen` · 1 天前  
