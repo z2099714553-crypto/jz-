@@ -112,31 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-19 15:53 UTC*
+*更新于 2026-09-19 20:41 UTC*
+
+**[🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more](https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first)**  
+`Lenny Rachitsky` · 刚刚  
+
+**[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-579)**  
+`Tyler Cowen` · 3 小时前  
 
 **[Brookfield of Dreams](https://www.netinterest.co/p/brookfield-of-dreams)**  
-`Marc Rubinstein` · 刚刚  
+`Marc Rubinstein` · 5 小时前  
 
 **[The Age of Wonders and Terrors](https://marginalrevolution.com/marginalrevolution/2026/09/the-age-of-wonders-and-terrors.html?utm_source=rss&utm_medium=rss&utm_campaign=the-age-of-wonders-and-terrors)**  
-`Tyler Cowen` · 4 小时前  
-
-**[20VC: "Anti-Data Centres is a Chinese Psyop" \| How Many Planned Data Centers Will Actually Get Built? \| Is Energy AI's Biggest Bottleneck? With Thomas Sohmers, Co-Founder @ Positron](https://thetwentyminutevc.libsyn.com/20vc-anti-data-centres-is-a-chinese-psyop-how-many-planned-data-centers-will-actually-get-built-is-energy-ais-biggest-bottleneck-with-thomas-sohmers-co-founder-positron)**  
-`Harry Stebbings` · 8 小时前  
-
-**[Internet diffusion and religious decline?](https://marginalrevolution.com/marginalrevolution/2026/09/internet-diffusion-and-religious-decline.html?utm_source=rss&utm_medium=rss&utm_campaign=internet-diffusion-and-religious-decline)**  
 `Tyler Cowen` · 9 小时前  
 
+**[20VC: "Anti-Data Centres is a Chinese Psyop" \| How Many Planned Data Centers Will Actually Get Built? \| Is Energy AI's Biggest Bottleneck? With Thomas Sohmers, Co-Founder @ Positron](https://thetwentyminutevc.libsyn.com/20vc-anti-data-centres-is-a-chinese-psyop-how-many-planned-data-centers-will-actually-get-built-is-energy-ais-biggest-bottleneck-with-thomas-sohmers-co-founder-positron)**  
+`Harry Stebbings` · 13 小时前  
+
+**[Internet diffusion and religious decline?](https://marginalrevolution.com/marginalrevolution/2026/09/internet-diffusion-and-religious-decline.html?utm_source=rss&utm_medium=rss&utm_campaign=internet-diffusion-and-religious-decline)**  
+`Tyler Cowen` · 14 小时前  
+
 **[Emergent Ventures India, 19th cohort](https://marginalrevolution.com/marginalrevolution/2026/09/emergent-ventures-india-19th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-19th-cohort)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[Scott Beaulier interviews me, in part about Wyoming](https://marginalrevolution.com/marginalrevolution/2026/09/scott-beaulier-interviews-me-in-part-about-wyoming.html?utm_source=rss&utm_medium=rss&utm_campaign=scott-beaulier-interviews-me-in-part-about-wyoming)**  
-`Tyler Cowen` · 21 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[2026.38: Doomforce](https://stratechery.com/2026/doomforce/)**  
-`Ben Thompson` · 22 小时前  
+`Ben Thompson` · 1 天前  
 
 **[Saplings: The World Outside](https://www.generalist.com/p/saplings-the-world-outside)**  
-`Mario Gabriele` · 23 小时前  
+`Mario Gabriele` · 1 天前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-591)**  
 `Tyler Cowen` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[What was Hard Fork?](https://www.platformer.news/hard-fork-machine-gods/)**  
 `Casey Newton` · 1 天前  
-
-**[科技爱好者周刊（第 413 期）：再见了，React Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html)**  
-`阮一峰` · 1 天前  
-
-**[外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建](https://sv101.fireside.fm/265)**  
-`陈茜` · 1 天前  
 
 <!-- POSTS:END -->
