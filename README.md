@@ -112,28 +112,28 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-19 20:41 UTC*
+*更新于 2026-09-19 23:07 UTC*
 
 **[🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more](https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first)**  
-`Lenny Rachitsky` · 刚刚  
+`Lenny Rachitsky` · 3 小时前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-579)**  
-`Tyler Cowen` · 3 小时前  
+`Tyler Cowen` · 6 小时前  
 
 **[Brookfield of Dreams](https://www.netinterest.co/p/brookfield-of-dreams)**  
-`Marc Rubinstein` · 5 小时前  
+`Marc Rubinstein` · 8 小时前  
 
 **[The Age of Wonders and Terrors](https://marginalrevolution.com/marginalrevolution/2026/09/the-age-of-wonders-and-terrors.html?utm_source=rss&utm_medium=rss&utm_campaign=the-age-of-wonders-and-terrors)**  
-`Tyler Cowen` · 9 小时前  
+`Tyler Cowen` · 11 小时前  
 
 **[20VC: "Anti-Data Centres is a Chinese Psyop" \| How Many Planned Data Centers Will Actually Get Built? \| Is Energy AI's Biggest Bottleneck? With Thomas Sohmers, Co-Founder @ Positron](https://thetwentyminutevc.libsyn.com/20vc-anti-data-centres-is-a-chinese-psyop-how-many-planned-data-centers-will-actually-get-built-is-energy-ais-biggest-bottleneck-with-thomas-sohmers-co-founder-positron)**  
-`Harry Stebbings` · 13 小时前  
+`Harry Stebbings` · 16 小时前  
 
 **[Internet diffusion and religious decline?](https://marginalrevolution.com/marginalrevolution/2026/09/internet-diffusion-and-religious-decline.html?utm_source=rss&utm_medium=rss&utm_campaign=internet-diffusion-and-religious-decline)**  
-`Tyler Cowen` · 14 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[Emergent Ventures India, 19th cohort](https://marginalrevolution.com/marginalrevolution/2026/09/emergent-ventures-india-19th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-19th-cohort)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[Scott Beaulier interviews me, in part about Wyoming](https://marginalrevolution.com/marginalrevolution/2026/09/scott-beaulier-interviews-me-in-part-about-wyoming.html?utm_source=rss&utm_medium=rss&utm_campaign=scott-beaulier-interviews-me-in-part-about-wyoming)**  
 `Tyler Cowen` · 1 天前  
