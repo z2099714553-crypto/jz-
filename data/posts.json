@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-09-19T11:00:34Z",
-  "count": 183,
+  "generated_at": "2026-09-19T15:53:56Z",
+  "count": 185,
   "posts": [
+    {
+      "id": "https://www.netinterest.co/p/brookfield-of-dreams",
+      "title": "Brookfield of Dreams",
+      "link": "https://www.netinterest.co/p/brookfield-of-dreams",
+      "published": "2026-09-19T15:05:47Z",
+      "source": "Net Interest",
+      "author": "Marc Rubinstein",
+      "lang": "en",
+      "tags": [
+        "金融",
+        "商业分析"
+      ],
+      "type": "blog",
+      "raw_text": "When Jensen Huang delivered his plan to mobilize $500 billion of third-party capital to fund AI infrastructure last month, one of the providers he roped in was Brookfield. To many observers, it came as a surprise. Huang and his team at Nvidia had been working with Goldman Sachs, Blackstone and Apollo for months, yet days before they shared their announcement, Brookfield, along with KKR and BlackRock, slid into the deal. \n Flanked by Huang at the CNBC studios, Brookfield CEO Bruce Flatt laid out his credentials: \n We ve been building out backbone infrastructure since the company started. Originally it started with enormous amounts of power solar, wind, gas. We moved to data centers. And with Jensen, we ve now been moving to compute. \n Brookfield has interests spanning a range of assets. It manages $1.3 trillion of capital some its own and some its customers employing more than 5,800 professionals across 50 countries. This week alone, executives in its private equity business agreed to buy Australian plumbing manufacturer Reliance as colleagues in London recapitalized Center Parcs, a UK-based holiday park they bought in 2015. Closer to home, Brookfield negotiated a minority stake in American Real Estate Partners, and in Canada, where the firm has its roots, it launched an initiative to invest back in the country via a new Maple Fund. To top it off, senior management hosted an investor day at the Conrad Hotel in downtown New York and I listened in. \n We discussed Brookfield back in 2022 but it s changed a bit since then. I didn t know it at the time, but a few years earlier Flatt had rebuffed a deal to merge Brookfield with Apollo. We were the kings of private equity, credit, and insurance, Apollo s founder recalled . They were the kings of real estate and infrastructure. You d have a firm that would be bigger than Blackstone and more powerful. \n Instead, Brookfield acquired Oaktree Capital Management to bolster its franchise in credit ( imbecilic, says Apollo s founder), it transitioned from a conglomerate to an asset manager, and, like several of its peers, pivoted into insurance. \n Apollo s founder is unimpressed: He s created a second-tier private equity business. He s created a second-tier credit operation. Now, he s creating a second-tier insurance business. \n Others in the industry are more complimentary. One of them is Bill Ackman. Through his fund, Pershing Square, Ackman owns a $2.5 billion stake in Brookfield Corporation. Brookfield is a high-quality, asset-rich, rapidly growing business that has a long-term track record of excellent capital allocation, he writes in his annual letter. In particular, Ackman reckons Brookfield is poised to benefit from the multi-trillion-dollar wave of AI-related infrastructure investment. \n Flatt has lofty ambitions for Brookfield. He has already doubled the firm s assets under management over five years and reckons he can do it again over the next five. Our evolution has been about adapting our structure as the opportunity set evolves, he reveals. To explore what that means how Brookfield went from industrial owner to asset manager and insurer, and whether its evolving structure creates value or merely obscures it read on. \n\n Read more",
+      "fetched_at": "2026-09-19T15:53:44Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/the-age-of-wonders-and-terrors.html",
+      "title": "The Age of Wonders and Terrors",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/the-age-of-wonders-and-terrors.html?utm_source=rss&utm_medium=rss&utm_campaign=the-age-of-wonders-and-terrors",
+      "published": "2026-09-19T11:17:18Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Scott Aaranson, theoretical computer scientist writes :\n\n My position on AI is merely the conservative, skeptical position of 2006, updated with intellectual honesty for the reality of late 2026. And that position, if you need me to spell it out, is as follows:\n\n AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\n\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\n\n It seems to me that the Singularity has already started; it’s just wildly unevenly distributed. Yes, I still unload the dishwasher and clip my toenails. On the other hand, in whatever years I have left, I don’t expect that I’ll ever again prove a theorem because I’m actually needed to prove it. If I do, it will only be for my or others’ enjoyment or edification.\n\n The test is this: if we took the news of these past few weeks and sent it back in time twenty years, would I agree that it looked like the beginning of an AI Singularity? The intellectually honest answer is: yes, absolutely. But then that’s all we need. No backsies.\n\n I feel like it would be healthy for everyone to stop grinding their ideological axes, their sentiments about Dario Amodei or Sam Altman, for long enough simply to acknowledge that the wonders and terrors are here. They couldn’t be here more clearly if the sky had turned reddish-orange like in the Matrix movies.\n\n It’s here clearly enough that, when I put my kids to sleep at night, I now feel it in the pit of my stomach: what sort of future can they possibly have? What could they learn today that could possibly be relevant to that future? (Yesterday, my 13-year-old daughter joked unprompted that, if she wants to become a mathematician, it now looks like she has maybe two more weeks.) Certainly when my grad students want to discuss what sort of careers might await them on graduation, I no longer have any clue what to tell them.\n\n For anyone who says AI doom sounds like an apocalyptic religion, that the rationalists/Singulatarians seem like a Bay Area cult, that Eliezer Yudkowsky gives off the vibes of a messianic prophet: yes, yes, and yes. But crucially, today you’re no longer being asked to believe in arguments and extrapolations, but only in the front-page news. Accepting the reality of the coming machine god after it’s solved Navier-Stokes and dozens of other longstanding open math problems (while dramatically ramping up in capability every month), is sort of like accepting Jesus after he’s returned to earth on the gleaming cloud. It’s the epistemic bare minimum.\n\n Yes, there’s still enormous uncertainty about what the rest of our lives will look like, but as far as I can tell, there’s no longer any real uncertainty that it’ll all mostly revolve around AI, and the extent to which we succeed or fail at directing its power toward human flourishing.\n\n By any accounting that doesn’t stack the deck, Eliezer Yudkowsky was right about what the greatest challenge facing civilization in our lifetimes was going to be, and you and I were wrong about it. Why I was wrong is a question I’ll ask myself every day in whatever time remains. But, you know, at least I updated once the prophesied wonders and terrors actually started arriving! If you haven’t done likewise, why haven’t you?\n \n The post The Age of Wonders and Terrors appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-19T15:53:44Z"
+    },
     {
       "id": "https://thetwentyminutevc.libsyn.com/20vc-anti-data-centres-is-a-chinese-psyop-how-many-planned-data-centers-will-actually-get-built-is-energy-ais-biggest-bottleneck-with-thomas-sohmers-co-founder-positron",
       "title": "20VC: \"Anti-Data Centres is a Chinese Psyop\" | How Many Planned Data Centers Will Actually Get Built? | Is Energy AI's Biggest Bottleneck? With Thomas Sohmers, Co-Founder @ Positron",
