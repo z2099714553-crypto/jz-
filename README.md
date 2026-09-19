@@ -112,31 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-19 04:39 UTC*
+*更新于 2026-09-19 11:00 UTC*
+
+**[20VC: "Anti-Data Centres is a Chinese Psyop" \| How Many Planned Data Centers Will Actually Get Built? \| Is Energy AI's Biggest Bottleneck? With Thomas Sohmers, Co-Founder @ Positron](https://thetwentyminutevc.libsyn.com/20vc-anti-data-centres-is-a-chinese-psyop-how-many-planned-data-centers-will-actually-get-built-is-energy-ais-biggest-bottleneck-with-thomas-sohmers-co-founder-positron)**  
+`Harry Stebbings` · 3 小时前  
+
+**[Internet diffusion and religious decline?](https://marginalrevolution.com/marginalrevolution/2026/09/internet-diffusion-and-religious-decline.html?utm_source=rss&utm_medium=rss&utm_campaign=internet-diffusion-and-religious-decline)**  
+`Tyler Cowen` · 4 小时前  
 
 **[Emergent Ventures India, 19th cohort](https://marginalrevolution.com/marginalrevolution/2026/09/emergent-ventures-india-19th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-19th-cohort)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 6 小时前  
 
 **[Scott Beaulier interviews me, in part about Wyoming](https://marginalrevolution.com/marginalrevolution/2026/09/scott-beaulier-interviews-me-in-part-about-wyoming.html?utm_source=rss&utm_medium=rss&utm_campaign=scott-beaulier-interviews-me-in-part-about-wyoming)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[2026.38: Doomforce](https://stratechery.com/2026/doomforce/)**  
-`Ben Thompson` · 11 小时前  
+`Ben Thompson` · 18 小时前  
 
 **[Saplings: The World Outside](https://www.generalist.com/p/saplings-the-world-outside)**  
-`Mario Gabriele` · 11 小时前  
+`Mario Gabriele` · 18 小时前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-591)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 19 小时前  
 
 **[Weekly Dose of Optimism #211](https://www.notboring.co/p/weekly-dose-of-optimism-211)**  
-`Packy McCormick` · 15 小时前  
+`Packy McCormick` · 22 小时前  
 
 **[Reimagining research papers as interactive and reliable AI agents](https://marginalrevolution.com/marginalrevolution/2026/09/reimagining-research-papers-as-interactive-and-reliable-ai-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=reimagining-research-papers-as-interactive-and-reliable-ai-agents)**  
-`Tyler Cowen` · 21 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Why Papua New Guinea is so interesting](https://marginalrevolution.com/marginalrevolution/2026/09/why-papua-new-guinea-is-so-interesting.html?utm_source=rss&utm_medium=rss&utm_campaign=why-papua-new-guinea-is-so-interesting)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[What was Hard Fork?](https://www.platformer.news/hard-fork-machine-gods/)**  
 `Casey Newton` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[Noam Brown – Agent swarms, alignment, & recursive self-improvement](https://www.dwarkesh.com/p/noam-brown)**  
 `Dwarkesh Patel` · 1 天前  
-
-**[Pandemic Preparation is AI Safety](https://marginalrevolution.com/marginalrevolution/2026/09/pandemic-preparation-is-ai-safety.html?utm_source=rss&utm_medium=rss&utm_campaign=pandemic-preparation-is-ai-safety)**  
-`Tyler Cowen` · 1 天前  
-
-**[An Interview with Joanna Stern About the iPhone Duo and AI for Normal People](https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/)**  
-`Ben Thompson` · 1 天前  
 
 <!-- POSTS:END -->

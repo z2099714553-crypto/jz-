@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-09-19T04:38:59Z",
-  "count": 181,
+  "generated_at": "2026-09-19T11:00:34Z",
+  "count": 183,
   "posts": [
+    {
+      "id": "https://thetwentyminutevc.libsyn.com/20vc-anti-data-centres-is-a-chinese-psyop-how-many-planned-data-centers-will-actually-get-built-is-energy-ais-biggest-bottleneck-with-thomas-sohmers-co-founder-positron",
+      "title": "20VC: \"Anti-Data Centres is a Chinese Psyop\" | How Many Planned Data Centers Will Actually Get Built? | Is Energy AI's Biggest Bottleneck? With Thomas Sohmers, Co-Founder @ Positron",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-anti-data-centres-is-a-chinese-psyop-how-many-planned-data-centers-will-actually-get-built-is-energy-ais-biggest-bottleneck-with-thomas-sohmers-co-founder-positron",
+      "published": "2026-09-19T07:07:00Z",
+      "source": "20VC",
+      "author": "Harry Stebbings",
+      "lang": "en",
+      "tags": [
+        "创投",
+        "深度访谈"
+      ],
+      "type": "interview",
+      "raw_text": "Thomas Sohmers is the co-founder and chairman of Positron AI, building chips to make running AI dramatically cheaper and more energy-efficient. The company recently announced an $875 million Series C at a $5 billion valuation, backed by investors including Gavin Baker's Atreides Management, NEA, Valor Equity Partners and Netscape co-founder Jim Clark.\n AGENDA: \n 04:30 Why Does AI Inference Need Different Hardware from Training?\n 10:25 What Is Nobody Telling You About AI's Token Economics?\n 13:10 Should We Really Slow Down the AI Frontier?\n 16:55 What Happens If America Slows Down—and China Doesn't?\n 19:30 Should We Restrict China's Access to AI Chips?\n 20:15 Why Aren't Zuckerberg and Jensen Backing an AI Slowdown?\n 21:25 Are We Being Misled About Data Centers?\n 23:25 Can the West Beat China While Drowning in Regulation?\n 26:20 How Many Planned Data Centers Will Actually Get Built?\n 27:15 Data Centers in Space: Real Opportunity or Elon Hype?\n 28:10 Is Energy AI's Biggest Bottleneck?\n 29:55 Could the Debt Boom Derail AI?\n 31:25 What Is KV Caching—and Why Does It Change AI Economics?\n 35:25 Does Compressing AI's Memory Make It Less Intelligent?\n 41:05 How Do We Solve AI's Exploding Memory Demands?\n 43:45 Will Every Company Own Its Own AI Model?\n 47:10 Why Bet on Ever-Bigger Models?\n 48:20 If We Already Have AGI, What Comes Next?\n 53:25 What Happens When Every AI Lab Builds Its Own Chips?\n 57:30 If DeepSeek Can Slash Costs with Software, Why Build New Hardware?\n 59:50 How Cheap Will AI Tokens Be by 2028?\n 1:03:15 What Would Be the First Warning Sign of an AI Bust?\n 1:03:55 Could Open Models Break OpenAI and Anthropic's Growth?\n 1:05:55 Could Mercor and Surge Become $200 Billion Companies?",
+      "fetched_at": "2026-09-19T11:00:34Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/internet-diffusion-and-religious-decline.html",
+      "title": "Internet diffusion and religious decline?",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/internet-diffusion-and-religious-decline.html?utm_source=rss&utm_medium=rss&utm_campaign=internet-diffusion-and-religious-decline",
+      "published": "2026-09-19T06:22:39Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Using a panel of 81 countries across six World Values Survey waves (1990–2022), we examine whether growth in internet diffusion is associated with religious decline. We construct a six-item composite religiosity index, align annual macro series to wave periods, and estimate country fixed-effects models with one-wave lags and a broad set of modernization, demographic, welfare-state, and cultural controls. We also estimate models separately for individual dimensions of religiosity. Across specifications, lagged internet penetration is negatively associated with religiosity within countries over time. These results remain robust under period dummies and in models estimated without lags, although reverse-ordering tests indicate that prior religiosity can also predict later internet use. Associations are strongest for denominational belonging and self-identification as a religious person. Overall, internet diffusion emerges as a robust macro-level correlate of within-country religious decline.\n \n Here is the full article by Miran Lavrič and Tibor Rutar. Via the excellent Kevin Lewis .\n\n The post Internet diffusion and religious decline? appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-19T11:00:17Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/09/emergent-ventures-india-19th-cohort.html",
       "title": "Emergent Ventures India, 19th cohort",
