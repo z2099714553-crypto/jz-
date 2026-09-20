@@ -112,25 +112,25 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-20 20:50 UTC*
+*更新于 2026-09-20 23:15 UTC*
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-583)**  
-`Tyler Cowen` · 3 小时前  
-
-**[Muse](https://marginalrevolution.com/marginalrevolution/2026/09/muse.html?utm_source=rss&utm_medium=rss&utm_campaign=muse)**  
 `Tyler Cowen` · 5 小时前  
 
+**[Muse](https://marginalrevolution.com/marginalrevolution/2026/09/muse.html?utm_source=rss&utm_medium=rss&utm_campaign=muse)**  
+`Tyler Cowen` · 7 小时前  
+
 **[90 minutes of unfiltered product advice from Snap and Discord’s product chief \| Peter Sellis](https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product)**  
-`Lenny Rachitsky` · 8 小时前  
+`Lenny Rachitsky` · 10 小时前  
 
 **[Empathy gaps](https://marginalrevolution.com/marginalrevolution/2026/09/empathy-gaps.html?utm_source=rss&utm_medium=rss&utm_campaign=empathy-gaps)**  
-`Tyler Cowen` · 14 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[UK productivity higher than we had thought](https://marginalrevolution.com/marginalrevolution/2026/09/uk-productivity-higher-than-we-had-thought.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-productivity-higher-than-we-had-thought)**  
-`Tyler Cowen` · 15 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[The polity that is Singapore](https://marginalrevolution.com/marginalrevolution/2026/09/the-polity-that-is-singapore-2.html?utm_source=rss&utm_medium=rss&utm_campaign=the-polity-that-is-singapore-2)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 21 小时前  
 
 **[🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more](https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first)**  
 `Lenny Rachitsky` · 1 天前  
