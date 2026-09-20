@@ -112,25 +112,31 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-20 11:25 UTC*
+*更新于 2026-09-20 16:07 UTC*
+
+**[Muse](https://marginalrevolution.com/marginalrevolution/2026/09/muse.html?utm_source=rss&utm_medium=rss&utm_campaign=muse)**  
+`Tyler Cowen` · 刚刚  
+
+**[90 minutes of unfiltered product advice from Snap and Discord’s product chief \| Peter Sellis](https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product)**  
+`Lenny Rachitsky` · 3 小时前  
 
 **[Empathy gaps](https://marginalrevolution.com/marginalrevolution/2026/09/empathy-gaps.html?utm_source=rss&utm_medium=rss&utm_campaign=empathy-gaps)**  
-`Tyler Cowen` · 4 小时前  
-
-**[UK productivity higher than we had thought](https://marginalrevolution.com/marginalrevolution/2026/09/uk-productivity-higher-than-we-had-thought.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-productivity-higher-than-we-had-thought)**  
-`Tyler Cowen` · 6 小时前  
-
-**[The polity that is Singapore](https://marginalrevolution.com/marginalrevolution/2026/09/the-polity-that-is-singapore-2.html?utm_source=rss&utm_medium=rss&utm_campaign=the-polity-that-is-singapore-2)**  
 `Tyler Cowen` · 9 小时前  
 
+**[UK productivity higher than we had thought](https://marginalrevolution.com/marginalrevolution/2026/09/uk-productivity-higher-than-we-had-thought.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-productivity-higher-than-we-had-thought)**  
+`Tyler Cowen` · 11 小时前  
+
+**[The polity that is Singapore](https://marginalrevolution.com/marginalrevolution/2026/09/the-polity-that-is-singapore-2.html?utm_source=rss&utm_medium=rss&utm_campaign=the-polity-that-is-singapore-2)**  
+`Tyler Cowen` · 13 小时前  
+
 **[🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more](https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first)**  
-`Lenny Rachitsky` · 15 小时前  
+`Lenny Rachitsky` · 20 小时前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-579)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[Brookfield of Dreams](https://www.netinterest.co/p/brookfield-of-dreams)**  
-`Marc Rubinstein` · 20 小时前  
+`Marc Rubinstein` · 1 天前  
 
 **[The Age of Wonders and Terrors](https://marginalrevolution.com/marginalrevolution/2026/09/the-age-of-wonders-and-terrors.html?utm_source=rss&utm_medium=rss&utm_campaign=the-age-of-wonders-and-terrors)**  
 `Tyler Cowen` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[Saplings: The World Outside](https://www.generalist.com/p/saplings-the-world-outside)**  
 `Mario Gabriele` · 1 天前  
-
-**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-591)**  
-`Tyler Cowen` · 1 天前  
-
-**[Weekly Dose of Optimism #211](https://www.notboring.co/p/weekly-dose-of-optimism-211)**  
-`Packy McCormick` · 1 天前  
 
 <!-- POSTS:END -->
