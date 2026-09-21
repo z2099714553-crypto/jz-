@@ -112,22 +112,34 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-21 04:57 UTC*
+*更新于 2026-09-21 12:50 UTC*
+
+**[How Warp ships 2,000 PRs a month with AI factories \| Zach Lloyd (CEO, Warp)](https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with)**  
+`Lenny Rachitsky` · 刚刚  
+
+**[The Tragedy of Nikole Hannah-Jones](https://marginalrevolution.com/marginalrevolution/2026/09/the-tragedy-of-nikole-hannah-jones.html?utm_source=rss&utm_medium=rss&utm_campaign=the-tragedy-of-nikole-hannah-jones)**  
+`Tyler Cowen` · 1 小时前  
+
+**[Frontier Overhangs](https://stratechery.com/2026/frontier-overhangs/)**  
+`Ben Thompson` · 2 小时前  
+
+**[20VC: Why AI Cannot Replace Humans in Enterprise \| Why Work Processes Not Models Will Be The Most Valuable Asset in AI \| Why Europe Has Lost and Building in the US vs EU with Daniel Dines, UiPath](https://thetwentyminutevc.libsyn.com/20vc-why-ai-cannot-replace-humans-in-enterprise-why-work-processes-not-models-will-be-the-most-valuable-asset-in-ai-why-europe-has-lost-and-building-in-the-us-vs-eu-with-daniel-dines-uipath)**  
+`Harry Stebbings` · 5 小时前  
 
 **[Obama on agentic AI](https://marginalrevolution.com/marginalrevolution/2026/09/obama-on-agentic-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=obama-on-agentic-ai)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 8 小时前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-583)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 19 小时前  
 
 **[Muse](https://marginalrevolution.com/marginalrevolution/2026/09/muse.html?utm_source=rss&utm_medium=rss&utm_campaign=muse)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 21 小时前  
 
 **[90 minutes of unfiltered product advice from Snap and Discord’s product chief \| Peter Sellis](https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product)**  
-`Lenny Rachitsky` · 16 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[Empathy gaps](https://marginalrevolution.com/marginalrevolution/2026/09/empathy-gaps.html?utm_source=rss&utm_medium=rss&utm_campaign=empathy-gaps)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[UK productivity higher than we had thought](https://marginalrevolution.com/marginalrevolution/2026/09/uk-productivity-higher-than-we-had-thought.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-productivity-higher-than-we-had-thought)**  
 `Tyler Cowen` · 1 天前  
@@ -145,18 +157,6 @@ open docs/index.html
 `Marc Rubinstein` · 1 天前  
 
 **[The Age of Wonders and Terrors](https://marginalrevolution.com/marginalrevolution/2026/09/the-age-of-wonders-and-terrors.html?utm_source=rss&utm_medium=rss&utm_campaign=the-age-of-wonders-and-terrors)**  
-`Tyler Cowen` · 1 天前  
-
-**[20VC: "Anti-Data Centres is a Chinese Psyop" \| How Many Planned Data Centers Will Actually Get Built? \| Is Energy AI's Biggest Bottleneck? With Thomas Sohmers, Co-Founder @ Positron](https://thetwentyminutevc.libsyn.com/20vc-anti-data-centres-is-a-chinese-psyop-how-many-planned-data-centers-will-actually-get-built-is-energy-ais-biggest-bottleneck-with-thomas-sohmers-co-founder-positron)**  
-`Harry Stebbings` · 1 天前  
-
-**[Internet diffusion and religious decline?](https://marginalrevolution.com/marginalrevolution/2026/09/internet-diffusion-and-religious-decline.html?utm_source=rss&utm_medium=rss&utm_campaign=internet-diffusion-and-religious-decline)**  
-`Tyler Cowen` · 1 天前  
-
-**[Emergent Ventures India, 19th cohort](https://marginalrevolution.com/marginalrevolution/2026/09/emergent-ventures-india-19th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-19th-cohort)**  
-`Tyler Cowen` · 2 天前  
-
-**[Scott Beaulier interviews me, in part about Wyoming](https://marginalrevolution.com/marginalrevolution/2026/09/scott-beaulier-interviews-me-in-part-about-wyoming.html?utm_source=rss&utm_medium=rss&utm_campaign=scott-beaulier-interviews-me-in-part-about-wyoming)**  
 `Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
