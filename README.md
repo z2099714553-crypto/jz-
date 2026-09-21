@@ -112,28 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-21 12:50 UTC*
+*更新于 2026-09-21 20:00 UTC*
 
-**[How Warp ships 2,000 PRs a month with AI factories \| Zach Lloyd (CEO, Warp)](https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with)**  
-`Lenny Rachitsky` · 刚刚  
-
-**[The Tragedy of Nikole Hannah-Jones](https://marginalrevolution.com/marginalrevolution/2026/09/the-tragedy-of-nikole-hannah-jones.html?utm_source=rss&utm_medium=rss&utm_campaign=the-tragedy-of-nikole-hannah-jones)**  
+**[Further results on AI and labor market reallocation](https://marginalrevolution.com/marginalrevolution/2026/09/further-results-on-ai-and-labor-market-reallocation.html?utm_source=rss&utm_medium=rss&utm_campaign=further-results-on-ai-and-labor-market-reallocation)**  
 `Tyler Cowen` · 1 小时前  
 
-**[Frontier Overhangs](https://stratechery.com/2026/frontier-overhangs/)**  
-`Ben Thompson` · 2 小时前  
+**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-578)**  
+`Tyler Cowen` · 2 小时前  
 
-**[20VC: Why AI Cannot Replace Humans in Enterprise \| Why Work Processes Not Models Will Be The Most Valuable Asset in AI \| Why Europe Has Lost and Building in the US vs EU with Daniel Dines, UiPath](https://thetwentyminutevc.libsyn.com/20vc-why-ai-cannot-replace-humans-in-enterprise-why-work-processes-not-models-will-be-the-most-valuable-asset-in-ai-why-europe-has-lost-and-building-in-the-us-vs-eu-with-daniel-dines-uipath)**  
-`Harry Stebbings` · 5 小时前  
+**[🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories](https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp)**  
+`Lenny Rachitsky` · 4 小时前  
 
-**[Obama on agentic AI](https://marginalrevolution.com/marginalrevolution/2026/09/obama-on-agentic-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=obama-on-agentic-ai)**  
+**[How Warp ships 2,000 PRs a month with AI factories \| Zach Lloyd (CEO, Warp)](https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with)**  
+`Lenny Rachitsky` · 7 小时前  
+
+**[The Tragedy of Nikole Hannah-Jones](https://marginalrevolution.com/marginalrevolution/2026/09/the-tragedy-of-nikole-hannah-jones.html?utm_source=rss&utm_medium=rss&utm_campaign=the-tragedy-of-nikole-hannah-jones)**  
 `Tyler Cowen` · 8 小时前  
 
+**[Frontier Overhangs](https://stratechery.com/2026/frontier-overhangs/)**  
+`Ben Thompson` · 10 小时前  
+
+**[20VC: Why AI Cannot Replace Humans in Enterprise \| Why Work Processes Not Models Will Be The Most Valuable Asset in AI \| Why Europe Has Lost and Building in the US vs EU with Daniel Dines, UiPath](https://thetwentyminutevc.libsyn.com/20vc-why-ai-cannot-replace-humans-in-enterprise-why-work-processes-not-models-will-be-the-most-valuable-asset-in-ai-why-europe-has-lost-and-building-in-the-us-vs-eu-with-daniel-dines-uipath)**  
+`Harry Stebbings` · 12 小时前  
+
+**[Obama on agentic AI](https://marginalrevolution.com/marginalrevolution/2026/09/obama-on-agentic-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=obama-on-agentic-ai)**  
+`Tyler Cowen` · 15 小时前  
+
+**[AI Comes for the If Statement](https://tomtunguz.com/ai-comes-for-the-if-statement/)**  
+`Tomasz Tunguz` · 20 小时前  
+
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-583)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Muse](https://marginalrevolution.com/marginalrevolution/2026/09/muse.html?utm_source=rss&utm_medium=rss&utm_campaign=muse)**  
-`Tyler Cowen` · 21 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[90 minutes of unfiltered product advice from Snap and Discord’s product chief \| Peter Sellis](https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product)**  
 `Lenny Rachitsky` · 1 天前  
@@ -146,17 +158,5 @@ open docs/index.html
 
 **[The polity that is Singapore](https://marginalrevolution.com/marginalrevolution/2026/09/the-polity-that-is-singapore-2.html?utm_source=rss&utm_medium=rss&utm_campaign=the-polity-that-is-singapore-2)**  
 `Tyler Cowen` · 1 天前  
-
-**[🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more](https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first)**  
-`Lenny Rachitsky` · 1 天前  
-
-**[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-579)**  
-`Tyler Cowen` · 1 天前  
-
-**[Brookfield of Dreams](https://www.netinterest.co/p/brookfield-of-dreams)**  
-`Marc Rubinstein` · 1 天前  
-
-**[The Age of Wonders and Terrors](https://marginalrevolution.com/marginalrevolution/2026/09/the-age-of-wonders-and-terrors.html?utm_source=rss&utm_medium=rss&utm_campaign=the-age-of-wonders-and-terrors)**  
-`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
