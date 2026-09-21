@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-09-20T23:15:42Z",
-  "count": 193,
+  "generated_at": "2026-09-21T04:57:25Z",
+  "count": 194,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/obama-on-agentic-ai.html",
+      "title": "Obama on agentic AI",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/obama-on-agentic-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=obama-on-agentic-ai",
+      "published": "2026-09-21T04:11:54Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Obama recently said :\n\n If we are thinking about AI just in terms of how do we cure cancer or get better energy, you can do that without having agentic AI and having it just roaming free in the internet. \n \n As Roon noted : this sounds completely incoherent to me \n\n From Rob Saker :\n\n An agent is a system that can plan, use tools, write code, query data, run experiments, check its own work, and keep going. That is how the work gets done. Treating “agentic” as optional decoration, as if the serious version of AI is a polite chatbot locked in a box while the unserious version “roams free on the internet”, is the kind of sentence you write when you’ve heard the buzzwords and never watched a lab actually use the technology. You do not cure cancer with a model that only answers questions. You cure cancer with systems that can read the literature, propose hypotheses, design assays, analyze results, rewrite the next experiment, and do that loop a thousand times faster than a human postdoc. That loop is agentic. Strip the agency out and you are left with a very expensive autocomplete.\n \n I agree with those points, but my main concern is different. How would we enforce such a prohibition on commercial agents? Set up a Chinese-like firewall that bans Americans from accessing sites with foreign agents? Monitor all those sites over time, so we know which suppliers to ban? Ban VPN as well? Give our government the power to inspect hard drives, in case agentic functions might be embedded there? Set up FBI phishes, luring Americans in with the prospect of agent access from abroad, and then arresting them, as we do with child ****?\n\n Something else? How about insisting that all American (and foreign?) web sites set up tough captcha problems, so that agents may not be used (ha ha)?\n\n You might also ask how an AI agent is to be defined, after all even O3 had some agentic abilities, such as opening up museum web sites to see which exhibits are on. Is it typing things into boxes and filling out forms that is to be prohibited? How much regulation of software would that require, how would that regulation actually occur, and what else would end up being restricted?\n\n I do not think Obama intends to be supporting massive restrictions on freedom of speech and civil liberties. Rather this is a good example of how some political factions will simply have ideas about what might be good, without having freedom concerns or for that matter practicality and civil liberties concerns center of mind in the first place.\n\n And this would cause the immediate bankruptcy of both Anthropic and OpenAI, right?\n\n I can readily imagine that, upon the advent of agentic AI, we need some significant changes in our cyber laws. Now would be a good time to both commission and also cite some peer-reviewed academic literature on this matter!? That is not an impossible thing to do, yet our public discourse seems oddly resistant to the notion.\n\n The post Obama on agentic AI appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-21T04:57:13Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-583.html",
       "title": "Sunday assorted links",
