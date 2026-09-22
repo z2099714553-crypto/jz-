@@ -112,28 +112,34 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-22 16:58 UTC*
+*更新于 2026-09-22 21:20 UTC*
+
+**[I left Claude for months. Opus 5.5 is why I'm back](https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55)**  
+`Lenny Rachitsky` · 2 小时前  
+
+**[The economics of late grandmotherhood](https://marginalrevolution.com/marginalrevolution/2026/09/the-economics-of-late-grandmotherhood.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-late-grandmotherhood)**  
+`Tyler Cowen` · 2 小时前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-587)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 5 小时前  
 
 **[Advanced evals: How to find (and fix) hidden AI failures in your product](https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix)**  
-`Lenny Rachitsky` · 4 小时前  
+`Lenny Rachitsky` · 8 小时前  
 
 **[Dartmouth Provost okie-dokie](https://marginalrevolution.com/marginalrevolution/2026/09/dartmouth-provost-okie-dokie.html?utm_source=rss&utm_medium=rss&utm_campaign=dartmouth-provost-okie-dokie)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 9 小时前  
 
 **[Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator](https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/)**  
-`Ben Thompson` · 6 小时前  
+`Ben Thompson` · 11 小时前  
 
 **[Banning self-recursive improvement in AI models?](https://marginalrevolution.com/marginalrevolution/2026/09/banning-self-recursive-improvement-in-ai-models.html?utm_source=rss&utm_medium=rss&utm_campaign=banning-self-recursive-improvement-in-ai-models)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[Further results on AI and labor market reallocation](https://marginalrevolution.com/marginalrevolution/2026/09/further-results-on-ai-and-labor-market-reallocation.html?utm_source=rss&utm_medium=rss&utm_campaign=further-results-on-ai-and-labor-market-reallocation)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-578)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories](https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp)**  
 `Lenny Rachitsky` · 1 天前  
@@ -151,12 +157,6 @@ open docs/index.html
 `Harry Stebbings` · 1 天前  
 
 **[Obama on agentic AI](https://marginalrevolution.com/marginalrevolution/2026/09/obama-on-agentic-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=obama-on-agentic-ai)**  
-`Tyler Cowen` · 1 天前  
-
-**[AI Comes for the If Statement](https://tomtunguz.com/ai-comes-for-the-if-statement/)**  
-`Tomasz Tunguz` · 1 天前  
-
-**[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-583)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
