@@ -112,34 +112,34 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-21 20:00 UTC*
+*更新于 2026-09-22 00:08 UTC*
 
 **[Further results on AI and labor market reallocation](https://marginalrevolution.com/marginalrevolution/2026/09/further-results-on-ai-and-labor-market-reallocation.html?utm_source=rss&utm_medium=rss&utm_campaign=further-results-on-ai-and-labor-market-reallocation)**  
-`Tyler Cowen` · 1 小时前  
+`Tyler Cowen` · 5 小时前  
 
 **[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-578)**  
-`Tyler Cowen` · 2 小时前  
+`Tyler Cowen` · 6 小时前  
 
 **[🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories](https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp)**  
-`Lenny Rachitsky` · 4 小时前  
+`Lenny Rachitsky` · 9 小时前  
 
 **[How Warp ships 2,000 PRs a month with AI factories \| Zach Lloyd (CEO, Warp)](https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with)**  
-`Lenny Rachitsky` · 7 小时前  
+`Lenny Rachitsky` · 12 小时前  
 
 **[The Tragedy of Nikole Hannah-Jones](https://marginalrevolution.com/marginalrevolution/2026/09/the-tragedy-of-nikole-hannah-jones.html?utm_source=rss&utm_medium=rss&utm_campaign=the-tragedy-of-nikole-hannah-jones)**  
-`Tyler Cowen` · 8 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[Frontier Overhangs](https://stratechery.com/2026/frontier-overhangs/)**  
-`Ben Thompson` · 10 小时前  
+`Ben Thompson` · 14 小时前  
 
 **[20VC: Why AI Cannot Replace Humans in Enterprise \| Why Work Processes Not Models Will Be The Most Valuable Asset in AI \| Why Europe Has Lost and Building in the US vs EU with Daniel Dines, UiPath](https://thetwentyminutevc.libsyn.com/20vc-why-ai-cannot-replace-humans-in-enterprise-why-work-processes-not-models-will-be-the-most-valuable-asset-in-ai-why-europe-has-lost-and-building-in-the-us-vs-eu-with-daniel-dines-uipath)**  
-`Harry Stebbings` · 12 小时前  
+`Harry Stebbings` · 17 小时前  
 
 **[Obama on agentic AI](https://marginalrevolution.com/marginalrevolution/2026/09/obama-on-agentic-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=obama-on-agentic-ai)**  
-`Tyler Cowen` · 15 小时前  
+`Tyler Cowen` · 19 小时前  
 
 **[AI Comes for the If Statement](https://tomtunguz.com/ai-comes-for-the-if-statement/)**  
-`Tomasz Tunguz` · 20 小时前  
+`Tomasz Tunguz` · 1 天前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-583)**  
 `Tyler Cowen` · 1 天前  
