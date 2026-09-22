@@ -112,25 +112,34 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-22 11:40 UTC*
+*更新于 2026-09-22 16:58 UTC*
+
+**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-587)**  
+`Tyler Cowen` · 刚刚  
+
+**[Advanced evals: How to find (and fix) hidden AI failures in your product](https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix)**  
+`Lenny Rachitsky` · 4 小时前  
+
+**[Dartmouth Provost okie-dokie](https://marginalrevolution.com/marginalrevolution/2026/09/dartmouth-provost-okie-dokie.html?utm_source=rss&utm_medium=rss&utm_campaign=dartmouth-provost-okie-dokie)**  
+`Tyler Cowen` · 4 小时前  
 
 **[Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator](https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/)**  
-`Ben Thompson` · 1 小时前  
+`Ben Thompson` · 6 小时前  
 
 **[Banning self-recursive improvement in AI models?](https://marginalrevolution.com/marginalrevolution/2026/09/banning-self-recursive-improvement-in-ai-models.html?utm_source=rss&utm_medium=rss&utm_campaign=banning-self-recursive-improvement-in-ai-models)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[Further results on AI and labor market reallocation](https://marginalrevolution.com/marginalrevolution/2026/09/further-results-on-ai-and-labor-market-reallocation.html?utm_source=rss&utm_medium=rss&utm_campaign=further-results-on-ai-and-labor-market-reallocation)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-578)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories](https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp)**  
-`Lenny Rachitsky` · 20 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[How Warp ships 2,000 PRs a month with AI factories \| Zach Lloyd (CEO, Warp)](https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with)**  
-`Lenny Rachitsky` · 23 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[The Tragedy of Nikole Hannah-Jones](https://marginalrevolution.com/marginalrevolution/2026/09/the-tragedy-of-nikole-hannah-jones.html?utm_source=rss&utm_medium=rss&utm_campaign=the-tragedy-of-nikole-hannah-jones)**  
 `Tyler Cowen` · 1 天前  
@@ -149,14 +158,5 @@ open docs/index.html
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-583)**  
 `Tyler Cowen` · 1 天前  
-
-**[Muse](https://marginalrevolution.com/marginalrevolution/2026/09/muse.html?utm_source=rss&utm_medium=rss&utm_campaign=muse)**  
-`Tyler Cowen` · 1 天前  
-
-**[90 minutes of unfiltered product advice from Snap and Discord’s product chief \| Peter Sellis](https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product)**  
-`Lenny Rachitsky` · 1 天前  
-
-**[Empathy gaps](https://marginalrevolution.com/marginalrevolution/2026/09/empathy-gaps.html?utm_source=rss&utm_medium=rss&utm_campaign=empathy-gaps)**  
-`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
