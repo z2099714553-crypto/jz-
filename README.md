@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-23 11:38 UTC*
+*更新于 2026-09-23 17:00 UTC*
+
+**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-572)**  
+`Tyler Cowen` · 1 小时前  
+
+**[Would We Send Our Kids to HAA?](https://www.notboring.co/p/haa)**  
+`Packy McCormick` · 3 小时前  
 
 **[The Price of Intelligence is Falling Rapidly](https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html?utm_source=rss&utm_medium=rss&utm_campaign=the-price-of-intelligence-is-falling)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 5 小时前  
 
 **[Gita Gopinath on Trade, Currencies, and Economic Transformation](https://cowenconvos.libsyn.com/gita-gopinath-on-trade-currencies-and-economic-transformation)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 5 小时前  
 
 **[More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?](https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/)**  
-`Ben Thompson` · 1 小时前  
+`Ben Thompson` · 7 小时前  
 
 **[What I’ve been reading](https://marginalrevolution.com/marginalrevolution/2026/09/what-ive-been-reading-295.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-295)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[Muse is having a moment](https://www.platformer.news/meta-muse-consumer-agents/)**  
-`Casey Newton` · 11 小时前  
+`Casey Newton` · 16 小时前  
 
 **[Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?](https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model)**  
-`Lenny Rachitsky` · 12 小时前  
+`Lenny Rachitsky` · 17 小时前  
 
 **[I left Claude for months. Opus 5.5 is why I'm back](https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55)**  
-`Lenny Rachitsky` · 16 小时前  
+`Lenny Rachitsky` · 21 小时前  
 
 **[The economics of late grandmotherhood](https://marginalrevolution.com/marginalrevolution/2026/09/the-economics-of-late-grandmotherhood.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-late-grandmotherhood)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-587)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Advanced evals: How to find (and fix) hidden AI failures in your product](https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix)**  
-`Lenny Rachitsky` · 22 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[Dartmouth Provost okie-dokie](https://marginalrevolution.com/marginalrevolution/2026/09/dartmouth-provost-okie-dokie.html?utm_source=rss&utm_medium=rss&utm_campaign=dartmouth-provost-okie-dokie)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator](https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/)**  
 `Ben Thompson` · 1 天前  
 
 **[Banning self-recursive improvement in AI models?](https://marginalrevolution.com/marginalrevolution/2026/09/banning-self-recursive-improvement-in-ai-models.html?utm_source=rss&utm_medium=rss&utm_campaign=banning-self-recursive-improvement-in-ai-models)**  
-`Tyler Cowen` · 1 天前  
-
-**[Further results on AI and labor market reallocation](https://marginalrevolution.com/marginalrevolution/2026/09/further-results-on-ai-and-labor-market-reallocation.html?utm_source=rss&utm_medium=rss&utm_campaign=further-results-on-ai-and-labor-market-reallocation)**  
-`Tyler Cowen` · 1 天前  
-
-**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-578)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
