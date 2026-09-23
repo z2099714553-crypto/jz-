@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-09-23T17:00:12Z",
-  "count": 217,
+  "generated_at": "2026-09-23T21:30:56Z",
+  "count": 219,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/optimal-liability-for-offensive-and-defensive-ai.html",
+      "title": "Optimal liability for offensive and defensive AI",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/optimal-liability-for-offensive-and-defensive-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=optimal-liability-for-offensive-and-defensive-ai",
+      "published": "2026-09-23T18:03:36Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "How much liability should AI providers bear when their services enable both attack and defence? Liability can improve welfare while increasing harm. Providers sell a common input to productive users, attackers and defenders. Within a defended contest, a higher common price reduces effort without changing attack success or attacker profits, saving resources and improving the target s security payoff. Compensation weakens defence and raises attacker profits. Optimal liability balances these effects against productive exclusion. Greater competition can lower optimal liability; every such decline must end at an outcome retaining defence. With cybersecurity access fixed, monopoly can warrant partial liability but never full liability when provision is worthwhile. When guardrails preserving productive uses are available, strong competition favours universal guarding socially but encourages unilateral removal at insufficient liability. At a fixed provider count, sufficiently many productive users ensure a pure equilibrium with universal guarding under high liability. A universal-guarding requirement makes liability redundant. Under monopoly, adoption follows a unique liability threshold, while zero liability remains uniquely optimal for a range of parameters with sufficiently many productive users.\n \n That is from a new paper by Joshua Gans .\n\n The post Optimal liability for offensive and defensive AI appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-23T21:30:41Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-572.html",
       "title": "Wednesday assorted links",
@@ -113,6 +129,22 @@
       "type": "blog",
       "raw_text": "Are consumer agents the future — or a mirage?",
       "fetched_at": "2026-09-23T04:46:07Z"
+    },
+    {
+      "id": "https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle",
+      "title": "The Most Important Market in AI is the Middle",
+      "link": "https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle/",
+      "published": "2026-09-23T00:00:00Z",
+      "source": "Tomasz Tunguz",
+      "author": "Tomasz Tunguz",
+      "lang": "en",
+      "tags": [
+        "SaaS",
+        "数据分析"
+      ],
+      "type": "blog",
+      "raw_text": "Yesterday, Anthropic released a new model & cut its price. Ninety minutes later, OpenAI did the same.\n\n Most business AI use is the messy middle: multi-step workflows that need a smart enough model at a price a company can afford. It is the most important part of the market today, & it is where the competition is fiercest. The price cuts are the evidence.\n\n In June, Anthropic set the frontier price at $10 & $50 per million tokens with Fable 5. In July, OpenAI answered with GPT-5.6 Sol at $5 & $30, matching that capability at a third of the cost per task.\n\n The Opus line had never moved. Opus 4.5, 4, 4.8 & 5 all listed at $5 & $25 per million tokens. Yesterday&rsquo;s cut was the first.\n\n It is even more extreme at the low end. OpenAI cut Luna by 80% in July, then cut it another 50% yesterday.\n\n More than just closed source rivalry, open models deflate prices too. The generics on the AI grocery aisle run a majority of token volume on the gateways that publish data, at an 86% discount to the blended price of closed models.\n\n Large customers pursue even greater savings with fine tuning. Cursor&rsquo;s Composer 2 fine tuned Kimi K2.5, an open-weight base, cutting its overall cost 86% against its previous in-house model. Harvey did the same, cutting cost per cell 55% against Sonnet 5 while scoring higher than Fable 5.\n\n But the right tail of the market is thinner than almost anyone forecast. Anthropic&rsquo;s Fable 5.1, its most capable & most expensive model, commanded only 3.7% of gateway spending in its first twelve days. Its predecessor peaked at 13.2% when access was restored in July, then fell to 4.9% a month later when Opus 5 shipped at half the price. Among large corporate accounts, frontier models fell from 53% of token consumption in early August to 45% by September.\n\n Demand for intelligence is not a pyramid with a small, wealthy peak paying for everything beneath it. It is a normal distribution with a fat middle. The middle buys intelligence per dollar.\n\n Intelligence costs keep plummeting. What enterprises demand from AI does not change nearly as fast. So the tier that satisfies a fixed requirement keeps getting cheaper.\n\n As intelligence per dollar explodes, the distribution of tokens may shift to commodity. Whether that happens will determine the economics of the AI market.",
+      "fetched_at": "2026-09-23T21:30:42Z"
     },
     {
       "id": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
