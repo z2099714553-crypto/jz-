@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-09-23T04:46:23Z",
-  "count": 212,
+  "generated_at": "2026-09-23T11:38:24Z",
+  "count": 215,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html",
+      "title": "The Price of Intelligence is Falling Rapidly",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html?utm_source=rss&utm_medium=rss&utm_campaign=the-price-of-intelligence-is-falling",
+      "published": "2026-09-23T11:17:32Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "An amazing Epoch AI report from Emberson and Roodman:\n\n Over the past three years, the cost of a given level of AI performance has fallen an average of some 47% per quarter. That is a 13-fold drop every year – a faster rate than any other transformative technology in history.\n\n To give an example, OpenAI o3 cost about $0.30/question to attain 75% on GPQA Diamond in January 2025, while GPT-5.6 Luna attained roughly the same score for $0.0004 in mid-2026—a roughly 725-fold decline in under 18 months.\n\n Thus, it’s not just that the models are getting smarter. A given level of intelligence is also requiring dramatically less inference expenditure. This is one reason the open-model threat is not as large as it appears: frontier models don’t merely outperform older models; they are rapidly becoming cheaper to run at any given level of performance. Smarter and cheaper.\n\n The post The Price of Intelligence is Falling Rapidly appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-23T11:38:12Z"
+    },
+    {
+      "id": "https://cowenconvos.libsyn.com/gita-gopinath-on-trade-currencies-and-economic-transformation",
+      "title": "Gita Gopinath on Trade, Currencies, and Economic Transformation",
+      "link": "https://cowenconvos.libsyn.com/gita-gopinath-on-trade-currencies-and-economic-transformation",
+      "published": "2026-09-23T11:13:00Z",
+      "source": "Conversations with Tyler",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "深度访谈",
+        "经济学"
+      ],
+      "type": "interview",
+      "raw_text": "Gita Gopinath has spent the last several years inside the room where the world's monetary plumbing gets fixed — or doesn't. As first deputy managing director of the IMF and, before that, the Fund's chief economist, she worked on sovereign debt restructuring, followed Argentina's disinflation up close, and built her academic reputation on ideas like dollar dominance and the dominant currency paradigm. Now back at Harvard launching a new Global Economics Lab, her conversation with Tyler ranges from why exchange rates don't adjust the way models predict, to what stablecoins really cost, to whether AI's growth dividend will show up on schedule.\n Tyler and Gita discuss why trade balances are only weakly related to real exchange rates, before turning to Argentina, Milei's fiscal discipline, the peso, and dollarization. Then they discuss whether economists got the euro wrong; whether trade imbalances with China are really the problem; stablecoins, CBDCs, and the Treasury market; and whether AI will ease the debt burden, cause stagflation, or transform economics itself. Finally, they turn to her family's Kerala roots: why the state keeps electing communists, the relationship between matriarchy and social indicators, single-sex education, and what she's building next.\n Read a transcript enhanced with helpful links, or watch the full video on YouTube.\n Recorded August 27th, 2026. \n Other ways to connect\n Follow us on X and Instagram \n Follow Tyler on X\n Follow Gita on X\n Sign up for our newsletter \n Join our Discord \n Email us: cowenconvos@mercatus.gmu.edu \n Learn more about Conversations with Tyler and other Mercatus Center podcasts here .\n Timestamps:\n 00:00:00 - Intro\n 00:00:57 - On why currencies don't adjust the way models predict\n 00:15:46 - On Argentina after triple-digit inflation\n 00:26:05 - On living with the euro\n 00:28:50 - On China's problematic surpluses\n 00:34:02 - On digital currencies\n 00:39:33 - On AI and the productivity question\n 00:48:51 - On why Kerala keeps electing communists\n 00:52:52 - On what comes next\n 00:55:15 - Outro",
+      "fetched_at": "2026-09-23T11:38:17Z"
+    },
+    {
+      "id": "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google",
+      "title": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
+      "link": "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/",
+      "published": "2026-09-23T10:00:00Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "Meta needs Walmart to wait out Amazon; Expedia seeks to keep its middleware position; meanwhile, where is Google?",
+      "fetched_at": "2026-09-23T11:38:12Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/09/what-ive-been-reading-295.html",
       "title": "What I’ve been reading",
