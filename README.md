@@ -112,28 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-22 21:20 UTC*
+*更新于 2026-09-23 04:46 UTC*
+
+**[What I’ve been reading](https://marginalrevolution.com/marginalrevolution/2026/09/what-ive-been-reading-295.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-295)**  
+`Tyler Cowen` · 刚刚  
+
+**[Muse is having a moment](https://www.platformer.news/meta-muse-consumer-agents/)**  
+`Casey Newton` · 4 小时前  
+
+**[Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?](https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model)**  
+`Lenny Rachitsky` · 5 小时前  
 
 **[I left Claude for months. Opus 5.5 is why I'm back](https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55)**  
-`Lenny Rachitsky` · 2 小时前  
+`Lenny Rachitsky` · 9 小时前  
 
 **[The economics of late grandmotherhood](https://marginalrevolution.com/marginalrevolution/2026/09/the-economics-of-late-grandmotherhood.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-late-grandmotherhood)**  
-`Tyler Cowen` · 2 小时前  
-
-**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-587)**  
-`Tyler Cowen` · 5 小时前  
-
-**[Advanced evals: How to find (and fix) hidden AI failures in your product](https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix)**  
-`Lenny Rachitsky` · 8 小时前  
-
-**[Dartmouth Provost okie-dokie](https://marginalrevolution.com/marginalrevolution/2026/09/dartmouth-provost-okie-dokie.html?utm_source=rss&utm_medium=rss&utm_campaign=dartmouth-provost-okie-dokie)**  
 `Tyler Cowen` · 9 小时前  
 
+**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-587)**  
+`Tyler Cowen` · 12 小时前  
+
+**[Advanced evals: How to find (and fix) hidden AI failures in your product](https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix)**  
+`Lenny Rachitsky` · 16 小时前  
+
+**[Dartmouth Provost okie-dokie](https://marginalrevolution.com/marginalrevolution/2026/09/dartmouth-provost-okie-dokie.html?utm_source=rss&utm_medium=rss&utm_campaign=dartmouth-provost-okie-dokie)**  
+`Tyler Cowen` · 16 小时前  
+
 **[Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator](https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/)**  
-`Ben Thompson` · 11 小时前  
+`Ben Thompson` · 18 小时前  
 
 **[Banning self-recursive improvement in AI models?](https://marginalrevolution.com/marginalrevolution/2026/09/banning-self-recursive-improvement-in-ai-models.html?utm_source=rss&utm_medium=rss&utm_campaign=banning-self-recursive-improvement-in-ai-models)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Further results on AI and labor market reallocation](https://marginalrevolution.com/marginalrevolution/2026/09/further-results-on-ai-and-labor-market-reallocation.html?utm_source=rss&utm_medium=rss&utm_campaign=further-results-on-ai-and-labor-market-reallocation)**  
 `Tyler Cowen` · 1 天前  
@@ -148,15 +157,6 @@ open docs/index.html
 `Lenny Rachitsky` · 1 天前  
 
 **[The Tragedy of Nikole Hannah-Jones](https://marginalrevolution.com/marginalrevolution/2026/09/the-tragedy-of-nikole-hannah-jones.html?utm_source=rss&utm_medium=rss&utm_campaign=the-tragedy-of-nikole-hannah-jones)**  
-`Tyler Cowen` · 1 天前  
-
-**[Frontier Overhangs](https://stratechery.com/2026/frontier-overhangs/)**  
-`Ben Thompson` · 1 天前  
-
-**[20VC: Why AI Cannot Replace Humans in Enterprise \| Why Work Processes Not Models Will Be The Most Valuable Asset in AI \| Why Europe Has Lost and Building in the US vs EU with Daniel Dines, UiPath](https://thetwentyminutevc.libsyn.com/20vc-why-ai-cannot-replace-humans-in-enterprise-why-work-processes-not-models-will-be-the-most-valuable-asset-in-ai-why-europe-has-lost-and-building-in-the-us-vs-eu-with-daniel-dines-uipath)**  
-`Harry Stebbings` · 1 天前  
-
-**[Obama on agentic AI](https://marginalrevolution.com/marginalrevolution/2026/09/obama-on-agentic-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=obama-on-agentic-ai)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->

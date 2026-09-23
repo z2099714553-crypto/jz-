@@ -1,7 +1,56 @@
 {
-  "generated_at": "2026-09-22T21:20:24Z",
-  "count": 209,
+  "generated_at": "2026-09-23T04:46:23Z",
+  "count": 212,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/what-ive-been-reading-295.html",
+      "title": "What I’ve been reading",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/what-ive-been-reading-295.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-295",
+      "published": "2026-09-23T04:40:51Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "1. Constance Reid, Hilbert . We should all be reading more mathematics these days, right? Because the field is on fire. Hilbert is not a bad place to start, and I found this book clear and biographical in a good way. It is less on the math and more closely tied to broader German history. Soon to come is Jeremy J. Gray, The Hilbert Challenge.\n\n 2. Ben Buchanan and Tantum Collins, The Bitter Struggle: Superintelligence, Superpowers, and the Fate of the World . This will become the standard source on the history of chip bans, the surrounding technological developments, and chip and AI policy under the Biden administration. Written by the people who were there.\n\n 3. Jeanna Smialek, The Invisible Hand of Maria Edgeworth: How a Nineteenth-Century Novelist Taught the World Economics . Maria Edgeworth was an Anglo-Irish writer and novelist, Castle Rackrent being my favorite book by her. This study of her work is excellent and much-needed.\n\n 4. Anton Jä g er Hyperpolitics: Extreme Politicization without Political Consequences . I am sorry, but this book just isn t very good. The title and subtitle are spot on, but the author just does not have enough accurate factual knowledge about the world.\n\n 5. Robert Alter, The Language of Fiction: The Craft of Writing and the Pleasures of Reading . A wonderful short take on why reading fiction is so worthwhile. As one might expect, Alter has exquisite taste. The last two pages of the work are marred by some not very good comments about LLMs, but overall this is excellent.\n\n There is Ed Conway, Trade World: The Ties that Bound Our Past and May Unravel Our Future .\n\n Owen Zidar and Eric Zwick, The Everywhere Millionaire: Who is Really Rich in America and How They Got There . Not a b.s. whiner sort of book, based on real data and written by real economists.\n\n Matthew Botvinick, AI & Political Freedom: The Risk to Democracy and How to Respond , contains plenty of analysis and social science. The author is now with Anthropic.\n\n And Branko Milanovic, The Great Global Transformation: The United States, China, and the Remaking of the World Economic Order . I find his concept of National Market Liberalism useful.\n\n The post What I ve been reading appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-23T04:46:06Z"
+    },
+    {
+      "id": "https://www.platformer.news/meta-muse-consumer-agents",
+      "title": "Muse is having a moment",
+      "link": "https://www.platformer.news/meta-muse-consumer-agents/",
+      "published": "2026-09-23T00:25:13Z",
+      "source": "Platformer",
+      "author": "Casey Newton",
+      "lang": "en",
+      "tags": [
+        "平台经济",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "Are consumer agents the future — or a mirage?",
+      "fetched_at": "2026-09-23T04:46:07Z"
+    },
+    {
+      "id": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
+      "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
+      "link": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
+      "published": "2026-09-22T23:12:49Z",
+      "source": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "lang": "en",
+      "tags": [
+        "产品",
+        "增长",
+        "访谈"
+      ],
+      "type": "interview",
+      "raw_text": "Listen or watch on YouTube , Spotify , or Apple Podcasts \n\n I got up early to record an Opus 5.5 review. Then Anthropic and OpenAI dropped new models on the same morning, and I decided to do something I d never done before: take the How I AI bench live. I put GPT-6 Astra, GPT-6 Sol, Claude Opus 5.5, and more through the work I actually care about: emails, PRDs, frontend prototypes, backend work, long-running agents, SVGs, and video editing. I scored the outputs without knowing which model made them, so you get to watch me make predictions, change my mind, and reveal my own very inconsistent taste. Astra won my heart. Opus 5.5 won my week. Sol still has me split. There s a creative result I got completely wrong, an LLM judge that disagreed with me, and a return to Barbie Bench: the 3D fashion game that keeps reminding me how far we have to go. The hands are tragic. AGI has not arrived.\n \n What you ll learn: How I run the How I AI bench blind, and what gets an output a bad score before I even know which model made it \n\n Why Astra won my heart while Opus 5.5 might be overall strongest, especially for long-running agents and B2B frontend \n\n Where Sol still wins me over on clear writing, readable PRDs, and price \n\n The character SVG results that completely overturned my prediction about Anthropic \n\n What happened when I asked these models to edit video, and why I think skills explain part of the disappointment \n\n Why an LLM judge disagreed with my rankings, and what it was rewarding that I wasn t \n\n In this episode, we cover: ( 00:00 ) LIVE setup and new model launches\n ( 01:30 ) What s new in Opus 5.5, Sol, and Luna\n ( 04:11 ) Guardrails, personality, and speed\n ( 09:00 ) The How I AI bench and blind evaluation process\n ( 11:31 ) Email and personal-productivity results\n ( 13:50 ) Frontend prototype vibe checks\n ( 24:10 ) Backend, agent personality, and long-running tasks\n ( 28:25 ) SVG illustration test\n ( 29:48 ) AI video-editing results\n ( 30:43 ) Predictions before the reveal\n ( 31:20 ) Barbie Bench: the 3D fashion-game test\n ( 34:17 ) Results: Astra, Sol, and Opus 5.5\n ( 35:04 ) Writing clarity and creative surprises\n ( 36:51 ) Why the LLM judge disagreed with me\n ( 37:24 ) What each model is actually best for\n \n Tools referenced: Claude Opus 5.5: https://www.anthropic.com/claude-opus-5-5 \n GPT-6 Sol and Luna: https://openai.com/index/introducing-gpt-6-sol-and-luna/ \n Codex (OpenAI): https://openai.com/codex \n \n Where to find Claire Vo: ChatPRD: https://www.chatprd.ai/ \n Website: https://clairevo.com/ \n LinkedIn: https://www.linkedin.com/in/clairevo/ \n X: https://x.com/clairevo \n \n Production and marketing by https://penname.co/ . For inquiries about sponsoring the podcast, email jordan@penname.co.",
+      "fetched_at": "2026-09-23T04:46:08Z"
+    },
     {
       "id": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
       "title": "I left Claude for months. Opus 5.5 is why I'm back",
@@ -629,7 +678,7 @@
         "科技商业"
       ],
       "type": "interview",
-      "raw_text": "本期节目来自2026 Inclusion·外滩大会主论坛圆桌——“当Agent成为交易主体”。\n\nAgent的爆发不止于应用层，当应用不断涌现，底层的交易和支付方式也在被重写。今年的AI交易正沿着两条线同时展开：一条是Agent帮人完成任务，比如今年6月上线的AI版支付宝，一句话就能打车、点咖啡；另一条是Agent-to-Agent，比如两个月前，Mastercard发布了专为机器间支付设计的网络服务。\n\n当Agent从对话走向办事、从推荐走向交易，“信任”成了绕不开的关键词。它替你花出的每一分钱，都真的经过了你授权吗？发起交易的Agent究竟是谁？它的支付权限有多大？出了问题又该由谁负责？这些围绕授权、身份、权限、责任的一个个问题，决定了我们距离“钱包交给AI”有多远。\n\n 【主播】 \n\n泓君，硅谷101创始人，播客主理人\n\n 【嘉宾】 \n\n韩歆毅，蚂蚁集团CEO\n\nJorn Lambert，万事达卡首席产品官\n\n刘作虎，OPPO高级副总裁兼首席产品官\n\n周靖人，阿里巴巴集团首席科学家\n\n （Jorn Lambert先生的发言为后期中文配音呈现） \n\n 【你将听到】 \n\n04:25 “先有鸡还是先有蛋”：智能体商业为什么卡住了\n\n06:26 当Agent开始交易，支付网络一切都要彻底重写\n\n10:15 手机将成为意图入口、个人智能和主动智能\n\n12:34 模型还缺什么？长期上下文、提问能力与可靠执行\n\n16:00 信任基建：授权、身份、KYA、资金安全与可追溯\n\n19:59 手机厂商视角：能力信任、风险信任与A2A行为规范\n\n22:55 “普拉提课测试”，授权、沙箱与安全执行\n\n26:03 未来5年新商业机会：700亿Agent的商业想象\n\n28:44 一杯咖啡怎么选出来？大模型推荐机制拆解\n\n30:36 未来20年，手机仍是最核心设备吗\n\n31:15 A2A商业，海量微交易所需的支付轨道\n\n 【硅谷101年会来了，线下见】 \n\n10月10日—11日，我们将在【硅谷】举办Alignment 2026年度大会，从大模型、Agent、机器人到AI Infra，从实验室里的突破，到真实世界的商业化，我们直击AI变化最剧烈的前沿。 来自OpenAI、Anthropic、NVIDIA、Meta、Google DeepMind、SemiAnalysis、Cerebras等公司的研究者、创业者与投资人将齐聚现场，分享正在发生的机遇和挑战。 \n\n 报名链接 \n\n 【硅谷101听友群】 \n\n在这里，和同好一起深聊科技、商业与未来，期待你的声音，也期待更多有趣的讨论。\n\n扫码加入，即刻相遇！\n\n 【监制】 \n\n泓君\n\n 【后期】 \n\nAmei\n\n 【运营】 \n\n朱婕\n\n 【BGM】 \n\nStill Waiting For You STEMS INSTRUMENTS - Wave Saver\n\nSeven Daughters - Fabien Tell\n\nReclaim - Megan \n\n 【在这里找到我们】 \n\n公众号：硅谷101\n\n收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐\n\n其他平台：YouTube｜Bilibili 搜索「硅谷101播客」\n\n联系我们： podcast@sv101.net \n Special Guests: Jorn Lambert, 刘作虎, 周靖人, and 韩歆毅.",
+      "raw_text": "本期节目来自2026 Inclusion·外滩大会主论坛圆桌——“当Agent成为交易主体”。\n\nAgent的爆发不止于应用层，当应用不断涌现，底层的交易和支付方式也在被重写。今年的AI交易正沿着两条线同时展开：一条是Agent帮人完成任务，比如今年6月上线的AI版支付宝，一句话就能打车、点咖啡；另一条是Agent-to-Agent，比如两个月前，Mastercard发布了专为机器间支付设计的网络服务。\n\n当Agent从对话走向办事、从推荐走向交易，“信任”成了绕不开的关键词。它替你花出的每一分钱，都真的经过了你授权吗？发起交易的Agent究竟是谁？它的支付权限有多大？出了问题又该由谁负责？这些围绕授权、身份、权限、责任的一个个问题，决定了我们距离“钱包交给AI”有多远。\n\n 【主播】 \n\n泓君，硅谷101创始人，播客主理人\n\n 【嘉宾】 \n\n韩歆毅，蚂蚁集团CEO\n\nJorn Lambert，万事达卡首席产品官\n\n刘作虎，OPPO高级副总裁兼首席产品官\n\n周靖人，阿里巴巴集团首席科学家\n\n （Jorn Lambert先生的发言为后期中文配音呈现） \n\n 【你将听到】 \n\n04:25 “先有鸡还是先有蛋”：智能体商业为什么卡住了\n\n06:26 当Agent开始交易，支付网络一切都要彻底重写\n\n10:15 手机将成为意图入口、个人智能和主动智能\n\n12:34 模型还缺什么？长期上下文、提问能力与可靠执行\n\n16:00 信任基建：授权、身份、KYA、资金安全与可追溯\n\n19:59 手机厂商视角：能力信任、风险信任与A2A行为规范\n\n22:55 “普拉提课测试”，授权、沙箱与安全执行\n\n26:03 未来5年新商业机会：800亿Agent的商业想象\n\n28:44 一杯咖啡怎么选出来？大模型推荐机制拆解\n\n30:36 未来20年，手机仍是最核心设备吗\n\n31:15 A2A商业，海量微交易所需的支付轨道\n\n 【硅谷101年会来了，线下见】 \n\n10月10日—11日，我们将在【硅谷】举办Alignment 2026年度大会，从大模型、Agent、机器人到AI Infra，从实验室里的突破，到真实世界的商业化，我们直击AI变化最剧烈的前沿。 来自OpenAI、Anthropic、NVIDIA、Meta、Google DeepMind、SemiAnalysis、Cerebras等公司的研究者、创业者与投资人将齐聚现场，分享正在发生的机遇和挑战。 \n\n 报名链接 \n\n 【硅谷101听友群】 \n\n在这里，和同好一起深聊科技、商业与未来，期待你的声音，也期待更多有趣的讨论。\n\n扫码加入，即刻相遇！\n\n 【监制】 \n\n泓君\n\n 【后期】 \n\nAmei\n\n 【中文配音】 \n\ndaniel大牛\n\n 【运营】 \n\n朱婕\n\n 【BGM】 \n\nStill Waiting For You STEMS INSTRUMENTS - Wave Saver\n\nSeven Daughters - Fabien Tell\n\nReclaim - Megan \n\n 【在这里找到我们】 \n\n公众号：硅谷101\n\n收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐\n\n其他平台：YouTube｜Bilibili 搜索「硅谷101播客」\n\n联系我们： podcast@sv101.net \n Special Guests: Jorn Lambert, 刘作虎, 周靖人, and 韩歆毅.",
       "fetched_at": "2026-09-18T04:44:54Z"
     },
     {
