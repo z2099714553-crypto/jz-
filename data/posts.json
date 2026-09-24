@@ -1,7 +1,71 @@
 {
-  "generated_at": "2026-09-24T04:52:33Z",
-  "count": 223,
+  "generated_at": "2026-09-24T11:47:15Z",
+  "count": 227,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/ca-91326-a-public-choice-mystery-investigation.html",
+      "title": "CA 91326: A Public Choice Mystery Investigation",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/ca-91326-a-public-choice-mystery-investigation.html?utm_source=rss&utm_medium=rss&utm_campaign=ca-91326-a-public-choice-mystery-investigation",
+      "published": "2026-09-24T11:15:32Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Carl Danner writes to me with a political economy mystery. On Sept 9, 2026, The California Public Utilities Commission announced a set of clean energy grants but only for eligible organizations headquartered in ZIP Code 91326. \n\n I decided to investigate with ChatGPT. The first thing we discovered is that:\n\n The ZIP-code restriction is about the Aliso Canyon gas leak. More specifically, this is money ultimately intended to benefit residents of Porter Ranch and nearby communities affected by the 2015–16 Aliso Canyon disaster, not a generic clean-energy grant that happens to be located there.\n \n The Aliso Canyon gas leak was a big deal with thousands of families evacuated for months so it s not surprising that money is allocated to that problem but note that the grants are not for organization serving the people or region affected by the gas leak (which is much larger than zip 91326) but for an organization headquartered in ZIP Code 91326. I smelled a payoff. So I pushed ChatGPT to investigate:\n\n It may be [a payoff], but the evidence supports a narrower claim: the Round 3 rules look unusually tailored to make Save Porter Ranch a likely recipient.\n\n The strongest facts are:\n\n The legislature appropriated $2 million from the Aliso Canyon Recovery Account for CBO outreach in Los Angeles County, prioritizing a broad “Aliso Canyon Disaster Area” containing 11 communities—not Porter Ranch alone.\n\n CPUC’s first round distributed roughly $1.3 million through a normal competitive process across multiple organizations.\n\n For Round 3, CPUC suddenly restricts eligibility to organizations headquartered in the single ZIP code 91326 , with a maximum award of $75,000 and exclusion of previous recipients.\n\n Save Porter Ranch is headquartered at 19360 Rinaldi Street, Porter Ranch, CA 91326 and has been an active participant in CPUC proceedings concerning Aliso Canyon for years.\n\n That is suggestive because the legislative authorization itself does not appear to require this hyper-local 91326 restriction. It defines the relevant disaster area much more broadly. CPUC therefore seems to have exercised administrative discretion to create a tiny eligibility pool.\n\n I would distinguish three possibilities:\n\n Benign geographic set-aside: CPUC noticed that none of the first-round money had gone to an organization actually based in Porter Ranch and reserved the final $75,000 for a local group.\n\n De facto earmark: CPUC knew that Save Porter Ranch was one of very few qualifying CBOs in 91326 and wrote the eligibility rule sufficiently narrowly that it was highly likely to win.\n\n Quid pro quo/payoff: the money was deliberately directed to Save Porter Ranch in exchange for support, silence, settlement behavior, etc.\n\n We have substantial circumstantial evidence for #2 , but I have seen no evidence yet for #3 . Calling it a “payoff” requires some evidence about why CPUC created the ZIP restriction or about communications with Save Porter Ranch.\n\n I wasn t satisfied so I pushed the investigation deeper and ChatGPT investigated the legislative history. It found that\n\n The 91326 restriction did not originate with CPUC staff. The Legislature itself inserted it into the 2026 budget cleanup bill, and it is unusually specific .The evidence [for a payoff] is considerably stronger than I thought.\n\n If I were writing this up now, the sharp factual formulation would be: “In an August 2026 budget bill, the California Legislature quietly directed the CPUC to hold an otherwise-unplanned third grant round restricted to nonprofits headquartered in a single Porter Ranch ZIP code. One conspicuous beneficiary of that restriction is Save Porter Ranch, the local Aliso Canyon advocacy organization, which had previously helped lobby state officials over how Aliso Canyon penalty funds should be spent.” \n\n I then asked ChatGPT to look for overlap in Save Porter Ranch and CA legislatures, e.g. spouses, children, business partners. It replied:\n\n The strongest link is Richard Mathews. Save Porter Ranch’s IRS filings list Mathews as a director alongside Matt Pakucko and Kyoko Hibino. Mathews is also the longtime president of the North Valley Democratic Club. He previously served as a regional vice chair of the Los Angeles County Democratic Party and on the California Democratic Party executive board and its Legislation Committee.\n\n That puts a Save Porter Ranch director directly inside the local/state Democratic Party apparatus, not merely in occasional contact with elected officials.\n\n the Mathews connection is stronger than I expected. This isn t just an advocacy organization obtaining support from politicians. One of Save Porter Ranch’s three disclosed directors was simultaneously a fairly senior Democratic Party insider whose political club includes and supports legislators involved in the relevant legislative machinery. \n\n The missing piece remains the most important one: who requested the sentence “headquartered within ZIP Code 91326”? \n\n I enjoyed the fact that ChatGPT seems excited by the new discoveries! Digging deeper:\n\n That gives us a much tighter network than we had initially:\n\n Save Porter Ranch \n\n→ director Richard Mathews\n→ president, North Valley Democratic Club\n→ Schiavo and Gabriel are identified as club members / repeatedly endorsed by it\n→ Schiavo sits on Budget + Utilities & Energy and represents the affected area\n→ Gabriel chairs Assembly Budget\n→ August 28 Assembly budget amendments insert a bespoke ZIP-code restriction\n→ restriction makes Save Porter Ranch an unusually obvious potential recipient.\n\n There is another revealing feature. The amendment was handled as part of a budget-bill junior rather than through ordinary policy legislation. The public legislative history is extraordinarily thin: amendment August 28, withdrawn from committee August 30, passed August 31. Neither Gabriel s Assembly presentation nor Laird s Senate presentation told legislators that the “third round” was actually limited to one ZIP code . Gabriel merely said CPUC must offer “a third round of unspent funds”; Laird similarly described a third round “as specified.” The Assembly passed it 72–0 .\n\n That doesn t demonstrate corruption, but it is exactly how a highly localized legislative earmark can pass with effectively zero scrutiny.\n\n Alas, the remaining decisive evidence probably isn t indexed on the web. Still, you get the idea.\n\n Of course, this is small potatoes by the standards of California political/regulatory friends and families but it s a nice case study in political economy. How do we want government to work? Is this ethical? What if the sums were much larger? What if the funds went to an equally well-connected group but for a less justifiable cause? \n\n It s always surprised me that most public choice is not done in this micro-history way. My early paper on the Separation of Commercial and Investment Banking: The Morgans vs. The Rockefellers (which was inspired by Burch s magnificent Elites in American History which hardly any public choice scholars know) is one of the few examples. I could have done many more papers along those lines but archival history didn t appeal to me although I did learn a lot digging through Carter Glass s papers at UVA. I suppose economists like models and consider this sort of thing journalism or history at best.\n\n If you want more details on CA 91326 you can read my whole conversation with ChatGPT .\n\n The post CA 91326: A Public Choice Mystery Investigation appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-24T11:47:03Z"
+    },
+    {
+      "id": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg",
+      "title": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
+      "link": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/",
+      "published": "2026-09-24T10:00:00Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "An interview with Colossus EIC Jeremy Stern about profiling Mark Zuckerberg and other prominent tech figures.",
+      "fetched_at": "2026-09-24T11:47:03Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/fear-of-data.html",
+      "title": "*Fear of Data*",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/fear-of-data.html?utm_source=rss&utm_medium=rss&utm_campaign=fear-of-data",
+      "published": "2026-09-24T08:24:05Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "The author is Omri Ben-Shahar, and the subtitle is How Privacy Panic Led Tech Regulation Astray and How to Fix It . I would describe this book as bracing, and full of substantive engagement. Basically the author wishes to give privacy considerations less weight in social decisions. Excerpt:\n\n What is the concrete evidence for the benefits of facial recognition technology in investigation of human-trafficking crimes? I would love to have found global estimates of the magnitude of the trafficking victims rescued through the most advanced facial recognition methods but all I have is a collage of reports [reports are then described].\n \n One chapter is entitled The Futility of Personal Rights. Agree or not, this book is full of actual arguments, so I approve.\n\n The post *Fear of Data* appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-24T11:47:03Z"
+    },
+    {
+      "id": "https://thetwentyminutevc.libsyn.com/20vc-metas-muse-hits-no-1-chatgpt-finally-has-a-rival-menlo-sounds-the-ai-bubble-alarm-factory-triples-its-valuation-to-5-billion-keith-rabois-vs-airwallex-who-is-right-crusoes-39-billion-round-is-the-data-centre-trade-overheating",
+      "title": "20VC: Meta's Muse Hits No. 1. ChatGPT Finally Has a Rival | Menlo Sounds the AI Bubble Alarm | Factory Triples Its Valuation to $5 Billion | Keith Rabois vs Airwallex: Who is Right? | Crusoe's $3.9 Billion Round. Is the Data Centre Trade Overheating?",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-metas-muse-hits-no-1-chatgpt-finally-has-a-rival-menlo-sounds-the-ai-bubble-alarm-factory-triples-its-valuation-to-5-billion-keith-rabois-vs-airwallex-who-is-right-crusoes-39-billion-round-is-the-data-centre-trade-overheating",
+      "published": "2026-09-24T07:07:00Z",
+      "source": "20VC",
+      "author": "Harry Stebbings",
+      "lang": "en",
+      "tags": [
+        "创投",
+        "深度访谈"
+      ],
+      "type": "interview",
+      "raw_text": "AGENDA:\n 04:35 Anthropic's $2 Trillion IPO Delayed. Cracks in the AI Boom?\n 10:30 OpenAI Faces $278 Billion Cash Burn. Out of Money by 2028?\n 12:55 Meta's Muse Hits No. 1. ChatGPT Finally Has a Rival?\n 17:05 Amazon Blocks AI Shopping Agents. Shopify Welcomes Them.\n 24:10 ChatGPT Inventor Launches Jev. Vercel's Fastest Launch Ever.\n 34:15 A $40 Million Seed Round. Is Traditional Seed Investing Dead?\n 39:00 Menlo Sounds the AI Bubble Alarm. Harry Calls BS.\n 54:00 Factory Triples Its Valuation to $5 Billion. Coding Is the Mother Lode.\n 1:00:20 Legora Hits $200 Million ARR. Is $11 Billion Too Rich?\n 1:03:50 Crusoe's $3.9 Billion Round. Is the Data Centre Trade Overheating?\n 1:08:55 Keith Rabois vs Airwallex. Fintech's Feud Escalates.\n 1:16:40 Sydney Sweeney for Airwallex? Lemkin's Wild PR Plan.",
+      "fetched_at": "2026-09-24T11:47:15Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/09/my-economics-rich-conversation-with-gita-gopinath.html",
       "title": "My economics-rich Conversation with Gita Gopinath",
