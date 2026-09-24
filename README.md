@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-23 21:30 UTC*
+*更新于 2026-09-24 04:52 UTC*
+
+**[My economics-rich Conversation with Gita Gopinath](https://marginalrevolution.com/marginalrevolution/2026/09/my-economics-rich-conversation-with-gita-gopinath.html?utm_source=rss&utm_medium=rss&utm_campaign=my-economics-rich-conversation-with-gita-gopinath)**  
+`Tyler Cowen` · 刚刚  
+
+**[E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人](https://sv101.fireside.fm/266)**  
+`陈茜` · 4 小时前  
+
+**[182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」](https://podcast.latepost.com/182)**  
+`晚点团队` · 5 小时前  
+
+**[From the Master of Industrial Organization](https://marginalrevolution.com/marginalrevolution/2026/09/from-the-master-of-industrial-organization.html?utm_source=rss&utm_medium=rss&utm_campaign=from-the-master-of-industrial-organization)**  
+`Tyler Cowen` · 7 小时前  
 
 **[Optimal liability for offensive and defensive AI](https://marginalrevolution.com/marginalrevolution/2026/09/optimal-liability-for-offensive-and-defensive-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=optimal-liability-for-offensive-and-defensive-ai)**  
-`Tyler Cowen` · 3 小时前  
+`Tyler Cowen` · 10 小时前  
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-572)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 13 小时前  
 
 **[Would We Send Our Kids to HAA?](https://www.notboring.co/p/haa)**  
-`Packy McCormick` · 7 小时前  
+`Packy McCormick` · 15 小时前  
 
 **[The Price of Intelligence is Falling Rapidly](https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html?utm_source=rss&utm_medium=rss&utm_campaign=the-price-of-intelligence-is-falling)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[Gita Gopinath on Trade, Currencies, and Economic Transformation](https://cowenconvos.libsyn.com/gita-gopinath-on-trade-currencies-and-economic-transformation)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?](https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/)**  
-`Ben Thompson` · 11 小时前  
+`Ben Thompson` · 18 小时前  
 
 **[What I’ve been reading](https://marginalrevolution.com/marginalrevolution/2026/09/what-ive-been-reading-295.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-295)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Muse is having a moment](https://www.platformer.news/meta-muse-consumer-agents/)**  
-`Casey Newton` · 21 小时前  
+`Casey Newton` · 1 天前  
 
 **[The Most Important Market in AI is the Middle](https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle/)**  
-`Tomasz Tunguz` · 21 小时前  
+`Tomasz Tunguz` · 1 天前  
 
 **[Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?](https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model)**  
-`Lenny Rachitsky` · 22 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[I left Claude for months. Opus 5.5 is why I'm back](https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55)**  
 `Lenny Rachitsky` · 1 天前  
-
-**[The economics of late grandmotherhood](https://marginalrevolution.com/marginalrevolution/2026/09/the-economics-of-late-grandmotherhood.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-late-grandmotherhood)**  
-`Tyler Cowen` · 1 天前  
-
-**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-587)**  
-`Tyler Cowen` · 1 天前  
-
-**[Advanced evals: How to find (and fix) hidden AI failures in your product](https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix)**  
-`Lenny Rachitsky` · 1 天前  
-
-**[Dartmouth Provost okie-dokie](https://marginalrevolution.com/marginalrevolution/2026/09/dartmouth-provost-okie-dokie.html?utm_source=rss&utm_medium=rss&utm_campaign=dartmouth-provost-okie-dokie)**  
-`Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
