@@ -112,34 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-25 04:59 UTC*
+*更新于 2026-09-25 11:52 UTC*
+
+**[*My Dreadful Body*](https://marginalrevolution.com/marginalrevolution/2026/09/my-dreadful-body.html?utm_source=rss&utm_medium=rss&utm_campaign=my-dreadful-body)**  
+`Tyler Cowen` · 1 小时前  
 
 **[Armenia notes](https://marginalrevolution.com/marginalrevolution/2026/09/armenia-notes.html?utm_source=rss&utm_medium=rss&utm_campaign=armenia-notes)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 6 小时前  
 
 **[Can Muse make us forget the metaverse?](https://www.platformer.news/meta-connect-2026-muse-vr-glasses/)**  
-`Casey Newton` · 2 小时前  
+`Casey Newton` · 9 小时前  
 
 **[Peter Thiel on AI and tech stagnation and democracy](https://marginalrevolution.com/marginalrevolution/2026/09/peter-thiel-on-ai-and-tech-stagnation.html?utm_source=rss&utm_medium=rss&utm_campaign=peter-thiel-on-ai-and-tech-stagnation)**  
-`Tyler Cowen` · 5 小时前  
-
-**[Earth fact of the day](https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-fact-of-the-day-2)**  
-`Tyler Cowen` · 10 小时前  
-
-**[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-571)**  
 `Tyler Cowen` · 12 小时前  
 
+**[Earth fact of the day](https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-fact-of-the-day-2)**  
+`Tyler Cowen` · 16 小时前  
+
+**[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-571)**  
+`Tyler Cowen` · 19 小时前  
+
 **[CA 91326: A Public Choice Mystery Investigation](https://marginalrevolution.com/marginalrevolution/2026/09/ca-91326-a-public-choice-mystery-investigation.html?utm_source=rss&utm_medium=rss&utm_campaign=ca-91326-a-public-choice-mystery-investigation)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg](https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/)**  
-`Ben Thompson` · 18 小时前  
+`Ben Thompson` · 1 天前  
 
 **[*Fear of Data*](https://marginalrevolution.com/marginalrevolution/2026/09/fear-of-data.html?utm_source=rss&utm_medium=rss&utm_campaign=fear-of-data)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[20VC: Meta's Muse Hits No. 1. ChatGPT Finally Has a Rival \| Menlo Sounds the AI Bubble Alarm \| Factory Triples Its Valuation to $5 Billion \| Keith Rabois vs Airwallex: Who is Right? \| Crusoe's $3.9 Billion Round. Is the Data Centre Trade Overheating?](https://thetwentyminutevc.libsyn.com/20vc-metas-muse-hits-no-1-chatgpt-finally-has-a-rival-menlo-sounds-the-ai-bubble-alarm-factory-triples-its-valuation-to-5-billion-keith-rabois-vs-airwallex-who-is-right-crusoes-39-billion-round-is-the-data-centre-trade-overheating)**  
-`Harry Stebbings` · 21 小时前  
+`Harry Stebbings` · 1 天前  
 
 **[My economics-rich Conversation with Gita Gopinath](https://marginalrevolution.com/marginalrevolution/2026/09/my-economics-rich-conversation-with-gita-gopinath.html?utm_source=rss&utm_medium=rss&utm_campaign=my-economics-rich-conversation-with-gita-gopinath)**  
 `Tyler Cowen` · 1 天前  
@@ -154,9 +157,6 @@ open docs/index.html
 `晚点团队` · 1 天前  
 
 **[From the Master of Industrial Organization](https://marginalrevolution.com/marginalrevolution/2026/09/from-the-master-of-industrial-organization.html?utm_source=rss&utm_medium=rss&utm_campaign=from-the-master-of-industrial-organization)**  
-`Tyler Cowen` · 1 天前  
-
-**[Optimal liability for offensive and defensive AI](https://marginalrevolution.com/marginalrevolution/2026/09/optimal-liability-for-offensive-and-defensive-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=optimal-liability-for-offensive-and-defensive-ai)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
