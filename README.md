@@ -112,31 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-25 17:12 UTC*
+*更新于 2026-09-25 21:36 UTC*
+
+**[Good points from James Gilliland](https://marginalrevolution.com/marginalrevolution/2026/09/good-points-from-james-gilliland.html?utm_source=rss&utm_medium=rss&utm_campaign=good-points-from-james-gilliland)**  
+`Tyler Cowen` · 3 小时前  
+
+**[The Agents Revolt](https://www.netinterest.co/p/the-agents-revolt)**  
+`Marc Rubinstein` · 4 小时前  
 
 **[2026.39: Begun, the Aggregator Wars Have](https://stratechery.com/2026/begun-the-aggregator-wars-have/)**  
-`Ben Thompson` · 刚刚  
+`Ben Thompson` · 4 小时前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-592.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-592)**  
-`Tyler Cowen` · 1 小时前  
+`Tyler Cowen` · 5 小时前  
 
 **[Weekly Dose of Optimism #212](https://www.notboring.co/p/weekly-dose-of-optimism-212)**  
-`Packy McCormick` · 4 小时前  
+`Packy McCormick` · 9 小时前  
 
 **[*My Dreadful Body*](https://marginalrevolution.com/marginalrevolution/2026/09/my-dreadful-body.html?utm_source=rss&utm_medium=rss&utm_campaign=my-dreadful-body)**  
-`Tyler Cowen` · 7 小时前  
+`Tyler Cowen` · 11 小时前  
 
 **[Armenia notes](https://marginalrevolution.com/marginalrevolution/2026/09/armenia-notes.html?utm_source=rss&utm_medium=rss&utm_campaign=armenia-notes)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[Can Muse make us forget the metaverse?](https://www.platformer.news/meta-connect-2026-muse-vr-glasses/)**  
-`Casey Newton` · 15 小时前  
+`Casey Newton` · 19 小时前  
 
 **[Peter Thiel on AI and tech stagnation and democracy](https://marginalrevolution.com/marginalrevolution/2026/09/peter-thiel-on-ai-and-tech-stagnation.html?utm_source=rss&utm_medium=rss&utm_campaign=peter-thiel-on-ai-and-tech-stagnation)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[Earth fact of the day](https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-fact-of-the-day-2)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/thursday-assorted-links-571.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-571)**  
 `Tyler Cowen` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[20VC: Meta's Muse Hits No. 1. ChatGPT Finally Has a Rival \| Menlo Sounds the AI Bubble Alarm \| Factory Triples Its Valuation to $5 Billion \| Keith Rabois vs Airwallex: Who is Right? \| Crusoe's $3.9 Billion Round. Is the Data Centre Trade Overheating?](https://thetwentyminutevc.libsyn.com/20vc-metas-muse-hits-no-1-chatgpt-finally-has-a-rival-menlo-sounds-the-ai-bubble-alarm-factory-triples-its-valuation-to-5-billion-keith-rabois-vs-airwallex-who-is-right-crusoes-39-billion-round-is-the-data-centre-trade-overheating)**  
 `Harry Stebbings` · 1 天前  
-
-**[My economics-rich Conversation with Gita Gopinath](https://marginalrevolution.com/marginalrevolution/2026/09/my-economics-rich-conversation-with-gita-gopinath.html?utm_source=rss&utm_medium=rss&utm_campaign=my-economics-rich-conversation-with-gita-gopinath)**  
-`Tyler Cowen` · 1 天前  
-
-**[E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人](https://sv101.fireside.fm/266)**  
-`陈茜` · 1 天前  
 
 <!-- POSTS:END -->
