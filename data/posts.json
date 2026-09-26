@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-09-26T04:59:15Z",
-  "count": 240,
+  "generated_at": "2026-09-26T11:26:44Z",
+  "count": 241,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/should-you-text-more.html",
+      "title": "Should you text more?",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/should-you-text-more.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-text-more",
+      "published": "2026-09-26T07:28:35Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Here, in five waves of panel data ( N  = 1,966 US adults), we examined associations between life satisfaction and self-reported use of ten common social technologies measured every 3 months on a six-point frequency scale from ‘I did not use’ to ‘multiple times daily’. At this measurement level and timescale, Bayesian and frequentist random-intercept cross-lagged panel models showed little credible evidence that any social technology use predicts subsequent life satisfaction. In the reverse direction, increases in life satisfaction predicted only modest increases in (video) calling in select demographic groups. In analyses comparing different people, frequency of texting was associated with higher life satisfaction, whereas frequency of YouTube and TikTok use was associated with lower life satisfaction. Despite limited ability to detect within-person change due to temporal stability in responses, the absence of cross-lagged effects is informative: there is scant evidence of a meaningful relationship between social technology use and subsequent life satisfaction.\n \n That is from a new Nature article by Kostadin Kushlev , Kibum Moon , Matt Motyl , Nathanael J. Fast & Juliana Schroeder. Via the excellent Kevin Lewis .\n\n The post Should you text more? appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-26T11:26:27Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/09/a-doomsday-scenario-for-american-ai.html",
       "title": "A doomsday scenario for American AI",

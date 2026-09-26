@@ -112,28 +112,31 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-26 04:59 UTC*
+*更新于 2026-09-26 11:26 UTC*
+
+**[Should you text more?](https://marginalrevolution.com/marginalrevolution/2026/09/should-you-text-more.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-text-more)**  
+`Tyler Cowen` · 3 小时前  
 
 **[A doomsday scenario for American AI](https://marginalrevolution.com/marginalrevolution/2026/09/a-doomsday-scenario-for-american-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=a-doomsday-scenario-for-american-ai)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 7 小时前  
 
 **[Good points from James Gilliland](https://marginalrevolution.com/marginalrevolution/2026/09/good-points-from-james-gilliland.html?utm_source=rss&utm_medium=rss&utm_campaign=good-points-from-james-gilliland)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[The Agents Revolt](https://www.netinterest.co/p/the-agents-revolt)**  
-`Marc Rubinstein` · 11 小时前  
+`Marc Rubinstein` · 17 小时前  
 
 **[2026.39: Begun, the Aggregator Wars Have](https://stratechery.com/2026/begun-the-aggregator-wars-have/)**  
-`Ben Thompson` · 11 小时前  
+`Ben Thompson` · 18 小时前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-592.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-592)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 19 小时前  
 
 **[Weekly Dose of Optimism #212](https://www.notboring.co/p/weekly-dose-of-optimism-212)**  
-`Packy McCormick` · 16 小时前  
+`Packy McCormick` · 22 小时前  
 
 **[*My Dreadful Body*](https://marginalrevolution.com/marginalrevolution/2026/09/my-dreadful-body.html?utm_source=rss&utm_medium=rss&utm_campaign=my-dreadful-body)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Armenia notes](https://marginalrevolution.com/marginalrevolution/2026/09/armenia-notes.html?utm_source=rss&utm_medium=rss&utm_campaign=armenia-notes)**  
 `Tyler Cowen` · 1 天前  
@@ -151,12 +154,9 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[CA 91326: A Public Choice Mystery Investigation](https://marginalrevolution.com/marginalrevolution/2026/09/ca-91326-a-public-choice-mystery-investigation.html?utm_source=rss&utm_medium=rss&utm_campaign=ca-91326-a-public-choice-mystery-investigation)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 **[An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg](https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/)**  
-`Ben Thompson` · 1 天前  
-
-**[*Fear of Data*](https://marginalrevolution.com/marginalrevolution/2026/09/fear-of-data.html?utm_source=rss&utm_medium=rss&utm_campaign=fear-of-data)**  
-`Tyler Cowen` · 1 天前  
+`Ben Thompson` · 2 天前  
 
 <!-- POSTS:END -->
