@@ -1,5 +1,8 @@
 import "./index.css";
-import { Composition } from "remotion";
+import { Composition, Folder } from "remotion";
+import { FPS, HEIGHT, TOTAL_FRAMES, WIDTH } from "./suanchou/script";
+import { SuanChou } from "./suanchou/SuanChou";
+import { SuanChouVertical } from "./suanchou/Vertical";
 import { HelloWorld } from "./HelloWorld";
 import { Logo } from "./HelloWorld/Logo";
 
@@ -8,6 +11,29 @@ import { Logo } from "./HelloWorld/Logo";
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Folder name="一根算筹">
+        {/* 横版 1920×1080，主版本 */}
+        <Composition
+          id="SuanChou"
+          component={SuanChou}
+          durationInFrames={TOTAL_FRAMES}
+          fps={FPS}
+          width={WIDTH}
+          height={HEIGHT}
+          defaultProps={{ music: true }}
+        />
+        {/* 竖版 1080×1920，横向画面居中，适合直接发抖音 */}
+        <Composition
+          id="SuanChouVertical"
+          component={SuanChouVertical}
+          durationInFrames={TOTAL_FRAMES}
+          fps={FPS}
+          width={1080}
+          height={1920}
+          defaultProps={{ music: true }}
+        />
+      </Folder>
+
       <Composition
         // You can take the "id" to render a video:
         // npx remotion render HelloWorld

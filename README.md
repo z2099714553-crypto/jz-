@@ -122,6 +122,13 @@ npx remotion render src/index.ts HelloWorld out/video.mp4   # 渲染成 mp4
 npm run lint                                                # eslint + tsc
 ```
 
+目前的作品是短片《一根算筹》，改台词、渲染方法见 [video/src/suanchou/README.md](video/src/suanchou/README.md)：
+
+```bash
+npm run render:suanchou            # 横版 1920×1080
+npm run render:suanchou-vertical   # 竖版 1080×1920，适合发抖音
+```
+
 首次渲染时 Remotion 会自动下载一个精简版 headless Chrome。
 `node_modules/` 和渲染输出 `out/` 都已在 `video/.gitignore` 里，不会进仓库。
 
