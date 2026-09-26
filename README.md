@@ -109,6 +109,22 @@ python scripts/render.py
 open docs/index.html
 ```
 
+## 视频（Remotion）
+
+`video/` 目录是一个独立的 [Remotion](https://www.remotion.dev/) 项目（用 React 写视频），
+由 `npx create-video` 的 hello-world 模板生成，和上面的 Python 抓取流互不影响 —— Actions 不会碰它。
+
+```bash
+cd video
+npm install                                                 # 首次
+npm run dev                                                 # 打开 Remotion Studio 预览
+npx remotion render src/index.ts HelloWorld out/video.mp4   # 渲染成 mp4
+npm run lint                                                # eslint + tsc
+```
+
+首次渲染时 Remotion 会自动下载一个精简版 headless Chrome。
+`node_modules/` 和渲染输出 `out/` 都已在 `video/.gitignore` 里，不会进仓库。
+
 ## 最新文章
 
 <!-- POSTS:START -->
