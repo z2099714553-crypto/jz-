@@ -1,7 +1,8 @@
 import React from "react";
-import { AbsoluteFill, Easing, interpolate, random, useCurrentFrame } from "remotion";
+import { AbsoluteFill, Easing, interpolate, random } from "remotion";
 import { Backdrop, Scrim, clamp, makeStars } from "../common";
 import { C, FONT_EN, FONT_ZH } from "../theme";
+import { useTick } from "../time";
 
 const W = 1920;
 const H = 1080;
@@ -20,7 +21,7 @@ const layout = (glyphs: Glyph[], cx: number) => {
 };
 
 export const S07Boole: React.FC = () => {
-  const f = useCurrentFrame();
+  const f = useTick();
   const eqY = 440;
   const eq1 = layout(
     [
@@ -160,7 +161,7 @@ const HEAD_X = 780;
 export const TAPE_STEPS = Array.from({ length: 9 }).map((_, k) => 22 + k * 20);
 
 export const S08Tape: React.FC = () => {
-  const f = useCurrentFrame();
+  const f = useTick();
   let shift = 0;
   for (const s of TAPE_STEPS) {
     shift += interpolate(f, [s, s + 11], [0, 1], { ...clamp, easing: Easing.inOut(Easing.cubic) });
@@ -303,7 +304,7 @@ const Transistor: React.FC<{ x: number; y: number; detail: number }> = ({ x, y, 
 );
 
 export const S09Wafer: React.FC = () => {
-  const f = useCurrentFrame();
+  const f = useTick();
   const cx = 960;
   const cy = 400;
   const p = interpolate(f, [18, 132], [0, 1], { ...clamp, easing: Easing.inOut(Easing.cubic) });
@@ -421,7 +422,7 @@ const Rocket: React.FC<{ x: number; base: number }> = ({ x, base }) => {
 };
 
 export const S10Apollo: React.FC = () => {
-  const f = useCurrentFrame();
+  const f = useTick();
   const stars = makeStars(60, "apollo");
   const floor = 740;
   const full = 560; // 叠满时的高度，约一人高

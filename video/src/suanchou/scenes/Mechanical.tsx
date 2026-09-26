@@ -1,7 +1,8 @@
 import React from "react";
-import { AbsoluteFill, Easing, interpolate, random, useCurrentFrame } from "remotion";
+import { AbsoluteFill, Easing, interpolate, random } from "remotion";
 import { Backdrop, BronzeDefs, Candle, Gear, Scrim, clamp, meshPhase } from "../common";
 import { C, FONT_EN } from "../theme";
+import { useTick } from "../time";
 
 const W = 1920;
 const H = 1080;
@@ -101,7 +102,7 @@ const Ledgers: React.FC<{ x: number; y: number }> = ({ x, y }) => {
 
 // ── 05 铜色齿轮咬合转动，旁边堆着账本 ─────────────────────
 export const S05Gears: React.FC = () => {
-  const f = useCurrentFrame();
+  const f = useTick();
   const a1 = f * 0.011;
   const dawn = interpolate(f, [0, 210], [0, 1], clamp);
   const gearsIn = interpolate(f, [0, 30], [0, 1], clamp);
@@ -173,7 +174,7 @@ const carryMoments = (() => {
 })();
 
 export const S06Carry: React.FC = () => {
-  const f = useCurrentFrame();
+  const f = useTick();
   const bx = 960;
   const by = 380;
   const winW = 150;

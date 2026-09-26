@@ -1,6 +1,7 @@
 import React from "react";
-import { AbsoluteFill, random, useCurrentFrame } from "remotion";
+import { AbsoluteFill, random } from "remotion";
 import { C } from "./theme";
+import { useTick } from "./time";
 
 export const clamp = { extrapolateLeft: "clamp", extrapolateRight: "clamp" } as const;
 
@@ -43,7 +44,7 @@ const PaperFiber: React.FC = () => (
 
 /** 胶片颗粒，全片统一叠一层 */
 export const Grain: React.FC<{ opacity?: number }> = ({ opacity = 0.07 }) => {
-  const frame = useCurrentFrame();
+  const frame = useTick();
   const seed = Math.floor(frame / 2) % 12;
   return (
     <AbsoluteFill style={{ mixBlendMode: "overlay", opacity, pointerEvents: "none" }}>
@@ -141,7 +142,7 @@ export const Candle: React.FC<{ x: number; y: number; scale?: number; seed?: num
   scale = 1,
   seed = 0,
 }) => {
-  const frame = useCurrentFrame();
+  const frame = useTick();
   const t = frame + seed * 37;
   const flick = 1 + 0.06 * Math.sin(t * 0.63) + 0.04 * Math.sin(t * 1.71 + 1) + 0.03 * Math.sin(t * 3.1);
   const sway = 2.2 * Math.sin(t * 0.37) + 1.1 * Math.sin(t * 1.3);

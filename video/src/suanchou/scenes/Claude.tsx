@@ -3,6 +3,7 @@ import { AbsoluteFill, Easing, interpolate, random, spring, useCurrentFrame, use
 import { Backdrop, Candle, LightPoint, Rod, Scrim, clamp, makeStars } from "../common";
 import { END_CARD } from "../script";
 import { C, FONT_EN, FONT_ZH } from "../theme";
+import { useTick } from "../time";
 
 const W = 1920;
 const H = 1080;
@@ -12,7 +13,7 @@ export const S11Black: React.FC = () => <AbsoluteFill style={{ background: "#000
 
 // ── 12 星点汇聚成一个光点 ──────────────────────────────────
 export const S12Converge: React.FC = () => {
-  const f = useCurrentFrame();
+  const f = useTick();
   const cx = 960;
   const cy = 400;
   const stars = makeStars(340, "converge");
@@ -62,9 +63,10 @@ export const S13Understand: React.FC = () => <Backdrop kind="paper" />;
 
 // ── 14 光点停住，稳定下来 ─────────────────────────────────
 export const S14Point: React.FC = () => {
-  const f = useCurrentFrame();
+  const f = useTick();
+  const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
-  const s = spring({ frame: f - 4, fps, config: { damping: 9, stiffness: 60, mass: 1 } });
+  const s = spring({ frame: frame - (4 * fps) / 30, fps, config: { damping: 9, stiffness: 60, mass: 1 } });
   const x = interpolate(s, [0, 1], [1260, 960]);
   const y = interpolate(s, [0, 1], [300, 420]);
   const appear = interpolate(f, [0, 16], [0, 1], clamp);
@@ -87,7 +89,7 @@ const Card: React.FC<{ from: number; to: number; children: React.ReactNode; bg: 
   bg,
   shadow = "0 24px 50px rgba(80,60,40,0.28)",
 }) => {
-  const f = useCurrentFrame();
+  const f = useTick();
   const o = interpolate(f, [from, from + 12, to - 10, to], [0, 1, 1, 0], clamp);
   if (o <= 0) return null;
   const y = interpolate(f, [from, from + 18], [26, 0], { ...clamp, easing: Easing.out(Easing.cubic) });
@@ -252,7 +254,7 @@ const Sketch: React.FC<{ t: number }> = ({ t }) => {
 };
 
 export const S15Work: React.FC = () => {
-  const f = useCurrentFrame();
+  const f = useTick();
   const spans: [number, number][] = [
     [0, 80],
     [70, 150],
@@ -298,7 +300,7 @@ const CandleTable: React.FC<{ opacity?: number; candleOpacity?: number }> = ({ o
 );
 
 export const S16Rod: React.FC = () => {
-  const f = useCurrentFrame();
+  const f = useTick();
   const push = interpolate(f, [0, 180], [1, 1.06]);
   const glow = 0.35 + 0.1 * Math.sin(f * 0.07);
   return (
@@ -318,7 +320,7 @@ export const S16Rod: React.FC = () => {
 
 // ── 17 竹签淡出，星空展开 ─────────────────────────────────
 export const S17Stars: React.FC = () => {
-  const f = useCurrentFrame();
+  const f = useTick();
   const stars = makeStars(420, "sky");
   const rodOut = interpolate(f, [0, 70], [1, 0], { ...clamp, easing: Easing.in(Easing.quad) });
   const rodRise = interpolate(f, [0, 90], [0, -60], { ...clamp, easing: Easing.inOut(Easing.cubic) });
@@ -365,7 +367,7 @@ export const S17Stars: React.FC = () => {
 
 // ── 片尾 ──────────────────────────────────────────────────
 export const SEnd: React.FC = () => {
-  const f = useCurrentFrame();
+  const f = useTick();
   const stars = makeStars(240, "end");
   const a = (s: number, e: number) => interpolate(f, [s, e], [0, 1], { ...clamp, easing: Easing.out(Easing.cubic) });
   const out = interpolate(f, [150, 178], [1, 0], clamp);

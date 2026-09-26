@@ -1,7 +1,10 @@
 // 《一根算筹》分场台词与时间轴。
 // 改台词只改这里；改完如果出现新汉字，运行 `npm run fonts` 重新下载字体子集。
 
-export const FPS = 30;
+/** 输出帧率 */
+export const FPS = 60;
+/** 动画按 30 帧的节拍编写，渲染成 60 帧时取中间值，运动更顺滑 */
+export const ANIM_FPS = 30;
 export const WIDTH = 1920;
 export const HEIGHT = 1080;
 
@@ -206,6 +209,9 @@ export const END_CARD = {
   credit: "本视频由 Claude Opus 5.5 制作",
   creditEn: "Made with Claude Opus 5.5 · Remotion",
 };
+
+/** 水印：全片右上角的署名 */
+export const WATERMARK = "Zhang Jiahe";
 
 /** 画面里出现的其他汉字（插画标注），也要进字体子集 */
 export const EXTRA_GLYPHS = "一二三四五六七八九十纵式横式割圆术边形进位真假与或非纸带读写头晶体管晶圆代码报告难题拆解问题子问题答案";

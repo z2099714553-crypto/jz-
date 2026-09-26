@@ -1,8 +1,9 @@
 import React from "react";
-import { AbsoluteFill, Easing, interpolate, useCurrentFrame } from "remotion";
+import { AbsoluteFill, Easing, interpolate } from "remotion";
 import { Backdrop, Candle, Rod, Scrim, clamp } from "../common";
 import { rodDigit } from "../rodNumeral";
 import { C, FONT_EN, FONT_ZH } from "../theme";
+import { useTick } from "../time";
 
 const W = 1920;
 const H = 1080;
@@ -28,7 +29,7 @@ const Table: React.FC<{ y: number; glowX?: number; opacity?: number }> = ({ y, g
 
 // ── 01 黑屏，一根竹签缓缓落下 ──────────────────────────────
 export const S01Fall: React.FC = () => {
-  const f = useCurrentFrame();
+  const f = useTick();
   const LAND = 60;
   const tableY = 640;
   const fall = interpolate(f, [0, LAND], [0, 1], { ...clamp, easing: Easing.bezier(0.35, 0, 0.75, 0.7) });
@@ -66,7 +67,7 @@ export const S01Fall: React.FC = () => {
 const NUMERALS = "一二三四五六七八九";
 
 export const S02Rods: React.FC = () => {
-  const f = useCurrentFrame();
+  const f = useTick();
   const cell = 148;
   const x0 = 960 - cell * 4;
   const rows = [
@@ -160,7 +161,7 @@ const polygon = (cx: number, cy: number, r: number, n: number) => {
 };
 
 export const S03Circle: React.FC = () => {
-  const f = useCurrentFrame();
+  const f = useTick();
   const cx = 1040;
   const cy = 380;
   const r = 250;
@@ -241,7 +242,7 @@ export const S03Circle: React.FC = () => {
 
 // ── 04 3.1415926 逐位浮现 ──────────────────────────────────
 export const S04Pi: React.FC = () => {
-  const f = useCurrentFrame();
+  const f = useTick();
   const digits = [3, 1, 4, 1, 5, 9, 2, 6];
   const gap = 150;
   const dotW = 60;

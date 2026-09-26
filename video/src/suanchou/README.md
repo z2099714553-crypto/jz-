@@ -17,6 +17,11 @@ npm run render:suanchou-vertical   # 竖版 1080×1920 → out/suanchou-vertical
 
 想渲染无声版，在命令后面加 `--props='{"music":false}'`。
 
+输出为 60fps。各场景的动画帧号仍按 30fps 编写（见 `time.ts`），
+所以改帧率只需要改 `script.ts` 里的 `FPS`，时间点和配乐都不受影响。
+
+右上角署名水印的文字在 `script.ts` 的 `WATERMARK` 里改。
+
 ## 文件说明
 
 | 文件 | 内容 |

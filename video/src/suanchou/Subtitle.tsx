@@ -1,7 +1,8 @@
 import React from "react";
-import { Easing, interpolate, useCurrentFrame } from "remotion";
-import { Cue, FPS } from "./script";
+import { Easing, interpolate } from "remotion";
+import { ANIM_FPS, Cue } from "./script";
 import { C, FONT_EN, FONT_ZH } from "./theme";
+import { useTick } from "./time";
 
 const clamp = { extrapolateLeft: "clamp", extrapolateRight: "clamp" } as const;
 
@@ -12,16 +13,16 @@ const palette = {
 
 /**
  * 字幕：小标签 → 主字幕逐字淡入 → 红点细线 → 英文。
- * duration 是本场的帧数，tail 是和下一场交叉淡化的帧数（硬切为 0）。
+ * duration 是本场长度，tail 是和下一场交叉淡化的长度（硬切为 0），都按 30fps 节拍计。
  */
 export const Subtitle: React.FC<{ cue: Cue; duration: number; tail: number }> = ({ cue, duration, tail }) => {
-  const frame = useCurrentFrame();
+  const frame = useTick();
   if (!cue.zh) return null;
 
   const colors = palette[cue.tone];
   const stagger = cue.stagger ?? 2;
   const defaultDelay = cue.label ? 0.75 : 0.5;
-  const start = Math.round((cue.textDelay ?? defaultDelay) * FPS);
+  const start = Math.round((cue.textDelay ?? defaultDelay) * ANIM_FPS);
   const labelStart = start - 12;
   const chars = [...cue.zh];
   const revealEnd = start + chars.length * stagger + 14;
