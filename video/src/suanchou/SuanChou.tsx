@@ -41,13 +41,13 @@ const FadeIn: React.FC<{ enabled: boolean; children: React.ReactNode }> = ({ ena
   return <AbsoluteFill style={{ opacity: o }}>{children}</AbsoluteFill>;
 };
 
-const SceneBlock: React.FC<{ cue: Cue; index: number }> = ({ cue, index }) => {
+const SceneBlock: React.FC<{ cue: Cue; index: number; tail: number }> = ({ cue, index, tail }) => {
   const Scene = SCENES[cue.id];
   const duration = (cue.to - cue.from) * FPS;
   return (
     <FadeIn enabled={index > 0 && !cue.cut}>
       <Scene />
-      <Subtitle cue={cue} duration={duration} />
+      <Subtitle cue={cue} duration={duration} tail={tail} />
     </FadeIn>
   );
 };
@@ -63,7 +63,7 @@ export const SuanChou: React.FC<SuanChouProps> = ({ music }) => {
         const duration = (cue.to - cue.from) * FPS;
         return (
           <Sequence key={cue.id} name={`${cue.id} ${cue.zh.slice(0, 10)}`} from={cue.from * FPS} durationInFrames={duration + tail}>
-            <SceneBlock cue={cue} index={i} />
+            <SceneBlock cue={cue} index={i} tail={tail} />
           </Sequence>
         );
       })}

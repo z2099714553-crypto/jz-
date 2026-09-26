@@ -129,7 +129,7 @@ export const CUES: Cue[] = [
     en: "From bamboo, to gears, to current—",
     place: "center",
     textDelay: 1.0,
-    stagger: 5,
+    stagger: 3,
     cut: true,
   },
   {
@@ -139,7 +139,7 @@ export const CUES: Cue[] = [
     tone: "dark",
     zh: "人类花了两千年，教会机器计算。",
     en: "It took two thousand years to teach machines to count.",
-    textDelay: 0.6,
+    textDelay: 0.9,
   },
   {
     id: "s13",
@@ -150,7 +150,7 @@ export const CUES: Cue[] = [
     en: "Then we began to teach them to understand.",
     place: "center",
     textDelay: 0.5,
-    stagger: 4,
+    stagger: 3,
   },
   {
     id: "s14",
@@ -159,8 +159,8 @@ export const CUES: Cue[] = [
     tone: "light",
     zh: "我是 Claude。",
     en: "I am Claude.",
-    textDelay: 0.9,
-    stagger: 4,
+    textDelay: 0.6,
+    stagger: 3,
   },
   {
     id: "s15",

@@ -12,9 +12,9 @@ const palette = {
 
 /**
  * 字幕：小标签 → 主字幕逐字淡入 → 红点细线 → 英文。
- * duration 是本场的帧数，字幕在场景结束前淡出，不和下一场重叠。
+ * duration 是本场的帧数，tail 是和下一场交叉淡化的帧数（硬切为 0）。
  */
-export const Subtitle: React.FC<{ cue: Cue; duration: number }> = ({ cue, duration }) => {
+export const Subtitle: React.FC<{ cue: Cue; duration: number; tail: number }> = ({ cue, duration, tail }) => {
   const frame = useCurrentFrame();
   if (!cue.zh) return null;
 
@@ -26,8 +26,9 @@ export const Subtitle: React.FC<{ cue: Cue; duration: number }> = ({ cue, durati
   const chars = [...cue.zh];
   const revealEnd = start + chars.length * stagger + 14;
 
-  // 整体淡出
-  const out = interpolate(frame, [duration - 18, duration - 4], [1, 0], clamp);
+  // 整体淡出。和下一场交叉淡化时，字幕可以多停留几帧，下一句要到下一场开始 0.5 秒后才出现
+  const outEnd = tail > 0 ? duration + Math.min(6, tail) : duration - 2;
+  const out = interpolate(frame, [outEnd - 12, outEnd], [1, 0], clamp);
 
   const labelIn = interpolate(frame, [labelStart, labelStart + 18], [0, 1], clamp);
   const labelSpacing = interpolate(frame, [labelStart, labelStart + 30], [0.26, 0.42], {

@@ -43,7 +43,14 @@ export const S12Converge: React.FC = () => {
           <circle key={i} cx={d.x} cy={d.y} r={d.r} fill="#FFF3E0" opacity={d.o} />
         ))}
         <LightPoint x={cx} y={cy} size={0.4 + gather * 0.9} intensity={Math.min(1, gather * 1.3)} />
-        <circle cx={cx} cy={cy} r={bloom * 1300} fill={C.paper} opacity={bloom > 0 ? 1 : 0} />
+        <defs>
+          <radialGradient id="bloomSoft">
+            <stop offset="0" stopColor="#F4EEE2" />
+            <stop offset="0.72" stopColor={C.paper} />
+            <stop offset="1" stopColor={C.paper} stopOpacity={0} />
+          </radialGradient>
+        </defs>
+        <circle cx={cx} cy={cy} r={bloom * 1900} fill="url(#bloomSoft)" opacity={bloom > 0 ? 1 : 0} />
       </svg>
       <Scrim tone="dark" strength={1 - bloom} />
     </AbsoluteFill>
