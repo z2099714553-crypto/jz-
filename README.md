@@ -112,25 +112,25 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-26 21:11 UTC*
+*更新于 2026-09-26 23:38 UTC*
 
 **[🧠 Community Wisdom: AI doomerism, speeding up discovery in a big org, verifying engineering answers as a new PM, where analytics adds the most value, and more](https://www.lennysnewsletter.com/p/community-wisdom-ai-doomerism-speeding)**  
-`Lenny Rachitsky` · 3 小时前  
+`Lenny Rachitsky` · 5 小时前  
 
 **[What should I ask Terence Tao?](https://marginalrevolution.com/marginalrevolution/2026/09/what-should-i-ask-terence-tao.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-terence-tao)**  
-`Tyler Cowen` · 3 小时前  
-
-**[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-580)**  
 `Tyler Cowen` · 5 小时前  
 
+**[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-580)**  
+`Tyler Cowen` · 7 小时前  
+
 **[20VC: Five Predictions for a World of Agents \| The Ads Business Model Will Die \| Biggest Lessons from Working with Elon Musk at Twitter with Parag Agrawal, Parallel](https://thetwentyminutevc.libsyn.com/20vc-five-predictions-for-a-world-of-agents-the-ads-business-model-will-die-biggest-lessons-from-working-with-elon-musk-at-twitter-with-parag-agrawal-parallel)**  
-`Harry Stebbings` · 8 小时前  
+`Harry Stebbings` · 11 小时前  
 
 **[Should you text more?](https://marginalrevolution.com/marginalrevolution/2026/09/should-you-text-more.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-text-more)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[A doomsday scenario for American AI](https://marginalrevolution.com/marginalrevolution/2026/09/a-doomsday-scenario-for-american-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=a-doomsday-scenario-for-american-ai)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 19 小时前  
 
 **[Good points from James Gilliland](https://marginalrevolution.com/marginalrevolution/2026/09/good-points-from-james-gilliland.html?utm_source=rss&utm_medium=rss&utm_campaign=good-points-from-james-gilliland)**  
 `Tyler Cowen` · 1 天前  
@@ -157,6 +157,6 @@ open docs/index.html
 `Casey Newton` · 1 天前  
 
 **[Peter Thiel on AI and tech stagnation and democracy](https://marginalrevolution.com/marginalrevolution/2026/09/peter-thiel-on-ai-and-tech-stagnation.html?utm_source=rss&utm_medium=rss&utm_campaign=peter-thiel-on-ai-and-tech-stagnation)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
