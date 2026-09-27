@@ -112,25 +112,31 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-27 12:04 UTC*
+*更新于 2026-09-27 16:59 UTC*
+
+**[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-584)**  
+`Tyler Cowen` · 1 小时前  
+
+**[The grief, loneliness, and burnout sweeping through the tech industry right now \| Molly Graham](https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout)**  
+`Lenny Rachitsky` · 4 小时前  
 
 **[Earth fact of the day, #2](https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2-2.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-fact-of-the-day-2-2)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 10 小时前  
 
 **[The Federal Lands: An Economic Property Rights Perspective](https://marginalrevolution.com/marginalrevolution/2026/09/the-federal-lands-an-economic-property-rights-perspective.html?utm_source=rss&utm_medium=rss&utm_campaign=the-federal-lands-an-economic-property-rights-perspective)**  
-`Tyler Cowen` · 7 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[🧠 Community Wisdom: AI doomerism, speeding up discovery in a big org, verifying engineering answers as a new PM, where analytics adds the most value, and more](https://www.lennysnewsletter.com/p/community-wisdom-ai-doomerism-speeding)**  
-`Lenny Rachitsky` · 18 小时前  
+`Lenny Rachitsky` · 23 小时前  
 
 **[What should I ask Terence Tao?](https://marginalrevolution.com/marginalrevolution/2026/09/what-should-i-ask-terence-tao.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-terence-tao)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-580)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[20VC: Five Predictions for a World of Agents \| The Ads Business Model Will Die \| Biggest Lessons from Working with Elon Musk at Twitter with Parag Agrawal, Parallel](https://thetwentyminutevc.libsyn.com/20vc-five-predictions-for-a-world-of-agents-the-ads-business-model-will-die-biggest-lessons-from-working-with-elon-musk-at-twitter-with-parag-agrawal-parallel)**  
-`Harry Stebbings` · 23 小时前  
+`Harry Stebbings` · 1 天前  
 
 **[Should you text more?](https://marginalrevolution.com/marginalrevolution/2026/09/should-you-text-more.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-text-more)**  
 `Tyler Cowen` · 1 天前  
@@ -148,15 +154,9 @@ open docs/index.html
 `Ben Thompson` · 1 天前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/friday-assorted-links-592.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-592)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 **[Weekly Dose of Optimism #212](https://www.notboring.co/p/weekly-dose-of-optimism-212)**  
-`Packy McCormick` · 1 天前  
-
-**[*My Dreadful Body*](https://marginalrevolution.com/marginalrevolution/2026/09/my-dreadful-body.html?utm_source=rss&utm_medium=rss&utm_campaign=my-dreadful-body)**  
-`Tyler Cowen` · 2 天前  
-
-**[Armenia notes](https://marginalrevolution.com/marginalrevolution/2026/09/armenia-notes.html?utm_source=rss&utm_medium=rss&utm_campaign=armenia-notes)**  
-`Tyler Cowen` · 2 天前  
+`Packy McCormick` · 2 天前  
 
 <!-- POSTS:END -->
