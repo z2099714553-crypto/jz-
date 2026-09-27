@@ -112,25 +112,28 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-27 05:20 UTC*
+*更新于 2026-09-27 12:04 UTC*
+
+**[Earth fact of the day, #2](https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2-2.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-fact-of-the-day-2-2)**  
+`Tyler Cowen` · 5 小时前  
 
 **[The Federal Lands: An Economic Property Rights Perspective](https://marginalrevolution.com/marginalrevolution/2026/09/the-federal-lands-an-economic-property-rights-perspective.html?utm_source=rss&utm_medium=rss&utm_campaign=the-federal-lands-an-economic-property-rights-perspective)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 7 小时前  
 
 **[🧠 Community Wisdom: AI doomerism, speeding up discovery in a big org, verifying engineering answers as a new PM, where analytics adds the most value, and more](https://www.lennysnewsletter.com/p/community-wisdom-ai-doomerism-speeding)**  
-`Lenny Rachitsky` · 11 小时前  
+`Lenny Rachitsky` · 18 小时前  
 
 **[What should I ask Terence Tao?](https://marginalrevolution.com/marginalrevolution/2026/09/what-should-i-ask-terence-tao.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-terence-tao)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-580)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 19 小时前  
 
 **[20VC: Five Predictions for a World of Agents \| The Ads Business Model Will Die \| Biggest Lessons from Working with Elon Musk at Twitter with Parag Agrawal, Parallel](https://thetwentyminutevc.libsyn.com/20vc-five-predictions-for-a-world-of-agents-the-ads-business-model-will-die-biggest-lessons-from-working-with-elon-musk-at-twitter-with-parag-agrawal-parallel)**  
-`Harry Stebbings` · 16 小时前  
+`Harry Stebbings` · 23 小时前  
 
 **[Should you text more?](https://marginalrevolution.com/marginalrevolution/2026/09/should-you-text-more.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-text-more)**  
-`Tyler Cowen` · 21 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[A doomsday scenario for American AI](https://marginalrevolution.com/marginalrevolution/2026/09/a-doomsday-scenario-for-american-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=a-doomsday-scenario-for-american-ai)**  
 `Tyler Cowen` · 1 天前  
@@ -151,12 +154,9 @@ open docs/index.html
 `Packy McCormick` · 1 天前  
 
 **[*My Dreadful Body*](https://marginalrevolution.com/marginalrevolution/2026/09/my-dreadful-body.html?utm_source=rss&utm_medium=rss&utm_campaign=my-dreadful-body)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 **[Armenia notes](https://marginalrevolution.com/marginalrevolution/2026/09/armenia-notes.html?utm_source=rss&utm_medium=rss&utm_campaign=armenia-notes)**  
 `Tyler Cowen` · 2 天前  
-
-**[Can Muse make us forget the metaverse?](https://www.platformer.news/meta-connect-2026-muse-vr-glasses/)**  
-`Casey Newton` · 2 天前  
 
 <!-- POSTS:END -->
