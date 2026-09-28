@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-28 13:56 UTC*
+*更新于 2026-09-28 21:14 UTC*
+
+**[Man’s best friend?](https://marginalrevolution.com/marginalrevolution/2026/09/mans-best-friend.html?utm_source=rss&utm_medium=rss&utm_campaign=mans-best-friend)**  
+`Tyler Cowen` · 3 小时前  
+
+**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-579)**  
+`Tyler Cowen` · 4 小时前  
+
+**[🎙️ How I AI: Jev for beginners + I left Claude for months, Opus 5.5 brought me back + Opus 5.5 vs. GPT-6 Sol bench](https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left)**  
+`Lenny Rachitsky` · 6 小时前  
+
+**[Mighty Sparrow, RIP](https://marginalrevolution.com/marginalrevolution/2026/09/mighty-sparrow-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=mighty-sparrow-rip)**  
+`Tyler Cowen` · 7 小时前  
 
 **[Airbound: As We May Move](https://www.notboring.co/p/airbound-as-we-may-move)**  
-`Packy McCormick` · 刚刚  
+`Packy McCormick` · 7 小时前  
 
 **[Jev for beginners: how to use it and what to build](https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and)**  
-`Lenny Rachitsky` · 1 小时前  
+`Lenny Rachitsky` · 9 小时前  
 
 **[Defining the Unemployment Rate](https://marginalrevolution.com/marginalrevolution/2026/09/defining-the-unemployment-rate.html?utm_source=rss&utm_medium=rss&utm_campaign=defining-the-unemployment-rate)**  
-`Tyler Cowen` · 2 小时前  
-
-**[Apps, Agents, and Aggregation](https://stratechery.com/2026/apps-agents-and-aggregation/)**  
-`Ben Thompson` · 3 小时前  
-
-**[20VC: $1BN ARR in 18 Months; The Untold Story of Higgsfield \| Spending $4M Per Month on Models \| Why Moats in AI are BS \| Scaling a Content Team to 150 People with Alex Mashrabov](https://thetwentyminutevc.libsyn.com/20vc-1bn-arr-in-18-months-the-untold-story-of-higgsfield-spending-4m-per-month-on-models-why-moats-in-ai-are-bs-scaling-a-content-team-to-150-people-with-alex-mashrabov)**  
-`Harry Stebbings` · 6 小时前  
-
-**[Bundesrepublik Deutschland](https://marginalrevolution.com/marginalrevolution/2026/09/bundesrepublik-deutschland.html?utm_source=rss&utm_medium=rss&utm_campaign=bundesrepublik-deutschland)**  
 `Tyler Cowen` · 9 小时前  
 
+**[Apps, Agents, and Aggregation](https://stratechery.com/2026/apps-agents-and-aggregation/)**  
+`Ben Thompson` · 10 小时前  
+
+**[20VC: $1BN ARR in 18 Months; The Untold Story of Higgsfield \| Spending $4M Per Month on Models \| Why Moats in AI are BS \| Scaling a Content Team to 150 People with Alex Mashrabov](https://thetwentyminutevc.libsyn.com/20vc-1bn-arr-in-18-months-the-untold-story-of-higgsfield-spending-4m-per-month-on-models-why-moats-in-ai-are-bs-scaling-a-content-team-to-150-people-with-alex-mashrabov)**  
+`Harry Stebbings` · 14 小时前  
+
+**[Bundesrepublik Deutschland](https://marginalrevolution.com/marginalrevolution/2026/09/bundesrepublik-deutschland.html?utm_source=rss&utm_medium=rss&utm_campaign=bundesrepublik-deutschland)**  
+`Tyler Cowen` · 16 小时前  
+
 **[E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长](https://sv101.fireside.fm/267)**  
-`陈茜` · 11 小时前  
+`陈茜` · 18 小时前  
+
+**[How GPU Prices Can Double While AI Gets Cheaper](https://tomtunguz.com/how-gpu-prices-double-while-ai-gets-cheaper/)**  
+`Tomasz Tunguz` · 21 小时前  
 
 **[AI in science](https://marginalrevolution.com/marginalrevolution/2026/09/ai-in-science.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-science)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-584)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[The grief, loneliness, and burnout sweeping through the tech industry right now \| Molly Graham](https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout)**  
 `Lenny Rachitsky` · 1 天前  
-
-**[Earth fact of the day, #2](https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2-2.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-fact-of-the-day-2-2)**  
-`Tyler Cowen` · 1 天前  
-
-**[The Federal Lands: An Economic Property Rights Perspective](https://marginalrevolution.com/marginalrevolution/2026/09/the-federal-lands-an-economic-property-rights-perspective.html?utm_source=rss&utm_medium=rss&utm_campaign=the-federal-lands-an-economic-property-rights-perspective)**  
-`Tyler Cowen` · 1 天前  
-
-**[🧠 Community Wisdom: AI doomerism, speeding up discovery in a big org, verifying engineering answers as a new PM, where analytics adds the most value, and more](https://www.lennysnewsletter.com/p/community-wisdom-ai-doomerism-speeding)**  
-`Lenny Rachitsky` · 1 天前  
-
-**[What should I ask Terence Tao?](https://marginalrevolution.com/marginalrevolution/2026/09/what-should-i-ask-terence-tao.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-terence-tao)**  
-`Tyler Cowen` · 1 天前  
-
-**[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-580)**  
-`Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
