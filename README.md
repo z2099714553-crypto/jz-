@@ -112,25 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-28 05:25 UTC*
+*更新于 2026-09-28 13:56 UTC*
+
+**[Airbound: As We May Move](https://www.notboring.co/p/airbound-as-we-may-move)**  
+`Packy McCormick` · 刚刚  
+
+**[Jev for beginners: how to use it and what to build](https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and)**  
+`Lenny Rachitsky` · 1 小时前  
+
+**[Defining the Unemployment Rate](https://marginalrevolution.com/marginalrevolution/2026/09/defining-the-unemployment-rate.html?utm_source=rss&utm_medium=rss&utm_campaign=defining-the-unemployment-rate)**  
+`Tyler Cowen` · 2 小时前  
+
+**[Apps, Agents, and Aggregation](https://stratechery.com/2026/apps-agents-and-aggregation/)**  
+`Ben Thompson` · 3 小时前  
+
+**[20VC: $1BN ARR in 18 Months; The Untold Story of Higgsfield \| Spending $4M Per Month on Models \| Why Moats in AI are BS \| Scaling a Content Team to 150 People with Alex Mashrabov](https://thetwentyminutevc.libsyn.com/20vc-1bn-arr-in-18-months-the-untold-story-of-higgsfield-spending-4m-per-month-on-models-why-moats-in-ai-are-bs-scaling-a-content-team-to-150-people-with-alex-mashrabov)**  
+`Harry Stebbings` · 6 小时前  
 
 **[Bundesrepublik Deutschland](https://marginalrevolution.com/marginalrevolution/2026/09/bundesrepublik-deutschland.html?utm_source=rss&utm_medium=rss&utm_campaign=bundesrepublik-deutschland)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 9 小时前  
 
 **[E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长](https://sv101.fireside.fm/267)**  
-`陈茜` · 2 小时前  
+`陈茜` · 11 小时前  
 
 **[AI in science](https://marginalrevolution.com/marginalrevolution/2026/09/ai-in-science.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-science)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-584)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[The grief, loneliness, and burnout sweeping through the tech industry right now \| Molly Graham](https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout)**  
-`Lenny Rachitsky` · 16 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[Earth fact of the day, #2](https://marginalrevolution.com/marginalrevolution/2026/09/earth-fact-of-the-day-2-2.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-fact-of-the-day-2-2)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[The Federal Lands: An Economic Property Rights Perspective](https://marginalrevolution.com/marginalrevolution/2026/09/the-federal-lands-an-economic-property-rights-perspective.html?utm_source=rss&utm_medium=rss&utm_campaign=the-federal-lands-an-economic-property-rights-perspective)**  
 `Tyler Cowen` · 1 天前  
@@ -143,20 +158,5 @@ open docs/index.html
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/saturday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-580)**  
 `Tyler Cowen` · 1 天前  
-
-**[20VC: Five Predictions for a World of Agents \| The Ads Business Model Will Die \| Biggest Lessons from Working with Elon Musk at Twitter with Parag Agrawal, Parallel](https://thetwentyminutevc.libsyn.com/20vc-five-predictions-for-a-world-of-agents-the-ads-business-model-will-die-biggest-lessons-from-working-with-elon-musk-at-twitter-with-parag-agrawal-parallel)**  
-`Harry Stebbings` · 1 天前  
-
-**[Should you text more?](https://marginalrevolution.com/marginalrevolution/2026/09/should-you-text-more.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-text-more)**  
-`Tyler Cowen` · 1 天前  
-
-**[A doomsday scenario for American AI](https://marginalrevolution.com/marginalrevolution/2026/09/a-doomsday-scenario-for-american-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=a-doomsday-scenario-for-american-ai)**  
-`Tyler Cowen` · 2 天前  
-
-**[Good points from James Gilliland](https://marginalrevolution.com/marginalrevolution/2026/09/good-points-from-james-gilliland.html?utm_source=rss&utm_medium=rss&utm_campaign=good-points-from-james-gilliland)**  
-`Tyler Cowen` · 2 天前  
-
-**[The Agents Revolt](https://www.netinterest.co/p/the-agents-revolt)**  
-`Marc Rubinstein` · 2 天前  
 
 <!-- POSTS:END -->
