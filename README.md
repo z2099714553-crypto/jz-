@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-29 09:51 UTC*
+*更新于 2026-09-29 18:05 UTC*
 
-**[Accounting for Cross-Country Income Differences Revisited](https://marginalrevolution.com/marginalrevolution/2026/09/accounting-for-cross-country-income-differences-revisited.html?utm_source=rss&utm_medium=rss&utm_campaign=accounting-for-cross-country-income-differences-revisited)**  
+**[Shipping to America](https://marginalrevolution.com/marginalrevolution/2026/09/shipping-to-america.html?utm_source=rss&utm_medium=rss&utm_campaign=shipping-to-america)**  
+`Tyler Cowen` · 刚刚  
+
+**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-588.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-588)**  
 `Tyler Cowen` · 2 小时前  
 
+**[All of the Lenny & Friends Summit talks are now online!](https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit)**  
+`Lenny Rachitsky` · 4 小时前  
+
+**[Periodic Labs: A chatbot walks into a laboratory](https://www.generalist.com/p/a-chatbot-walks-into-a-laboratory)**  
+`Mario Gabriele` · 6 小时前  
+
+**[One More Note on Agents, Meta Connect, Meta Enterprise Platform](https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/)**  
+`Ben Thompson` · 8 小时前  
+
+**[Bill Ackman: The Biggest Fight of His Life](https://fs.blog/knowledge-project-podcast/bill-ackman-2/)**  
+`Shane Parrish` · 8 小时前  
+
+**[Accounting for Cross-Country Income Differences Revisited](https://marginalrevolution.com/marginalrevolution/2026/09/accounting-for-cross-country-income-differences-revisited.html?utm_source=rss&utm_medium=rss&utm_campaign=accounting-for-cross-country-income-differences-revisited)**  
+`Tyler Cowen` · 11 小时前  
+
 **[The Macroeconomic Effect of AI through software engineering](https://marginalrevolution.com/marginalrevolution/2026/09/the-macroeconomic-effect-of-ai-through-software-engineering.html?utm_source=rss&utm_medium=rss&utm_campaign=the-macroeconomic-effect-of-ai-through-software-engineering)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 13 小时前  
 
 **[Following: OpenAI taps the brakes](https://www.platformer.news/open-ai-model-release-canceled/)**  
-`Casey Newton` · 9 小时前  
+`Casey Newton` · 17 小时前  
+
+**[Segmentation Drives Market Share Wins in AI](https://tomtunguz.com/anthropic-repriced-the-enterprise/)**  
+`Tomasz Tunguz` · 18 小时前  
 
 **[Man’s best friend?](https://marginalrevolution.com/marginalrevolution/2026/09/mans-best-friend.html?utm_source=rss&utm_medium=rss&utm_campaign=mans-best-friend)**  
-`Tyler Cowen` · 15 小时前  
-
-**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-579)**  
-`Tyler Cowen` · 17 小时前  
-
-**[🎙️ How I AI: Jev for beginners + I left Claude for months, Opus 5.5 brought me back + Opus 5.5 vs. GPT-6 Sol bench](https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left)**  
-`Lenny Rachitsky` · 18 小时前  
-
-**[Mighty Sparrow, RIP](https://marginalrevolution.com/marginalrevolution/2026/09/mighty-sparrow-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=mighty-sparrow-rip)**  
-`Tyler Cowen` · 19 小时前  
-
-**[Airbound: As We May Move](https://www.notboring.co/p/airbound-as-we-may-move)**  
-`Packy McCormick` · 20 小时前  
-
-**[Jev for beginners: how to use it and what to build](https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and)**  
-`Lenny Rachitsky` · 21 小时前  
-
-**[Defining the Unemployment Rate](https://marginalrevolution.com/marginalrevolution/2026/09/defining-the-unemployment-rate.html?utm_source=rss&utm_medium=rss&utm_campaign=defining-the-unemployment-rate)**  
-`Tyler Cowen` · 22 小时前  
-
-**[Apps, Agents, and Aggregation](https://stratechery.com/2026/apps-agents-and-aggregation/)**  
-`Ben Thompson` · 23 小时前  
-
-**[20VC: $1BN ARR in 18 Months; The Untold Story of Higgsfield \| Spending $4M Per Month on Models \| Why Moats in AI are BS \| Scaling a Content Team to 150 People with Alex Mashrabov](https://thetwentyminutevc.libsyn.com/20vc-1bn-arr-in-18-months-the-untold-story-of-higgsfield-spending-4m-per-month-on-models-why-moats-in-ai-are-bs-scaling-a-content-team-to-150-people-with-alex-mashrabov)**  
-`Harry Stebbings` · 1 天前  
-
-**[Bundesrepublik Deutschland](https://marginalrevolution.com/marginalrevolution/2026/09/bundesrepublik-deutschland.html?utm_source=rss&utm_medium=rss&utm_campaign=bundesrepublik-deutschland)**  
 `Tyler Cowen` · 1 天前  
 
-**[E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长](https://sv101.fireside.fm/267)**  
-`陈茜` · 1 天前  
+**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-579)**  
+`Tyler Cowen` · 1 天前  
 
-**[How GPU Prices Can Double While AI Gets Cheaper](https://tomtunguz.com/how-gpu-prices-double-while-ai-gets-cheaper/)**  
-`Tomasz Tunguz` · 1 天前  
+**[🎙️ How I AI: Jev for beginners + I left Claude for months, Opus 5.5 brought me back + Opus 5.5 vs. GPT-6 Sol bench](https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left)**  
+`Lenny Rachitsky` · 1 天前  
+
+**[Mighty Sparrow, RIP](https://marginalrevolution.com/marginalrevolution/2026/09/mighty-sparrow-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=mighty-sparrow-rip)**  
+`Tyler Cowen` · 1 天前  
+
+**[Airbound: As We May Move](https://www.notboring.co/p/airbound-as-we-may-move)**  
+`Packy McCormick` · 1 天前  
 
 <!-- POSTS:END -->
