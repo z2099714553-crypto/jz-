@@ -112,37 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-29 18:05 UTC*
+*更新于 2026-09-29 22:16 UTC*
 
 **[Shipping to America](https://marginalrevolution.com/marginalrevolution/2026/09/shipping-to-america.html?utm_source=rss&utm_medium=rss&utm_campaign=shipping-to-america)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 4 小时前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-588.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-588)**  
-`Tyler Cowen` · 2 小时前  
+`Tyler Cowen` · 6 小时前  
 
 **[All of the Lenny & Friends Summit talks are now online!](https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit)**  
-`Lenny Rachitsky` · 4 小时前  
+`Lenny Rachitsky` · 9 小时前  
 
 **[Periodic Labs: A chatbot walks into a laboratory](https://www.generalist.com/p/a-chatbot-walks-into-a-laboratory)**  
-`Mario Gabriele` · 6 小时前  
+`Mario Gabriele` · 10 小时前  
 
 **[One More Note on Agents, Meta Connect, Meta Enterprise Platform](https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/)**  
-`Ben Thompson` · 8 小时前  
+`Ben Thompson` · 12 小时前  
 
 **[Bill Ackman: The Biggest Fight of His Life](https://fs.blog/knowledge-project-podcast/bill-ackman-2/)**  
-`Shane Parrish` · 8 小时前  
+`Shane Parrish` · 12 小时前  
 
 **[Accounting for Cross-Country Income Differences Revisited](https://marginalrevolution.com/marginalrevolution/2026/09/accounting-for-cross-country-income-differences-revisited.html?utm_source=rss&utm_medium=rss&utm_campaign=accounting-for-cross-country-income-differences-revisited)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 15 小时前  
 
 **[The Macroeconomic Effect of AI through software engineering](https://marginalrevolution.com/marginalrevolution/2026/09/the-macroeconomic-effect-of-ai-through-software-engineering.html?utm_source=rss&utm_medium=rss&utm_campaign=the-macroeconomic-effect-of-ai-through-software-engineering)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[Following: OpenAI taps the brakes](https://www.platformer.news/open-ai-model-release-canceled/)**  
-`Casey Newton` · 17 小时前  
+`Casey Newton` · 22 小时前  
 
 **[Segmentation Drives Market Share Wins in AI](https://tomtunguz.com/anthropic-repriced-the-enterprise/)**  
-`Tomasz Tunguz` · 18 小时前  
+`Tomasz Tunguz` · 22 小时前  
 
 **[Man’s best friend?](https://marginalrevolution.com/marginalrevolution/2026/09/mans-best-friend.html?utm_source=rss&utm_medium=rss&utm_campaign=mans-best-friend)**  
 `Tyler Cowen` · 1 天前  
