@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-29 01:01 UTC*
+*更新于 2026-09-29 09:51 UTC*
+
+**[Accounting for Cross-Country Income Differences Revisited](https://marginalrevolution.com/marginalrevolution/2026/09/accounting-for-cross-country-income-differences-revisited.html?utm_source=rss&utm_medium=rss&utm_campaign=accounting-for-cross-country-income-differences-revisited)**  
+`Tyler Cowen` · 2 小时前  
+
+**[The Macroeconomic Effect of AI through software engineering](https://marginalrevolution.com/marginalrevolution/2026/09/the-macroeconomic-effect-of-ai-through-software-engineering.html?utm_source=rss&utm_medium=rss&utm_campaign=the-macroeconomic-effect-of-ai-through-software-engineering)**  
+`Tyler Cowen` · 5 小时前  
 
 **[Following: OpenAI taps the brakes](https://www.platformer.news/open-ai-model-release-canceled/)**  
-`Casey Newton` · 刚刚  
+`Casey Newton` · 9 小时前  
 
 **[Man’s best friend?](https://marginalrevolution.com/marginalrevolution/2026/09/mans-best-friend.html?utm_source=rss&utm_medium=rss&utm_campaign=mans-best-friend)**  
-`Tyler Cowen` · 7 小时前  
+`Tyler Cowen` · 15 小时前  
 
 **[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-579)**  
-`Tyler Cowen` · 8 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[🎙️ How I AI: Jev for beginners + I left Claude for months, Opus 5.5 brought me back + Opus 5.5 vs. GPT-6 Sol bench](https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left)**  
-`Lenny Rachitsky` · 9 小时前  
+`Lenny Rachitsky` · 18 小时前  
 
 **[Mighty Sparrow, RIP](https://marginalrevolution.com/marginalrevolution/2026/09/mighty-sparrow-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=mighty-sparrow-rip)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 19 小时前  
 
 **[Airbound: As We May Move](https://www.notboring.co/p/airbound-as-we-may-move)**  
-`Packy McCormick` · 11 小时前  
+`Packy McCormick` · 20 小时前  
 
 **[Jev for beginners: how to use it and what to build](https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and)**  
-`Lenny Rachitsky` · 12 小时前  
+`Lenny Rachitsky` · 21 小时前  
 
 **[Defining the Unemployment Rate](https://marginalrevolution.com/marginalrevolution/2026/09/defining-the-unemployment-rate.html?utm_source=rss&utm_medium=rss&utm_campaign=defining-the-unemployment-rate)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[Apps, Agents, and Aggregation](https://stratechery.com/2026/apps-agents-and-aggregation/)**  
-`Ben Thompson` · 14 小时前  
+`Ben Thompson` · 23 小时前  
 
 **[20VC: $1BN ARR in 18 Months; The Untold Story of Higgsfield \| Spending $4M Per Month on Models \| Why Moats in AI are BS \| Scaling a Content Team to 150 People with Alex Mashrabov](https://thetwentyminutevc.libsyn.com/20vc-1bn-arr-in-18-months-the-untold-story-of-higgsfield-spending-4m-per-month-on-models-why-moats-in-ai-are-bs-scaling-a-content-team-to-150-people-with-alex-mashrabov)**  
-`Harry Stebbings` · 17 小时前  
+`Harry Stebbings` · 1 天前  
 
 **[Bundesrepublik Deutschland](https://marginalrevolution.com/marginalrevolution/2026/09/bundesrepublik-deutschland.html?utm_source=rss&utm_medium=rss&utm_campaign=bundesrepublik-deutschland)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长](https://sv101.fireside.fm/267)**  
-`陈茜` · 22 小时前  
+`陈茜` · 1 天前  
 
 **[How GPU Prices Can Double While AI Gets Cheaper](https://tomtunguz.com/how-gpu-prices-double-while-ai-gets-cheaper/)**  
 `Tomasz Tunguz` · 1 天前  
-
-**[AI in science](https://marginalrevolution.com/marginalrevolution/2026/09/ai-in-science.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-science)**  
-`Tyler Cowen` · 1 天前  
-
-**[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/sunday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-584)**  
-`Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
