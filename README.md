@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-30 05:34 UTC*
+*更新于 2026-09-30 12:36 UTC*
 
-**[Don’t let AI make you dumber](https://marginalrevolution.com/marginalrevolution/2026/09/dont-let-ai-make-you-dumber.html?utm_source=rss&utm_medium=rss&utm_campaign=dont-let-ai-make-you-dumber)**  
+**[Jev: 8 real use cases for the fastest, cheapest model I’ve ever used \| John Lindquist](https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest)**  
+`Lenny Rachitsky` · 刚刚  
+
+**[Luis Garicano on Spain, Europe, and the Future of Work](https://cowenconvos.libsyn.com/luis-garicano-on-spain-europe-and-the-future-of-work)**  
+`Tyler Cowen` · 刚刚  
+
+**[Trump Administration Limits Predatory Lending in Education](https://marginalrevolution.com/marginalrevolution/2026/09/trump-administration-limits-predatory-lending-in-education.html?utm_source=rss&utm_medium=rss&utm_campaign=trump-administration-limits-predatory-lending-in-education)**  
 `Tyler Cowen` · 1 小时前  
 
+**[OpenAI Dev Day, Dot and OpenAI’s Product Transition, Sign In With ChatGPT](https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/)**  
+`Ben Thompson` · 2 小时前  
+
+**[*Shade*](https://marginalrevolution.com/marginalrevolution/2026/09/shade.html?utm_source=rss&utm_medium=rss&utm_campaign=shade)**  
+`Tyler Cowen` · 6 小时前  
+
+**[Don’t let AI make you dumber](https://marginalrevolution.com/marginalrevolution/2026/09/dont-let-ai-make-you-dumber.html?utm_source=rss&utm_medium=rss&utm_campaign=dont-let-ai-make-you-dumber)**  
+`Tyler Cowen` · 8 小时前  
+
 **[OpenAI connects the Dots](https://www.platformer.news/openai-dots-agents-devday-2026/)**  
-`Casey Newton` · 4 小时前  
+`Casey Newton` · 11 小时前  
 
 **[E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？](https://sv101.fireside.fm/268)**  
-`陈茜` · 6 小时前  
+`陈茜` · 13 小时前  
 
 **[Shipping to America](https://marginalrevolution.com/marginalrevolution/2026/09/shipping-to-america.html?utm_source=rss&utm_medium=rss&utm_campaign=shipping-to-america)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-588.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-588)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 20 小时前  
 
 **[All of the Lenny & Friends Summit talks are now online!](https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit)**  
-`Lenny Rachitsky` · 16 小时前  
+`Lenny Rachitsky` · 23 小时前  
 
 **[Periodic Labs: A chatbot walks into a laboratory](https://www.generalist.com/p/a-chatbot-walks-into-a-laboratory)**  
-`Mario Gabriele` · 17 小时前  
+`Mario Gabriele` · 1 天前  
 
 **[One More Note on Agents, Meta Connect, Meta Enterprise Platform](https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/)**  
-`Ben Thompson` · 19 小时前  
+`Ben Thompson` · 1 天前  
 
 **[Bill Ackman: The Biggest Fight of His Life](https://fs.blog/knowledge-project-podcast/bill-ackman-2/)**  
-`Shane Parrish` · 19 小时前  
+`Shane Parrish` · 1 天前  
 
 **[Accounting for Cross-Country Income Differences Revisited](https://marginalrevolution.com/marginalrevolution/2026/09/accounting-for-cross-country-income-differences-revisited.html?utm_source=rss&utm_medium=rss&utm_campaign=accounting-for-cross-country-income-differences-revisited)**  
-`Tyler Cowen` · 22 小时前  
-
-**[The Macroeconomic Effect of AI through software engineering](https://marginalrevolution.com/marginalrevolution/2026/09/the-macroeconomic-effect-of-ai-through-software-engineering.html?utm_source=rss&utm_medium=rss&utm_campaign=the-macroeconomic-effect-of-ai-through-software-engineering)**  
-`Tyler Cowen` · 1 天前  
-
-**[Following: OpenAI taps the brakes](https://www.platformer.news/open-ai-model-release-canceled/)**  
-`Casey Newton` · 1 天前  
-
-**[Segmentation Drives Market Share Wins in AI](https://tomtunguz.com/anthropic-repriced-the-enterprise/)**  
-`Tomasz Tunguz` · 1 天前  
-
-**[Man’s best friend?](https://marginalrevolution.com/marginalrevolution/2026/09/mans-best-friend.html?utm_source=rss&utm_medium=rss&utm_campaign=mans-best-friend)**  
-`Tyler Cowen` · 1 天前  
-
-**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-579)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->

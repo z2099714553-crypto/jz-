@@ -1,7 +1,88 @@
 {
-  "generated_at": "2026-09-30T05:34:11Z",
-  "count": 275,
+  "generated_at": "2026-09-30T12:36:11Z",
+  "count": 280,
   "posts": [
+    {
+      "id": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest",
+      "title": "Jev: 8 real use cases for the fastest, cheapest model I’ve ever used | John Lindquist",
+      "link": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest",
+      "published": "2026-09-30T12:04:27Z",
+      "source": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "lang": "en",
+      "tags": [
+        "产品",
+        "增长",
+        "访谈"
+      ],
+      "type": "interview",
+      "raw_text": "John Lindquist created egghead.io, a developer education platform used by hundreds of thousands of working engineers. These days he s building mega.dev, a hands-on program specifically for developers who want to do real work with AI agents, not just prototype them.\n Listen or watch on YouTube , Spotify , or Apple Podcasts \n\n What you ll learn: Why Jev is a decision engine, not a chatbot, and what that distinction actually changes about how you build\n\n How John built a real-time voice to-do app that classifies and executes commands with no visible pause\n\n The data deduplication pattern that merges messy records in milliseconds using confidence scores\n\n Why Jev works best as a router, and how a single text input can navigate users deep into an app\n\n What a chess match between Jev and a low-reasoning LLM reveals about speed, cost, and when to use which\n\n The multi-step classification pattern John reaches for when one Jev pass isn t enough\n\n Where Jev falls short, and when you should still reach for a full generative model\n\n Brought to you by: Vanta Automate compliance and simplify security\n \n In this episode, we cover: ( 00:00 ) John Lindquist returns for Jev week\n ( 04:32 ) What Jev actually outputs\n ( 06:15 ) Demo: real-time voice to-do app\n ( 08:17 ) How sequential Jev calls chain together\n ( 10:38 ) Demo: plain English to function name (grocery cart)\n ( 11:50 ) Demo: data deduplication and record merging\n ( 13:45 ) Confidence scores and multi-model validation\n ( 15:06 ) Demo: Jev as a multi-level app router\n ( 18:23 ) Architecting around Jev\n ( 19:35 ) Demo: Jev vs. traditional LLM at chess (speed and cost benchmarks)\n ( 24:29 ) DOM interactions as a decision set, not an infinite canvas\n ( 28:21 ) Demo: Wikipedia path to philosophy route mapper\n ( 30:28 ) Demo: multi-agent coordination and collision avoidance\n ( 33:36 ) Demo: real-time presentation coach\n ( 36:56 ) Quick recap\n ( 39:54 ) Lightning round and final thoughts\n \n Tools referenced: Jev (TypeSafe AI decision model): https://typesafe.ai/blog/introducing-system-one-models-and-jev \n Vercel AI Gateway: https://vercel.com/docs/ai-gateway \n OpenRouter: https://openrouter.ai \n Opus 5.5 (mentioned in context of iterative demo building): https://www.anthropic.com/claude-opus-5-5 \n \n Where to find John Lindquist: LinkedIn: linkedin.com/in/john-lindquist-84230766 \n X: https://x.com/johnlindquist \n Mega.dev: https://mega.dev/ \n Egghead.io: https://egghead.io/ \n \n Where to find Claire Vo: ChatPRD: https://www.chatprd.ai/ \n Website: https://clairevo.com/ \n LinkedIn: https://www.linkedin.com/in/clairevo/ \n X: https://x.com/clairevo \n \n Production and marketing by https://penname.co/ . For inquiries about sponsoring the podcast, email jordan@penname.co.",
+      "fetched_at": "2026-09-30T12:35:56Z"
+    },
+    {
+      "id": "https://cowenconvos.libsyn.com/luis-garicano-on-spain-europe-and-the-future-of-work",
+      "title": "Luis Garicano on Spain, Europe, and the Future of Work",
+      "link": "https://cowenconvos.libsyn.com/luis-garicano-on-spain-europe-and-the-future-of-work",
+      "published": "2026-09-30T12:02:00Z",
+      "source": "Conversations with Tyler",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "深度访谈",
+        "经济学"
+      ],
+      "type": "interview",
+      "raw_text": "Luis Garicano has one of the more unusual résumés in economics: trained at the University of Chicago Booth School under Gary Becker, Kevin Murphy, and Sherwin Rosen, he left academia for a stint as a member of the European Parliament before returning to research, now at the London School of Economics for a second time. His new book, Messy Jobs , co-authored with Jin Li and Yanhui Wu, argues that AI won't cause mass unemployment for a surprising reason: it will make jobs messier, not simpler, and messiness is precisely what AI struggles with.\n Tyler and Luis start their conversation with Spain — housing, NIMBYism, and the productivity crisis; Spanish literature and why the Civil War still looms so large; and what Chicago taught Luis about party discipline in European politics. Then to the EU's unanimity problem, capital markets, and Denmark's flexicurity model; a round of overrated-versus-underrated on Rosalía, Penélope Cruz, and Sgt. Pepper's; and finally into Messy Jobs — why retraining programs fail, whether AI's leisure dividend has arrived, and whether Spain could ever achieve AI sovereignty.\n Read a transcript enhanced with helpful links, or watch the full video on YouTube.\n Recorded July 28th, 2026. \n Other ways to connect\n Follow us on X and Instagram \n Follow Tyler on X\n Follow Luis on X\n Sign up for our newsletter \n Join our Discord \n Email us: cowenconvos@mercatus.gmu.edu \n Learn more about Conversations with Tyler and other Mercatus Center podcasts here .\n Timestamps:\n 00:00:00 - Intro\n 00:01:05 - On Spain's housing and political paralysis\n 00:11:08 - On Spanish literature and the Civil War\n 00:16:52 - On Basque and Catalan public finance\n 00:18:59 - On party discipline and political selection\n 00:22:03 - On the EU's unanimity problem\n 00:28:47 - On flexicurity and European labor rigidity\n 00:30:24 - Overrated vs. underrated\n 00:33:12 - On the future of Spanish language\n 00:35:01 - On why AI won't cause mass unemployment\n 00:48:38 - On what's next\n 00:50:11 - Outro",
+      "fetched_at": "2026-09-30T12:36:02Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/trump-administration-limits-predatory-lending-in-education.html",
+      "title": "Trump Administration Limits Predatory Lending in Education",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/trump-administration-limits-predatory-lending-in-education.html?utm_source=rss&utm_medium=rss&utm_campaign=trump-administration-limits-predatory-lending-in-education",
+      "published": "2026-09-30T11:17:27Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "The New Republic writes President Trump is banning students majoring in degrees that don’t make enough money from taking out college loans. Yes, but do note that no student is banned from any major and the lending rule is mild. Undergraduate programs must show:\n\n that their graduates earn more than the typical high school diploma holder [and] graduate programs will be required to demonstrate that their graduates earn more than the typical bachelor s degree holder . (emphasis added).\n \n Think about how low that bar is. The comparison group for an undergraduate program is working adults aged 25-34 with nothing more than a high school diploma. A college program that can t beat that has almost certainly made its students worse off. For graduate programs the bar is the lowest of several bachelor s benchmarks, including bachelor s holders in the same field. A master s in social work need only beat people with a bachelor s in social work. A program must also fail in two out of three years before it loses loan eligibility. The Department estimates that about 5% of programs will fail in the first year.\n\n I mocked the term predatory lending when it first became common in the financial crisis but in this case predatory lending fits the bill because the real borrower isn t the individual student. Under income-driven repayment, the taxpayer is a forced co-signer, and it s the taxpayer who gets predated.\n\n Most expansions of the student loan program have been motivated by the picture of an enterprising student who works hard and wants to major in mechanical engineering or nursing but because of their poor circumstances they can t afford college. Credit constraints, asymmetric information, you can t collateralize human capital, said the economists. Nice theory, what s the practice?\n\n The economists wanted loans for good investments and insurance against bad luck but the economists can t swing the vote and once the government is lending, colleges want more tuition money and students want more forgiveness. The result is a subsidy for programs whose graduates are never likely to repay. As Looney and Yannelis document :\n\n Starting in the late 1990s, policymakers weakened regulations that had constrained institutions from enrolling aid-dependent students. This led to rising enrollment of relatively disadvantaged students, but primarily at poor-performing, low-value institutions whose students systematically failed to complete a degree, struggled to repay their loans, defaulted at high rates, and foundered in the job market. As these new borrowers experienced similarly poor outcomes, their loans piled up, loan performance deteriorated, and with it the finances of the federal program.\n \n Indeed, the program worked in reverse of what was promised. The biggest subsidies went to programs whose graduates were least able to repay, rather than programs with the strongest case for public support. As I wrote earlier :\n\n Looney does a back of the envelope calculation and estimates that typical graduates in Mechanical Engineering will on average get a 0% subsidy but graduates in Music will get a 96% subsidy, in Drama a 99% subsidy and Masseuses a 100% subsidy on average. This of course is exactly the wrong approach. If we are going to subsidize, we should subsidize degrees with plausible positive spillovers not masseuses.\n \n The courts later blocked Biden s Save plan but the problem is built into income-driven repayment. If music, drama and masseuses are promised a 95%+ subsidy who is paying? The taxpayers. Moreover, it s even worse than this because the very existence of these loans incentivizes the creation of expensive, useless programs . It s not just the drama colleges, however. Not surprisingly, the law schools have proven adept at using Public Service Loan Forgiveness (PSLF) to rip off the taxpayer . The school raises tuition, then covers the student s small income-driven payments for ten years, and the taxpayer forgives the rest . In short, protecting students from the cost of failure rewards colleges for producing it.\n\n Fortunately, the same bill limiting loans ended Grad PLUS loans and capped graduate borrowing. You can see the logic: if taxpayers are going to insure the loans, they need some say over which programs qualify and how much is borrowed. I don t like giving government that power, but this is the Mises Higgs intervention ratchet in action: subsidize the loans, absorb the losses, then regulate the programs to limit the losses.\n\n My ideal program would get the government out of the student loan business altogether but until then this is a good first step at limiting one of the most expensive and wasteful programs of the federal government.\n\n The post Trump Administration Limits Predatory Lending in Education appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-30T12:35:55Z"
+    },
+    {
+      "id": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt",
+      "title": "OpenAI Dev Day, Dot and OpenAI’s Product Transition, Sign In With ChatGPT",
+      "link": "https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/",
+      "published": "2026-09-30T10:00:00Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "OpenAI's Dev Day showcased a product that is, frankly, pretty confusing. However, there is more vision here than it might seem.",
+      "fetched_at": "2026-09-30T12:35:55Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/09/shade.html",
+      "title": "*Shade*",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/09/shade.html?utm_source=rss&utm_medium=rss&utm_campaign=shade",
+      "published": "2026-09-30T06:26:22Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "The author is Sam Bloch, and the subtitle is The Promise of a Forgotten Natural Resource . An interesting book on a neglected topic, here is one excerpt:\n\n Shade is not part of L.A. s modern identity. In the 1930s, the city was rezoned to Federal Housing Administration design standards and banned high-density developments like row houses. Although apartments were once common, city leaders bowed to a prevailing wisdom that L.A. should not resemble a dark and cramped East Coast city. Freestanding single family-homes that were touched by sun on every side became mandatory. In came the cars. L.A. s curbside trees were removed to accommodate shrinking sidewalks and expanding roads, and new rules that require parking minimums dealt another below to the urban forest. Mediterranean-style courtyards became endangered species as the shaded commons were converted to outdoor car storage. For decades, no building could be taller than the twenty-seven-story city hall \n\n Since the 1970s, an individual right to sunshine has been practically enshrined in state law.\n \n The book also serves as an alternative history of Los Angeles (though it covers much more than that) through this alternative lens.\n\n The post *Shade* appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-09-30T12:35:55Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/09/dont-let-ai-make-you-dumber.html",
       "title": "Don’t let AI make you dumber",
