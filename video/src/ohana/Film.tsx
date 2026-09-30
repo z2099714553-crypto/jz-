@@ -6,6 +6,7 @@ import { Subtitle } from "./Subtitle";
 import { ensureFonts } from "./theme";
 import { S01Horizon, S02Islands, S03Circle, S04Threads, S05Seaweed, S06Word } from "./scenes/Ch1Sea";
 import { S07OldPhoto, S08Files, S09Book, S10Four } from "./scenes/Ch2Phrases";
+import { S11Map, S12Split, S13Port, S14Shore } from "./scenes/Ch3Distance";
 import { Placeholder } from "./scenes/Placeholder";
 
 ensureFonts();
@@ -22,6 +23,10 @@ const SCENES: Record<string, React.FC> = {
   s08: S08Files,
   s09: S09Book,
   s10: S10Four,
+  s11: S11Map,
+  s12: S12Split,
+  s13: S13Port,
+  s14: S14Shore,
 };
 
 /** 相邻两场交叉淡化的帧数 */

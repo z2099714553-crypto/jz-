@@ -2,7 +2,7 @@
 
 全部用程序合成（噪声滤波做海浪，正弦波叠加做乐器），不使用任何外部音频素材。
 时间点与 src/ohana/script.ts 和各场景动画对齐（30fps）。
-已完成第一、二章（0–61 秒），之后的章节做好画面后再补。
+已完成第一至三章（0–84 秒），之后的章节做好画面后再补。
 
 运行：
     pip install numpy
@@ -139,6 +139,37 @@ def flap() -> np.ndarray:
     return filtered_noise(n, 150, 1800, -0.8) * np.sin(np.pi * t / t[-1]) ** 2 * 0.5
 
 
+def glide(seconds: float, f0: float, f1: float) -> np.ndarray:
+    """一道细长的上滑音，带一点颤音"""
+    n = int(seconds * SR)
+    t = np.arange(n) / SR
+    f = np.geomspace(f0, f1, n) * (1 + 0.004 * np.sin(2 * np.pi * 5.2 * t))
+    tone = np.sin(2 * np.pi * np.cumsum(f) / SR) + 0.25 * np.sin(4 * np.pi * np.cumsum(f) / SR)
+    return tone * env_adsr(n, 0.6, 0.8)
+
+
+def horn(seconds: float = 2.6) -> np.ndarray:
+    """远处的船笛：两个低音叠成的和声，泛音丰富，起音慢"""
+    n = int(seconds * SR)
+    t = np.arange(n) / SR
+    out = np.zeros(n)
+    for f0 in (110.0, 138.6):
+        for h in range(1, 12):
+            out += np.sin(2 * np.pi * f0 * h * t) / h ** 1.3
+    return out / 6 * env_adsr(n, 0.35, 0.8)
+
+
+def hum(seconds: float) -> np.ndarray:
+    n = int(seconds * SR)
+    return filtered_noise(n, 40, 220, -0.8) * 0.6
+
+
+def tick(seconds: float = 0.1) -> np.ndarray:
+    n = int(seconds * SR)
+    t = np.arange(n) / SR
+    return (np.sin(2 * np.pi * 2400 * t) * 0.5 + filtered_noise(n, 1500, 8000, 0) * 0.3) * np.exp(-t / 0.01)
+
+
 # ── 第一章 · 海的中央（0–36 秒） ──────────────────────────────
 
 def chapter1() -> np.ndarray:
@@ -253,6 +284,66 @@ def chapter2() -> np.ndarray:
     return reverb(mix, seconds=3.0, wet=0.34) * 1.26
 
 
+# ── 第三章 · 八千公里（61–84 秒） ──────────────────────────────
+
+def chapter3() -> np.ndarray:
+    T0 = 61.0
+    L = 27.0
+    mix = buf(L)
+
+    def at(t: float) -> float:
+        return t - T0
+
+    def put_stereo(x: np.ndarray, t: float, gain: float) -> None:
+        i = int(at(t) * SR)
+        mix[:, i : i + x.shape[1]] += x[:, : mix.shape[1] - i] * gain
+
+    # 11 地图：线从檀香山出发时一道上滑音，到北仑一声钟
+    sea = ocean(6.5)
+    sea *= np.interp(np.arange(sea.shape[1]) / SR, [0, 1, 5.5, 6.5], [0.3, 0.5, 0.5, 0.2])
+    put_stereo(sea, 61.0, 0.18)
+    pad_chord(mix, at(61.0), at(67.6), ["B1", "F#2", "A2", "D3"], 0.05, attack=1.5)
+    draw0, draw1 = f2s(30, 61), f2s(150, 61)
+    place(mix, glide(draw1 - draw0 + 0.4, 520, 880), at(draw0), 0.07, 0.6)
+    place(mix, bell(hz("D5"), 5.0), at(draw1), 0.14, -0.4)
+    place(mix, bell(hz("F#5"), 5.0), at(draw1 + 0.14), 0.1, -0.3)
+
+    # 12 分屏：左声道檀香山的海与拨弦，右声道北仑港的低鸣与汽笛
+    left = ocean(5.4)
+    left[1] *= 0.15
+    put_stereo(left, 67.0, 0.28)
+    for k, nm in enumerate(["G4", "B4", "D5", "G5", "D5", "B4", "A4", "D5"]):
+        place(mix, pluck(hz(nm)), at(67.3 + k * 0.55), 0.09, -0.85)
+    right = np.zeros((2, int(5.4 * SR)))
+    right[1] = hum(5.4)
+    right[0] = right[1] * 0.15
+    put_stereo(right, 67.0, 0.2)
+    place(mix, horn(), at(68.2), 0.09, 0.8)
+    settle = f2s(50, 67)
+    place(mix, tick(), at(settle), 0.25, -0.6)
+    place(mix, tick(), at(settle + 0.08), 0.25, 0.6)
+    pad_chord(mix, at(67.0), at(72.6), ["G1", "D2", "B2", "F#3"], 0.045)
+
+    # 13 港口：远处再一声汽笛，镜头推向海浪，浪声越来越大
+    waves = ocean(5.6)
+    waves *= np.interp(np.arange(waves.shape[1]) / SR, [0, 5.0, 5.6], [0.2, 0.75, 0.6])
+    put_stereo(waves, 72.0, 0.4)
+    place(mix, horn(3.0), at(72.4), 0.05, 0.3)
+    pad_chord(mix, at(72.0), at(77.6), ["E2", "B2", "D3", "F#3"], 0.05)
+
+    # 14 夏威夷海边的背影：浪一次次涌上来，和弦落回温暖的 G，过渡到「家」
+    shore = ocean(8.5)
+    shore *= np.interp(np.arange(shore.shape[1]) / SR, [0, 1, 6.5, 8.5], [0.6, 0.55, 0.45, 0])
+    put_stereo(shore, 77.0, 0.3)
+    pad_chord(mix, at(77.0), at(80.8), ["D2", "A2", "F#3", "A3"], 0.05)
+    pad_chord(mix, at(80.4), at(86.5), ["G1", "D2", "B2", "A3"], 0.055, release=3.0)
+    for k, (t, nm) in enumerate([(77.6, "F#5"), (78.5, "E5"), (79.4, "D5"), (80.8, "B4"), (81.7, "D5"), (82.6, "A4")]):
+        place(mix, pluck(hz(nm), 3.0), at(t), 0.1, -0.2 + 0.08 * k)
+
+    # 比前两章略轻，补 1 dB
+    return reverb(mix, seconds=3.2, wet=0.34) * 1.12
+
+
 def main() -> None:
     full = buf(TOTAL)
     c1 = chapter1()
@@ -260,6 +351,9 @@ def main() -> None:
     c2 = chapter2()
     s2 = int(36.0 * SR)
     full[:, s2 : s2 + c2.shape[1]] += c2
+    c3 = chapter3()
+    s3 = int(61.0 * SR)
+    full[:, s3 : s3 + c3.shape[1]] += c3
 
     # 先按峰值对齐，再整体提升约 4 dB，超过 0.7 的部分用软限幅压住，峰值不超过 -1 dBFS
     full *= 0.89 / np.max(np.abs(full))

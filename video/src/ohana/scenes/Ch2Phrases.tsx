@@ -24,7 +24,7 @@ const ElderWoman: React.FC<{ fill: string }> = ({ fill }) => (
 );
 
 /** 棕榈树：弯曲的树干 + 一簇下垂的叶 */
-const Palm: React.FC<{ x: number; y: number; t: number; fill: string }> = ({ x, y, t, fill }) => {
+export const Palm: React.FC<{ x: number; y: number; t: number; fill: string }> = ({ x, y, t, fill }) => {
   const fronds = [-172, -146, -118, -64, -30, 6, 34];
   return (
     <g>
