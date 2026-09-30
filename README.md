@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-29 22:16 UTC*
+*更新于 2026-09-30 05:34 UTC*
+
+**[Don’t let AI make you dumber](https://marginalrevolution.com/marginalrevolution/2026/09/dont-let-ai-make-you-dumber.html?utm_source=rss&utm_medium=rss&utm_campaign=dont-let-ai-make-you-dumber)**  
+`Tyler Cowen` · 1 小时前  
+
+**[OpenAI connects the Dots](https://www.platformer.news/openai-dots-agents-devday-2026/)**  
+`Casey Newton` · 4 小时前  
+
+**[E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？](https://sv101.fireside.fm/268)**  
+`陈茜` · 6 小时前  
 
 **[Shipping to America](https://marginalrevolution.com/marginalrevolution/2026/09/shipping-to-america.html?utm_source=rss&utm_medium=rss&utm_campaign=shipping-to-america)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 11 小时前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/tuesday-assorted-links-588.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-588)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 13 小时前  
 
 **[All of the Lenny & Friends Summit talks are now online!](https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit)**  
-`Lenny Rachitsky` · 9 小时前  
+`Lenny Rachitsky` · 16 小时前  
 
 **[Periodic Labs: A chatbot walks into a laboratory](https://www.generalist.com/p/a-chatbot-walks-into-a-laboratory)**  
-`Mario Gabriele` · 10 小时前  
+`Mario Gabriele` · 17 小时前  
 
 **[One More Note on Agents, Meta Connect, Meta Enterprise Platform](https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/)**  
-`Ben Thompson` · 12 小时前  
+`Ben Thompson` · 19 小时前  
 
 **[Bill Ackman: The Biggest Fight of His Life](https://fs.blog/knowledge-project-podcast/bill-ackman-2/)**  
-`Shane Parrish` · 12 小时前  
+`Shane Parrish` · 19 小时前  
 
 **[Accounting for Cross-Country Income Differences Revisited](https://marginalrevolution.com/marginalrevolution/2026/09/accounting-for-cross-country-income-differences-revisited.html?utm_source=rss&utm_medium=rss&utm_campaign=accounting-for-cross-country-income-differences-revisited)**  
-`Tyler Cowen` · 15 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[The Macroeconomic Effect of AI through software engineering](https://marginalrevolution.com/marginalrevolution/2026/09/the-macroeconomic-effect-of-ai-through-software-engineering.html?utm_source=rss&utm_medium=rss&utm_campaign=the-macroeconomic-effect-of-ai-through-software-engineering)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Following: OpenAI taps the brakes](https://www.platformer.news/open-ai-model-release-canceled/)**  
-`Casey Newton` · 22 小时前  
+`Casey Newton` · 1 天前  
 
 **[Segmentation Drives Market Share Wins in AI](https://tomtunguz.com/anthropic-repriced-the-enterprise/)**  
-`Tomasz Tunguz` · 22 小时前  
+`Tomasz Tunguz` · 1 天前  
 
 **[Man’s best friend?](https://marginalrevolution.com/marginalrevolution/2026/09/mans-best-friend.html?utm_source=rss&utm_medium=rss&utm_campaign=mans-best-friend)**  
 `Tyler Cowen` · 1 天前  
 
 **[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/monday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-579)**  
 `Tyler Cowen` · 1 天前  
-
-**[🎙️ How I AI: Jev for beginners + I left Claude for months, Opus 5.5 brought me back + Opus 5.5 vs. GPT-6 Sol bench](https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left)**  
-`Lenny Rachitsky` · 1 天前  
-
-**[Mighty Sparrow, RIP](https://marginalrevolution.com/marginalrevolution/2026/09/mighty-sparrow-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=mighty-sparrow-rip)**  
-`Tyler Cowen` · 1 天前  
-
-**[Airbound: As We May Move](https://www.notboring.co/p/airbound-as-we-may-move)**  
-`Packy McCormick` · 1 天前  
 
 <!-- POSTS:END -->
