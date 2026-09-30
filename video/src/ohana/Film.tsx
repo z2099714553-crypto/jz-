@@ -5,6 +5,7 @@ import { CHAPTERS, CUES, Cue, FPS } from "./script";
 import { Subtitle } from "./Subtitle";
 import { ensureFonts } from "./theme";
 import { S01Horizon, S02Islands, S03Circle, S04Threads, S05Seaweed, S06Word } from "./scenes/Ch1Sea";
+import { S07OldPhoto, S08Files, S09Book, S10Four } from "./scenes/Ch2Phrases";
 import { Placeholder } from "./scenes/Placeholder";
 
 ensureFonts();
@@ -17,6 +18,10 @@ const SCENES: Record<string, React.FC> = {
   s04: S04Threads,
   s05: S05Seaweed,
   s06: S06Word,
+  s07: S07OldPhoto,
+  s08: S08Files,
+  s09: S09Book,
+  s10: S10Four,
 };
 
 /** 相邻两场交叉淡化的帧数 */

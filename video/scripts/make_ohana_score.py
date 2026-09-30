@@ -2,7 +2,7 @@
 
 全部用程序合成（噪声滤波做海浪，正弦波叠加做乐器），不使用任何外部音频素材。
 时间点与 src/ohana/script.ts 和各场景动画对齐（30fps）。
-目前完成第一章（0–36 秒），之后的章节做好画面后再补。
+已完成第一、二章（0–61 秒），之后的章节做好画面后再补。
 
 运行：
     pip install numpy
@@ -97,6 +97,48 @@ def drum(seconds: float = 1.2) -> np.ndarray:
     return (body + skin) * env_adsr(n, 0.002, 0.2)
 
 
+def pad_chord(mix: np.ndarray, t0: float, t1: float, notes, gain: float, attack=2.5, release=2.5) -> None:
+    for i, nm in enumerate(notes):
+        place(mix, pad_voice(hz(nm), t1 - t0, attack=attack, release=release), t0, gain * (0.7 if i == 0 else 0.85), pan=(i - 1.5) * 0.3)
+
+
+def rustle(seconds: float = 0.45) -> np.ndarray:
+    """翻纸声：高频噪声加一串细碎的起伏"""
+    n = int(seconds * SR)
+    t = np.arange(n) / SR
+    noise = filtered_noise(n, 900, 8000, -0.3)
+    grain = 0.5 + 0.5 * np.abs(np.sin(2 * np.pi * rng.uniform(18, 26) * t + rng.uniform(0, 6)))
+    env = np.minimum(t / 0.08, 1) * np.exp(-np.maximum(t - 0.08, 0) / 0.12)
+    return noise * grain * env * 0.5
+
+
+def crackle(seconds: float) -> np.ndarray:
+    """老唱片的噼啪声和底噪"""
+    n = int(seconds * SR)
+    out = filtered_noise(n, 2000, 9000, -0.5) * 0.02
+    clicks = rng.random(n) < 14 / SR
+    idx = np.nonzero(clicks)[0]
+    for i in idx:
+        L = int(rng.uniform(0.0005, 0.002) * SR)
+        seg = rng.normal(0, 1, L) * np.exp(-np.arange(L) / (L / 3)) * rng.uniform(0.1, 0.5)
+        out[i : i + L] += seg[: max(0, min(L, n - i))]
+    return out
+
+
+def thump() -> np.ndarray:
+    n = int(0.5 * SR)
+    t = np.arange(n) / SR
+    body = np.sin(2 * np.pi * (90 + 60 * np.exp(-t / 0.03)) * t) * np.exp(-t / 0.09)
+    slap = filtered_noise(n, 300, 4000, -0.5) * np.exp(-t / 0.012) * 0.4
+    return body + slap
+
+
+def flap() -> np.ndarray:
+    n = int(0.22 * SR)
+    t = np.arange(n) / SR
+    return filtered_noise(n, 150, 1800, -0.8) * np.sin(np.pi * t / t[-1]) ** 2 * 0.5
+
+
 # ── 第一章 · 海的中央（0–36 秒） ──────────────────────────────
 
 def chapter1() -> np.ndarray:
@@ -111,8 +153,7 @@ def chapter1() -> np.ndarray:
     mix += sea * level * 0.3
 
     def pad(t0, t1, notes, gain, attack=2.5, release=2.5):
-        for i, nm in enumerate(notes):
-            place(mix, pad_voice(hz(nm), t1 - t0, attack=attack, release=release), t0, gain * (0.7 if i == 0 else 0.85), pan=(i - 1.5) * 0.3)
+        pad_chord(mix, t0, t1, notes, gain, attack, release)
 
     # 02 岛屿与海雾：Bm(add9)，深而空
     pad(5.0, 11.8, ["B1", "F#3", "C#4", "D4"], 0.05, attack=3.5)
@@ -160,13 +201,71 @@ def chapter1() -> np.ndarray:
     return reverb(mix, seconds=3.2, wet=0.34)
 
 
+# ── 第二章 · 四句话（36–61 秒） ────────────────────────────────
+
+def chapter2() -> np.ndarray:
+    T0 = 36.0
+    L = 28.0
+    mix = buf(L)
+
+    def at(t: float) -> float:
+        return t - T0
+
+    # 07 老照片：留声机的底噪，G 大调的怀旧慢音
+    cr = crackle(6.6)
+    cr *= np.interp(np.arange(cr.size) / SR, [0, 0.6, 5.6, 6.6], [0, 1, 1, 0])
+    place(mix, cr, at(36.0), 0.5)
+    pad_chord(mix, at(36.0), at(42.6), ["G2", "D3", "F#3", "B3"], 0.05, attack=1.5)
+    for k, (t, nm) in enumerate([(36.6, "B4"), (37.5, "A4"), (38.4, "G4"), (39.6, "D5"), (40.5, "B4"), (41.4, "A4")]):
+        place(mix, pluck(hz(nm), 3.0), at(t), 0.1, -0.2 + 0.08 * k)
+
+    # 08 病历：Em7 → Cmaj7，每翻一页一声沙沙
+    pad_chord(mix, at(41.8), at(45.2), ["E2", "B2", "D3", "G3"], 0.05)
+    pad_chord(mix, at(44.8), at(48.6), ["C2", "G2", "B2", "E3"], 0.05)
+    for fr in [36, 82, 128]:
+        place(mix, rustle(), at(f2s(fr, 42)), 0.5, 0.25)
+    place(mix, bell(hz("E5"), 4.0), at(42.4), 0.06, 0.3)
+
+    # 09 书：合上一声闷响；飞起来后每扇一下有风声，海浪声回来
+    close = f2s(30, 48)
+    place(mix, thump(), at(close), 0.35, 0.0)
+    sea = ocean(6.0)
+    sea *= np.interp(np.arange(sea.shape[1]) / SR, [0, 1.2, 5.0, 6.0], [0, 1, 1, 0.4])
+    mix[:, int(at(48.0) * SR) : int(at(48.0) * SR) + sea.shape[1]] += sea * 0.18
+    fr = 38
+    while fr < 150:
+        place(mix, flap(), at(f2s(fr, 48)), 0.2 * (1 - (fr - 38) / 150), -0.3 * (fr - 38) / 112)
+        fr += 15
+    pad_chord(mix, at(48.2), at(53.4), ["D2", "A2", "F#3", "A3"], 0.055)
+    for k, nm in enumerate(["D5", "E5", "F#5", "A5"]):
+        place(mix, pluck(hz(nm)), at(close + 0.5 + k * 0.6), 0.09, -0.4 + k * 0.1)
+
+    # 10 纯白底：四句话各一声钟，最后回到 D 大调
+    first = 53.0 + 0.4
+    slot = (8 * FPS - 12) / 4 / FPS
+    pad_chord(mix, at(53.0), at(61.5), ["G2", "D3", "B3"], 0.035, attack=1.5, release=2.0)
+    for k, notes in enumerate([["D5"], ["B4"], ["A4"], ["D5", "F#5"]]):
+        for j, nm in enumerate(notes):
+            place(mix, bell(hz(nm), 5.0), at(first + k * slot + 0.15 + j * 0.12), 0.13, (-0.2, -0.05, 0.1, 0.0)[k])
+    pad_chord(mix, at(59.0), at(63.5), ["D2", "A2", "F#3", "D4"], 0.045, attack=1.2, release=2.5)
+
+    # 第二章整体安静一些，补 2 dB 与第一章对齐
+    return reverb(mix, seconds=3.0, wet=0.34) * 1.26
+
+
 def main() -> None:
     full = buf(TOTAL)
     c1 = chapter1()
     full[:, : c1.shape[1]] += c1
+    c2 = chapter2()
+    s2 = int(36.0 * SR)
+    full[:, s2 : s2 + c2.shape[1]] += c2
 
-    peak = np.max(np.abs(full))
-    full *= 0.89 / peak
+    # 先按峰值对齐，再整体提升约 4 dB，超过 0.7 的部分用软限幅压住，峰值不超过 -1 dBFS
+    full *= 0.89 / np.max(np.abs(full))
+    full *= 1.6
+    over = np.abs(full) > 0.7
+    full[over] = np.sign(full[over]) * (0.7 + 0.19 * np.tanh((np.abs(full[over]) - 0.7) / 0.19))
     pcm = (np.clip(full.T, -1, 1) * 32767).astype("<i2")
     OUT.parent.mkdir(parents=True, exist_ok=True)
     with wave.open(str(OUT), "wb") as w:

@@ -39,6 +39,7 @@ const splitZh = (s: string) => s.match(/[^。]+?(。|——|$)/g)!.filter((p) =>
 const splitEn = (s: string) => s.split(/(?<=[.!?—])\s+/).filter((p) => p.trim());
 
 type LineProps = {
+  big?: boolean;
   zh: string;
   en: string;
   label?: string;
@@ -50,7 +51,7 @@ type LineProps = {
   outEnd: number;
 };
 
-const SubtitleBlock: React.FC<LineProps> = ({ zh, en, label, tone, center, start, stagger, outStart, outEnd }) => {
+const SubtitleBlock: React.FC<LineProps> = ({ big, zh, en, label, tone, center, start, stagger, outStart, outEnd }) => {
   const frame = useCurrentFrame();
   const colors = palette[tone];
   const lines = breakLines(zh);
@@ -67,7 +68,7 @@ const SubtitleBlock: React.FC<LineProps> = ({ zh, en, label, tone, center, start
   });
   const ruleIn = interpolate(frame, [start + 6, start + 26], [0, 1], clamp);
   const enIn = interpolate(frame, [Math.min(revealEnd - 8, start + 30), revealEnd + 10], [0, 1], clamp);
-  const mainSize = center ? 60 : lines.length > 1 ? 48 : 52;
+  const mainSize = big ? 78 : center ? 60 : lines.length > 1 ? 48 : 52;
 
   let idx = 0;
   return (
@@ -146,7 +147,7 @@ const SubtitleBlock: React.FC<LineProps> = ({ zh, en, label, tone, center, start
         style={{
           fontFamily: FONT_EN,
           fontStyle: "italic",
-          fontSize: center ? 32 : 29,
+          fontSize: big ? 36 : center ? 32 : 29,
           letterSpacing: "0.02em",
           color: colors.en,
           opacity: enIn,
@@ -174,6 +175,7 @@ export const Subtitle: React.FC<{ cue: Cue; duration: number; tail: number }> = 
   if (!cue.steps) {
     return (
       <SubtitleBlock
+        big={cue.big}
         zh={cue.zh}
         en={cue.en}
         label={cue.label}
@@ -200,6 +202,7 @@ export const Subtitle: React.FC<{ cue: Cue; duration: number; tail: number }> = 
         return (
           <SubtitleBlock
             key={i}
+            big={cue.big}
             zh={zh}
             en={enParts[i] ?? ""}
             label={i === 0 ? cue.label : undefined}

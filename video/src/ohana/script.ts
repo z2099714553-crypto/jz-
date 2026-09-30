@@ -34,6 +34,8 @@ export type Cue = {
   cut?: boolean;
   /** 分句依次出现（第 10、20、28 场），每句独占一段时间 */
   steps?: boolean;
+  /** 大字（纯色底上只有这一句时） */
+  big?: boolean;
 };
 
 export type Chapter = { id: string; no: string; title: string; from: number; to: number };
@@ -140,6 +142,7 @@ export const CUES: Cue[] = [
     en: "I'm sorry. Please forgive me. Thank you. I love you.",
     place: "center",
     steps: true,
+    big: true,
   },
 
   // ── 第三章 · 八千公里 ────────────────────────────────
