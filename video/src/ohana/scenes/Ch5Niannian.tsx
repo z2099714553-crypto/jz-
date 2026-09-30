@@ -64,7 +64,7 @@ export const S22Dot: React.FC = () => {
 // 23 图 3：窗台上的念念，眨眼，耳朵抖动，窗外的城市灯光闪烁
 // ─────────────────────────────────────────────────────────
 const CAT_W = {
-  src: "ohana/cutouts/niannian_window.png",
+  src: "ohana/cartoon/niannian_window.png",
   w: 1280,
   h: 960,
   scale: 1.12,
@@ -202,7 +202,7 @@ export const S23Window: React.FC = () => {
 // 24 图 4：沙发上的念念看镜头
 // ─────────────────────────────────────────────────────────
 const CAT_S = {
-  src: "ohana/cutouts/niannian_sofa.png",
+  src: "ohana/cartoon/niannian_sofa.png",
   w: 960,
   h: 1280,
   scale: 1.2,
@@ -276,7 +276,7 @@ export const S24Sofa: React.FC = () => {
 // ─────────────────────────────────────────────────────────
 // 25 图 5：念念在茶几上伸成长长一条，肚子随呼吸起伏
 // ─────────────────────────────────────────────────────────
-const CAT_T = { src: "ohana/cutouts/niannian_table.png", w: 1707, h: 1280, scale: 0.955, x: 203, y: -234 };
+const CAT_T = { src: "ohana/cartoon/niannian_table.png", w: 1707, h: 1280, scale: 0.955, x: 203, y: -234 };
 const toT = (sx: number, sy: number) => [CAT_T.x + sx * CAT_T.scale, CAT_T.y + sy * CAT_T.scale] as const;
 
 const Table: React.FC = () => {
@@ -424,7 +424,7 @@ const Family: React.FC<{ f: number; bgMix: number; soften?: number }> = ({ f, bg
       {/* 被切过的边都加柔边，而且都藏在别人身后 */}
       <div style={{ position: "absolute", inset: 0, opacity: dad, transform: `translateX(${(1 - dad) * -520}px)` }}>
         <Photo
-          src="ohana/cutouts/dad_body.png"
+          src="ohana/cartoon/dad_body.png"
           w={1707}
           h={1280}
           scale={1}
@@ -436,7 +436,7 @@ const Family: React.FC<{ f: number; bgMix: number; soften?: number }> = ({ f, bg
       </div>
       <div style={{ position: "absolute", inset: 0, opacity: mom, transform: `translateX(${(1 - mom) * 520}px)` }}>
         <Photo
-          src="ohana/cutouts/mom.png"
+          src="ohana/cartoon/mom.png"
           w={960}
           h={1280}
           scale={1}
@@ -447,7 +447,7 @@ const Family: React.FC<{ f: number; bgMix: number; soften?: number }> = ({ f, bg
         />
       </div>
       <div style={{ position: "absolute", inset: 0, opacity: me, transform: `translateY(${(1 - me) * 140}px)` }}>
-        <Photo src="ohana/cutouts/me_a.png" w={960} h={1280} scale={1} x={OX} y={OY} seed={7} />
+        <Photo src="ohana/cartoon/me_a.png" w={960} h={1280} scale={1} x={OX} y={OY} seed={7} />
       </div>
       <div style={{ position: "absolute", inset: 0, opacity: cat, transform: `translate(${(1 - cat) * 380}px, ${(1 - cat) * 60}px)` }}>
         <div style={{ position: "absolute", left: CAT_G.x + 60, top: CAT_G.y + 520 * CAT_G.scale, width: 420, height: 50, borderRadius: "50%", background: "rgba(30,25,20,0.3)", filter: "blur(14px)" }} />

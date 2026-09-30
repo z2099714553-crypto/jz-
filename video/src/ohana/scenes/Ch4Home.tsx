@@ -10,7 +10,7 @@ import { FONT_ZH, HOME, RED } from "../theme";
 // ─────────────────────────────────────────────────────────
 
 /** 图 1（妈妈和我）在舞台上的位置：原图 960×1280 */
-const P1 = { src: "ohana/cutouts/mom_pair.png", w: 960, h: 1280, scale: 1.14, x: 372, y: -390 };
+const P1 = { src: "ohana/cartoon/mom_pair.png", w: 960, h: 1280, scale: 1.14, x: 372, y: -390 };
 const toStage1 = (sx: number, sy: number) => [P1.x + sx * P1.scale, P1.y + sy * P1.scale] as const;
 const MOM_FACE = toStage1(605, 715);
 const MOM_CHEST = toStage1(625, 905);
@@ -306,11 +306,11 @@ export const S17Dad: React.FC = () => {
       <AbsoluteFill style={{ transform: `scale(${push})`, transformOrigin: "960px 420px" }}>
         <Grove shift={shift} />
         <div style={{ position: "absolute", inset: 0, opacity: appear, transform: `translateX(${-shift * 0.25}px)` }}>
-          <Photo src="ohana/cutouts/dad_pair.png" {...P2} wind={WIND_DAD} seed={5}>
-            <OnSubject src="ohana/cutouts/dad_pair.png">
+          <Photo src="ohana/cartoon/dad_pair.png" {...P2} wind={WIND_DAD} seed={5}>
+            <OnSubject src="ohana/cartoon/dad_pair.png">
               <LeafShadows w={P2.w} h={P2.h} seed="dadShade" />
             </OnSubject>
-            <OnSubject src="ohana/cutouts/dad_pair.png" blend="screen">
+            <OnSubject src="ohana/cartoon/dad_pair.png" blend="screen">
               <LightDapples w={P2.w} h={P2.h} seed="dadLight" />
             </OnSubject>
           </Photo>
@@ -346,8 +346,8 @@ export const S18Pat: React.FC = () => {
       <AbsoluteFill style={{ transform: `translate(${ox}px, ${oy}px) scale(${zoom})`, transformOrigin: "0 0" }}>
         <Grove shift={-36} />
         <div style={{ position: "absolute", inset: 0, transform: "translateX(9px)" }}>
-          <Photo src="ohana/cutouts/dad_pat_base.png" {...P2} wind={WIND_DAD} seed={5}>
-            <OnSubject src="ohana/cutouts/dad_pat_base.png">
+          <Photo src="ohana/cartoon/dad_pat_base.png" {...P2} wind={WIND_DAD} seed={5}>
+            <OnSubject src="ohana/cartoon/dad_pat_base.png">
               <LeafShadows w={P2.w} h={P2.h} seed="dadShade" />
             </OnSubject>
             <AbsoluteFill
@@ -356,8 +356,8 @@ export const S18Pat: React.FC = () => {
                 transform: `rotate(${angle}deg)`,
               }}
             >
-              <Img src={staticFile("ohana/cutouts/dad_forearm.png")} style={{ position: "absolute", inset: 0, width: "100%", height: "100%" }} />
-              <OnSubject src="ohana/cutouts/dad_forearm.png">
+              <Img src={staticFile("ohana/cartoon/dad_forearm.png")} style={{ position: "absolute", inset: 0, width: "100%", height: "100%" }} />
+              <OnSubject src="ohana/cartoon/dad_forearm.png">
                 <LeafShadows w={P2.w} h={P2.h} seed="dadShade" />
               </OnSubject>
             </AbsoluteFill>
@@ -413,8 +413,8 @@ export const S19Prints: React.FC = () => {
         })}
         <circle cx={960} cy={horizon} r={5} fill={RED} opacity={line} />
       </svg>
-      <Print src="photos/mom.jpg" x={300 + drift} y={120} w={330} h={440} rot={-3} delay={6} />
-      <Print src="photos/dad.jpg" x={1050 - drift} y={170} w={520} h={390} rot={2.5} delay={16} />
+      <Print src="ohana/cartoon/mom.jpg" x={300 + drift} y={120} w={330} h={440} rot={-3} delay={6} />
+      <Print src="ohana/cartoon/dad.jpg" x={1050 - drift} y={170} w={520} h={390} rot={2.5} delay={16} />
       <Scrim tone="light" strength={1.15} />
     </AbsoluteFill>
   );

@@ -29,11 +29,12 @@ npx remotion render Ohana-1-Sea out/ohana-ch1.mp4
 npx remotion render Ohana-Full out/ohana.mp4
 ```
 
-## 照片
+## 照片与卡通形象
 
-照片放在 `public/photos/`，抠图放在 `public/ohana/cutouts/`。
-这两个目录在 `.gitignore` 里：仓库是公开的，家人照片不上传。
-在别的电脑上预览第四、五章，需要把照片和抠图都放回这两个目录。照片的文件名：
+第四、五章里的爸爸、妈妈、我和念念都是卡通形象，由照片转换而来。
+照片放在 `public/photos/`，抠图放在 `public/ohana/cutouts/`，卡通版放在 `public/ohana/cartoon/`（片子里用的是这一份）。
+这三个目录都在 `.gitignore` 里：仓库是公开的，家人照片和由照片生成的图都不上传。
+在别的电脑上预览第四、五章，需要把照片和抠图放回去，再按下面的步骤生成卡通版。照片的文件名：
 
 | 文件名 | 内容 |
 |---|---|
@@ -45,10 +46,15 @@ npx remotion render Ohana-Full out/ohana.mp4
 
 抠图用 rembg：人物是 `birefnet-portrait`，爸爸那张和三张猫是 `birefnet-general`，没有开 alpha matting。
 两张合照沿接触线手工拆成单人（`mom.png`、`me_a.png`、`dad.png`、`me_b.png`）。
-第四章拍肩和第五章全家合影要用的分层图，由下面的脚本从抠图生成：
+
+卡通版用 AnimeGANv2 的 `celeba_distill` 生成器（线稿干净、肤色平涂，长相保留得最好），四个角色同一个模型，画风统一。
+转换在原尺寸上做，和原图逐像素对齐，所以眨眼、耳朵、拍肩的坐标都不用改。之后按脸颊取样认出皮肤，
+涂成暖桃色，淡化脸上的阴影纹；海边那张逆光发蓝，另外把头发和白 T 恤的蓝压掉、把妈妈的上衣拉回橙色；念念整体偏金。
+最后用原来的 alpha 切出每一张，沿外轮廓描一道细的暖棕线。第四章相框里的两张照片（S19）连背景一起转换。
 
 ```bash
-python scripts/prepare_ohana_layers.py   # 需要 numpy、scipy、opencv-python-headless、pillow
+python scripts/make_ohana_cartoon.py                        # 需要 torch、numpy、opencv-python-headless、pillow；第一次会下载 8 MB 权重
+python scripts/prepare_ohana_layers.py public/ohana/cartoon # 拍肩和全家合影用的分层图，需要 scipy
 ```
 
 ## 画面结构
@@ -59,8 +65,8 @@ python scripts/prepare_ohana_layers.py   # 需要 numpy、scipy、opencv-python-
 |---|---|
 | `Film.tsx` | 按时间轴排场景，相邻两场交叉淡化；整片和各章共用 |
 | `Subtitle.tsx` | 小标签、逐字淡入、红点、英文；长句自动断行；第 10、20、28 场分句轮播 |
-| `Photo.tsx` | 人物照片层：呼吸、摆动、暖色调、发丝衣角的局部飘动；只落在人物身上的光影 |
-| `Cat.tsx` | 念念的照片层：呼吸、眨眼（用真实的毛滑成眼皮）、耳朵抖动 |
+| `Photo.tsx` | 人物层：呼吸、摆动、暖色调、发丝衣角的局部飘动；只落在人物身上的光影 |
+| `Cat.tsx` | 念念：呼吸、眨眼（用眼睛上方的毛滑成眼皮）、耳朵抖动 |
 | `scenes/Ch1Sea.tsx` | 第一章：海平线、火山岛、围坐、松开的线、海藻、字母归位 |
 | `scenes/Ch2Phrases.tsx` | 第二章：老照片、病历与台灯、飞过海的书、四句话 |
 | `scenes/Ch3Distance.tsx` | 第三章：航线地图、分屏时差、北仑港、海边背影 |

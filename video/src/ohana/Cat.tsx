@@ -3,11 +3,11 @@ import { Easing, Img, interpolate, staticFile, useCurrentFrame } from "remotion"
 import { clamp } from "./common";
 
 /**
- * 念念的照片层：呼吸、眨眼、耳朵抖动。
+ * 念念这一层：呼吸、眨眼、耳朵抖动（素材是照片转的卡通图，和原照片逐像素对齐）。
  * 坐标都用原图像素；图片按 scale 放在舞台 (x, y)，(x, y) 对应原图左上角。
  *
  * 眨眼：用眼睛正上方真实的毛发往下「滑」成眼皮（眼皮区域显示的是上移 d 像素处的原图），
- *       下沿加一道深色眼线；不画假眼皮，毛色和纹理都是照片本身的。
+ *       下沿加一道深色眼线；不画假眼皮，毛色和线条都是图本身的。
  * 耳朵：把耳朵单独切成一层，绕耳根转动；原图里的耳朵位置让位，露出的是背景，不会出现两只耳朵。
  */
 export type Eye = { x: number; y: number; rx: number; ry: number };

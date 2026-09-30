@@ -1,9 +1,9 @@
-"""从抠图生成《零极限 · 家》第四章需要的分层图，输出到 public/ohana/cutouts/。
+"""从抠图生成《零极限 · 家》第四、五章需要的分层图，输出到同一个目录。
 
-输入（都在 .gitignore 里，不进仓库）：
-    public/ohana/cutouts/dad_pair.png   图 2 爸爸和我的抠图
-    public/ohana/cutouts/dad.png        拆出来的爸爸（前臂是一个独立的块）
-    public/ohana/cutouts/me_b.png       拆出来的我
+输入（都在 .gitignore 里，不进仓库），目录默认 public/ohana/cutouts/，也可以指定卡通版的目录：
+    dad_pair.png   图 2 爸爸和我的抠图
+    dad.png        拆出来的爸爸（前臂是一个独立的块）
+    me_b.png       拆出来的我
 
 输出：
     dad_body.png       拆出来的爸爸去掉前臂，第五章全家合影用（断开的上臂藏在我身后）
@@ -12,9 +12,11 @@
                        前臂抬起时露出来的是衣服而不是透明的洞
 
 运行（需要 numpy、scipy、opencv-python-headless、pillow）：
-    python scripts/prepare_ohana_layers.py
+    python scripts/prepare_ohana_layers.py                      # 照片抠图
+    python scripts/prepare_ohana_layers.py public/ohana/cartoon # 卡通版（片子里用的）
 """
 
+import sys
 from pathlib import Path
 
 import cv2
@@ -22,7 +24,8 @@ import numpy as np
 from PIL import Image
 from scipy import ndimage
 
-DIR = Path(__file__).resolve().parent.parent / "public" / "ohana" / "cutouts"
+ROOT = Path(__file__).resolve().parent.parent
+DIR = ROOT / sys.argv[1] if len(sys.argv) > 1 else ROOT / "public" / "ohana" / "cutouts"
 
 
 def load(name: str) -> np.ndarray:

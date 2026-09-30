@@ -12,5 +12,9 @@ public/suanchou/score.wav
 # 家人照片与抠图：仓库是公开的，只留在本地，不提交
 public/photos/
 public/ohana/cutouts/
+public/ohana/cartoon/
+
+# 卡通化模型的权重缓存
+.cache/
 
 public/ohana/score.wav
