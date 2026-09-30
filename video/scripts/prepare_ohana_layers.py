@@ -6,6 +6,7 @@
     public/ohana/cutouts/me_b.png       拆出来的我
 
 输出：
+    dad_body.png       拆出来的爸爸去掉前臂，第五章全家合影用（断开的上臂藏在我身后）
     dad_forearm.png    爸爸搭在我肩上的前臂和手，单独一层，用来做「拍两下肩」
     dad_pat_base.png   合照去掉前臂；手底下被遮住的那块肩膀用 T 恤的颜色补齐，
                        前臂抬起时露出来的是衣服而不是透明的洞
@@ -67,9 +68,15 @@ def main() -> None:
     base[:, :, 3] = alpha.astype(np.uint8)
     Image.fromarray(base).save(DIR / "dad_pat_base.png")
 
+    # 全家合影用的爸爸：只留身体那一块
+    body = dad.copy()
+    body_mask = cv2.GaussianBlur((lab == int(np.argsort(sizes)[::-1][0]) + 1).astype(np.float32), (0, 0), 0.8)
+    body[:, :, 3] = (dad[:, :, 3].astype(np.float32) * np.clip(body_mask * 1.6, 0, 1)).astype(np.uint8)
+    Image.fromarray(body).save(DIR / "dad_body.png")
+
     ys, xs = np.nonzero(arm)
     print(f"前臂范围 x {xs.min()}–{xs.max()}  y {ys.min()}–{ys.max()}")
-    print("已写入 dad_forearm.png、dad_pat_base.png")
+    print("已写入 dad_forearm.png、dad_pat_base.png、dad_body.png")
 
 
 if __name__ == "__main__":

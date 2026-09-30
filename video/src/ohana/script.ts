@@ -276,7 +276,7 @@ export const CUES: Cue[] = [
     id: "s25",
     from: 140,
     to: 146,
-    tone: "light",
+    tone: "dark",
     zh: "她趴在茶几上睡着的样子，比任何一句话，都更像平静。",
     en: "The way she sleeps, stretched across the table, looks more like peace than any words.",
   },
@@ -305,6 +305,7 @@ export const CUES: Cue[] = [
     en: "Sorry for making you wait while I grew up. Forgive the words I never said. Thank you for always being here. I love you—",
     place: "center",
     steps: true,
+    big: true,
   },
   {
     id: "s29",

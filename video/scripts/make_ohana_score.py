@@ -2,7 +2,7 @@
 
 全部用程序合成（噪声滤波做海浪，正弦波叠加做乐器），不使用任何外部音频素材。
 时间点与 src/ohana/script.ts 和各场景动画对齐（30fps）。
-已完成第一至四章（0–120 秒），第五章做好画面后再补。
+五章全部完成（0–178 秒）。
 
 运行：
     pip install numpy
@@ -16,7 +16,7 @@ from pathlib import Path
 import numpy as np
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from make_score import SR, bell, env_adsr, hz, pad_voice, place, pluck, reverb  # noqa: E402
+from make_score import SR, bell, env_adsr, hz, pad_voice, place, pluck, reverb, swell  # noqa: E402
 
 TOTAL = 178.0
 FPS = 30
@@ -199,6 +199,45 @@ def soft_pat() -> np.ndarray:
     n = int(0.25 * SR)
     t = np.arange(n) / SR
     return (np.sin(2 * np.pi * 140 * t) * np.exp(-t / 0.03) + filtered_noise(n, 200, 1500, -0.6) * np.exp(-t / 0.02) * 0.5)
+
+
+def purr(seconds: float, period: float) -> np.ndarray:
+    """猫的呼噜：每秒二十几下的低频颤动，随呼吸一吸一呼起伏"""
+    n = int(seconds * SR)
+    t = np.arange(n) / SR
+    out = np.zeros(n)
+    k = 0.0
+    while k < seconds:
+        breath = np.sin(np.pi * (k % period) / period)
+        rate = 25.0 if (k % period) < period / 2 else 22.0
+        L = int(0.03 * SR)
+        i = int(k * SR)
+        if i + L < n:
+            out[i : i + L] += rng.normal(0, 1, L) * np.exp(-np.arange(L) / (0.008 * SR)) * (0.35 + 0.65 * breath)
+        k += 1 / rate * rng.uniform(0.95, 1.05)
+    spec = np.fft.rfft(out)
+    fr = np.fft.rfftfreq(n, 1 / SR)
+    spec *= np.clip((fr - 40) / 40, 0, 1) * np.clip((500 - fr) / 250, 0, 1)
+    y = np.fft.irfft(spec, n)
+    return y / (np.max(np.abs(y)) + 1e-9) * env_adsr(n, 0.8, 1.0)
+
+
+def tink(freq: float = 2800) -> np.ndarray:
+    n = int(0.4 * SR)
+    t = np.arange(n) / SR
+    return (np.sin(2 * np.pi * freq * t) + 0.3 * np.sin(2 * np.pi * freq * 2.7 * t)) * np.exp(-t / 0.08)
+
+
+def flick() -> np.ndarray:
+    n = int(0.08 * SR)
+    t = np.arange(n) / SR
+    return filtered_noise(n, 2000, 9000, -0.3) * np.exp(-t / 0.01) * 0.6
+
+
+def music_box(notes, t0: float, step: float, mix: np.ndarray, gain: float, offset: float) -> None:
+    for k, nm in enumerate(notes):
+        if nm:
+            place(mix, bell(hz(nm), 1.8), t0 - offset + k * step, gain, -0.3 + (k % 5) * 0.15)
 
 
 # ── 第一章 · 海的中央（0–36 秒） ──────────────────────────────
@@ -442,6 +481,101 @@ def chapter4() -> np.ndarray:
     return reverb(mix, seconds=3.2, wet=0.34) * 1.33
 
 
+# ── 第五章 · 念念（120–178 秒） ─────────────────────────────────
+
+def chapter5() -> np.ndarray:
+    T0 = 120.0
+    L = 58.0
+    mix = buf(L)
+
+    def at(t: float) -> float:
+        return t - T0
+
+    def put_stereo(x: np.ndarray, t: float, gain: float) -> None:
+        i = int(at(t) * SR)
+        mix[:, i : i + x.shape[1]] += x[:, : mix.shape[1] - i] * gain
+
+    # 21 圆缩成「0」：一道缓慢的下滑音
+    place(mix, glide(4.2, 880, 440) * np.linspace(1, 0.4, int(4.2 * SR)), at(120.5), 0.05, 0.0)
+    pad_chord(mix, at(120.0), at(125.4), ["G2", "D3", "G3"], 0.035, attack=0.5, release=2.0)
+
+    # 22「0」停住；中间亮起那个「念」
+    place(mix, bell(hz("D5"), 6.0), at(f2s(46, 125)), 0.16, 0.0)
+    place(mix, bell(hz("D6"), 6.0), at(f2s(52, 125)), 0.05, 0.1)
+
+    # 23 窗台：夜里的城市低鸣，八音盒响起；眨眼一声「叮」，耳朵抖一下
+    city = np.vstack([hum(5.6), hum(5.6)]) * 0.5
+    put_stereo(city, 129.0, 0.12)
+    pad_chord(mix, at(129.0), at(134.6), ["C2", "G2", "E3", "B3"], 0.04)
+    music_box(["G5", "B5", "D6", "B5", "A5", None, "G5", "E5"], 129.6, 0.55, mix, 0.07, T0)
+    place(mix, tink(), at(f2s(66, 129)), 0.05, 0.1)
+    for fr in (100, 112):
+        place(mix, flick(), at(f2s(fr, 129)), 0.12, -0.3)
+
+    # 24 沙发：八音盒继续
+    pad_chord(mix, at(134.0), at(140.6), ["G2", "D3", "B3", "D4"], 0.04)
+    music_box(["D6", "B5", "G5", "A5", "B5", None, "D6", "E6", "D6", "B5", "G5"], 134.3, 0.5, mix, 0.065, T0)
+    for fr in (60, 152):
+        place(mix, tink(3000), at(f2s(fr, 134)), 0.05, 0.1)
+    place(mix, flick(), at(f2s(104, 134)), 0.12, 0.3)
+
+    # 25 茶几：呼噜声跟着肚子的起伏
+    pr = purr(6.4, 2.8)
+    place(mix, pr, at(140.0), 0.22, 0.05)
+    pad_chord(mix, at(140.0), at(146.6), ["E2", "B2", "D3", "G3"], 0.035)
+    place(mix, bell(hz("B4"), 4.0), at(141.0), 0.05, -0.2)
+
+    # 26 全家依次入场：每进来一个人，上行一个音；夏威夷的海
+    hawaii = ocean(12.0)
+    hawaii *= np.interp(np.arange(hawaii.shape[1]) / SR, [0, 1.5, 7.5, 10, 12], [0, 1, 1, 0.4, 0])
+    put_stereo(hawaii, 146.0, 0.15)
+    pad_chord(mix, at(146.0), at(152.6), ["G2", "D3", "B3", "D4"], 0.05, attack=1.2)
+    for k, (fr, nm) in enumerate([(0, "G4"), (26, "B4"), (52, "D5"), (80, "G5")]):
+        place(mix, pluck(hz(nm), 3.0), at(f2s(fr + 8, 146)), 0.16, (0.5, -0.5, 0.0, 0.3)[k])
+        place(mix, bell(hz(nm) * 2, 3.0), at(f2s(fr + 8, 146)), 0.04, 0.0)
+
+    # 27 背景从夏威夷的海到北仑的海：远处一声港口的汽笛
+    beilun = ocean(8.0)
+    beilun *= np.interp(np.arange(beilun.shape[1]) / SR, [0, 2, 6, 8], [0, 0.8, 0.8, 0])
+    put_stereo(beilun, 153.0, 0.12)
+    place(mix, horn(3.2), at(155.0), 0.045, 0.4)
+    pad_chord(mix, at(152.0), at(155.4), ["D2", "A2", "F#3", "A3"], 0.05)
+    pad_chord(mix, at(155.0), at(158.6), ["E2", "B2", "G3", "B3"], 0.05)
+    for k, nm in enumerate(["B4", "A4", "G4", "D5", "B4"]):
+        place(mix, pluck(hz(nm), 2.6), at(152.4 + k * 1.1), 0.09, -0.2 + 0.1 * k)
+
+    # 28 四句话说给家人：每句一个和弦，最后一句最亮
+    first = 158.0 + 0.4
+    slot = (8 * FPS - 12) / 4 / FPS
+    chords = [["C2", "G2", "E3", "G3"], ["D2", "A2", "F#3", "A3"], ["E2", "B2", "G3", "B3"], ["G2", "D3", "B3", "D4"]]
+    tops = [["E5"], ["F#5"], ["G5"], ["G5", "B5", "D6"]]
+    for k in range(4):
+        t = first + k * slot
+        pad_chord(mix, at(t - 0.2), at(t + slot + (1.2 if k == 3 else 0.3)), chords[k], 0.05 + 0.006 * k, attack=0.5, release=1.2)
+        for j, nm in enumerate(tops[k]):
+            place(mix, bell(hz(nm), 5.0), at(t + 0.15 + j * 0.12), 0.12, (-0.2, 0.2, 0.0)[j])
+
+    # 29 念念的特写：八音盒一句，眨眼一声「叮」
+    music_box(["B5", "D6", "G6"], 166.4, 0.6, mix, 0.06, T0)
+    place(mix, tink(3200), at(f2s(68, 166)), 0.05, 0.0)
+    pad_chord(mix, at(166.0), at(170.6), ["C2", "G2", "E3", "D4"], 0.04)
+
+    # 片尾：圆长满时一道上扬的微光，落在 G 大调，一直渐弱到结束
+    place(mix, swell(3.2, 400, 6000), at(170.3), 0.08)
+    pad_chord(mix, at(170.0), at(178.0), ["G2", "D3", "B3", "A4"], 0.06, attack=1.5, release=4.5)
+    for j, nm in enumerate(["G5", "B5", "D6", "A6"]):
+        place(mix, bell(hz(nm), 5.0), at(172.3 + j * 0.18), 0.09, (-0.3, -0.1, 0.1, 0.3)[j])
+    orbit = [f2s(60 + k * 11, 170) for k in range(8)]
+    for k, t in enumerate(orbit):
+        place(mix, tink(2400 + 200 * k), at(t), 0.015, -0.6 + 0.17 * k)
+
+    out = reverb(mix, seconds=3.4, wet=0.36) * 1.25
+    n = out.shape[1]
+    fade = int(3.0 * SR)
+    out[:, n - fade :] *= np.linspace(1, 0, fade) ** 1.5
+    return out
+
+
 def main() -> None:
     full = buf(TOTAL)
     c1 = chapter1()
@@ -455,6 +589,9 @@ def main() -> None:
     c4 = chapter4()
     s4 = int(84.0 * SR)
     full[:, s4 : s4 + c4.shape[1]] += c4
+    c5 = chapter5()
+    s5 = int(120.0 * SR)
+    full[:, s5 : s5 + c5.shape[1]] += c5[:, : full.shape[1] - s5]
 
     # 先按峰值对齐，再整体提升约 4 dB，超过 0.7 的部分用软限幅压住，峰值不超过 -1 dBFS
     full *= 0.89 / np.max(np.abs(full))

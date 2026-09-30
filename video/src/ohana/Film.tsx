@@ -8,6 +8,7 @@ import { S01Horizon, S02Islands, S03Circle, S04Threads, S05Seaweed, S06Word } fr
 import { S07OldPhoto, S08Files, S09Book, S10Four } from "./scenes/Ch2Phrases";
 import { S11Map, S12Split, S13Port, S14Shore } from "./scenes/Ch3Distance";
 import { S15Mom, S16Glow, S17Dad, S18Pat, S19Prints, S20Circle } from "./scenes/Ch4Home";
+import { S21Zero, S22Dot, S23Window, S24Sofa, S25Table, S26Family, S27Family, S28Words, S29Close, SEndCircle } from "./scenes/Ch5Niannian";
 import { Placeholder } from "./scenes/Placeholder";
 
 ensureFonts();
@@ -34,6 +35,16 @@ const SCENES: Record<string, React.FC> = {
   s18: S18Pat,
   s19: S19Prints,
   s20: S20Circle,
+  s21: S21Zero,
+  s22: S22Dot,
+  s23: S23Window,
+  s24: S24Sofa,
+  s25: S25Table,
+  s26: S26Family,
+  s27: S27Family,
+  s28: S28Words,
+  s29: S29Close,
+  end: SEndCircle,
 };
 
 /** 相邻两场交叉淡化的帧数 */
