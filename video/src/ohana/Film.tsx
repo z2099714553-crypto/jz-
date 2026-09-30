@@ -7,7 +7,7 @@ import { ensureFonts } from "./theme";
 import { S01Horizon, S02Islands, S03Circle, S04Threads, S05Seaweed, S06Word } from "./scenes/Ch1Sea";
 import { S07OldPhoto, S08Files, S09Book, S10Four } from "./scenes/Ch2Phrases";
 import { S11Map, S12Split, S13Port, S14Shore } from "./scenes/Ch3Distance";
-import { S15Mom, S16Glow, S17Dad, S18Pat, S19Prints, S20Circle } from "./scenes/Ch4Home";
+import { S15Lake, S16Glow, S17Grove, S18Ripples, S19Prints, S20Circle } from "./scenes/Ch4Home";
 import { S21Zero, S22Dot, S23Window, S24Sofa, S25Table, S26Family, S27Family, S28Words, S29Close, SEndCircle } from "./scenes/Ch5Niannian";
 import { Placeholder } from "./scenes/Placeholder";
 
@@ -29,10 +29,10 @@ const SCENES: Record<string, React.FC> = {
   s12: S12Split,
   s13: S13Port,
   s14: S14Shore,
-  s15: S15Mom,
+  s15: S15Lake,
   s16: S16Glow,
-  s17: S17Dad,
-  s18: S18Pat,
+  s17: S17Grove,
+  s18: S18Ripples,
   s19: S19Prints,
   s20: S20Circle,
   s21: S21Zero,

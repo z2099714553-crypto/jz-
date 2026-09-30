@@ -195,12 +195,6 @@ def leaves(seconds: float) -> np.ndarray:
     return filtered_noise(n, 1200, 7000, -0.4) * swell * 0.3
 
 
-def soft_pat() -> np.ndarray:
-    n = int(0.25 * SR)
-    t = np.arange(n) / SR
-    return (np.sin(2 * np.pi * 140 * t) * np.exp(-t / 0.03) + filtered_noise(n, 200, 1500, -0.6) * np.exp(-t / 0.02) * 0.5)
-
-
 def purr(seconds: float, period: float) -> np.ndarray:
     """猫的呼噜：每秒二十几下的低频颤动，随呼吸一吸一呼起伏"""
     n = int(seconds * SR)
@@ -428,7 +422,7 @@ def chapter4() -> np.ndarray:
         i = int(at(t) * SR)
         mix[:, i : i + x.shape[1]] += x[:, : mix.shape[1] - i] * gain
 
-    # 15 湖边的妈妈：湖水轻拍，G 大调的拨弦
+    # 15 清晨的湖：湖水轻拍，G 大调的拨弦
     lake = ocean(12.5)
     lake *= np.interp(np.arange(lake.shape[1]) / SR, [0, 1.5, 11, 12.5], [0, 1, 0.7, 0])
     put_stereo(lake, 84.0, 0.1)
@@ -436,7 +430,7 @@ def chapter4() -> np.ndarray:
     for k, nm in enumerate(["G4", "B4", "D5", "B4", "A4", "D5", "G5", "D5", "B4", "A4"]):
         place(mix, pluck(hz(nm), 2.4), at(84.5 + k * 0.62), 0.09, -0.35 + (k % 4) * 0.2)
 
-    # 16 四句话绕着妈妈：每个出现时一声细钟；汇入胸口时亮起来
+    # 16 四句话绕着太阳：每个出现时一声细钟；汇进去时亮起来
     for i, nm in enumerate(["D6", "B5", "A5", "G5"]):
         place(mix, bell(hz(nm), 3.0), at(f2s(8 + i * 12, 91)), 0.06, (-0.5, 0.5, -0.3, 0.3)[i])
     merge = f2s(112, 91)
@@ -445,7 +439,7 @@ def chapter4() -> np.ndarray:
     for j, nm in enumerate(["G5", "B5", "D6"]):
         place(mix, bell(hz(nm), 4.0), at(merge + j * 0.1), 0.09, (-0.2, 0.2, 0.0)[j])
 
-    # 17 树荫下的爸爸：鸟鸣、树叶沙沙
+    # 17 树荫下的小路：鸟鸣、树叶沙沙
     put_stereo(np.vstack([leaves(11.5), leaves(11.5)]), 96.0, 0.15)
     for t, pan in [(96.8, 0.6), (98.6, -0.5), (100.9, 0.4), (103.4, -0.6), (105.2, 0.5)]:
         place(mix, chirp_phrase(), at(t), 0.035, pan)
@@ -453,13 +447,15 @@ def chapter4() -> np.ndarray:
     for k, nm in enumerate(["A4", "D5", "F#5", "E5", "D5", "A4", "B4", "D5"]):
         place(mix, pluck(hz(nm), 2.4), at(96.4 + k * 0.7), 0.085, -0.3 + (k % 3) * 0.3)
 
-    # 18 爸爸在我肩上拍两下
-    for fr in [26, 44]:
-        place(mix, soft_pat(), at(f2s(fr + 5, 102)), 0.4, 0.2)
+    # 18 两片叶子先后落进水洼，各一声水滴；之后落下的叶子更轻（帧号与 Ch4Home.tsx 的 LANDINGS、LATER 一致）
+    for fr in [31, 49]:
+        place(mix, water_drop(), at(f2s(fr, 102)), 0.09, 0.15)
+    for k, fr in enumerate([78, 94, 106, 118, 128, 137]):
+        place(mix, water_drop(), at(f2s(fr, 102)), 0.035, (-0.3, 0.25, -0.1, 0.35, -0.25, 0.1)[k])
     pad_chord(mix, at(102.0), at(107.6), ["E2", "B2", "G3", "D4"], 0.05)
     place(mix, bell(hz("E5"), 4.0), at(104.2), 0.07, 0.0)
 
-    # 19 两张照片隔着一条海平线：远处的海，微苦的旋律
+    # 19 两张风景照隔着一条海平线：远处的海，微苦的旋律
     far = ocean(6.5)
     far *= np.interp(np.arange(far.shape[1]) / SR, [0, 1, 5.5, 6.5], [0, 1, 1, 0])
     put_stereo(far, 107.0, 0.08)
@@ -525,7 +521,7 @@ def chapter5() -> np.ndarray:
     pad_chord(mix, at(140.0), at(146.6), ["E2", "B2", "D3", "G3"], 0.035)
     place(mix, bell(hz("B4"), 4.0), at(141.0), 0.05, -0.2)
 
-    # 26 全家依次入场：每进来一个人，上行一个音；夏威夷的海
+    # 26 沙滩上的脚印一行行出现（妈妈、爸爸、我，最后是猫爪印）：每多一行，上行一个音；夏威夷的海
     hawaii = ocean(12.0)
     hawaii *= np.interp(np.arange(hawaii.shape[1]) / SR, [0, 1.5, 7.5, 10, 12], [0, 1, 1, 0.4, 0])
     put_stereo(hawaii, 146.0, 0.15)

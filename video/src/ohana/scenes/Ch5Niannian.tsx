@@ -2,7 +2,6 @@ import React from "react";
 import { AbsoluteFill, Easing, interpolate, interpolateColors, useCurrentFrame } from "remotion";
 import { H, Scrim, Vignette, W, clamp, scatter } from "../common";
 import { CatPhoto, Ear, Eye } from "../Cat";
-import { Photo } from "../Photo";
 import { END_CARD } from "../script";
 import { FONT_EN, FONT_ZH, HOME, RED } from "../theme";
 import { Palm } from "./Ch2Phrases";
@@ -355,20 +354,16 @@ export const S25Table: React.FC = () => {
 };
 
 // ─────────────────────────────────────────────────────────
-// 26–28 全家：妈妈、爸爸、我、念念依次滑入；背景从夏威夷的海到北仑的海
+// 26–28 全家：不画人，沙滩上一行行脚印代表妈妈、爸爸、我，念念趴在尽头；背景从夏威夷的海到北仑的海
 // ─────────────────────────────────────────────────────────
-/** 全家合影的坐标：以图 1 的像素为单位，(OX, OY) 是图 1 左上角在舞台上的位置 */
-const OX = 600;
-const OY = -195;
-/** 爸爸（图 2）相对图 1 的偏移：让他断开的上臂正好藏在我的肩膀后面 */
-const DAD_OFF = [-705, 145] as const;
-const CAT_G = { scale: 0.62, x: 1110, y: 470 };
+/** 念念在沙滩上的位置：猫的范围在原图 x 100–728、y 323–875，趴在字幕上方 */
+const CAT_G = { scale: 0.62, x: 1350, y: 305 };
 
 export const ENTER = { mom: [0, 34], dad: [26, 60], me: [52, 86], cat: [80, 114] } as const;
 
 const slide = (f: number, [a, b]: readonly [number, number]) => interpolate(f, [a, b], [0, 1], { ...clamp, easing: Easing.out(Easing.cubic) });
 
-const HawaiiSea: React.FC = () => {
+export const HawaiiSea: React.FC = () => {
   const f = useCurrentFrame();
   return (
     <svg viewBox={`0 0 ${W} ${H}`} width={W} height={H} style={{ position: "absolute" }}>
@@ -388,7 +383,7 @@ const HawaiiSea: React.FC = () => {
   );
 };
 
-const BeilunSea: React.FC = () => (
+export const BeilunSea: React.FC = () => (
   <svg viewBox={`0 0 ${W} ${H}`} width={W} height={H} style={{ position: "absolute" }}>
     <Ocean horizon={560} sky={["#B9C6CC", "#E2DED2", "#F2E6CF"]} sea={["#7D98A4", "#4A6572"]} brightness={0.8} glowX={1100} seed="s27" />
     <path d={`M 0 560 C 300 470, 520 500, 720 480 C 900 460, 1060 520, 1200 560 Z`} fill="#8E9C98" opacity={0.7} />
@@ -405,12 +400,85 @@ const BeilunSea: React.FC = () => (
   </svg>
 );
 
-/** 全家四口。enter 控制入场；bgMix 0 = 夏威夷的海，1 = 北仑的海 */
+const SHORE = 720;
+
+/** 一行脚印：从左往右一步步出现。y 是这一行在沙滩上的位置，size 是脚的大小（远处小），x1 是走到哪里 */
+type Trail = { y: number; size: number; enter: readonly [number, number]; x1: number; paws?: boolean };
+const TRAILS: Trail[] = [
+  { y: 770, size: 0.85, enter: ENTER.mom, x1: 1240 },
+  { y: 812, size: 1.08, enter: ENTER.dad, x1: 1270 },
+  { y: 866, size: 1.12, enter: ENTER.me, x1: 1300 },
+  { y: 840, size: 1, enter: ENTER.cat, x1: 1390, paws: true },
+];
+
+const Footprints: React.FC<{ f: number; trail: Trail; sand: string }> = ({ f, trail, sand }) => {
+  const x0 = -60;
+  const stride = trail.paws ? 34 : 64 * trail.size;
+  const n = Math.floor((trail.x1 - x0) / stride);
+  const [a, b] = trail.enter;
+  return (
+    <g>
+      {Array.from({ length: n }).map((_, i) => {
+        const t = a + ((b - a) * i) / n;
+        const o = interpolate(f, [t, t + 5], [0, 1], clamp);
+        if (o <= 0) return null;
+        const x = x0 + i * stride;
+        const side = i % 2 ? 1 : -1;
+        if (trail.paws) {
+          // 猫走路几乎踩成一条线，爪印小
+          const y = trail.y + side * 4;
+          return (
+            <g key={i} opacity={o * 0.75} transform={`translate(${x} ${y}) scale(1.2)`}>
+              <ellipse rx={5.5} ry={3.2} fill={sand} />
+              {[-4.5, -1.5, 1.5, 4.5].map((dx, k) => (
+                <circle key={k} cx={dx + 6} cy={(k === 0 || k === 3 ? 1 : -1.6) * 1.2} r={1.6} fill={sand} />
+              ))}
+            </g>
+          );
+        }
+        const s = trail.size;
+        const y = trail.y + side * 9 * s;
+        return (
+          <g key={i} opacity={o * 0.7} transform={`translate(${x} ${y}) scale(${s})`}>
+            <ellipse cx={8} cy={0} rx={15} ry={5.6} fill={sand} />
+            <ellipse cx={-15} cy={0} rx={8.5} ry={4.6} fill={sand} />
+          </g>
+        );
+      })}
+    </g>
+  );
+};
+
+/** 沙滩：湿沙、来回的浪花、脚印。bgMix 0 = 夏威夷，1 = 北仑 */
+const Beach: React.FC<{ f: number; bgMix: number }> = ({ f, bgMix }) => {
+  const t = useCurrentFrame();
+  const sand = interpolateColors(bgMix, [0, 1], ["#EAD7B2", "#D7CFBD"]);
+  const wet = interpolateColors(bgMix, [0, 1], ["#CDB892", "#B9B3A3"]);
+  const print = interpolateColors(bgMix, [0, 1], ["#9C7C4E", "#857E6E"]);
+  const wash = 7 * Math.sin(t * 0.045);
+  const edge = (y: number, amp: number, ph: number) => {
+    const pts: string[] = [];
+    for (let i = 0; i <= 48; i++) {
+      const x = -40 + (i / 48) * (W + 80);
+      pts.push(`${x.toFixed(1)},${(y + amp * Math.sin(i * 0.7 + ph) + (amp / 2) * Math.sin(i * 1.9 + ph * 2)).toFixed(1)}`);
+    }
+    return pts.join(" L ");
+  };
+  return (
+    <svg viewBox={`0 0 ${W} ${H}`} width={W} height={H} style={{ position: "absolute" }}>
+      <path d={`M -40 ${H} L ${edge(SHORE + wash, 4, t * 0.02)} L ${W + 40} ${H} Z`} fill={wet} />
+      <path d={`M -40 ${H} L ${edge(SHORE + 26, 5, 1.3)} L ${W + 40} ${H} Z`} fill={sand} />
+      <path d={`M ${edge(SHORE + wash - 2, 4, t * 0.02)}`} fill="none" stroke="#FFFFFF" strokeWidth={3} opacity={0.75} strokeLinecap="round" />
+      {TRAILS.map((tr, i) => (
+        <Footprints key={i} f={f} trail={tr} sand={print} />
+      ))}
+    </svg>
+  );
+};
+
+/** enter 用的帧；bgMix 0 = 夏威夷的海，1 = 北仑的海 */
 const Family: React.FC<{ f: number; bgMix: number; soften?: number }> = ({ f, bgMix, soften = 0 }) => {
-  const mom = slide(f, ENTER.mom);
-  const dad = slide(f, ENTER.dad);
-  const me = slide(f, ENTER.me);
-  const cat = slide(f, ENTER.cat);
+  const cat = slide(f, [ENTER.cat[1] - 14, ENTER.cat[1] + 10]);
   const zero = interpolate(f, [ENTER.cat[1], ENTER.cat[1] + 40], [0, 1], clamp);
   return (
     <AbsoluteFill style={{ filter: soften > 0 ? `blur(${4 * soften}px)` : undefined }}>
@@ -418,39 +486,13 @@ const Family: React.FC<{ f: number; bgMix: number; soften?: number }> = ({ f, bg
       <AbsoluteFill style={{ opacity: bgMix }}>
         <BeilunSea />
       </AbsoluteFill>
+      <Beach f={f} bgMix={bgMix} />
       <svg viewBox={`0 0 ${W} ${H}`} width={W} height={H} style={{ position: "absolute" }}>
         <circle cx={1010} cy={470} r={430} fill="none" stroke="#FFF3DA" strokeWidth={3} opacity={0.35 * zero} />
       </svg>
-      {/* 被切过的边都加柔边，而且都藏在别人身后 */}
-      <div style={{ position: "absolute", inset: 0, opacity: dad, transform: `translateX(${(1 - dad) * -520}px)` }}>
-        <Photo
-          src="ohana/cartoon/dad_body.png"
-          w={1707}
-          h={1280}
-          scale={1}
-          x={OX + DAD_OFF[0]}
-          y={OY + DAD_OFF[1]}
-          seed={5}
-          style={{ WebkitMaskImage: "linear-gradient(to right, #000 860px, transparent 935px)", maskImage: "linear-gradient(to right, #000 860px, transparent 935px)" }}
-        />
-      </div>
-      <div style={{ position: "absolute", inset: 0, opacity: mom, transform: `translateX(${(1 - mom) * 520}px)` }}>
-        <Photo
-          src="ohana/cartoon/mom.png"
-          w={960}
-          h={1280}
-          scale={1}
-          x={OX}
-          y={OY}
-          seed={3}
-          style={{ WebkitMaskImage: "linear-gradient(to right, transparent 492px, #000 556px)", maskImage: "linear-gradient(to right, transparent 492px, #000 556px)" }}
-        />
-      </div>
-      <div style={{ position: "absolute", inset: 0, opacity: me, transform: `translateY(${(1 - me) * 140}px)` }}>
-        <Photo src="ohana/cartoon/me_a.png" w={960} h={1280} scale={1} x={OX} y={OY} seed={7} />
-      </div>
-      <div style={{ position: "absolute", inset: 0, opacity: cat, transform: `translate(${(1 - cat) * 380}px, ${(1 - cat) * 60}px)` }}>
-        <div style={{ position: "absolute", left: CAT_G.x + 60, top: CAT_G.y + 520 * CAT_G.scale, width: 420, height: 50, borderRadius: "50%", background: "rgba(30,25,20,0.3)", filter: "blur(14px)" }} />
+      {/* 念念走完那串爪印，趴下 */}
+      <div style={{ position: "absolute", inset: 0, opacity: cat, transform: `translate(${(1 - cat) * -60}px, ${(1 - cat) * 16}px)` }}>
+        <div style={{ position: "absolute", left: CAT_G.x + 110 * CAT_G.scale, top: CAT_G.y + 840 * CAT_G.scale, width: 600 * CAT_G.scale, height: 34, borderRadius: "50%", background: "rgba(90,70,40,0.28)", filter: "blur(12px)" }} />
         <CatPhoto {...CAT_S} scale={CAT_G.scale} x={CAT_G.x} y={CAT_G.y} eyes={[]} ears={[]} breathe={0.006} breathePeriod={2.8} pivot={[400, 850]} />
       </div>
     </AbsoluteFill>
@@ -478,7 +520,7 @@ export const S27Family: React.FC = () => {
   );
 };
 
-// 28 四句话最后一次出现，说给家人：全家退到后面，虚化、提亮
+// 28 四句话最后一次出现，说给家人：沙滩和念念退到后面，虚化、提亮
 export const S28Words: React.FC = () => {
   const f = useCurrentFrame();
   const back = interpolate(f, [0, 36], [0, 1], { ...clamp, easing: Easing.inOut(Easing.cubic) });
