@@ -27,6 +27,7 @@ Studio 左侧「零极限-家」文件夹里，每一章一个 Composition，外
 ```bash
 npx remotion render Ohana-1-Sea out/ohana-ch1.mp4
 npx remotion render Ohana-Full out/ohana.mp4
+npx remotion still Ohana-Cover out/ohana-cover.png   # 封面：片尾最后一幕铺满竖屏
 ```
 
 ## 念念的卡通形象
@@ -62,6 +63,7 @@ python scripts/make_ohana_cartoon.py   # 需要 torch、numpy、opencv-python-he
 | `Film.tsx` | 按时间轴排场景，相邻两场交叉淡化；整片和各章共用 |
 | `Subtitle.tsx` | 小标签、逐字淡入、红点、英文；长句自动断行；第 10、20、28 场分句轮播 |
 | `Cat.tsx` | 念念：呼吸、眨眼（用眼睛上方的毛滑成眼皮）、耳朵抖动 |
+| `Cover.tsx` | 封面（`Ohana-Cover`，1080×1920）：片尾的圆、片名、献词，铺满竖屏 |
 | `scenes/Ch1Sea.tsx` | 第一章：海平线、火山岛、围坐、松开的线、海藻、字母归位 |
 | `scenes/Ch2Phrases.tsx` | 第二章：老照片、病历与台灯、飞过海的书、四句话 |
 | `scenes/Ch3Distance.tsx` | 第三章：航线地图、分屏时差、北仑港、海边背影 |

@@ -1,8 +1,9 @@
 import "./index.css";
-import { Composition, Folder } from "remotion";
+import { Composition, Folder, Still } from "remotion";
 import { FPS, HEIGHT, TOTAL_FRAMES, WIDTH } from "./suanchou/script";
 import { SuanChou } from "./suanchou/SuanChou";
 import { SuanChouVertical } from "./suanchou/Vertical";
+import { OhanaCover } from "./ohana/Cover";
 import { OhanaFull, chapterComponent } from "./ohana/Film";
 import * as Ohana from "./ohana/script";
 
@@ -45,6 +46,8 @@ export const RemotionRoot: React.FC = () => {
           height={Ohana.CANVAS_H}
           defaultProps={{ music: true }}
         />
+        {/* 封面：片尾最后一幕铺满竖屏 */}
+        <Still id="Ohana-Cover" component={OhanaCover} width={Ohana.CANVAS_W} height={Ohana.CANVAS_H} />
       </Folder>
 
       <Folder name="一根算筹">
