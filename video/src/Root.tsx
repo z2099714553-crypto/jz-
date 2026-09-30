@@ -3,6 +3,18 @@ import { Composition, Folder } from "remotion";
 import { FPS, HEIGHT, TOTAL_FRAMES, WIDTH } from "./suanchou/script";
 import { SuanChou } from "./suanchou/SuanChou";
 import { SuanChouVertical } from "./suanchou/Vertical";
+import { OhanaFull, chapterComponent } from "./ohana/Film";
+import * as Ohana from "./ohana/script";
+
+// 《零极限 · 家》每章一个 Composition，外加整片
+const OHANA_CHAPTER_IDS: Record<string, string> = {
+  ch1: "Ohana-1-Sea",
+  ch2: "Ohana-2-FourPhrases",
+  ch3: "Ohana-3-8000km",
+  ch4: "Ohana-4-Home",
+  ch5: "Ohana-5-Niannian",
+};
+const OHANA_CHAPTERS = Ohana.CHAPTERS.map((ch) => ({ ch, component: chapterComponent(ch.id) }));
 import { HelloWorld } from "./HelloWorld";
 import { Logo } from "./HelloWorld/Logo";
 
@@ -11,6 +23,30 @@ import { Logo } from "./HelloWorld/Logo";
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Folder name="零极限-家">
+        {OHANA_CHAPTERS.map(({ ch, component }) => (
+          <Composition
+            key={ch.id}
+            id={OHANA_CHAPTER_IDS[ch.id]}
+            component={component}
+            durationInFrames={(ch.to - ch.from) * Ohana.FPS}
+            fps={Ohana.FPS}
+            width={Ohana.CANVAS_W}
+            height={Ohana.CANVAS_H}
+            defaultProps={{ music: true }}
+          />
+        ))}
+        <Composition
+          id="Ohana-Full"
+          component={OhanaFull}
+          durationInFrames={Ohana.TOTAL_FRAMES}
+          fps={Ohana.FPS}
+          width={Ohana.CANVAS_W}
+          height={Ohana.CANVAS_H}
+          defaultProps={{ music: true }}
+        />
+      </Folder>
+
       <Folder name="一根算筹">
         {/* 横版 1920×1080，主版本 */}
         <Composition

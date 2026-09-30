@@ -1,6 +1,8 @@
-// 从 Google Fonts 下载字体到 public/suanchou/fonts/，渲染时不再需要联网。
+// 从 Google Fonts 下载字体到 public/<短片>/fonts/，渲染时不再需要联网。
 // 中文字体（思源宋体 Noto Serif SC）只下载台词里实际用到的字，文件很小。
-// 改了 src/suanchou/script.ts 里的台词后运行：npm run fonts
+// 改了 src/<短片>/script.ts 里的台词后运行：
+//   npm run fonts          《一根算筹》
+//   npm run fonts:ohana    《零极限 · 家》
 // 需要能访问 fonts.googleapis.com。
 
 import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
@@ -8,14 +10,15 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
-const outDir = join(root, "public", "suanchou", "fonts");
+const project = process.argv[2] ?? "suanchou";
+const outDir = join(root, "public", project, "fonts");
 mkdirSync(outDir, { recursive: true });
 
 // 现代浏览器 UA，Google 才会返回 woff2
 const UA =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36";
 
-const source = readFileSync(join(root, "src", "suanchou", "script.ts"), "utf8");
+const source = readFileSync(join(root, "src", project, "script.ts"), "utf8");
 const glyphs = new Set();
 for (const ch of source) {
   if (ch.codePointAt(0) > 0x7f) glyphs.add(ch);
@@ -23,7 +26,7 @@ for (const ch of source) {
 for (let c = 0x20; c < 0x7f; c++) glyphs.add(String.fromCharCode(c));
 for (const ch of "，。、：；！？“”‘’（）《》——·…π²−×÷→") glyphs.add(ch);
 const text = [...glyphs].join("");
-console.log(`中文子集共 ${glyphs.size} 个字符`);
+console.log(`${project}：中文子集共 ${glyphs.size} 个字符`);
 
 async function css(url) {
   const res = await fetch(url, { headers: { "User-Agent": UA } });
@@ -49,7 +52,7 @@ for (const weight of [400, 600]) {
   await download(url, `NotoSerifSC-${weight}.woff2`);
 }
 
-// 2. EB Garamond：英文字幕与片尾标题，只取 latin 子集
+// 2. EB Garamond：英文字幕与片尾标题，只取 latin 子集（含夏威夷语的 ʻokina，U+02BB）
 const garamond = await css(
   "https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;1,400",
 );

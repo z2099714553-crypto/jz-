@@ -32,7 +32,9 @@
     "render:suanchou": "remotion render SuanChou out/suanchou.mp4",
     "render:suanchou-vertical": "remotion render SuanChouVertical out/suanchou-vertical.mp4",
     "fonts": "node scripts/fetch-fonts.mjs",
-    "score": "python3 scripts/make_score.py && remotion ffmpeg -y -i public/suanchou/score.wav -c:a libmp3lame -b:a 192k public/suanchou/score.mp3"
+    "score": "python3 scripts/make_score.py && remotion ffmpeg -y -i public/suanchou/score.wav -c:a libmp3lame -b:a 192k public/suanchou/score.mp3",
+    "fonts:ohana": "node scripts/fetch-fonts.mjs ohana",
+    "score:ohana": "python3 scripts/make_ohana_score.py && remotion ffmpeg -y -i public/ohana/score.wav -c:a libmp3lame -b:a 192k public/ohana/score.mp3"
   },
   "sideEffects": [
     "*.css"
