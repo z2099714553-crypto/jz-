@@ -233,6 +233,7 @@ export const CUES: Cue[] = [
     en: "Sorry is letting go. Forgive is making peace. Thank you is seeing. I love you is coming home.",
     place: "center",
     steps: true,
+    big: true,
   },
 
   // ── 第五章 · 念念 ────────────────────────────────────

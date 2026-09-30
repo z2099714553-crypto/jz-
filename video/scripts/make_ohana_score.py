@@ -2,7 +2,7 @@
 
 全部用程序合成（噪声滤波做海浪，正弦波叠加做乐器），不使用任何外部音频素材。
 时间点与 src/ohana/script.ts 和各场景动画对齐（30fps）。
-已完成第一至三章（0–84 秒），之后的章节做好画面后再补。
+已完成第一至四章（0–120 秒），第五章做好画面后再补。
 
 运行：
     pip install numpy
@@ -168,6 +168,37 @@ def tick(seconds: float = 0.1) -> np.ndarray:
     n = int(seconds * SR)
     t = np.arange(n) / SR
     return (np.sin(2 * np.pi * 2400 * t) * 0.5 + filtered_noise(n, 1500, 8000, 0) * 0.3) * np.exp(-t / 0.01)
+
+
+def chirp_phrase() -> np.ndarray:
+    """一小串鸟鸣：几声快速上滑的短音"""
+    n = int(0.9 * SR)
+    out = np.zeros(n)
+    t0 = 0.0
+    for _ in range(int(rng.integers(3, 6))):
+        L = int(rng.uniform(0.05, 0.09) * SR)
+        t = np.arange(L) / SR
+        f0 = rng.uniform(2600, 3400)
+        f = f0 + rng.uniform(900, 1600) * t / t[-1]
+        seg = np.sin(2 * np.pi * np.cumsum(f) / SR) * np.sin(np.pi * t / t[-1]) ** 2
+        i = int(t0 * SR)
+        if i + L < n:
+            out[i : i + L] += seg
+        t0 += rng.uniform(0.09, 0.16)
+    return out
+
+
+def leaves(seconds: float) -> np.ndarray:
+    n = int(seconds * SR)
+    t = np.arange(n) / SR
+    swell = 0.5 + 0.5 * np.sin(2 * np.pi * 0.23 * t + rng.uniform(0, 6)) * np.sin(2 * np.pi * 0.11 * t)
+    return filtered_noise(n, 1200, 7000, -0.4) * swell * 0.3
+
+
+def soft_pat() -> np.ndarray:
+    n = int(0.25 * SR)
+    t = np.arange(n) / SR
+    return (np.sin(2 * np.pi * 140 * t) * np.exp(-t / 0.03) + filtered_noise(n, 200, 1500, -0.6) * np.exp(-t / 0.02) * 0.5)
 
 
 # ── 第一章 · 海的中央（0–36 秒） ──────────────────────────────
@@ -344,6 +375,73 @@ def chapter3() -> np.ndarray:
     return reverb(mix, seconds=3.2, wet=0.34) * 1.12
 
 
+# ── 第四章 · 家（84–120 秒） ────────────────────────────────────
+
+def chapter4() -> np.ndarray:
+    T0 = 84.0
+    L = 40.0
+    mix = buf(L)
+
+    def at(t: float) -> float:
+        return t - T0
+
+    def put_stereo(x: np.ndarray, t: float, gain: float) -> None:
+        i = int(at(t) * SR)
+        mix[:, i : i + x.shape[1]] += x[:, : mix.shape[1] - i] * gain
+
+    # 15 湖边的妈妈：湖水轻拍，G 大调的拨弦
+    lake = ocean(12.5)
+    lake *= np.interp(np.arange(lake.shape[1]) / SR, [0, 1.5, 11, 12.5], [0, 1, 0.7, 0])
+    put_stereo(lake, 84.0, 0.1)
+    pad_chord(mix, at(84.0), at(91.6), ["G2", "D3", "B3", "A4"], 0.05, attack=1.8)
+    for k, nm in enumerate(["G4", "B4", "D5", "B4", "A4", "D5", "G5", "D5", "B4", "A4"]):
+        place(mix, pluck(hz(nm), 2.4), at(84.5 + k * 0.62), 0.09, -0.35 + (k % 4) * 0.2)
+
+    # 16 四句话绕着妈妈：每个出现时一声细钟；汇入胸口时亮起来
+    for i, nm in enumerate(["D6", "B5", "A5", "G5"]):
+        place(mix, bell(hz(nm), 3.0), at(f2s(8 + i * 12, 91)), 0.06, (-0.5, 0.5, -0.3, 0.3)[i])
+    merge = f2s(112, 91)
+    pad_chord(mix, at(91.0), at(merge + 0.3), ["C2", "G2", "E3", "B3"], 0.045, release=0.8)
+    pad_chord(mix, at(merge - 0.2), at(96.8), ["G2", "D3", "B3", "D4"], 0.06, attack=0.4)
+    for j, nm in enumerate(["G5", "B5", "D6"]):
+        place(mix, bell(hz(nm), 4.0), at(merge + j * 0.1), 0.09, (-0.2, 0.2, 0.0)[j])
+
+    # 17 树荫下的爸爸：鸟鸣、树叶沙沙
+    put_stereo(np.vstack([leaves(11.5), leaves(11.5)]), 96.0, 0.15)
+    for t, pan in [(96.8, 0.6), (98.6, -0.5), (100.9, 0.4), (103.4, -0.6), (105.2, 0.5)]:
+        place(mix, chirp_phrase(), at(t), 0.035, pan)
+    pad_chord(mix, at(96.0), at(102.6), ["D2", "A2", "F#3", "A3"], 0.05)
+    for k, nm in enumerate(["A4", "D5", "F#5", "E5", "D5", "A4", "B4", "D5"]):
+        place(mix, pluck(hz(nm), 2.4), at(96.4 + k * 0.7), 0.085, -0.3 + (k % 3) * 0.3)
+
+    # 18 爸爸在我肩上拍两下
+    for fr in [26, 44]:
+        place(mix, soft_pat(), at(f2s(fr + 5, 102)), 0.4, 0.2)
+    pad_chord(mix, at(102.0), at(107.6), ["E2", "B2", "G3", "D4"], 0.05)
+    place(mix, bell(hz("E5"), 4.0), at(104.2), 0.07, 0.0)
+
+    # 19 两张照片隔着一条海平线：远处的海，微苦的旋律
+    far = ocean(6.5)
+    far *= np.interp(np.arange(far.shape[1]) / SR, [0, 1, 5.5, 6.5], [0, 1, 1, 0])
+    put_stereo(far, 107.0, 0.08)
+    pad_chord(mix, at(107.0), at(110.4), ["A1", "E2", "C3", "G3"], 0.05)
+    pad_chord(mix, at(110.0), at(113.6), ["D2", "A2", "F#3", "C4"], 0.05)
+    for k, (t, nm) in enumerate([(107.4, "E5"), (108.3, "D5"), (109.2, "C5"), (110.4, "D5"), (111.3, "F#5"), (112.2, "A4")]):
+        place(mix, pluck(hz(nm), 3.0), at(t), 0.1, -0.25 + 0.1 * k)
+
+    # 20 四句话再出现：每句一声钟，最后回到 G 大调，留到第五章
+    first = 113.0 + 0.4
+    slot = (7 * FPS - 12) / 4 / FPS
+    pad_chord(mix, at(113.0), at(118.0), ["C2", "G2", "E3", "B3"], 0.04, attack=1.2)
+    for k, notes in enumerate([["B4"], ["C5"], ["D5"], ["G5", "B5"]]):
+        for j, nm in enumerate(notes):
+            place(mix, bell(hz(nm), 5.0), at(first + k * slot + 0.15 + j * 0.12), 0.12, (-0.2, -0.05, 0.1, 0.0)[k])
+    pad_chord(mix, at(117.6), at(123.5), ["G2", "D3", "B3", "D4"], 0.05, attack=1.0, release=3.0)
+
+    # 这一章以拨弦和钟声为主，比前几章轻，补 2.5 dB 对齐
+    return reverb(mix, seconds=3.2, wet=0.34) * 1.33
+
+
 def main() -> None:
     full = buf(TOTAL)
     c1 = chapter1()
@@ -354,6 +452,9 @@ def main() -> None:
     c3 = chapter3()
     s3 = int(61.0 * SR)
     full[:, s3 : s3 + c3.shape[1]] += c3
+    c4 = chapter4()
+    s4 = int(84.0 * SR)
+    full[:, s4 : s4 + c4.shape[1]] += c4
 
     # 先按峰值对齐，再整体提升约 4 dB，超过 0.7 的部分用软限幅压住，峰值不超过 -1 dBFS
     full *= 0.89 / np.max(np.abs(full))
