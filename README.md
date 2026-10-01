@@ -112,40 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-09-30 20:02 UTC*
+*更新于 2026-10-01 00:33 UTC*
 
 **[The polity that is Singapore](https://marginalrevolution.com/marginalrevolution/2026/09/the-polity-that-is-singapore-3.html?utm_source=rss&utm_medium=rss&utm_campaign=the-polity-that-is-singapore-3)**  
-`Tyler Cowen` · 1 小时前  
+`Tyler Cowen` · 5 小时前  
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-573)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 8 小时前  
 
 **[OpenAI Dev Day 2026: The releases that actually matter](https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases)**  
-`Lenny Rachitsky` · 5 小时前  
+`Lenny Rachitsky` · 9 小时前  
 
 **[Jev: 8 real use cases for the fastest, cheapest model I’ve ever used \| John Lindquist](https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest)**  
-`Lenny Rachitsky` · 7 小时前  
+`Lenny Rachitsky` · 12 小时前  
 
 **[Luis Garicano on Spain, Europe, and the Future of Work](https://cowenconvos.libsyn.com/luis-garicano-on-spain-europe-and-the-future-of-work)**  
-`Tyler Cowen` · 8 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[Trump Administration Limits Predatory Lending in Education](https://marginalrevolution.com/marginalrevolution/2026/09/trump-administration-limits-predatory-lending-in-education.html?utm_source=rss&utm_medium=rss&utm_campaign=trump-administration-limits-predatory-lending-in-education)**  
-`Tyler Cowen` · 8 小时前  
-
-**[OpenAI Dev Day, Dot and OpenAI’s Product Transition, Sign In With ChatGPT](https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/)**  
-`Ben Thompson` · 10 小时前  
-
-**[*Shade*](https://marginalrevolution.com/marginalrevolution/2026/09/shade.html?utm_source=rss&utm_medium=rss&utm_campaign=shade)**  
 `Tyler Cowen` · 13 小时前  
 
+**[OpenAI Dev Day, Dot and OpenAI’s Product Transition, Sign In With ChatGPT](https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/)**  
+`Ben Thompson` · 14 小时前  
+
+**[*Shade*](https://marginalrevolution.com/marginalrevolution/2026/09/shade.html?utm_source=rss&utm_medium=rss&utm_campaign=shade)**  
+`Tyler Cowen` · 18 小时前  
+
 **[Don’t let AI make you dumber](https://marginalrevolution.com/marginalrevolution/2026/09/dont-let-ai-make-you-dumber.html?utm_source=rss&utm_medium=rss&utm_campaign=dont-let-ai-make-you-dumber)**  
-`Tyler Cowen` · 15 小时前  
+`Tyler Cowen` · 20 小时前  
 
 **[OpenAI connects the Dots](https://www.platformer.news/openai-dots-agents-devday-2026/)**  
-`Casey Newton` · 18 小时前  
+`Casey Newton` · 23 小时前  
 
 **[E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？](https://sv101.fireside.fm/268)**  
-`陈茜` · 21 小时前  
+`陈茜` · 1 天前  
 
 **[Shipping to America](https://marginalrevolution.com/marginalrevolution/2026/09/shipping-to-america.html?utm_source=rss&utm_medium=rss&utm_campaign=shipping-to-america)**  
 `Tyler Cowen` · 1 天前  
