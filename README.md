@@ -112,37 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-02 17:53 UTC*
+*更新于 2026-10-02 22:15 UTC*
 
 **[Supply is elastic, installment #1637](https://marginalrevolution.com/marginalrevolution/2026/10/supply-is-elastic-installment-1637-2.html?utm_source=rss&utm_medium=rss&utm_campaign=supply-is-elastic-installment-1637-2)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 4 小时前  
 
 **[2026.40: Dots and Question Marks](https://stratechery.com/2026/dots-and-question-marks/)**  
-`Ben Thompson` · 刚刚  
+`Ben Thompson` · 5 小时前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-593.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-593)**  
-`Tyler Cowen` · 2 小时前  
-
-**[Weekly Dose of Optimism #213](https://www.notboring.co/p/weekly-dose-of-optimism-213)**  
-`Packy McCormick` · 5 小时前  
-
-**[A Normal Debate?](https://marginalrevolution.com/marginalrevolution/2026/10/a-normal-debate.html?utm_source=rss&utm_medium=rss&utm_campaign=a-normal-debate)**  
 `Tyler Cowen` · 6 小时前  
 
+**[Weekly Dose of Optimism #213](https://www.notboring.co/p/weekly-dose-of-optimism-213)**  
+`Packy McCormick` · 9 小时前  
+
+**[A Normal Debate?](https://marginalrevolution.com/marginalrevolution/2026/10/a-normal-debate.html?utm_source=rss&utm_medium=rss&utm_campaign=a-normal-debate)**  
+`Tyler Cowen` · 10 小时前  
+
 **[What should I ask Tom Griffiths?](https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-tom-griffiths.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-tom-griffiths)**  
-`Tyler Cowen` · 9 小时前  
+`Tyler Cowen` · 13 小时前  
 
 **[My excellent Conversation with Luis Garicano](https://marginalrevolution.com/marginalrevolution/2026/10/my-excellent-conversation-with-luis-garicano.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-luis-garicano)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增](https://podcast.latepost.com/183)**  
-`晚点团队` · 16 小时前  
+`晚点团队` · 21 小时前  
 
 **[Do We Grow Software or Do We Design It?](https://tomtunguz.com/grow-or-design-software/)**  
-`Tomasz Tunguz` · 17 小时前  
+`Tomasz Tunguz` · 22 小时前  
 
 **[Alvin Roth to the rescue, the polity that is Singapore](https://marginalrevolution.com/marginalrevolution/2026/10/alvin-roth-to-the-rescue-the-polity-that-is-singapore.html?utm_source=rss&utm_medium=rss&utm_campaign=alvin-roth-to-the-rescue-the-polity-that-is-singapore)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-572)**  
 `Tyler Cowen` · 1 天前  
