@@ -112,31 +112,34 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-01 18:25 UTC*
+*更新于 2026-10-02 00:48 UTC*
+
+**[Alvin Roth to the rescue, the polity that is Singapore](https://marginalrevolution.com/marginalrevolution/2026/10/alvin-roth-to-the-rescue-the-polity-that-is-singapore.html?utm_source=rss&utm_medium=rss&utm_campaign=alvin-roth-to-the-rescue-the-polity-that-is-singapore)**  
+`Tyler Cowen` · 6 小时前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-572)**  
-`Tyler Cowen` · 2 小时前  
+`Tyler Cowen` · 8 小时前  
 
 **[Si Sheppard – How did a few hundred Spanish soldiers topple two empires?](https://www.dwarkesh.com/p/si-sheppard)**  
-`Dwarkesh Patel` · 2 小时前  
+`Dwarkesh Patel` · 9 小时前  
 
 **[What should I ask Moxie Marlinspike?](https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-moxie-marlinspike.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-moxie-marlinspike)**  
-`Tyler Cowen` · 3 小时前  
+`Tyler Cowen` · 10 小时前  
 
 **[An Interview with Jason Del Rey About Muse, Amazon, and Walmart](https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/)**  
-`Ben Thompson` · 8 小时前  
+`Ben Thompson` · 14 小时前  
 
 **[20VC: Instinct Raises $1B at $10B Valuation \| AMD Buys Fei-Fei Li's World Labs for $8.2B \| Meta Poaches MongoDB's CEO \| Bessemer Raises $5.75B \| Oura Pulls IPO & Nubank Eyes $8–12B Monzo Takeover](https://thetwentyminutevc.libsyn.com/20vc-instinct-raises-1b-at-10b-valuation-amd-buys-fei-fei-lis-world-labs-for-82b-meta-poaches-mongodbs-ceo-bessemer-raises-575b-oura-pulls-ipo-nubank-eyes-812b-monzo-takeover)**  
-`Harry Stebbings` · 11 小时前  
+`Harry Stebbings` · 17 小时前  
 
 **[The top private sector employers of economics graduates](https://marginalrevolution.com/marginalrevolution/2026/10/the-top-private-sector-employers-of-economics-graduates.html?utm_source=rss&utm_medium=rss&utm_campaign=the-top-private-sector-employers-of-economics-graduates)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[Merging LLMs and economics research](https://marginalrevolution.com/marginalrevolution/2026/10/merging-llms-and-economics-research.html?utm_source=rss&utm_medium=rss&utm_campaign=merging-llms-and-economics-research)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 20 小时前  
 
 **[The polity that is Singapore](https://marginalrevolution.com/marginalrevolution/2026/09/the-polity-that-is-singapore-3.html?utm_source=rss&utm_medium=rss&utm_campaign=the-polity-that-is-singapore-3)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-573)**  
 `Tyler Cowen` · 1 天前  
@@ -155,8 +158,5 @@ open docs/index.html
 
 **[OpenAI Dev Day, Dot and OpenAI’s Product Transition, Sign In With ChatGPT](https://stratechery.com/2026/openai-dev-day-dot-and-openais-product-transition-sign-in-with-chatgpt/)**  
 `Ben Thompson` · 1 天前  
-
-**[*Shade*](https://marginalrevolution.com/marginalrevolution/2026/09/shade.html?utm_source=rss&utm_medium=rss&utm_campaign=shade)**  
-`Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
