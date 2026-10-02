@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-02 09:47 UTC*
+*更新于 2026-10-02 17:53 UTC*
+
+**[Supply is elastic, installment #1637](https://marginalrevolution.com/marginalrevolution/2026/10/supply-is-elastic-installment-1637-2.html?utm_source=rss&utm_medium=rss&utm_campaign=supply-is-elastic-installment-1637-2)**  
+`Tyler Cowen` · 刚刚  
+
+**[2026.40: Dots and Question Marks](https://stratechery.com/2026/dots-and-question-marks/)**  
+`Ben Thompson` · 刚刚  
+
+**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-593.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-593)**  
+`Tyler Cowen` · 2 小时前  
+
+**[Weekly Dose of Optimism #213](https://www.notboring.co/p/weekly-dose-of-optimism-213)**  
+`Packy McCormick` · 5 小时前  
+
+**[A Normal Debate?](https://marginalrevolution.com/marginalrevolution/2026/10/a-normal-debate.html?utm_source=rss&utm_medium=rss&utm_campaign=a-normal-debate)**  
+`Tyler Cowen` · 6 小时前  
 
 **[What should I ask Tom Griffiths?](https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-tom-griffiths.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-tom-griffiths)**  
-`Tyler Cowen` · 1 小时前  
+`Tyler Cowen` · 9 小时前  
 
 **[My excellent Conversation with Luis Garicano](https://marginalrevolution.com/marginalrevolution/2026/10/my-excellent-conversation-with-luis-garicano.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-luis-garicano)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增](https://podcast.latepost.com/183)**  
-`晚点团队` · 8 小时前  
+`晚点团队` · 16 小时前  
+
+**[Do We Grow Software or Do We Design It?](https://tomtunguz.com/grow-or-design-software/)**  
+`Tomasz Tunguz` · 17 小时前  
 
 **[Alvin Roth to the rescue, the polity that is Singapore](https://marginalrevolution.com/marginalrevolution/2026/10/alvin-roth-to-the-rescue-the-polity-that-is-singapore.html?utm_source=rss&utm_medium=rss&utm_campaign=alvin-roth-to-the-rescue-the-polity-that-is-singapore)**  
-`Tyler Cowen` · 15 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-572.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-572)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Si Sheppard – How did a few hundred Spanish soldiers topple two empires?](https://www.dwarkesh.com/p/si-sheppard)**  
-`Dwarkesh Patel` · 18 小时前  
+`Dwarkesh Patel` · 1 天前  
 
 **[What should I ask Moxie Marlinspike?](https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-moxie-marlinspike.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-moxie-marlinspike)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[An Interview with Jason Del Rey About Muse, Amazon, and Walmart](https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/)**  
-`Ben Thompson` · 23 小时前  
+`Ben Thompson` · 1 天前  
 
 **[20VC: Instinct Raises $1B at $10B Valuation \| AMD Buys Fei-Fei Li's World Labs for $8.2B \| Meta Poaches MongoDB's CEO \| Bessemer Raises $5.75B \| Oura Pulls IPO & Nubank Eyes $8–12B Monzo Takeover](https://thetwentyminutevc.libsyn.com/20vc-instinct-raises-1b-at-10b-valuation-amd-buys-fei-fei-lis-world-labs-for-82b-meta-poaches-mongodbs-ceo-bessemer-raises-575b-oura-pulls-ipo-nubank-eyes-812b-monzo-takeover)**  
 `Harry Stebbings` · 1 天前  
-
-**[The top private sector employers of economics graduates](https://marginalrevolution.com/marginalrevolution/2026/10/the-top-private-sector-employers-of-economics-graduates.html?utm_source=rss&utm_medium=rss&utm_campaign=the-top-private-sector-employers-of-economics-graduates)**  
-`Tyler Cowen` · 1 天前  
-
-**[Merging LLMs and economics research](https://marginalrevolution.com/marginalrevolution/2026/10/merging-llms-and-economics-research.html?utm_source=rss&utm_medium=rss&utm_campaign=merging-llms-and-economics-research)**  
-`Tyler Cowen` · 1 天前  
-
-**[The polity that is Singapore](https://marginalrevolution.com/marginalrevolution/2026/09/the-polity-that-is-singapore-3.html?utm_source=rss&utm_medium=rss&utm_campaign=the-polity-that-is-singapore-3)**  
-`Tyler Cowen` · 1 天前  
-
-**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/09/wednesday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-573)**  
-`Tyler Cowen` · 1 天前  
-
-**[OpenAI Dev Day 2026: The releases that actually matter](https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases)**  
-`Lenny Rachitsky` · 1 天前  
-
-**[Jev: 8 real use cases for the fastest, cheapest model I’ve ever used \| John Lindquist](https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest)**  
-`Lenny Rachitsky` · 1 天前  
 
 <!-- POSTS:END -->
