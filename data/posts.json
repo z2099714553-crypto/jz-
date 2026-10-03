@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-10-03T11:40:59Z",
-  "count": 304,
+  "generated_at": "2026-10-03T16:18:55Z",
+  "count": 306,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/florian-schneider-rip.html",
+      "title": "Florian Schneider, RIP",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/florian-schneider-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=florian-schneider-rip",
+      "published": "2026-10-03T15:29:40Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "One of the titans, and yes from the BRD .\n\n The post Florian Schneider, RIP appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-03T16:18:38Z"
+    },
+    {
+      "id": "https://www.netinterest.co/p/the-art-of-doing-financial-engineering",
+      "title": "The Art of Doing Financial Engineering",
+      "link": "https://www.netinterest.co/p/the-art-of-doing-financial-engineering",
+      "published": "2026-10-03T11:57:49Z",
+      "source": "Net Interest",
+      "author": "Marc Rubinstein",
+      "lang": "en",
+      "tags": [
+        "金融",
+        "商业分析"
+      ],
+      "type": "blog",
+      "raw_text": "Every boom is accompanied by a parallel boom in financial engineering and this one is no exception. The scale demands it. Estimates for AI infrastructure capex through 2030 range between $7.6 trillion and $8.0 trillion, and while bond markets are deep, they re not that deep.\n Analysts at KKR estimate that traditional US public investment-grade investors should be able to provide $1.7 trillion of financing but that leaves a gap of $6.3 trillion. They predict it will be filled by a mix of financing instruments: private investment-grade debt, asset-backed finance, infrastructure debt, structured solutions and financing structures that may not even exist yet. \n There s nothing new in this. AI capex could reach 3.63% of GDP out to 2032, but history offers a close parallel. Between 1870 and 1890, as rail infrastructure was laid at a frantic pace, associated capital expenditure amounted to 2.24% of GDP.\n In his book, Railroaded , Richard White describes the scene:\n Investors proceeded from government bonds to government secured railroad bonds, to convertible bonds, to mortgage bonds vouched for by the same people who sold the government bonds, to a whole array of financial instruments, and from there, potentially, into the drink There were first mortgage bonds and second mortgage bonds; there were mortgages on the trunk line and mortgages on the branches. There were land grant bonds and income bonds. There were bonds on anything and everything that investors might accept as collateral. The bankers as well as the railroads they represented trumpeted the security of these investments, but they were in effect so many carnival barkers. \n Financial engineering is a difficult quantity to measure, but its ebbs and flows are worth watching as a signal of where we are in the cycle. Like other forms of engineering, it can be used for good or ill. It tends to flourish when conventional balance sheets can no longer keep pace with an investment boom, but the structures that keep the boom going can also obscure where its risks are accumulating.\n One way to study it is through the eyes of the financial engineers who practise it. Their role is to navigate the demands of companies, investors, regulators, auditors and credit rating agencies to devise structures that allocate cash flows and risk among the parties most willing and able to bear them.\n To see what they re up to, let s take a look at their work. This week in Net Interest , we go deep inside some of the structures dreamt up by financial engineers this year. We visit Louisiana, Texas and Ohio, all via Wall Street. To explore with me, read on \n Case 1: Hyperion In December 2024, Meta broke ground on a new data center complex in Richland Parish, Louisiana. The 2,250-acre site was to be a cornerstone of Mark Zuckerberg s push into artificial intelligence. It will be able to scale up to 5GW over several years, he posted .\n\n Not as big as Manhattan, but close \n The only problem: a project of this size requires a lot of money.\n Meta put the initial cost of the project at $10 billion and started to bankroll it using its own funds, but the scale of the project threatened to overwhelm its balance sheet, so it looked for other solutions. Enter the financial engineers of Morgan Stanley.\n\n Read more",
+      "fetched_at": "2026-10-03T16:18:38Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/words-to-live-by-2.html",
       "title": "Words to live by?",
