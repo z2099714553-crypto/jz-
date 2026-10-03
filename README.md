@@ -112,34 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-02 22:15 UTC*
+*更新于 2026-10-03 05:19 UTC*
+
+**[New issue of Econ Journal Watch](https://marginalrevolution.com/marginalrevolution/2026/10/new-issue-of-econ-journal-watch-17.html?utm_source=rss&utm_medium=rss&utm_campaign=new-issue-of-econ-journal-watch-17)**  
+`Tyler Cowen` · 刚刚  
 
 **[Supply is elastic, installment #1637](https://marginalrevolution.com/marginalrevolution/2026/10/supply-is-elastic-installment-1637-2.html?utm_source=rss&utm_medium=rss&utm_campaign=supply-is-elastic-installment-1637-2)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 11 小时前  
 
 **[2026.40: Dots and Question Marks](https://stratechery.com/2026/dots-and-question-marks/)**  
-`Ben Thompson` · 5 小时前  
+`Ben Thompson` · 12 小时前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-593.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-593)**  
-`Tyler Cowen` · 6 小时前  
-
-**[Weekly Dose of Optimism #213](https://www.notboring.co/p/weekly-dose-of-optimism-213)**  
-`Packy McCormick` · 9 小时前  
-
-**[A Normal Debate?](https://marginalrevolution.com/marginalrevolution/2026/10/a-normal-debate.html?utm_source=rss&utm_medium=rss&utm_campaign=a-normal-debate)**  
-`Tyler Cowen` · 10 小时前  
-
-**[What should I ask Tom Griffiths?](https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-tom-griffiths.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-tom-griffiths)**  
 `Tyler Cowen` · 13 小时前  
 
+**[Weekly Dose of Optimism #213](https://www.notboring.co/p/weekly-dose-of-optimism-213)**  
+`Packy McCormick` · 16 小时前  
+
+**[A Normal Debate?](https://marginalrevolution.com/marginalrevolution/2026/10/a-normal-debate.html?utm_source=rss&utm_medium=rss&utm_campaign=a-normal-debate)**  
+`Tyler Cowen` · 18 小时前  
+
+**[What should I ask Tom Griffiths?](https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-tom-griffiths.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-tom-griffiths)**  
+`Tyler Cowen` · 20 小时前  
+
 **[My excellent Conversation with Luis Garicano](https://marginalrevolution.com/marginalrevolution/2026/10/my-excellent-conversation-with-luis-garicano.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-luis-garicano)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增](https://podcast.latepost.com/183)**  
-`晚点团队` · 21 小时前  
+`晚点团队` · 1 天前  
 
 **[Do We Grow Software or Do We Design It?](https://tomtunguz.com/grow-or-design-software/)**  
-`Tomasz Tunguz` · 22 小时前  
+`Tomasz Tunguz` · 1 天前  
 
 **[Alvin Roth to the rescue, the polity that is Singapore](https://marginalrevolution.com/marginalrevolution/2026/10/alvin-roth-to-the-rescue-the-polity-that-is-singapore.html?utm_source=rss&utm_medium=rss&utm_campaign=alvin-roth-to-the-rescue-the-polity-that-is-singapore)**  
 `Tyler Cowen` · 1 天前  
@@ -155,8 +158,5 @@ open docs/index.html
 
 **[An Interview with Jason Del Rey About Muse, Amazon, and Walmart](https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/)**  
 `Ben Thompson` · 1 天前  
-
-**[20VC: Instinct Raises $1B at $10B Valuation \| AMD Buys Fei-Fei Li's World Labs for $8.2B \| Meta Poaches MongoDB's CEO \| Bessemer Raises $5.75B \| Oura Pulls IPO & Nubank Eyes $8–12B Monzo Takeover](https://thetwentyminutevc.libsyn.com/20vc-instinct-raises-1b-at-10b-valuation-amd-buys-fei-fei-lis-world-labs-for-82b-meta-poaches-mongodbs-ceo-bessemer-raises-575b-oura-pulls-ipo-nubank-eyes-812b-monzo-takeover)**  
-`Harry Stebbings` · 1 天前  
 
 <!-- POSTS:END -->
