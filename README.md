@@ -112,28 +112,28 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-03 21:15 UTC*
+*更新于 2026-10-03 23:48 UTC*
 
 **[🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more](https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from)**  
-`Lenny Rachitsky` · 4 小时前  
+`Lenny Rachitsky` · 6 小时前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-581)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 7 小时前  
 
 **[Florian Schneider, RIP](https://marginalrevolution.com/marginalrevolution/2026/10/florian-schneider-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=florian-schneider-rip)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 8 小时前  
 
 **[The Art of Doing Financial Engineering](https://www.netinterest.co/p/the-art-of-doing-financial-engineering)**  
-`Marc Rubinstein` · 9 小时前  
+`Marc Rubinstein` · 11 小时前  
 
 **[Words to live by?](https://marginalrevolution.com/marginalrevolution/2026/10/words-to-live-by-2.html?utm_source=rss&utm_medium=rss&utm_campaign=words-to-live-by-2)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[20VC: The Future of Datacentres: What You Need to Know \| Why Everyone Gets GPU Depreciation and AI's Energy Costs Wrong \| Who Really Makes Money From AI & Why Most Moats Don't Exist with Chase Lochmiller](https://thetwentyminutevc.libsyn.com/20vc-the-future-of-datacentres-what-you-need-to-know-why-everyone-gets-gpu-depreciation-and-ais-energy-costs-wrong-who-really-makes-money-from-ai-why-most-moats-dont-exist-with-chase-lochmiller)**  
-`Harry Stebbings` · 14 小时前  
+`Harry Stebbings` · 16 小时前  
 
 **[New issue of Econ Journal Watch](https://marginalrevolution.com/marginalrevolution/2026/10/new-issue-of-econ-journal-watch-17.html?utm_source=rss&utm_medium=rss&utm_campaign=new-issue-of-econ-journal-watch-17)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 19 小时前  
 
 **[Supply is elastic, installment #1637](https://marginalrevolution.com/marginalrevolution/2026/10/supply-is-elastic-installment-1637-2.html?utm_source=rss&utm_medium=rss&utm_campaign=supply-is-elastic-installment-1637-2)**  
 `Tyler Cowen` · 1 天前  
