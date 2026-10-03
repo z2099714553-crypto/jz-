@@ -112,28 +112,34 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-03 05:19 UTC*
+*更新于 2026-10-03 11:40 UTC*
+
+**[Words to live by?](https://marginalrevolution.com/marginalrevolution/2026/10/words-to-live-by-2.html?utm_source=rss&utm_medium=rss&utm_campaign=words-to-live-by-2)**  
+`Tyler Cowen` · 4 小时前  
+
+**[20VC: The Future of Datacentres: What You Need to Know \| Why Everyone Gets GPU Depreciation and AI's Energy Costs Wrong \| Who Really Makes Money From AI & Why Most Moats Don't Exist with Chase Lochmiller](https://thetwentyminutevc.libsyn.com/20vc-the-future-of-datacentres-what-you-need-to-know-why-everyone-gets-gpu-depreciation-and-ais-energy-costs-wrong-who-really-makes-money-from-ai-why-most-moats-dont-exist-with-chase-lochmiller)**  
+`Harry Stebbings` · 4 小时前  
 
 **[New issue of Econ Journal Watch](https://marginalrevolution.com/marginalrevolution/2026/10/new-issue-of-econ-journal-watch-17.html?utm_source=rss&utm_medium=rss&utm_campaign=new-issue-of-econ-journal-watch-17)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 7 小时前  
 
 **[Supply is elastic, installment #1637](https://marginalrevolution.com/marginalrevolution/2026/10/supply-is-elastic-installment-1637-2.html?utm_source=rss&utm_medium=rss&utm_campaign=supply-is-elastic-installment-1637-2)**  
-`Tyler Cowen` · 11 小时前  
-
-**[2026.40: Dots and Question Marks](https://stratechery.com/2026/dots-and-question-marks/)**  
-`Ben Thompson` · 12 小时前  
-
-**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-593.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-593)**  
-`Tyler Cowen` · 13 小时前  
-
-**[Weekly Dose of Optimism #213](https://www.notboring.co/p/weekly-dose-of-optimism-213)**  
-`Packy McCormick` · 16 小时前  
-
-**[A Normal Debate?](https://marginalrevolution.com/marginalrevolution/2026/10/a-normal-debate.html?utm_source=rss&utm_medium=rss&utm_campaign=a-normal-debate)**  
 `Tyler Cowen` · 18 小时前  
 
-**[What should I ask Tom Griffiths?](https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-tom-griffiths.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-tom-griffiths)**  
+**[2026.40: Dots and Question Marks](https://stratechery.com/2026/dots-and-question-marks/)**  
+`Ben Thompson` · 18 小时前  
+
+**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-593.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-593)**  
 `Tyler Cowen` · 20 小时前  
+
+**[Weekly Dose of Optimism #213](https://www.notboring.co/p/weekly-dose-of-optimism-213)**  
+`Packy McCormick` · 22 小时前  
+
+**[A Normal Debate?](https://marginalrevolution.com/marginalrevolution/2026/10/a-normal-debate.html?utm_source=rss&utm_medium=rss&utm_campaign=a-normal-debate)**  
+`Tyler Cowen` · 1 天前  
+
+**[What should I ask Tom Griffiths?](https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-tom-griffiths.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-tom-griffiths)**  
+`Tyler Cowen` · 1 天前  
 
 **[My excellent Conversation with Luis Garicano](https://marginalrevolution.com/marginalrevolution/2026/10/my-excellent-conversation-with-luis-garicano.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-luis-garicano)**  
 `Tyler Cowen` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[Si Sheppard – How did a few hundred Spanish soldiers topple two empires?](https://www.dwarkesh.com/p/si-sheppard)**  
 `Dwarkesh Patel` · 1 天前  
-
-**[What should I ask Moxie Marlinspike?](https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-moxie-marlinspike.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-moxie-marlinspike)**  
-`Tyler Cowen` · 1 天前  
-
-**[An Interview with Jason Del Rey About Muse, Amazon, and Walmart](https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/)**  
-`Ben Thompson` · 1 天前  
 
 <!-- POSTS:END -->

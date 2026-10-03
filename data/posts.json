@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-10-03T05:19:54Z",
-  "count": 302,
+  "generated_at": "2026-10-03T11:40:59Z",
+  "count": 304,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/words-to-live-by-2.html",
+      "title": "Words to live by?",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/words-to-live-by-2.html?utm_source=rss&utm_medium=rss&utm_campaign=words-to-live-by-2",
+      "published": "2026-10-03T07:15:58Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "In the past year American markets have digested the largest-ever initial public offering (SpaceX), equity raise by a public company (Google) or a foreign firm (SK Hynix), private-funding round (OpenAI) and private-debt deal (Broadcom), as well as most of the biggest bond issue in history (Amazon). There was the first $1trn exchange-traded fund, or ETF (Vanguard), a record-breaking cash pile (Berkshire Hathaway) and stock-buyback programme (Nvidia), and the consummation of the largest-ever leveraged buyout (Electronic Arts). Then there are the enormous mergers in railways (Union Pacific and Norfolk Southern), utilities (NextEra and Dominion Energy) and media (Paramount and Warner Bros Discovery)—the last of which led, this week, to the largest ever junk-bond offering, beating a record set only last week (SoftBank). New markets have been created out of thin air (for compute) or become much bigger (for predictions). Worries about massive corporate scandals (First Brands) and hedge-fund blow-ups (Situational Awareness), which would have once occupied investors’ attention for months, are steamrollered by the relentless, totalising and extraordinarily flexible machine that is American finance. \n \n An excellent passage, from The Economist .\n\n The post Words to live by? appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-03T11:40:42Z"
+    },
+    {
+      "id": "https://thetwentyminutevc.libsyn.com/20vc-the-future-of-datacentres-what-you-need-to-know-why-everyone-gets-gpu-depreciation-and-ais-energy-costs-wrong-who-really-makes-money-from-ai-why-most-moats-dont-exist-with-chase-lochmiller",
+      "title": "20VC: The Future of Datacentres: What You Need to Know | Why Everyone Gets GPU Depreciation and AI's Energy Costs Wrong | Who Really Makes Money From AI & Why Most Moats Don't Exist with Chase Lochmiller",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-the-future-of-datacentres-what-you-need-to-know-why-everyone-gets-gpu-depreciation-and-ais-energy-costs-wrong-who-really-makes-money-from-ai-why-most-moats-dont-exist-with-chase-lochmiller",
+      "published": "2026-10-03T07:07:00Z",
+      "source": "20VC",
+      "author": "Harry Stebbings",
+      "lang": "en",
+      "tags": [
+        "创投",
+        "深度访谈"
+      ],
+      "type": "interview",
+      "raw_text": "Chase Lochmiller is the Co-founder and CEO of Crusoe. Crusoe builds and powers the data centres that companies use to train and run AI. It has raised approximately $6.4 billion in equity, including its latest $3.9 billion Series F at a $30.9 billion valuation. Its backers include NVIDIA, Founders Fund, Gavin Baker's Atreides Management, Mubadala Capital and Valor Equity Partners.\n AGENDA:\n 04:40 What Does Climbing Everest Teach You About Building a Company?\n 17:40 What's Really Stopping Us From Building Enough AI Data Centres?\n 25:50 Are Data Centres Really Driving Up Your Energy Bills?\n 28:05 Will Half of Planned AI Data Centres Never Get Built?\n 32:10 How Quickly Can a GPU Pay for Itself?\n 38:35 Will Your GPUs Become Obsolete Before You've Paid Them Off?\n 44:20 What Does It Take to Produce the Cheapest Intelligence?\n 49:50 Will Companies Building Their Own Models Eat Into OpenAI's Business?\n 51:55 Can You Build a $30B Company and Still Be a Great Dad?",
+      "fetched_at": "2026-10-03T11:40:59Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/new-issue-of-econ-journal-watch-17.html",
       "title": "New issue of Econ Journal Watch",
