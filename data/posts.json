@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-03T16:18:55Z",
-  "count": 306,
+  "generated_at": "2026-10-03T21:15:23Z",
+  "count": 308,
   "posts": [
+    {
+      "id": "https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from",
+      "title": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
+      "link": "https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from",
+      "published": "2026-10-03T17:00:49Z",
+      "source": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "lang": "en",
+      "tags": [
+        "产品",
+        "增长",
+        "访谈"
+      ],
+      "type": "interview",
+      "raw_text": "Hello and welcome to this week s edition of Community Wisdom a subscriber-only email, delivered every Saturday, highlighting the most helpful conversations in our members-only Slack community . \n\n Read more",
+      "fetched_at": "2026-10-03T21:15:08Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-581.html",
+      "title": "Saturday assorted links",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-581",
+      "published": "2026-10-03T16:29:20Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "1. Rewarding failure ?\n\n 2. An excellent Brian Potter explainer on how matrix algebra is used in both LLMs and robotics .\n\n 3. Chat with Mircea Cărtărescu .\n\n 4. It seems the expansion of remote work reduced births? \n\n 5. Living Science uses an AI agent to reproduce key findings from seminal papers in economics, document what holds up and extend the analysis with newer data . \n\n 6. Joshua Rothman on Garicano s Messy Jobs (New Yorker).\n\n The post Saturday assorted links appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-03T21:15:06Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/florian-schneider-rip.html",
       "title": "Florian Schneider, RIP",
