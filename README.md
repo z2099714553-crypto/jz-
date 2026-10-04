@@ -112,25 +112,25 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-04 18:39 UTC*
+*更新于 2026-10-04 23:57 UTC*
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-585)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 6 小时前  
 
 **[My blurb for Ethan Mollick’s new book](https://marginalrevolution.com/marginalrevolution/2026/10/my-blurb-for-ethan-mollicks-new-book.html?utm_source=rss&utm_medium=rss&utm_campaign=my-blurb-for-ethan-mollicks-new-book)**  
-`Tyler Cowen` · 2 小时前  
+`Tyler Cowen` · 8 小时前  
 
 **[OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) \| Tibo Sottiaux](https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering)**  
-`Lenny Rachitsky` · 6 小时前  
+`Lenny Rachitsky` · 11 小时前  
 
 **[Does Costco Cause Cancer?](https://marginalrevolution.com/marginalrevolution/2026/10/does-costco-cause-cancer.html?utm_source=rss&utm_medium=rss&utm_campaign=does-costco-cause-cancer)**  
-`Tyler Cowen` · 7 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[Marital sorting by class and race](https://marginalrevolution.com/marginalrevolution/2026/10/marital-sorting-by-class-and-race.html?utm_source=rss&utm_medium=rss&utm_campaign=marital-sorting-by-class-and-race)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[Do the elderly prefer robotic care?](https://marginalrevolution.com/marginalrevolution/2026/10/do-the-elderly-prefer-robotic-care.html?utm_source=rss&utm_medium=rss&utm_campaign=do-the-elderly-prefer-robotic-care)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more](https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from)**  
 `Lenny Rachitsky` · 1 天前  
