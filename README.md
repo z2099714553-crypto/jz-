@@ -112,25 +112,34 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-04 12:23 UTC*
+*更新于 2026-10-04 18:39 UTC*
+
+**[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-585)**  
+`Tyler Cowen` · 刚刚  
+
+**[My blurb for Ethan Mollick’s new book](https://marginalrevolution.com/marginalrevolution/2026/10/my-blurb-for-ethan-mollicks-new-book.html?utm_source=rss&utm_medium=rss&utm_campaign=my-blurb-for-ethan-mollicks-new-book)**  
+`Tyler Cowen` · 2 小时前  
+
+**[OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) \| Tibo Sottiaux](https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering)**  
+`Lenny Rachitsky` · 6 小时前  
 
 **[Does Costco Cause Cancer?](https://marginalrevolution.com/marginalrevolution/2026/10/does-costco-cause-cancer.html?utm_source=rss&utm_medium=rss&utm_campaign=does-costco-cause-cancer)**  
-`Tyler Cowen` · 1 小时前  
-
-**[Marital sorting by class and race](https://marginalrevolution.com/marginalrevolution/2026/10/marital-sorting-by-class-and-race.html?utm_source=rss&utm_medium=rss&utm_campaign=marital-sorting-by-class-and-race)**  
-`Tyler Cowen` · 5 小时前  
-
-**[Do the elderly prefer robotic care?](https://marginalrevolution.com/marginalrevolution/2026/10/do-the-elderly-prefer-robotic-care.html?utm_source=rss&utm_medium=rss&utm_campaign=do-the-elderly-prefer-robotic-care)**  
 `Tyler Cowen` · 7 小时前  
 
+**[Marital sorting by class and race](https://marginalrevolution.com/marginalrevolution/2026/10/marital-sorting-by-class-and-race.html?utm_source=rss&utm_medium=rss&utm_campaign=marital-sorting-by-class-and-race)**  
+`Tyler Cowen` · 11 小时前  
+
+**[Do the elderly prefer robotic care?](https://marginalrevolution.com/marginalrevolution/2026/10/do-the-elderly-prefer-robotic-care.html?utm_source=rss&utm_medium=rss&utm_campaign=do-the-elderly-prefer-robotic-care)**  
+`Tyler Cowen` · 13 小时前  
+
 **[🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more](https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from)**  
-`Lenny Rachitsky` · 19 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-581)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Florian Schneider, RIP](https://marginalrevolution.com/marginalrevolution/2026/10/florian-schneider-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=florian-schneider-rip)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[The Art of Doing Financial Engineering](https://www.netinterest.co/p/the-art-of-doing-financial-engineering)**  
 `Marc Rubinstein` · 1 天前  
@@ -145,18 +154,9 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[Supply is elastic, installment #1637](https://marginalrevolution.com/marginalrevolution/2026/10/supply-is-elastic-installment-1637-2.html?utm_source=rss&utm_medium=rss&utm_campaign=supply-is-elastic-installment-1637-2)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 **[2026.40: Dots and Question Marks](https://stratechery.com/2026/dots-and-question-marks/)**  
-`Ben Thompson` · 1 天前  
-
-**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-593.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-593)**  
-`Tyler Cowen` · 1 天前  
-
-**[Weekly Dose of Optimism #213](https://www.notboring.co/p/weekly-dose-of-optimism-213)**  
-`Packy McCormick` · 1 天前  
-
-**[A Normal Debate?](https://marginalrevolution.com/marginalrevolution/2026/10/a-normal-debate.html?utm_source=rss&utm_medium=rss&utm_campaign=a-normal-debate)**  
-`Tyler Cowen` · 2 天前  
+`Ben Thompson` · 2 天前  
 
 <!-- POSTS:END -->
