@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-10-04T05:54:31Z",
-  "count": 309,
+  "generated_at": "2026-10-04T12:23:14Z",
+  "count": 311,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/does-costco-cause-cancer.html",
+      "title": "Does Costco Cause Cancer?",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/does-costco-cause-cancer.html?utm_source=rss&utm_medium=rss&utm_campaign=does-costco-cause-cancer",
+      "published": "2026-10-04T11:18:58Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "In December 2025, researchers led by Yazan Alwadi at Harvard’s T.H. Chan School of Public Health published a paper in Environmental Health that claimed to find that cancer incidence increased for people living closer to nuclear power plants in Massachusetts. In March, the same researchers published an expanded nationwide study claiming a similar result—this time looking at cancer mortality rates, rather than incidence—in Nature Communications . This was followed by a paper in the Journal of Exposure Science & Environmental Epidemiology that looked at associations of lung, breast, and colon cancers. Most recently, a study of total mortality, not just cancer, was published in the European journal Environmental Epidemiology .\n \n The problem? Using the same methods pretty much everything causes cancer. An amazing takedown from Deric Tilson and Adam Stein: \n\n For instance, living near a private four-year university is associated with a 15-fold increase in cancer mortality when compared to living near a nuclear power plant.\n\n Costco has the largest effect of all the locations we have tested. Over 2.2 million cancer deaths can be attributed to Costco; that’s more than 20% of all cancer deaths between 2000 and 2018. Hot dogs, bulk spices, and reasonably priced clothes come with a cost.\n \n What went wrong?\n\n [The authors] chose nuclear power plants because a story could be built around that framework. When the researchers got positive results across our nation’s nuclear power plants, they didn’t check what their shiny new methodology would do using other landmarks. This is their pitfall: by taking the easy way out—getting results and making up a story around those results without double-checking their method—the authors could have no idea that what they were actually capturing was the methodology itself.\n\n The attributable number of deaths from this methodology is probably zero, but the attributable number of bad papers is at least four.\n\n The post Does Costco Cause Cancer? appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-04T12:22:56Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/marital-sorting-by-class-and-race.html",
+      "title": "Marital sorting by class and race",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/marital-sorting-by-class-and-race.html?utm_source=rss&utm_medium=rss&utm_campaign=marital-sorting-by-class-and-race",
+      "published": "2026-10-04T07:01:17Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increases interclass (high- and low-parent income) marriage but has no detectable effect on interracial (White and Black) marriage. A spatial marriage model predicts that residential segregation—one of many forms of exposure—accounts for more than one-third of marital sorting by class but less than 5 percent by race.\n \n That paper is from the most recent AER, by Benjamin Goldman, Jamie Gracie, and Sonya R. Porter.\n\n The post Marital sorting by class and race appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-04T12:22:56Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/do-the-elderly-prefer-robotic-care.html",
       "title": "Do the elderly prefer robotic care?",
