@@ -112,34 +112,43 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-05 14:41 UTC*
+*更新于 2026-10-05 22:01 UTC*
+
+**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-580)**  
+`Tyler Cowen` · 4 小时前  
+
+**[“Authenticity is exactly the same as phoniness.”](https://marginalrevolution.com/marginalrevolution/2026/10/authenticity-is-exactly-the-same-as-phoniness.html?utm_source=rss&utm_medium=rss&utm_campaign=authenticity-is-exactly-the-same-as-phoniness)**  
+`Tyler Cowen` · 6 小时前  
+
+**[🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap](https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how)**  
+`Lenny Rachitsky` · 6 小时前  
 
 **[How OpenAI uses ChatGPT Sites (live at DevDay!) \| Kath Korevec (Product Lead)](https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live)**  
-`Lenny Rachitsky` · 2 小时前  
+`Lenny Rachitsky` · 9 小时前  
 
 **[The Greg Clark Symposium](https://marginalrevolution.com/marginalrevolution/2026/10/the-greg-clark-symposium.html?utm_source=rss&utm_medium=rss&utm_campaign=the-greg-clark-symposium)**  
-`Tyler Cowen` · 3 小时前  
+`Tyler Cowen` · 10 小时前  
 
 **[Apple and a Hacker’s Future](https://stratechery.com/2026/apple-and-a-hackers-future/)**  
-`Ben Thompson` · 4 小时前  
+`Ben Thompson` · 12 小时前  
 
 **[20VC: Is Seed Investing Dead Without a $1BN Fund? \| Does Ownership and Price Matter When Companies Can Be $1TRN Exits \| Are AI Revenue Numbers Real and What to Watch Out For with Venky Ganesan, Menlo Ventures](https://thetwentyminutevc.libsyn.com/20vc-is-seed-investing-dead-without-a-1bn-fund-does-ownership-and-price-matter-when-companies-can-be-1trn-exits-are-ai-revenue-numbers-real-and-what-to-watch-out-for-with-venky-ganesan-menlo-ventures)**  
-`Harry Stebbings` · 7 小时前  
+`Harry Stebbings` · 14 小时前  
 
 **[China fact of the day](https://marginalrevolution.com/marginalrevolution/2026/10/china-fact-of-the-day-82.html?utm_source=rss&utm_medium=rss&utm_campaign=china-fact-of-the-day-82)**  
-`Tyler Cowen` · 7 小时前  
+`Tyler Cowen` · 15 小时前  
 
 **[Crime in Covid Times](https://marginalrevolution.com/marginalrevolution/2026/10/crime-in-covid-times.html?utm_source=rss&utm_medium=rss&utm_campaign=crime-in-covid-times)**  
-`Tyler Cowen` · 9 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[Inference Is the Most Important Market in Software](https://tomtunguz.com/inference-is-the-most-important-market-in-software/)**  
-`Tomasz Tunguz` · 14 小时前  
+`Tomasz Tunguz` · 22 小时前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-585)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[My blurb for Ethan Mollick’s new book](https://marginalrevolution.com/marginalrevolution/2026/10/my-blurb-for-ethan-mollicks-new-book.html?utm_source=rss&utm_medium=rss&utm_campaign=my-blurb-for-ethan-mollicks-new-book)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) \| Tibo Sottiaux](https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering)**  
 `Lenny Rachitsky` · 1 天前  
@@ -148,15 +157,6 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[Marital sorting by class and race](https://marginalrevolution.com/marginalrevolution/2026/10/marital-sorting-by-class-and-race.html?utm_source=rss&utm_medium=rss&utm_campaign=marital-sorting-by-class-and-race)**  
-`Tyler Cowen` · 1 天前  
-
-**[Do the elderly prefer robotic care?](https://marginalrevolution.com/marginalrevolution/2026/10/do-the-elderly-prefer-robotic-care.html?utm_source=rss&utm_medium=rss&utm_campaign=do-the-elderly-prefer-robotic-care)**  
-`Tyler Cowen` · 1 天前  
-
-**[🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more](https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from)**  
-`Lenny Rachitsky` · 1 天前  
-
-**[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-581)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
