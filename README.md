@@ -112,25 +112,43 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-05 05:42 UTC*
+*更新于 2026-10-05 14:41 UTC*
+
+**[How OpenAI uses ChatGPT Sites (live at DevDay!) \| Kath Korevec (Product Lead)](https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live)**  
+`Lenny Rachitsky` · 2 小时前  
+
+**[The Greg Clark Symposium](https://marginalrevolution.com/marginalrevolution/2026/10/the-greg-clark-symposium.html?utm_source=rss&utm_medium=rss&utm_campaign=the-greg-clark-symposium)**  
+`Tyler Cowen` · 3 小时前  
+
+**[Apple and a Hacker’s Future](https://stratechery.com/2026/apple-and-a-hackers-future/)**  
+`Ben Thompson` · 4 小时前  
+
+**[20VC: Is Seed Investing Dead Without a $1BN Fund? \| Does Ownership and Price Matter When Companies Can Be $1TRN Exits \| Are AI Revenue Numbers Real and What to Watch Out For with Venky Ganesan, Menlo Ventures](https://thetwentyminutevc.libsyn.com/20vc-is-seed-investing-dead-without-a-1bn-fund-does-ownership-and-price-matter-when-companies-can-be-1trn-exits-are-ai-revenue-numbers-real-and-what-to-watch-out-for-with-venky-ganesan-menlo-ventures)**  
+`Harry Stebbings` · 7 小时前  
+
+**[China fact of the day](https://marginalrevolution.com/marginalrevolution/2026/10/china-fact-of-the-day-82.html?utm_source=rss&utm_medium=rss&utm_campaign=china-fact-of-the-day-82)**  
+`Tyler Cowen` · 7 小时前  
 
 **[Crime in Covid Times](https://marginalrevolution.com/marginalrevolution/2026/10/crime-in-covid-times.html?utm_source=rss&utm_medium=rss&utm_campaign=crime-in-covid-times)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 9 小时前  
+
+**[Inference Is the Most Important Market in Software](https://tomtunguz.com/inference-is-the-most-important-market-in-software/)**  
+`Tomasz Tunguz` · 14 小时前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-585)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 20 小时前  
 
 **[My blurb for Ethan Mollick’s new book](https://marginalrevolution.com/marginalrevolution/2026/10/my-blurb-for-ethan-mollicks-new-book.html?utm_source=rss&utm_medium=rss&utm_campaign=my-blurb-for-ethan-mollicks-new-book)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[OpenAI’s Head of ChatGPT: We’re entering a new era of AI (again) \| Tibo Sottiaux](https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering)**  
-`Lenny Rachitsky` · 17 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[Does Costco Cause Cancer?](https://marginalrevolution.com/marginalrevolution/2026/10/does-costco-cause-cancer.html?utm_source=rss&utm_medium=rss&utm_campaign=does-costco-cause-cancer)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Marital sorting by class and race](https://marginalrevolution.com/marginalrevolution/2026/10/marital-sorting-by-class-and-race.html?utm_source=rss&utm_medium=rss&utm_campaign=marital-sorting-by-class-and-race)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Do the elderly prefer robotic care?](https://marginalrevolution.com/marginalrevolution/2026/10/do-the-elderly-prefer-robotic-care.html?utm_source=rss&utm_medium=rss&utm_campaign=do-the-elderly-prefer-robotic-care)**  
 `Tyler Cowen` · 1 天前  
@@ -140,23 +158,5 @@ open docs/index.html
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-581)**  
 `Tyler Cowen` · 1 天前  
-
-**[Florian Schneider, RIP](https://marginalrevolution.com/marginalrevolution/2026/10/florian-schneider-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=florian-schneider-rip)**  
-`Tyler Cowen` · 1 天前  
-
-**[The Art of Doing Financial Engineering](https://www.netinterest.co/p/the-art-of-doing-financial-engineering)**  
-`Marc Rubinstein` · 1 天前  
-
-**[Words to live by?](https://marginalrevolution.com/marginalrevolution/2026/10/words-to-live-by-2.html?utm_source=rss&utm_medium=rss&utm_campaign=words-to-live-by-2)**  
-`Tyler Cowen` · 1 天前  
-
-**[20VC: The Future of Datacentres: What You Need to Know \| Why Everyone Gets GPU Depreciation and AI's Energy Costs Wrong \| Who Really Makes Money From AI & Why Most Moats Don't Exist with Chase Lochmiller](https://thetwentyminutevc.libsyn.com/20vc-the-future-of-datacentres-what-you-need-to-know-why-everyone-gets-gpu-depreciation-and-ais-energy-costs-wrong-who-really-makes-money-from-ai-why-most-moats-dont-exist-with-chase-lochmiller)**  
-`Harry Stebbings` · 1 天前  
-
-**[New issue of Econ Journal Watch](https://marginalrevolution.com/marginalrevolution/2026/10/new-issue-of-econ-journal-watch-17.html?utm_source=rss&utm_medium=rss&utm_campaign=new-issue-of-econ-journal-watch-17)**  
-`Tyler Cowen` · 2 天前  
-
-**[Supply is elastic, installment #1637](https://marginalrevolution.com/marginalrevolution/2026/10/supply-is-elastic-installment-1637-2.html?utm_source=rss&utm_medium=rss&utm_campaign=supply-is-elastic-installment-1637-2)**  
-`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
