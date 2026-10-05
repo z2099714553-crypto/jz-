@@ -19,7 +19,7 @@ export const OpusPromo: React.FC = () => {
   return (
     <AbsoluteFill style={{background: '#000'}}>
       <FontGate />
-      <Audio src={staticFile('music.wav')} volume={0.75} />
+      <Audio src={staticFile('music.wav')} volume={1} />
       {timeline.scenes.map((s, i) => {
         const Scene = SCENES[s.id];
         const isLast = i === timeline.scenes.length - 1;
@@ -36,7 +36,7 @@ export const OpusPromo: React.FC = () => {
       })}
       <Vignette />
       {timeline.scenes.filter((s) => FLASH_IN.has(s.id)).map((s) => (
-        <Flash key={s.id} at={s.from} len={7} peak={0.55} />
+        <Flash key={s.id} at={s.from} len={10} peak={0.3} />
       ))}
       <Badge />
     </AbsoluteFill>

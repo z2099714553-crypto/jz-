@@ -5,9 +5,10 @@
     "studio": "remotion studio",
     "stats": "node scripts/stats.mjs",
     "voice": "python3 scripts/voice.py",
-    "music": "python3 scripts/music.py",
+    "music": "python3 scripts/bgm.py",
+    "music:synth": "python3 scripts/music.py",
     "render": "npm run stats && remotion render OpusPromo out/opus-promo-v2.mp4 --codec h264 --crf 18",
-    "cover": "remotion still OpusPromo out/cover.png --frame 70"
+    "cover": "remotion still OpusPromo out/cover.png --frame 115"
   },
   "dependencies": {
     "@fontsource/cormorant-garamond": "^5.3.0",

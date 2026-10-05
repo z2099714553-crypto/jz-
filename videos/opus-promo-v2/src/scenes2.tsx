@@ -175,8 +175,8 @@ const Window: React.FC<{title: string; children: React.ReactNode; top?: number; 
 export const Web: React.FC<SceneProps> = ({d}) => {
   const f = useCurrentFrame();
   const prompt = '帮我做一个个人主页';
-  const typed = Math.floor(interpolate(f, [4, 22], [0, prompt.length], clamp));
-  const build = (k: number) => sp(f - 26 - k * 5, 13, 170);
+  const typed = Math.floor(interpolate(f, [6, 36], [0, prompt.length], clamp));
+  const build = (k: number) => sp(f - 42 - k * 8, 13, 170);
   return (
     <AbsoluteFill>
       <Space tint={C.coral} glow={0.15} stars={30} />
@@ -419,7 +419,7 @@ export const Stats: React.FC<SceneProps> = ({d}) => {
     {n: '1', u: '次渲染', c: C.ink},
     {n: '0', u: '个剪辑师', c: C.coral},
   ];
-  const hits = [4, 20, 36];
+  const hits = [6, 30, 54];
   return (
     <AbsoluteFill>
       <Space tint={C.gold} glow={0.18} stars={40} />
@@ -484,17 +484,17 @@ const IDEAS = ['让它写个小游戏', '让它做一首MV', '让它帮我做PPT
 export const Cta: React.FC<SceneProps> = ({d}) => {
   const f = useCurrentFrame();
   const head = sp(f - 2, 12, 140);
-  const btn = sp(f - 30, 8, 200);
+  const btn = sp(f - 45, 8, 200);
   const pulse = 1 + 0.06 * Math.sin(f / 4);
   return (
     <AbsoluteFill>
       <Space tint={C.coral} glow={0.25} stars={60} />
       {IDEAS.map((t, i) => {
-        const t0 = 4 + i * 11;
+        const t0 = 6 + i * 16;
         const age = f - t0;
         if (age < 0) return null;
         const x = i % 2 ? 560 + random(`cx${i}`) * 60 : 70 + random(`cx${i}`) * 60;
-        const y = 1150 - age * 4.2;
+        const y = 1150 - age * 3;
         return (
           <div
             key={i}
@@ -510,7 +510,7 @@ export const Cta: React.FC<SceneProps> = ({d}) => {
               fontWeight: 700,
               fontSize: 34,
               color: C.ink,
-              opacity: interpolate(age, [0, 8, 90, 120], [0, 1, 1, 0], clamp) * 0.9,
+              opacity: interpolate(age, [0, 8, 130, 170], [0, 1, 1, 0], clamp) * 0.9,
               transform: `scale(${sp(age, 10, 200)})`,
               whiteSpace: 'nowrap',
             }}

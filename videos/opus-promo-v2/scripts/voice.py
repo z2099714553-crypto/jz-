@@ -1,7 +1,8 @@
 """Synthesize the voice-over offline (sherpa-onnx + Kokoro v1.1-zh) and write the timeline.
 
 Usage: KOKORO_DIR=/path/to/kokoro-multi-lang-v1_1 python3 scripts/voice.py [--sid N]
-Each scene lasts max(line["min"], voice + tail) seconds, so pacing follows the voice.
+Each scene lasts max(line["min"] * MIN_SCALE, lead + voice + tail) seconds, then its end is
+snapped to the next beat of the BGM (BEAT/PHASE, measured from public/bgm-source) so cuts land on beats.
 """
 import json, os, sys
 import numpy as np
@@ -10,12 +11,17 @@ import soundfile as sf
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FPS = 30
-TAIL = 0.16  # breathing room after each line, seconds
-LEAD = 0.06  # silence before the voice starts in a scene
+TAIL = float(os.environ.get("TAIL", "0.9"))  # breathing room after each line, seconds
+LEAD = float(os.environ.get("LEAD", "0.35"))  # silence before the voice starts in a scene
+MIN_SCALE = float(os.environ.get("MIN_SCALE", "1.4"))
+# Beat grid of the previous video's BGM (112.65 BPM, first beat at 0.465s).
+BEAT = float(os.environ.get("BEAT", "0.5326"))
+PHASE = float(os.environ.get("PHASE", "0.465"))
+OUTRO = float(os.environ.get("OUTRO", "2.0"))
 
 kdir = os.environ.get("KOKORO_DIR", "kokoro-multi-lang-v1_1")
 sid = int(sys.argv[sys.argv.index("--sid") + 1]) if "--sid" in sys.argv else 50
-speed = float(os.environ.get("SPEED", "1.3"))
+speed = float(os.environ.get("SPEED", "1.05"))
 
 cfg = sherpa_onnx.OfflineTtsConfig(
     model=sherpa_onnx.OfflineTtsModelConfig(
@@ -50,8 +56,11 @@ for i, line in enumerate(lines):
     name = f"{i:02d}-{line['id']}.wav"
     sf.write(os.path.join(ROOT, "public/voice", name), samples, audio.sample_rate)
     vdur = len(samples) / audio.sample_rate
-    dur = max(line["min"], LEAD + vdur + TAIL)
-    frames = int(round(dur * FPS))
+    dur = max(line["min"] * MIN_SCALE, LEAD + vdur + TAIL)
+    end = start / FPS + dur
+    if BEAT > 0:
+        end = PHASE + np.ceil((end - PHASE) / BEAT) * BEAT
+    frames = int(round(end * FPS)) - start
     timeline.append({
         "id": line["id"], "text": line["text"], "file": f"voice/{name}",
         "from": start, "frames": frames,
@@ -60,6 +69,6 @@ for i, line in enumerate(lines):
     start += frames
     print(f"{name}: voice {vdur:.2f}s scene {dur:.2f}s")
 
-out = {"fps": FPS, "totalFrames": start + 45, "scenes": timeline}
+out = {"fps": FPS, "totalFrames": start + int(OUTRO * FPS), "scenes": timeline}
 json.dump(out, open(os.path.join(ROOT, "src/timeline.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print(f"total {out['totalFrames'] / FPS:.1f}s")

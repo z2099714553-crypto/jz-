@@ -44,10 +44,15 @@ const Slam: React.FC<{text: string; at: number; size: number; color: string; ste
   );
 };
 
-export const Hook: React.FC<SceneProps> = ({d}) => {
+export const Hook: React.FC<SceneProps> = ({d, vs, vf}) => {
   const f = useCurrentFrame();
-  const slams = [0, 3, 6, 9, 30, 33, 36, 39, 48, 51, 54, 57, 60];
-  const strike = interpolate(f, [70, 80], [0, 1], clamp);
+  // land each line on the word: 这条视频 / 没有一个 / 人类剪辑师
+  const t1 = vs;
+  const t2 = Math.round(vs + vf * 0.36);
+  const t3 = Math.round(vs + vf * 0.58);
+  const slams = [0, 1, 2, 3].map((i) => t1 + i * 4).concat([0, 1, 2, 3].map((i) => t2 + i * 4), [0, 1, 2, 3, 4].map((i) => t3 + i * 4));
+  const tStrike = t3 + 34;
+  const strike = interpolate(f, [tStrike, tStrike + 12], [0, 1], clamp);
   return (
     <AbsoluteFill style={{background: '#000'}}>
       <AbsoluteFill
@@ -56,14 +61,14 @@ export const Hook: React.FC<SceneProps> = ({d}) => {
         }}
       />
       <AbsoluteFill
-        style={{background: `radial-gradient(circle at 50% 45%, ${hexA(C.coral, 0.25 * interpolate(f, [45, 70], [0, 1], clamp))}, transparent 60%)`}}
+        style={{background: `radial-gradient(circle at 50% 45%, ${hexA(C.coral, 0.25 * interpolate(f, [t3, t3 + 24], [0, 1], clamp))}, transparent 60%)`}}
       />
       <Shake at={slams} amp={14} len={6}>
         <AbsoluteFill style={{justifyContent: 'center', alignItems: 'center', flexDirection: 'column', gap: 36, marginTop: -180}}>
-          <Slam text="这条视频" at={0} size={170} color={C.ink} />
-          <Slam text="没有一个" at={30} size={120} color={C.dim} />
+          <Slam text="这条视频" at={t1} size={170} color={C.ink} step={4} />
+          <Slam text="没有一个" at={t2} size={120} color={C.dim} step={4} />
           <div style={{position: 'relative'}}>
-            <Slam text="人类剪辑师" at={46} size={186} color={C.coral} glitch />
+            <Slam text="人类剪辑师" at={t3} size={186} color={C.coral} step={4} glitch />
             <div
               style={{
                 position: 'absolute',
@@ -90,7 +95,7 @@ export const Hook: React.FC<SceneProps> = ({d}) => {
           fontSize: 30,
           color: C.gold,
           letterSpacing: 4,
-          opacity: interpolate(f, [72, 82], [0, 1], clamp) * (Math.floor(f / 8) % 2 ? 1 : 0.6),
+          opacity: interpolate(f, [tStrike + 10, tStrike + 20], [0, 1], clamp) * (Math.floor(f / 8) % 2 ? 1 : 0.6),
         }}
       >
         {'> rendered_by: claude-opus-5.5'}
@@ -118,7 +123,7 @@ export const Code: React.FC<SceneProps> = ({d, vs, vf}) => {
       >
         <AbsoluteFill style={{transform: 'rotateX(28deg) translateY(-80px)', transformOrigin: '50% 100%'}}>
           {Array.from({length: cols}).map((_, c) => {
-            const speed = 9 + c * 4;
+            const speed = 5 + c * 2.5;
             const y = -((f * speed) % 52) ;
             const base = Math.floor((f * speed) / 52);
             return (
@@ -446,7 +451,7 @@ export const Binary: React.FC<SceneProps> = ({d}) => {
       <AbsoluteFill style={{perspective: 900}}>
         <AbsoluteFill style={{transform: 'rotateY(-24deg) rotateZ(-8deg)', transformOrigin: '30% 50%'}}>
           {Array.from({length: rows}).map((_, r) => {
-            const speed = 18 + r * 7;
+            const speed = 10 + r * 4;
             const dir = r % 2 ? 1 : -1;
             const off = ((f * speed * dir) % 120) - 120;
             const base = Math.floor((f * speed) / 120);
@@ -563,7 +568,7 @@ export const Moon: React.FC<SceneProps> = ({d}) => {
   const flick = 0.85 + 0.15 * Math.sin(f * 2.3) + 0.1 * random(`fl${f}`);
   return (
     <AbsoluteFill style={{background: 'linear-gradient(#030512 0%, #0b1440 45%, #5a3a6b 72%, #e0794d 92%, #ffb36b 100%)'}}>
-      <Shake at={[6, 10, 14, 18, 22, 26, 30]} amp={6} len={4}>
+      <Shake at={[6, 12, 18, 24, 30, 36, 42, 48]} amp={5} len={5}>
         <Tag top={240}>1969 · 登月</Tag>
         <div
           style={{
