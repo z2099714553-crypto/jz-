@@ -10,6 +10,8 @@ const SCENES: Record<string, React.FC<SceneProps>> = {
   dark: Dark, flash: FlashScene, brand: Brand, web: Web, bug: Bug, report: Report, self: Self, stats: Stats,
   answer: Answer, cta: Cta,
 };
+// Final cut is BGM-only; flip to true to bring the narration back.
+const WITH_VOICE = false;
 // Scenes whose big on-screen text already *is* the line.
 const NO_SUB = new Set(['hook', 'brand', 'answer']);
 // Hard cuts that get a white flash.
@@ -28,9 +30,11 @@ export const OpusPromo: React.FC = () => {
           <Sequence key={s.id} from={s.from} durationInFrames={len} name={s.id}>
             <Scene d={s.frames} vs={s.voiceFrom} vf={s.voiceFrames} />
             {!NO_SUB.has(s.id) && <Subtitle text={s.text} start={s.voiceFrom} frames={s.voiceFrames} />}
-            <Sequence from={s.voiceFrom}>
-              <Audio src={staticFile(s.file)} volume={1} />
-            </Sequence>
+            {WITH_VOICE && (
+              <Sequence from={s.voiceFrom}>
+                <Audio src={staticFile(s.file)} volume={1} />
+              </Sequence>
+            )}
           </Sequence>
         );
       })}

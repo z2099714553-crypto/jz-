@@ -9,8 +9,10 @@ import soundfile as sf
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SR = 44100
-DUCK = float(os.environ.get("DUCK", "0.42"))  # music gain while the voice speaks
-BED = float(os.environ.get("BED", "0.8"))     # music gain otherwise
+BED = float(os.environ.get("BED", "1.0"))     # music gain
+# Music gain while the voice speaks. Final cut has no narration, so no ducking by default;
+# set DUCK=0.42 if the voice track is re-enabled in src/Video.tsx.
+DUCK = float(os.environ.get("DUCK", str(BED)))
 
 tl = json.load(open(os.path.join(ROOT, "src/timeline.json"), encoding="utf-8"))
 FPS = tl["fps"]
