@@ -1,0 +1,168 @@
+{
+ "fps": 30,
+ "totalFrames": 1635,
+ "scenes": [
+  {
+   "id": "hook",
+   "text": "这条视频，没有一个人类剪辑师。",
+   "file": "voice/00-hook.wav",
+   "from": 0,
+   "frames": 78,
+   "voiceFrom": 2,
+   "voiceFrames": 68
+  },
+  {
+   "id": "code",
+   "text": "台词、画面、配乐，每一帧，都是AI自己写代码做出来的。",
+   "file": "voice/01-code.wav",
+   "from": 78,
+   "frames": 115,
+   "voiceFrom": 2,
+   "voiceFrames": 109
+  },
+  {
+   "id": "rewind",
+   "text": "但先给你看看，人类走到今天，用了多久。",
+   "file": "voice/02-rewind.wav",
+   "from": 193,
+   "frames": 95,
+   "voiceFrom": 2,
+   "voiceFrames": 89
+  },
+  {
+   "id": "rods",
+   "text": "两千年前，我们用竹签，算圆周率。",
+   "file": "voice/03-rods.wav",
+   "from": 288,
+   "frames": 85,
+   "voiceFrom": 2,
+   "voiceFrames": 79
+  },
+  {
+   "id": "gears",
+   "text": "三百年前，用齿轮。",
+   "file": "voice/04-gears.wav",
+   "from": 373,
+   "frames": 60,
+   "voiceFrom": 2,
+   "voiceFrames": 39
+  },
+  {
+   "id": "binary",
+   "text": "一百年前，用零和一。",
+   "file": "voice/05-binary.wav",
+   "from": 433,
+   "frames": 66,
+   "voiceFrom": 2,
+   "voiceFrames": 42
+  },
+  {
+   "id": "chip",
+   "text": "后来，一粒米大的芯片，装下了整个房间。",
+   "file": "voice/06-chip.wav",
+   "from": 499,
+   "frames": 93,
+   "voiceFrom": 2,
+   "voiceFrames": 87
+  },
+  {
+   "id": "moon",
+   "text": "我们靠它，登上了月球。",
+   "file": "voice/07-moon.wav",
+   "from": 592,
+   "frames": 78,
+   "voiceFrom": 2,
+   "voiceFrames": 52
+  },
+  {
+   "id": "dark",
+   "text": "我们花了两千年，教会机器计算。",
+   "file": "voice/08-dark.wav",
+   "from": 670,
+   "frames": 90,
+   "voiceFrom": 2,
+   "voiceFrames": 66
+  },
+  {
+   "id": "flash",
+   "text": "然后，只用了几年，教会它理解。",
+   "file": "voice/09-flash.wav",
+   "from": 760,
+   "frames": 84,
+   "voiceFrom": 2,
+   "voiceFrames": 67
+  },
+  {
+   "id": "brand",
+   "text": "它叫，Claude。",
+   "file": "voice/10-brand.wav",
+   "from": 844,
+   "frames": 102,
+   "voiceFrom": 2,
+   "voiceFrames": 30
+  },
+  {
+   "id": "web",
+   "text": "你说一句话，它写完整个网页。",
+   "file": "voice/11-web.wav",
+   "from": 946,
+   "frames": 69,
+   "voiceFrom": 2,
+   "voiceFrames": 63
+  },
+  {
+   "id": "bug",
+   "text": "一万行代码，它找到那一个bug。",
+   "file": "voice/12-bug.wav",
+   "from": 1015,
+   "frames": 72,
+   "voiceFrom": 2,
+   "voiceFrames": 66
+  },
+  {
+   "id": "report",
+   "text": "凌晨三点的报告，它陪你改完。",
+   "file": "voice/13-report.wav",
+   "from": 1087,
+   "frames": 72,
+   "voiceFrom": 2,
+   "voiceFrames": 66
+  },
+  {
+   "id": "self",
+   "text": "甚至，它能自己做一条视频，就是你现在看的这条。",
+   "file": "voice/14-self.wav",
+   "from": 1159,
+   "frames": 118,
+   "voiceFrom": 2,
+   "voiceFrames": 112
+  },
+  {
+   "id": "stats",
+   "text": "从竹签到Claude，工具一直在替我们算。",
+   "file": "voice/15-stats.wav",
+   "from": 1277,
+   "frames": 102,
+   "voiceFrom": 2,
+   "voiceFrames": 84
+  },
+  {
+   "id": "answer",
+   "text": "但这一次，工具开始回答你了。",
+   "file": "voice/16-answer.wav",
+   "from": 1379,
+   "frames": 78,
+   "voiceFrom": 2,
+   "voiceFrames": 65
+  },
+  {
+   "id": "cta",
+   "text": "你想让它做什么？评论区告诉我，点赞最高的，下一条让它做。",
+   "file": "voice/17-cta.wav",
+   "from": 1457,
+   "frames": 133,
+   "voiceFrom": 2,
+   "voiceFrames": 127
+  }
+ ]
+}

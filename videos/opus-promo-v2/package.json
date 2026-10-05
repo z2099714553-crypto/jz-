@@ -1,0 +1,26 @@
+{
+  "name": "opus-promo-v2",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio",
+    "stats": "node scripts/stats.mjs",
+    "voice": "python3 scripts/voice.py",
+    "music": "python3 scripts/music.py",
+    "render": "npm run stats && remotion render OpusPromo out/opus-promo-v2.mp4 --codec h264 --crf 18",
+    "cover": "remotion still OpusPromo out/cover.png --frame 70"
+  },
+  "dependencies": {
+    "@fontsource/cormorant-garamond": "^5.3.0",
+    "@fontsource/jetbrains-mono": "^5.3.0",
+    "@fontsource/noto-sans-sc": "^5.3.0",
+    "@fontsource/noto-serif-sc": "^5.3.0",
+    "@remotion/cli": "^4.0.532",
+    "@remotion/google-fonts": "^4.0.532",
+    "@remotion/media-utils": "^4.0.532",
+    "@types/react": "^19.3.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "remotion": "^4.0.532",
+    "typescript": "^7.0.2"
+  }
+}
