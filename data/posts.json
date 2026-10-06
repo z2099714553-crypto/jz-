@@ -1,7 +1,71 @@
 {
-  "generated_at": "2026-10-06T06:22:23Z",
-  "count": 325,
+  "generated_at": "2026-10-06T15:58:01Z",
+  "count": 330,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/the-pope-v-graham.html",
+      "title": "Paul Graham Versus the Pope",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/the-pope-v-graham.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pope-v-graham",
+      "published": "2026-10-06T11:15:54Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Pope Leo XIV recently tweeted that there is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others. \n\n As a description of how today s models work, that s fair enough. AI learned to paint by looking at our paintings.\n\n Paul Graham (also a painter!) notes that this is about to change. Robots wired into the world will soon perceive it for themselves. A robot or AI that learns from its own sensors isn t borrowing images from others. LLMs were founded on our words but their words will dominate the future.\n\n So picture a robot on a beach at dusk. It watches the sun go down, then paints what it saw. Is it art? The Pope would no doubt still assert an ontological difference. But once the factual distinction between borrowing and perceiving fades, what makes that more than a statement of faith?\n\n The post Paul Graham Versus the Pope appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-06T15:57:45Z"
+    },
+    {
+      "id": "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path",
+      "title": "Game Decompilation, Is This Legal?, A Well-Trodden Path",
+      "link": "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path/",
+      "published": "2026-10-06T10:07:36Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "Games are being decompiled, but the real risk to gaming is new games and increased personalization.",
+      "fetched_at": "2026-10-06T15:57:45Z"
+    },
+    {
+      "id": "https://fs.blog/knowledge-project-podcast/outliers-munger-combs",
+      "title": "Charlie Munger's Interview with Todd Combs",
+      "link": "https://fs.blog/knowledge-project-podcast/outliers-munger-combs/",
+      "published": "2026-10-06T10:00:00Z",
+      "source": "The Knowledge Project",
+      "author": "Shane Parrish",
+      "lang": "en",
+      "tags": [
+        "深度访谈",
+        "决策方法"
+      ],
+      "type": "interview",
+      "raw_text": "I'm excited to share this previously unreleased 2022 conversation between Charlie Munger and Todd Combs. \n\n As with any Munger talk, the subjects are both deep and wide. I've pulled out the ideas that most resonated with me. You'll learn how Munger recognized people worth betting on, chose problems worth solving, and turned a long attention span into an unfair advantage.\n\n I also unpack one of Berkshire’s most under appreciated (and unnoticed) strengths: positioning themselves to master their circumstances rather than be mastered by them. \n\n A special thank you to the Singleton Foundation, Todd Combs, and William Thorndike for giving me the permission to share this with you. You can find a link to the full transcript here. \n\n -----\n\n Chapters:\n\n (00:00) Introduction\n\n (00:34) Singleton Prize for CEO Excellence\n\n (01:46) How Charlie Munger Thought About Exceptional People\n\n (03:00) Tom Murphy and Radical Delegation\n\n (03:25) The Wooden Lesson\n\n (05:22) Temperament Over IQ\n\n (06:50) The Dormitory Lesson\n\n (09:21) From Cigar Butts to Great Businesses\n\n (10:20) The 20-Punch Card\n\n (11:41) Booms, Busts, and Autocatalysis\n\n (13:18) Sowing vs. Reaping: The 1974–75 Crash\n\n (14:10) Positioning\n\n (15:55) Rockefeller's Lucky Break\n\n (17:21) Size Doesn't Matter\n\n (18:34) The Operating System for Life\n\n ------\n\n Newsletter: The Brain Food newsletter delivers actionable insights and thoughtful ideas every Sunday. It takes 5 minutes to read, and it’s completely free. Learn more and sign up at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠fs.blog/newsletter⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ \n\n ------\n\n Follow Shane Parrish: \n\n X: ⁠⁠⁠⁠⁠⁠ ⁠https://x.com/shaneparrish⁠⁠ \n\n Insta: ⁠⁠ https://www.instagram.com/farnamstreet/⁠⁠ \n\n LinkedIn: ⁠⁠https://www.linkedin.com/in/shane-parrish-050a2183/⁠⁠ \n\n -----\n\n Thank you to the sponsors for this episode: \n\n + See how Stripe can power what’s next for your business at stripe.com \n \n Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "fetched_at": "2026-10-06T15:57:50Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/the-great-accretion-and-the-great-depression.html",
+      "title": "The Great Accretion and the Great Depression",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/the-great-accretion-and-the-great-depression.html?utm_source=rss&utm_medium=rss&utm_campaign=the-great-accretion-and-the-great-depression",
+      "published": "2026-10-06T07:06:24Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "A very old idea, returning with a vengeance:\n\n The Second Industrial Revolution sparked a wave of new products and industrial processes, fueling an optimistic Roaring Twenties. But did excitement about technological progress contribute to an over accumulation of investment, despite a slowdown in new product development and satiated demand during the 1920s? And, was this over investment worsened by continuous process innovation? Could these factors have played a role in triggering the Great Depression? To explore these questions, a macroeconomic model that incorporates both process and product innovation is proposed. Proof-of-concept simulations are performed to assess whether these factors can help explain the Great Depression. The answer is yes.\n \n That is from a recent NBER working paper by Harold L. Cole , Stefano Cravero & Jeremy Greenwood . \n\n The post The Great Accretion and the Great Depression appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-06T15:57:45Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/rising-concentration-for-economics-awards.html",
       "title": "Rising concentration for economics awards",
@@ -17,6 +81,22 @@
       "type": "blog",
       "raw_text": "We analyze the academic affiliations of nearly 6,000 award-winning researchers in 18 major fields in the natural sciences, engineering, and social sciences from the 1820s to the 2020s, focusing on the 1960s onward. The analysis reveals a trend of declining concentration in the institutional affiliations of award-winning researchers, shifting from a few science-strong universities in high-income countries to a more diverse set of institutions across the world. The decline in concentration is observed in all fields except one: economics. The institutional affiliations of prizewinning economists have become more concentrated over time, making economics the most concentrated field. We associate the higher concentration of prizewinning work in economics with the field’s stronger sorting by institutional prestige, its lower reliance on specialized equipment and instruments, and its assessment of findings based on a synthesis of evidence rather than on decisive experiments or proofs. We discuss the benefits and costs of this high and rising institutional concentration of prizewinning economists.\n \n Here is more from Richard B. Freeman , Danxia Xie , Hanzhe Zhang & Hanzhang Zhou . Via Robin Hanson . \n\n The post Rising concentration for economics awards appeared first on Marginal REVOLUTION .",
       "fetched_at": "2026-10-06T06:22:05Z"
+    },
+    {
+      "id": "https://tomtunguz.com/how-to-automate-inbound",
+      "title": "How to Automate Inbound",
+      "link": "https://tomtunguz.com/how-to-automate-inbound/",
+      "published": "2026-10-06T00:00:00Z",
+      "source": "Tomasz Tunguz",
+      "author": "Tomasz Tunguz",
+      "lang": "en",
+      "tags": [
+        "SaaS",
+        "数据分析"
+      ],
+      "type": "blog",
+      "raw_text": "Jeanne DeWitt Grosser, COO of Vercel, joined me on Office Hours to walk through how she & her team actually built the agent that now runs the top of Vercel&rsquo;s sales funnel.\n\n It started with one engineer.\n\n Vercel founded a go-to-market engineering team & handed the problem to a single engineer spending roughly 20% of his time on it. The first version of the agent was a prompt of about 125 lines, written by the best SDR on the team, encoding Vercel&rsquo;s rules for qualification.\n\n &ldquo;We kicked it off in June, kept human in the loop from our top SDRs, & by August pulled the human out. So that was sort of what I think succeeded at first, was picking a problem that was reasonably deterministic & then throwing all of our unique context around how do you get the model to behave within Vercel&rsquo;s four walls.&rdquo;\n\n Then the SDR managed the agent like a new rep. For the first phase, the agent did everything except send messages. It researched, qualified, & drafted.\n\n &ldquo;I almost think about this the way you would think about a human QA. If I&rsquo;m its manager, I probably read 100% of that person&rsquo;s first hundred emails while I&rsquo;m teaching him or her the job. And that was our human in the loop phase on this. Then afterwards, I assume that person is now generally competent. And so maybe I do a simple random sample of like one out of every 100 outreaches they do.&rdquo;\n\n Six weeks of that produced a enough data & improvement to complete the effort. Rather than reviewing many posts, the effort shifted to sampling a few.\n\n The business grew & evolved. So did the prompt - to 1000 lines.\n\n Over the following year Vercel added product surface area & moved upmarket into enterprise, enticing a greater diversity of companies.\n\n &ldquo;The model actually won&rsquo;t always follow some of the rules that are embedded in that prompt. And again, there are a bunch of things in qualification & sales that are actually pretty deterministic. It&rsquo;s really a rule.&rdquo;\n\n The team divided the prompt into two parts : rules & judgment. Engineers encoded the rules & left the model the work that required judgment.\n\n Inbound now runs on 14 rules. When a lead arrives, the system performs a Salesforce lookup to determine whether there is an open opportunity associated with the account, & if so, routes it to the account executive.\n\n &ldquo;The model shouldn&rsquo;t get to decide, we just want that to occur. So now actually, our inbound is 14 rules. And we&rsquo;re really only using the model for thinking exactly where a human would have thought previously.&rdquo;\n\n This is the same pattern I found in 14 production agent workflows & wrote about in Is AI Doing Less & Less? . 65% of the nodes in those workflows run as pure code, & only 14% remain fully agentic.\n\n Because the rules are explicit, Vercel runs a second agent that watches for breaches. When the system breaks one of the 14 rules, the escalation agent determines whether the breach should have occurred & fixes it or blesses the exception.\n\n The team changed, too. The SDR team all received promotions to outbound, skipping the customary year.\n\n &ldquo;The value of humans is talking to humans. And so the more that I can get folks out of email marketing & back into having a conversation, the more value I think we&rsquo;ll get out of the BDR function.&rdquo;\n\n Jeanne provides the clearest template yet for the future of inbound, running the entire function for a unicorn for about $1,000 per year in inference & infrastructure.\n\n Apple Podcasts | YouTube",
+      "fetched_at": "2026-10-06T15:57:45Z"
     },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-580.html",
