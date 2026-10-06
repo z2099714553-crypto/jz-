@@ -112,37 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-05 22:01 UTC*
+*更新于 2026-10-06 06:22 UTC*
+
+**[Rising concentration for economics awards](https://marginalrevolution.com/marginalrevolution/2026/10/rising-concentration-for-economics-awards.html?utm_source=rss&utm_medium=rss&utm_campaign=rising-concentration-for-economics-awards)**  
+`Tyler Cowen` · 1 小时前  
 
 **[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-580)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[“Authenticity is exactly the same as phoniness.”](https://marginalrevolution.com/marginalrevolution/2026/10/authenticity-is-exactly-the-same-as-phoniness.html?utm_source=rss&utm_medium=rss&utm_campaign=authenticity-is-exactly-the-same-as-phoniness)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 14 小时前  
 
 **[🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap](https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how)**  
-`Lenny Rachitsky` · 6 小时前  
+`Lenny Rachitsky` · 15 小时前  
 
 **[How OpenAI uses ChatGPT Sites (live at DevDay!) \| Kath Korevec (Product Lead)](https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live)**  
-`Lenny Rachitsky` · 9 小时前  
+`Lenny Rachitsky` · 18 小时前  
 
 **[The Greg Clark Symposium](https://marginalrevolution.com/marginalrevolution/2026/10/the-greg-clark-symposium.html?utm_source=rss&utm_medium=rss&utm_campaign=the-greg-clark-symposium)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 19 小时前  
 
 **[Apple and a Hacker’s Future](https://stratechery.com/2026/apple-and-a-hackers-future/)**  
-`Ben Thompson` · 12 小时前  
+`Ben Thompson` · 20 小时前  
 
 **[20VC: Is Seed Investing Dead Without a $1BN Fund? \| Does Ownership and Price Matter When Companies Can Be $1TRN Exits \| Are AI Revenue Numbers Real and What to Watch Out For with Venky Ganesan, Menlo Ventures](https://thetwentyminutevc.libsyn.com/20vc-is-seed-investing-dead-without-a-1bn-fund-does-ownership-and-price-matter-when-companies-can-be-1trn-exits-are-ai-revenue-numbers-real-and-what-to-watch-out-for-with-venky-ganesan-menlo-ventures)**  
-`Harry Stebbings` · 14 小时前  
+`Harry Stebbings` · 23 小时前  
 
 **[China fact of the day](https://marginalrevolution.com/marginalrevolution/2026/10/china-fact-of-the-day-82.html?utm_source=rss&utm_medium=rss&utm_campaign=china-fact-of-the-day-82)**  
-`Tyler Cowen` · 15 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[Crime in Covid Times](https://marginalrevolution.com/marginalrevolution/2026/10/crime-in-covid-times.html?utm_source=rss&utm_medium=rss&utm_campaign=crime-in-covid-times)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Inference Is the Most Important Market in Software](https://tomtunguz.com/inference-is-the-most-important-market-in-software/)**  
-`Tomasz Tunguz` · 22 小时前  
+`Tomasz Tunguz` · 1 天前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-585)**  
 `Tyler Cowen` · 1 天前  
@@ -154,9 +157,6 @@ open docs/index.html
 `Lenny Rachitsky` · 1 天前  
 
 **[Does Costco Cause Cancer?](https://marginalrevolution.com/marginalrevolution/2026/10/does-costco-cause-cancer.html?utm_source=rss&utm_medium=rss&utm_campaign=does-costco-cause-cancer)**  
-`Tyler Cowen` · 1 天前  
-
-**[Marital sorting by class and race](https://marginalrevolution.com/marginalrevolution/2026/10/marital-sorting-by-class-and-race.html?utm_source=rss&utm_medium=rss&utm_campaign=marital-sorting-by-class-and-race)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
