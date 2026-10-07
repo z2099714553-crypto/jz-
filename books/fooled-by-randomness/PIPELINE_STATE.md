@@ -9,9 +9,9 @@
 
 | 阶段 | 状态 | 产出 |
 |---|---|---|
-| 0 整书理解 | 已完成，待用户确认 | BOOK_OVERVIEW.md |
-| 1 并行提取 | 未开始 | candidates/ |
-| 1.5 三重验证 | 未开始 | verified.md、coverage-audit.md |
+| 0 整书理解 | 已完成，用户已确认（重点：投资、职业选择、日常决策） | BOOK_OVERVIEW.md |
+| 1 并行提取 | 已完成 | candidates/（约 396 条）|
+| 1.5 三重验证 | 已完成，待用户轻确认 | verified.md、coverage-audit.md |
 | 1.6 晋级门 | 未开始 | destinations |
 | 2 能力卡 | 未开始 | cards/ |
 | 3 链接 | 未开始 | GLOSSARY.md |
