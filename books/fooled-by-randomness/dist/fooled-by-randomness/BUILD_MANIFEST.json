@@ -1,0 +1,45 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "SKILL.md": "d8816d92f54d881326251ac4b42cd522db4cf354899c2a33fb6561226acc3bcc",
+    "references/capabilities/adverse-selection.md": "1c1870c042402ce7e64ea7e33cc763e01d9df28029d49057a564173c4698864f",
+    "references/capabilities/alternative-histories.md": "02c5cd38885d1bcc9a8fd2251d1b151044a1fa5b4401ef182a9d36a27cd58646",
+    "references/capabilities/coin-flip-deadlock.md": "891794f07ccf4c659343ea3d776f9840474b306a5a3a43708cfb39960e9d4635",
+    "references/capabilities/dignity-under-bad-luck.md": "1b6926c86405f2a0b4860e3cb5b2189041464d568840c2f7fd7452e79a73dec9",
+    "references/capabilities/expected-value.md": "949da9d6cda3bee097372b8f198aebe7d78d525cf51db5a9415ad418b5d9b02f",
+    "references/capabilities/falsify-and-stop.md": "06a6d8b94a62d4a8f04d14f581ae1f44b418d4fe48f6905c10c30e49d6ded418",
+    "references/capabilities/hidden-tail-risk.md": "d0222f17a7034169391b5e0e53821bbae6149a618a04725897258e3ca1675fb0",
+    "references/capabilities/information-diet.md": "41177d2518fa005a372e14fb6b1fb9c13b3d67558a49b59709930471e2dd9a86",
+    "references/capabilities/luck-vs-skill.md": "ee06cf739ed1bb307da24a8e8c5b49e67dbe4c7e52a30d98f6205ba0bc2d6e35",
+    "references/capabilities/probability-blindness.md": "878ac70cbbf3092766c1ea53af39e4319ce9ffe8d4e5d08cd3be524e0b7508a3",
+    "references/capabilities/rebuy-test.md": "32cc9cfb024570bfd88f7ae68b0d074b7d56f389d9cdbf91470f18eb7d938c2e",
+    "references/capabilities/ruin-first.md": "39fad5006eeca71a649f101e709fa7146d063738b6d4b3f3bfcb6f9025421818",
+    "references/capabilities/survivorship-audit.md": "eae0ff33d3df005397fe09e82922d8d95bb23f7ac437581189ae8fabefae6c50",
+    "references/capabilities/wax-in-ears.md": "0cbcad2ab41ae44b22f22cc200e397a4d2961fea361259676cdfc98081693a8c",
+    "references/capability-index.md": "b87b61936f8cfadbb2f453ac13b9705ffb76f73fc76c32b733a2d20845b250cd",
+    "references/cheatsheet.md": "1995536c47adac8f24406314064c8532aa53711104dac4a78df3c2a74c2a2053",
+    "references/glossary.md": "ba8290a5c38ffd5776eaa09b7d3a3837dacd9f4d8a9f3cfa916cd92ed7050437",
+    "references/overview.md": "dfd91f14c5199bcd882780adde7a43b03f9450a77b5dfe997f7c173fb06585c8",
+    "resources/noise_ratio.py": "e82a1846f3f70198c9a06fe0214ea2a3d8a39abb9040f461a35b4076e11d8816"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "bundle_id": "bundle.fooled-by-randomness",
+  "bundle_sha256": "83dca6436233f76fb0d05e131d0fd85c4bdc748a8ea0ef85d1fa66644a4d4518",
+  "variant": "single",
+  "run_id": "run-20261007-144459-ce9e33",
+  "decision": {
+    "schema_version": 1,
+    "requested": "single",
+    "selected": "single",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 8,
+    "promoted_count": 0,
+    "capability_count": 14,
+    "reasons": [
+      "用户显式选择 single，auto 决策器不覆盖用户选择"
+    ],
+    "alternative": "compact pack（1 个来源路由入口 + 0 个晋级 Skill，共 1 个可发现入口）",
+    "user_confirmed": true,
+    "preserve_strategy_on_update": true
+  }
+}

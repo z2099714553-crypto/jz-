@@ -1,0 +1,6 @@
+  skill: .staging-run-20261007-144459-ce9e33-fooled-by-randomness   72 行    7343 字节
+
+共扫描 19 个 .md，其中 1 个 SKILL.md
+WARN  [name-dir] /home/user/jz-/books/fooled-by-randomness/dist/.staging-run-20261007-144459-ce9e33-fooled-by-randomness/SKILL.md: name `fooled-by-randomness` 与目录名 `.staging-run-20261007-144459-ce9e33-fooled-by-randomness` 不一致
+
+结果: 0 errors, 1 warnings
