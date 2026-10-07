@@ -112,31 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-07 13:25 UTC*
+*更新于 2026-10-07 20:38 UTC*
+
+**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-574)**  
+`Tyler Cowen` · 2 小时前  
 
 **[Against Laissez-Faire Democracy](https://marginalrevolution.com/marginalrevolution/2026/10/against-laissez-faire-democracy.html?utm_source=rss&utm_medium=rss&utm_campaign=against-laissez-faire-democracy)**  
-`Tyler Cowen` · 2 小时前  
+`Tyler Cowen` · 9 小时前  
 
 **[Texas-Canada Fact of the Day](https://marginalrevolution.com/marginalrevolution/2026/10/texas-canada-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=texas-canada-fact-of-the-day)**  
-`Tyler Cowen` · 2 小时前  
+`Tyler Cowen` · 9 小时前  
 
 **[Apple and LG, The House For Everyone Else, Agent Standards and Amazon](https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/)**  
-`Ben Thompson` · 3 小时前  
+`Ben Thompson` · 10 小时前  
 
 **[Why most stereotypes are negative](https://marginalrevolution.com/marginalrevolution/2026/10/why-most-stereotypes-are-negative.html?utm_source=rss&utm_medium=rss&utm_campaign=why-most-stereotypes-are-negative)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 13 小时前  
 
 **[Effective altruism is useful at the margin](https://marginalrevolution.com/marginalrevolution/2026/10/effective-altruism-is-useful-at-the-margin.html?utm_source=rss&utm_medium=rss&utm_campaign=effective-altruism-is-useful-at-the-margin)**  
-`Tyler Cowen` · 8 小时前  
+`Tyler Cowen` · 15 小时前  
 
 **[Does intelligence need a hard cap?](https://www.platformer.news/does-intelligence-need-a-hard-cap/)**  
-`Casey Newton` · 13 小时前  
+`Casey Newton` · 20 小时前  
+
+**[A Change in AI Strategy](https://tomtunguz.com/what-if-the-models-are-commoditized/)**  
+`Tomasz Tunguz` · 20 小时前  
 
 **[Brazil election notes (from my email)](https://marginalrevolution.com/marginalrevolution/2026/10/brazil-election-notes-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=brazil-election-notes-from-my-email)**  
-`Tyler Cowen` · 14 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-589)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Paul Graham Versus the Pope](https://marginalrevolution.com/marginalrevolution/2026/10/the-pope-v-graham.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pope-v-graham)**  
 `Tyler Cowen` · 1 天前  
@@ -151,12 +157,6 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[Rising concentration for economics awards](https://marginalrevolution.com/marginalrevolution/2026/10/rising-concentration-for-economics-awards.html?utm_source=rss&utm_medium=rss&utm_campaign=rising-concentration-for-economics-awards)**  
-`Tyler Cowen` · 1 天前  
-
-**[How to Automate Inbound](https://tomtunguz.com/how-to-automate-inbound/)**  
-`Tomasz Tunguz` · 1 天前  
-
-**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-580)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
