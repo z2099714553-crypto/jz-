@@ -1,0 +1,748 @@
+schema_version: 1
+bundle_id: bundle.fooled-by-randomness
+book:
+  title: 《随机漫步的傻瓜》(Fooled by Randomness)
+  author: 纳西姆·尼古拉斯·塔勒布（中译本，中信出版社）
+  source_pack: books/fooled-by-randomness
+entry:
+  name: fooled-by-randomness
+  description: '当用户询问《随机漫步的傻瓜》(Fooled by Randomness, 塔勒布) 相关内容，或在以下场景需要判断运气与风险时调用:
+
+    投资(这收益是运气还是能力/胜率与期望值/杠杆与爆仓/稳定高收益是否藏雷/基金榜单与回测/推销产品/止损与被套/看盘焦虑)、
+
+    职业选择(复盘当初的选择/跟成功前辈学什么/该不该跳槽或坚持/同辈攀比)、日常决策(概率与检测结果/新闻统计/冲动控制/选择困难/逆境自处)。
+
+    不适用于: 具体标的买卖建议与价格预测、税务法律医疗诊断、心理危机干预。
+
+    Triggers: 随机漫步的傻瓜/塔勒布/Taleb/运气还是能力/幸存者偏差/黑天鹅/期望值/止损/爆仓/Fooled by Randomness'
+  core_principles:
+  - 成功先默认放进'运气'栏：行业随机成分越大、参与者越多，纯运气造出的明星越多。
+  - 评价决定看所有可能的历史，不看实际发生的那一条；同样的钱有不同的'质量'。
+  - 失败代价承受不起时，成功概率多高都无关紧要；生存优先于收益。
+  - 看期望值（概率×结果）不看胜率；长期平稳的高收益可能藏着一次清零。
+  - 数据只用来否证不用来证实：下注前写好'我错了的信号'，到点认错，敢于改主意。
+  - 看得越勤看到的越是噪声；人脑天生概率盲，靠环境设计而非意志力自保，厄运中守住举止。
+  out_of_scope:
+  - 具体股票/基金/币种的买卖建议、价格或点位预测
+  - 税务、法律、医疗诊断与治疗决定（只做概率思维辅助，结论交给专业人士）
+  - 心理危机、自伤风险（先求助专业人士或紧急热线）
+  stop_conditions:
+  - 意图在路由表与能力索引中均无法命中 → 明确告知超出本书范围，不硬套书中框架。
+  - 用户要求直接给出买卖指令或收益承诺 → 停止，改为提供检查框架并说明不构成投资建议。
+  - 涉及医疗/法律/人身安全 → 停止套用方法论，建议专业求助。
+  - 纯事实查询（书名/作者/章节/术语）→ 用核心原则、overview 与 glossary 回答后即停。
+router_entry:
+  name: fooled-by-randomness
+  description: '当用户询问《随机漫步的傻瓜》(Fooled by Randomness, 塔勒布) 相关内容，或在以下场景需要判断运气与风险时调用:
+
+    投资(这收益是运气还是能力/胜率与期望值/杠杆与爆仓/稳定高收益是否藏雷/基金榜单与回测/推销产品/止损与被套/看盘焦虑)、
+
+    职业选择(复盘当初的选择/跟成功前辈学什么/该不该跳槽或坚持/同辈攀比)、日常决策(概率与检测结果/新闻统计/冲动控制/选择困难/逆境自处)。
+
+    不适用于: 具体标的买卖建议与价格预测、税务法律医疗诊断、心理危机干预。
+
+    Triggers: 随机漫步的傻瓜/塔勒布/Taleb/运气还是能力/幸存者偏差/黑天鹅/期望值/止损/爆仓/Fooled by Randomness'
+promotion_budget: 8
+capabilities:
+- capability_id: cap.fooled-by-randomness.luck-vs-skill
+  revision: 1
+  status: active
+  aliases: []
+  supersedes: []
+  merged_into: null
+  split_into: []
+  slug: luck-vs-skill
+  title: 这份成功有多少是运气
+  importance: critical
+  importance_rationale: T01+T13；全书主题（前言混为一谈表），第1/2/5/9/10章反复展开，DIGEST 首章
+  one_liner: 成功默认先放'运气'栏：问行业随机成分多大、参与者有多少、此刻赢家是否只是最适合上一轮行情。
+  intents:
+  - 这人/这基金/这个创业者是真有本事还是运气好
+  - 我最近赚钱了，是不是找到方法了
+  - 要不要跟某个高手/大V/成功前辈学
+  - 成功人士的建议靠不靠谱
+  keywords:
+  - 运气
+  - 能力
+  - 实力
+  - 高手
+  - 大V
+  - 跟投
+  - 成功经验
+  - luck vs skill
+  - lucky fool
+  also_read:
+  - survivorship-audit
+  - alternative-histories
+  card: cards/luck-vs-skill.md
+  frontmatter:
+    description: '当用户这人/这基金/这个创业者是真有本事还是运气好、我最近赚钱了，是不是找到方法了等情境时调用。核心: 成功默认先放''运气''栏：问行业随机成分多大、参与者有多少、此刻赢家是否只是最适合上一轮行情。
+
+      Triggers: 运气/能力/实力/高手/大V/跟投/成功经验/luck vs skill/lucky fool'
+    tags:
+    - luck
+    - attribution
+  source_evidence:
+  - source_id: src-main-book
+    location: 前言；第1、2、5、9、10章
+  promotion:
+    destination: router
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: true
+    notes: 用户选择 single 单一入口：所有能力保留为同一入口内的能力卡，不单独晋级。
+- capability_id: cap.fooled-by-randomness.alternative-histories
+  revision: 1
+  status: active
+  aliases: []
+  supersedes: []
+  merged_into: null
+  split_into: []
+  slug: alternative-histories
+  title: 按过程而非结果评价决策
+  importance: critical
+  importance_rationale: T02；第2章'奇特的结算方法'整章与第3章蒙特卡罗思维，作者称以成败论英雄是最常见错误
+  one_liner: 评价一个决定要看当时所有可能的走向及其代价，不看实际发生的那一条。
+  intents:
+  - 复盘一个决策到底对不对
+  - 当初选错了吗/后悔
+  - 别人赚了我没赚是不是我错了
+  - 评价下属/自己的表现
+  keywords:
+  - 复盘
+  - 后悔
+  - 选错了
+  - 早知道
+  - 结果导向
+  - 决策质量
+  - hindsight
+  - outcome bias
+  - resulting
+  also_read:
+  - luck-vs-skill
+  - ruin-first
+  card: cards/alternative-histories.md
+  frontmatter:
+    description: '当用户复盘一个决策到底对不对、当初选错了吗/后悔等情境时调用。核心: 评价一个决定要看当时所有可能的走向及其代价，不看实际发生的那一条。
+
+      Triggers: 复盘/后悔/选错了/早知道/结果导向/决策质量/hindsight/outcome bias/resulting'
+    tags:
+    - decision
+    - review
+  source_evidence:
+  - source_id: src-main-book
+    location: 第1章末、第2章、第3章
+  promotion:
+    destination: router
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: true
+    notes: 用户选择 single 单一入口：所有能力保留为同一入口内的能力卡，不单独晋级。
+- capability_id: cap.fooled-by-randomness.ruin-first
+  revision: 1
+  status: active
+  aliases: []
+  supersedes: []
+  merged_into: null
+  split_into: []
+  slug: ruin-first
+  title: 先问失败能否承受（防炸毁）
+  importance: critical
+  importance_rationale: T03；第一篇引子'偏态'原则 + 第1章塔利波纪律 + 第5章炸毁案例 + 后记，作者存活的核心
+  one_liner: 失败代价承受不起时，成功概率多高都无关紧要：先封顶最坏结果，再谈收益。
+  intents:
+  - 要不要加杠杆/借钱投资/梭哈
+  - 胜率很高但输了会很惨的机会
+  - 辞职创业/All in 一份工作
+  - 高风险但'不会出事'的日常行为
+  keywords:
+  - 杠杆
+  - 梭哈
+  - all in
+  - 爆仓
+  - 借钱投资
+  - 最坏情况
+  - 输得起吗
+  - risk of ruin
+  - blow up
+  also_read:
+  - expected-value
+  - hidden-tail-risk
+  card: cards/ruin-first.md
+  frontmatter:
+    description: '当用户要不要加杠杆/借钱投资/梭哈、胜率很高但输了会很惨的机会等情境时调用。核心: 失败代价承受不起时，成功概率多高都无关紧要：先封顶最坏结果，再谈收益。
+
+      Triggers: 杠杆/梭哈/all in/爆仓/借钱投资/最坏情况/输得起吗/risk of ruin/blow up'
+    tags:
+    - risk
+    - ruin
+  source_evidence:
+  - source_id: src-main-book
+    location: 第一篇引子；第1、2、3、5章；后记
+  promotion:
+    destination: router
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: true
+    notes: 用户选择 single 单一入口：所有能力保留为同一入口内的能力卡，不单独晋级。
+- capability_id: cap.fooled-by-randomness.expected-value
+  revision: 1
+  status: active
+  aliases: []
+  supersedes: []
+  merged_into: null
+  split_into: []
+  slug: expected-value
+  title: 看期望值不看胜率
+  importance: high
+  importance_rationale: T04；第6章'偏态与不对称'与第11章期权例题给出可复算公式
+  one_liner: 期望值=Σ概率×结果；胜率高不等于值得做，看涨也可以做空，常小亏偶大赚可以是好赌注。
+  intents:
+  - 胜率很高的产品/策略值不值得做
+  - 这个机会赚的概率大不大
+  - 看多还是看空
+  - 怎么设计一个不对称的下注/职业选择
+  keywords:
+  - 胜率
+  - 期望值
+  - 赔率
+  - 看涨
+  - 看跌
+  - 概率多大
+  - 不对称
+  - expected value
+  - odds
+  - asymmetric bet
+  also_read:
+  - ruin-first
+  - hidden-tail-risk
+  card: cards/expected-value.md
+  frontmatter:
+    description: '当用户胜率很高的产品/策略值不值得做、这个机会赚的概率大不大等情境时调用。核心: 期望值=Σ概率×结果；胜率高不等于值得做，看涨也可以做空，常小亏偶大赚可以是好赌注。
+
+      Triggers: 胜率/期望值/赔率/看涨/看跌/概率多大/不对称/expected value/odds/asymmetric bet'
+    tags:
+    - calculation
+    - asymmetry
+  source_evidence:
+  - source_id: src-main-book
+    location: 第6章、第11章
+  promotion:
+    destination: router
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: true
+    notes: 用户选择 single 单一入口：所有能力保留为同一入口内的能力卡，不单独晋级。
+- capability_id: cap.fooled-by-randomness.hidden-tail-risk
+  revision: 1
+  status: active
+  aliases: []
+  supersedes: []
+  merged_into: null
+  split_into: []
+  slug: hidden-tail-risk
+  title: '''稳定高收益''的隐藏尾部风险诊断'
+  importance: high
+  importance_rationale: T05；第1章'在铁轨上打盹'、第5章约翰炸毁、第6章比索问题，是书中最典型的炸毁结构
+  one_liner: 长期平滑的高收益先当作把风险藏到地毯下：查收益来源、宽历史、平仓踩踏。
+  intents:
+  - 某产品/私募/策略一直很稳、几乎不回撤
+  - 年化很高还没亏过
+  - 收益像存款一样稳却比存款高很多
+  - 一个一直很安稳的工作或行业
+  keywords:
+  - 稳赚
+  - 没回撤
+  - 保本高息
+  - 固收+
+  - 卖期权
+  - 利差
+  - 暴雷
+  - tail risk
+  - picking up pennies
+  - peso problem
+  also_read:
+  - expected-value
+  - survivorship-audit
+  card: cards/hidden-tail-risk.md
+  frontmatter:
+    description: '当用户某产品/私募/策略一直很稳、几乎不回撤、年化很高还没亏过等情境时调用。核心: 长期平滑的高收益先当作把风险藏到地毯下：查收益来源、宽历史、平仓踩踏。
+
+      Triggers: 稳赚/没回撤/保本高息/固收+/卖期权/利差/暴雷/tail risk/picking up pennies/peso problem'
+    tags:
+    - risk
+    - troubleshooting
+  source_evidence:
+  - source_id: src-main-book
+    location: 第1、5、6章
+  promotion:
+    destination: router
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: true
+    notes: 用户选择 single 单一入口：所有能力保留为同一入口内的能力卡，不单独晋级。
+- capability_id: cap.fooled-by-randomness.survivorship-audit
+  revision: 1
+  status: active
+  aliases: []
+  supersedes: []
+  merged_into: null
+  split_into: []
+  slug: survivorship-audit
+  title: 存活者偏差审计
+  importance: critical
+  importance_rationale: T06；第二篇主题（第8、9章），作者给出可复算的一万名经理人模拟
+  one_liner: 先算纯运气能产出多少'明星'（N×p^k），再看样本是否只剩活下来的人。
+  intents:
+  - 基金榜单/冠军经理可信吗
+  - 成功学/创业故事/学长经验能不能学
+  - 回测效果很好的策略
+  - 某个行业'人人都赚钱'
+  keywords:
+  - 榜单
+  - 冠军
+  - 回测
+  - 成功案例
+  - 幸存者偏差
+  - 存活者偏差
+  - 都赚了
+  - survivorship bias
+  - backtest
+  also_read:
+  - luck-vs-skill
+  - adverse-selection
+  card: cards/survivorship-audit.md
+  frontmatter:
+    description: '当用户基金榜单/冠军经理可信吗、成功学/创业故事/学长经验能不能学等情境时调用。核心: 先算纯运气能产出多少''明星''（N×p^k），再看样本是否只剩活下来的人。
+
+      Triggers: 榜单/冠军/回测/成功案例/幸存者偏差/存活者偏差/都赚了/survivorship bias/backtest'
+    tags:
+    - statistics
+    - bias
+  source_evidence:
+  - source_id: src-main-book
+    location: 第二篇开头；第8、9章
+  promotion:
+    destination: router
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: true
+    notes: 用户选择 single 单一入口：所有能力保留为同一入口内的能力卡，不单独晋级。
+- capability_id: cap.fooled-by-randomness.adverse-selection
+  revision: 1
+  status: active
+  aliases: []
+  supersedes: []
+  merged_into: null
+  split_into: []
+  slug: adverse-selection
+  title: 主动上门的机会：逆向选择检查
+  importance: medium
+  importance_rationale: T14；第9章网球赛广告与神秘信件，投资推销与猎头邀约的高频场景
+  one_liner: 找上门的业绩是被挑出来给你看的：提高标准，要全部样本，问过程不问数字。
+  intents:
+  - 客户经理/理财顾问推荐产品
+  - 荐股群/老师带单
+  - 猎头/朋友介绍'好机会'
+  - 广告里的亮眼收益
+  keywords:
+  - 推荐
+  - 带单
+  - 荐股
+  - 理财经理
+  - 猎头
+  - 广告收益
+  - 内部消息
+  - cold call
+  - adverse selection
+  also_read:
+  - survivorship-audit
+  - luck-vs-skill
+  card: cards/adverse-selection.md
+  frontmatter:
+    description: '当用户客户经理/理财顾问推荐产品、荐股群/老师带单等情境时调用。核心: 找上门的业绩是被挑出来给你看的：提高标准，要全部样本，问过程不问数字。
+
+      Triggers: 推荐/带单/荐股/理财经理/猎头/广告收益/内部消息/cold call/adverse selection'
+    tags:
+    - bias
+    - sales
+  source_evidence:
+  - source_id: src-main-book
+    location: 第9章
+  promotion:
+    destination: router
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: true
+    notes: 用户选择 single 单一入口：所有能力保留为同一入口内的能力卡，不单独晋级。
+- capability_id: cap.fooled-by-randomness.falsify-and-stop
+  revision: 1
+  status: active
+  aliases: []
+  supersedes: []
+  merged_into: null
+  split_into: []
+  slug: falsify-and-stop
+  title: 下注前写证伪条件与止损
+  importance: high
+  importance_rationale: T07；第7章帕斯卡式统计使用与天真否证论，作者称所认识存活的交易员几乎都事先设定止损
+  one_liner: 进场前写下'什么情况说明我错了'和出场动作；用数据否证，不用数据证实。
+  intents:
+  - 准备买入/建仓
+  - 开始一个新项目/新工作/副业
+  - 坚信某个判断
+  - 亏了要不要再等等
+  keywords:
+  - 止损
+  - 建仓
+  - 买入
+  - 我看好
+  - 证伪
+  - 出场
+  - 等回本
+  - stop loss
+  - falsifiable
+  - exit plan
+  also_read:
+  - rebuy-test
+  - ruin-first
+  card: cards/falsify-and-stop.md
+  frontmatter:
+    description: '当用户准备买入/建仓、开始一个新项目/新工作/副业等情境时调用。核心: 进场前写下''什么情况说明我错了''和出场动作；用数据否证，不用数据证实。
+
+      Triggers: 止损/建仓/买入/我看好/证伪/出场/等回本/stop loss/falsifiable/exit plan'
+    tags:
+    - procedure
+    - risk
+  source_evidence:
+  - source_id: src-main-book
+    location: 第5、7、13章
+  promotion:
+    destination: router
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: true
+    notes: 用户选择 single 单一入口：所有能力保留为同一入口内的能力卡，不单独晋级。
+- capability_id: cap.fooled-by-randomness.information-diet
+  revision: 1
+  status: active
+  aliases: []
+  supersedes: []
+  merged_into: null
+  split_into: []
+  slug: information-diet
+  title: 降低查看频率与信息节食
+  importance: high
+  importance_rationale: T08；第3章退休牙医给出可复算数值，第11、12章补充噪声过滤与门槛式查看
+  one_liner: 看得越勤，看到的越是噪声：用 Φ((μ/σ)√Δt) 算出每个频率'看到赚钱'的概率，再定查看频率和信息源。
+  intents:
+  - 每天看盘/看账户很焦虑
+  - 新闻和群消息太多
+  - 频繁查看绩效/KPI/体重等指标
+  - 该看哪些信息源
+  keywords:
+  - 看盘
+  - 盯盘
+  - 焦虑
+  - 新闻
+  - 信息过载
+  - 多久看一次
+  - noise
+  - check frequency
+  - information diet
+  also_read:
+  - wax-in-ears
+  - probability-blindness
+  card: cards/information-diet.md
+  frontmatter:
+    description: '当用户每天看盘/看账户很焦虑、新闻和群消息太多等情境时调用。核心: 看得越勤，看到的越是噪声：用 Φ((μ/σ)√Δt) 算出每个频率''看到赚钱''的概率，再定查看频率和信息源。
+
+      Triggers: 看盘/盯盘/焦虑/新闻/信息过载/多久看一次/noise/check frequency/information diet'
+    tags:
+    - noise
+    - calculation
+  source_evidence:
+  - source_id: src-main-book
+    location: 第3、11、12章
+  promotion:
+    destination: router
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: true
+    notes: 用户选择 single 单一入口：所有能力保留为同一入口内的能力卡，不单独晋级。
+  resources:
+  - resources/noise_ratio.py
+- capability_id: cap.fooled-by-randomness.probability-blindness
+  revision: 1
+  status: active
+  aliases: []
+  supersedes: []
+  merged_into: null
+  split_into: []
+  slug: probability-blindness
+  title: 概率直觉纠错
+  importance: high
+  importance_rationale: T09；第11章'我们是概率盲'整章例题（含 1/51），第9章证词与基础率
+  one_liner: 遇到概率判断，逐项查基础率、条件、联合、显著性、误差区间，再下结论。
+  intents:
+  - 体检/检测阳性怎么看
+  - 某指标/信号准确率很高
+  - 新闻里的统计结论
+  - 一个预测给出的单一数字
+  keywords:
+  - 概率
+  - 准确率
+  - 阳性
+  - 基础率
+  - 显著
+  - 相关
+  - 因果
+  - 误差
+  - base rate
+  - conditional probability
+  also_read:
+  - information-diet
+  - expected-value
+  card: cards/probability-blindness.md
+  frontmatter:
+    description: '当用户体检/检测阳性怎么看、某指标/信号准确率很高等情境时调用。核心: 遇到概率判断，逐项查基础率、条件、联合、显著性、误差区间，再下结论。
+
+      Triggers: 概率/准确率/阳性/基础率/显著/相关/因果/误差/base rate/conditional probability'
+    tags:
+    - probability
+    - checklist
+  source_evidence:
+  - source_id: src-main-book
+    location: 第9、11章
+  promotion:
+    destination: router
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: true
+    notes: 用户选择 single 单一入口：所有能力保留为同一入口内的能力卡，不单独晋级。
+- capability_id: cap.fooled-by-randomness.rebuy-test
+  revision: 1
+  status: active
+  aliases: []
+  supersedes: []
+  merged_into: null
+  split_into: []
+  slug: rebuy-test
+  title: 重新买入测试：敢于改主意
+  importance: high
+  importance_rationale: T10；第13章路径依赖信念测试与第5章'市场傻瓜'六项特质，作者存活的另一纪律
+  one_liner: 问：如果今天没有它，我会按现价重新买入/重新选择吗？不会，就是在死守。
+  intents:
+  - 被套了要不要继续拿
+  - 工作/项目做了很久不想放弃
+  - 坚持了很久的观点被证据挑战
+  - 亏损后改口说是长期投资
+  keywords:
+  - 被套
+  - 回本
+  - 沉没成本
+  - 放不下
+  - 坚持还是放弃
+  - 改主意
+  - sunk cost
+  - change my mind
+  - rebuy test
+  also_read:
+  - falsify-and-stop
+  - alternative-histories
+  card: cards/rebuy-test.md
+  frontmatter:
+    description: '当用户被套了要不要继续拿、工作/项目做了很久不想放弃等情境时调用。核心: 问：如果今天没有它，我会按现价重新买入/重新选择吗？不会，就是在死守。
+
+      Triggers: 被套/回本/沉没成本/放不下/坚持还是放弃/改主意/sunk cost/change my mind/rebuy test'
+    tags:
+    - belief
+    - procedure
+  source_evidence:
+  - source_id: src-main-book
+    location: 第5、13章
+  promotion:
+    destination: router
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: true
+    notes: 用户选择 single 单一入口：所有能力保留为同一入口内的能力卡，不单独晋级。
+- capability_id: cap.fooled-by-randomness.wax-in-ears
+  revision: 1
+  status: active
+  aliases: []
+  supersedes: []
+  merged_into: null
+  split_into: []
+  slug: wax-in-ears
+  title: 塞蜡：用环境设计替代意志力
+  importance: high
+  importance_rationale: T11；第三篇开篇奥德修斯与第12章斯金纳鸽子，作者明言靠窍门而非理性
+  one_liner: 承认改不了本性，就改环境：切断刺激源、加摩擦、换参照群体。
+  intents:
+  - 知道不该但忍不住（交易、消费、刷手机）
+  - 被同龄人/邻居比较搞得焦虑
+  - 总觉得自己有某种好运仪式
+  - 情绪影响决策
+  keywords:
+  - 忍不住
+  - 管不住自己
+  - 自律
+  - 攀比
+  - 焦虑
+  - 冲动
+  - 迷信
+  - willpower
+  - temptation
+  - environment design
+  also_read:
+  - information-diet
+  - dignity-under-bad-luck
+  card: cards/wax-in-ears.md
+  frontmatter:
+    description: '当用户知道不该但忍不住（交易、消费、刷手机）、被同龄人/邻居比较搞得焦虑等情境时调用。核心: 承认改不了本性，就改环境：切断刺激源、加摩擦、换参照群体。
+
+      Triggers: 忍不住/管不住自己/自律/攀比/焦虑/冲动/迷信/willpower/temptation/environment design'
+    tags:
+    - behavior
+    - environment
+  source_evidence:
+  - source_id: src-main-book
+    location: 第1、8、12章；第三篇开头
+  promotion:
+    destination: router
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: true
+    notes: 用户选择 single 单一入口：所有能力保留为同一入口内的能力卡，不单独晋级。
+- capability_id: cap.fooled-by-randomness.dignity-under-bad-luck
+  revision: 1
+  status: active
+  aliases: []
+  supersedes: []
+  merged_into: null
+  split_into: []
+  slug: dignity-under-bad-luck
+  title: 厄运中只控制自己的举止
+  importance: medium
+  importance_rationale: T12；第14章'掌控随机现象'为全书落点，给出行为清单
+  one_liner: 随机性是最后的裁判，你能控制的只有自己的举止：不怪罪、不自怜、照常体面。
+  intents:
+  - 亏钱/被裁/失败后很想发泄
+  - 遭遇不公平的坏运气
+  - 怎么体面地面对挫折
+  keywords:
+  - 倒霉
+  - 失败
+  - 被裁
+  - 亏惨了
+  - 想骂人
+  - 挫折
+  - bad luck
+  - stoic
+  - dignity
+  also_read:
+  - wax-in-ears
+  - alternative-histories
+  card: cards/dignity-under-bad-luck.md
+  frontmatter:
+    description: '当用户亏钱/被裁/失败后很想发泄、遭遇不公平的坏运气等情境时调用。核心: 随机性是最后的裁判，你能控制的只有自己的举止：不怪罪、不自怜、照常体面。
+
+      Triggers: 倒霉/失败/被裁/亏惨了/想骂人/挫折/bad luck/stoic/dignity'
+    tags:
+    - stoic
+    - behavior
+  source_evidence:
+  - source_id: src-main-book
+    location: 第14章
+  promotion:
+    destination: router
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: true
+    notes: 用户选择 single 单一入口：所有能力保留为同一入口内的能力卡，不单独晋级。
+- capability_id: cap.fooled-by-randomness.coin-flip-deadlock
+  revision: 1
+  status: active
+  aliases: []
+  supersedes: []
+  merged_into: null
+  split_into: []
+  slug: coin-flip-deadlock
+  title: 两个选项真的差不多时掷硬币
+  importance: low
+  importance_rationale: 清单外补充；第10章布里丹之驴一处完整说明，适用于日常决策僵局
+  one_liner: 确认两者无差别（下限与毁灭风险都一样）后，用随机打破僵局，别再耗时间。
+  intents:
+  - 两个 offer/方案差不多纠结很久
+  - 选择困难
+  - 等价选项拖延不决
+  keywords:
+  - 纠结
+  - 选择困难
+  - 二选一
+  - 差不多
+  - 掷硬币
+  - indecision
+  - toss a coin
+  also_read:
+  - alternative-histories
+  - ruin-first
+  card: cards/coin-flip-deadlock.md
+  frontmatter:
+    description: '当用户两个 offer/方案差不多纠结很久、选择困难等情境时调用。核心: 确认两者无差别（下限与毁灭风险都一样）后，用随机打破僵局，别再耗时间。
+
+      Triggers: 纠结/选择困难/二选一/差不多/掷硬币/indecision/toss a coin'
+    tags:
+    - decision
+  source_evidence:
+  - source_id: src-main-book
+    location: 第10章
+  promotion:
+    destination: router
+    gate:
+      independent_intent: true
+      independent_contract: true
+      independent_run: true
+      independent_reuse: true
+      independent_eval: true
+    notes: 用户选择 single 单一入口：所有能力保留为同一入口内的能力卡，不单独晋级。

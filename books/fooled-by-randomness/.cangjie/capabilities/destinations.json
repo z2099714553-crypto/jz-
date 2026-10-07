@@ -1,0 +1,47 @@
+{
+  "bundle_id": "bundle.fooled-by-randomness",
+  "destinations": {
+    "cap.fooled-by-randomness.luck-vs-skill": {
+      "served_by": "fooled-by-randomness"
+    },
+    "cap.fooled-by-randomness.alternative-histories": {
+      "served_by": "fooled-by-randomness"
+    },
+    "cap.fooled-by-randomness.ruin-first": {
+      "served_by": "fooled-by-randomness"
+    },
+    "cap.fooled-by-randomness.expected-value": {
+      "served_by": "fooled-by-randomness"
+    },
+    "cap.fooled-by-randomness.hidden-tail-risk": {
+      "served_by": "fooled-by-randomness"
+    },
+    "cap.fooled-by-randomness.survivorship-audit": {
+      "served_by": "fooled-by-randomness"
+    },
+    "cap.fooled-by-randomness.adverse-selection": {
+      "served_by": "fooled-by-randomness"
+    },
+    "cap.fooled-by-randomness.falsify-and-stop": {
+      "served_by": "fooled-by-randomness"
+    },
+    "cap.fooled-by-randomness.information-diet": {
+      "served_by": "fooled-by-randomness"
+    },
+    "cap.fooled-by-randomness.probability-blindness": {
+      "served_by": "fooled-by-randomness"
+    },
+    "cap.fooled-by-randomness.rebuy-test": {
+      "served_by": "fooled-by-randomness"
+    },
+    "cap.fooled-by-randomness.wax-in-ears": {
+      "served_by": "fooled-by-randomness"
+    },
+    "cap.fooled-by-randomness.dignity-under-bad-luck": {
+      "served_by": "fooled-by-randomness"
+    },
+    "cap.fooled-by-randomness.coin-flip-deadlock": {
+      "served_by": "fooled-by-randomness"
+    }
+  }
+}
