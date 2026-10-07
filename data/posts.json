@@ -1,7 +1,71 @@
 {
-  "generated_at": "2026-10-07T06:01:23Z",
-  "count": 334,
+  "generated_at": "2026-10-07T13:25:43Z",
+  "count": 338,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/against-laissez-faire-democracy.html",
+      "title": "Against Laissez-Faire Democracy",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/against-laissez-faire-democracy.html?utm_source=rss&utm_medium=rss&utm_campaign=against-laissez-faire-democracy",
+      "published": "2026-10-07T11:18:34Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "In a new paper, Brennan and Freiman argue persuasively that:\n\n the arguments against laissez-faire capitalism apply in a rather straight way against laissez-faire democracy. This should be a rather startling result, considering that laissez-faire capitalism is widely rejected, yet laissez-faire democracy is widely accepted.\n \n All the typical market failure arguments externalities, asymmetric information, principal-agent problems, behavioral issues apply to democracy. For example:\n\n democracies also suffer from obvious externality problems. Indeed, this is the key difference between markets and politics. Market decisions are usually and mostly internalized; negative externalities are seen as an anomaly to be corrected. Political decisions are by nature public. For instance, about 37% of the eligible\n\nvoting public, and 26% of the entire population of the UK voted in favour of Brexit, but the effects of Brexit are borne by everyone else, including losing voters, eligible voters who abstained, children and other citizens ineligible to vote, future generations, and foreigners.\n\n The problem is similar to the pollution of individual automobile drivers or airline passengers. We drive too much and pollute too much because we bear the benefits of these actions but pass the costs onto others. Individually we matter little but collectively we matter a great deal. If externality regulation is prima facie justified in the case of pollution, it is prima facie justified in the case of voting.\n \n They go on to suggest regulations that might apply to democracy. Noting first that:\n\n pretty much everyone already accepts some government actions which are plausibly seen as vote or democratic regulation. For instance, some issues are put directly to voters, while others are left to elected leaders, while others are left to judges and bureaucracies, and still others are removed from political consideration entirely. The timing and place of elections, who is permitted to vote (at what age), who is permitted to run for office, and so on are kinds of regulation. Government funding of public education is in part meant to be a non-laissez-faire subsidy meant to increase voter competence. Many readers are likely comfortable with government regulation of campaign donations, campaign expenditures and even which kinds of speech are permitted. Probably almost all readers reject straight up markets in votes (Freiman 2014). Each of these things is a kind of government regulation of democracy which inhibits laissez-faire democracy.\n \n The authors sketch possible regulations while stipulating, for the sake of argument, universal, equal suffrage—no weighted votes or knowledge tests for voting eligibility. Possibilities include paying citizens to pass a voluntary civics exam; tracking campaign promises and fining deceptive claims; regulating political advertisements more like drug advertisements; and requiring supermajorities for certain decisions. See the paper for more.\n\n You may object that these regulations would be captured by special interests, be administered by biased officials, or have unintended consequences. Indeed, welcome to the argument for laissez-faire.\n\n The post Against Laissez-Faire Democracy appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-07T13:25:28Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/texas-canada-fact-of-the-day.html",
+      "title": "Texas-Canada Fact of the Day",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/texas-canada-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=texas-canada-fact-of-the-day",
+      "published": "2026-10-07T11:16:54Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Texas produces more than Canada with three quarters of the population. Rough numbers for 2025:\n\n Texas \n Canada \n Texas / Canada \n\n Population \n 31.7 million \n 41.7 million \n 0.76 \n\n GDP, nominal (US$) \n $2.9 trillion \n $2.3 trillion \n 1.27 \n\n GDP per capita, nominal \n $91,500 \n $55,700 \n 1.64 \n\n GDP per capita, PPP \n $94,000 \n $66,700 \n 1.41 \n\n GDP, PPP (int l $) \n $3.0 trillion \n $2.75 trillion \n 1.09 \n\n Sources: BEA (Texas GDP, preliminary 2025; regional price parity), Census Bureau (Texas population), World Bank and IMF (Canada). Texas PPP figures divide nominal GDP by the BEA regional price parity.\n\n Hat tip: Chris Powers .\n\n The post Texas-Canada Fact of the Day appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-07T13:25:28Z"
+    },
+    {
+      "id": "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon",
+      "title": "Apple and LG, The House For Everyone Else, Agent Standards and Amazon",
+      "link": "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/",
+      "published": "2026-10-07T10:01:39Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "Apple is taking a smarter approach to the home than I expected, leaning into integration (with partners); then, what Amazon should do about agents.",
+      "fetched_at": "2026-10-07T13:25:28Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/why-most-stereotypes-are-negative.html",
+      "title": "Why most stereotypes are negative",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/why-most-stereotypes-are-negative.html?utm_source=rss&utm_medium=rss&utm_campaign=why-most-stereotypes-are-negative",
+      "published": "2026-10-07T07:03:57Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Stereotypes are a foundational construct in psychological science, often defined as beliefs concerning characteristic group attributes. We present a cognitive-ecological theory of social perception that predicts and explains why such characteristic attributes are likely negative, that is, why most stereotypes are negative. The theory assumes that, cognitively, people characterize groups by attributes that distinguish them from other groups. Ecologically, positive social information is more frequent (i.e., positivity prevalence), and negative social information is more diverse (i.e., negativity diversity. If negative attributes are less frequent and more diverse relative to positive attributes, then they must be more likely to distinguish one group from another. Consequently, the attributes people see as characteristic of a group are likely to be negative. We illustrate the predicted stereotype negativity across two studies and two existing data sets. We then formalize the theory and illustrate it with simulations showing that rare attributes can be highly diagnostic of group membership while applying to only a minority of group members. Thus, the theory explains why most stereotype content is likely negative, despite the well-documented positivity prevalence, and why stereotypes may be diagnostic and comparatively accurate, despite being descriptively inaccurate. The theory explains stereotype negativity without requiring motivational derogation, essentialist group differences, or a general negativity bias, and it clarifies when positive stereotypes should occur. We also discuss the theory’s relation to dimensional models of stereotype content and consequences for interventions aimed at reducing stereotype negativity.\n \n That is from a recent paper by Christian Unkelbach , Anne Irena Weitzel , and Hans Alves , via the excellent Kevin Lewis .\n\n The post Why most stereotypes are negative appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-07T13:25:28Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/effective-altruism-is-useful-at-the-margin.html",
       "title": "Effective altruism is useful at the margin",
