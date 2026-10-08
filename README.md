@@ -112,28 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-08 10:36 UTC*
+*更新于 2026-10-08 18:51 UTC*
+
+**[Predictions for economics, given AI](https://marginalrevolution.com/marginalrevolution/2026/10/predictions-for-economics-given-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=predictions-for-economics-given-ai)**  
+`Tyler Cowen` · 1 小时前  
+
+**[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-573)**  
+`Tyler Cowen` · 1 小时前  
+
+**[Jaan Tallinn would like us to survive](https://www.generalist.com/p/jaan-tallinn-would-like-us-to-survive)**  
+`Mario Gabriele` · 6 小时前  
 
 **[An Interview with Katie Harbath About Disrupting Politics at Facebook](https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/)**  
-`Ben Thompson` · 刚刚  
+`Ben Thompson` · 8 小时前  
 
 **[20VC: Cognition vs Factory: Vinod Khosla Creates a Storm \| OpenAI Nears $70B Run Rate: Anthropic Under Threat \| ElevenLabs Doubles Its Valuation to $22B & Salesforce Buys Listen Labs for $2B](https://thetwentyminutevc.libsyn.com/20vc-cognition-vs-factory-vinod-khosla-creates-a-storm-openai-nears-70b-run-rate-anthropic-under-threat-elevenlabs-doubles-its-valuation-to-22b-salesforce-buys-listen-labs-for-2b)**  
-`Harry Stebbings` · 3 小时前  
+`Harry Stebbings` · 11 小时前  
 
 **[How and why did the Victorians succeed?](https://marginalrevolution.com/marginalrevolution/2026/10/how-and-why-did-the-victorians-succeed.html?utm_source=rss&utm_medium=rss&utm_campaign=how-and-why-did-the-victorians-succeed)**  
-`Tyler Cowen` · 3 小时前  
+`Tyler Cowen` · 11 小时前  
 
 **[What I’ve been reading](https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-296.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-296)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 13 小时前  
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-574)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Against Laissez-Faire Democracy](https://marginalrevolution.com/marginalrevolution/2026/10/against-laissez-faire-democracy.html?utm_source=rss&utm_medium=rss&utm_campaign=against-laissez-faire-democracy)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Texas-Canada Fact of the Day](https://marginalrevolution.com/marginalrevolution/2026/10/texas-canada-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=texas-canada-fact-of-the-day)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Apple and LG, The House For Everyone Else, Agent Standards and Amazon](https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/)**  
 `Ben Thompson` · 1 天前  
@@ -149,14 +158,5 @@ open docs/index.html
 
 **[A Change in AI Strategy](https://tomtunguz.com/what-if-the-models-are-commoditized/)**  
 `Tomasz Tunguz` · 1 天前  
-
-**[Brazil election notes (from my email)](https://marginalrevolution.com/marginalrevolution/2026/10/brazil-election-notes-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=brazil-election-notes-from-my-email)**  
-`Tyler Cowen` · 1 天前  
-
-**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-589)**  
-`Tyler Cowen` · 1 天前  
-
-**[Paul Graham Versus the Pope](https://marginalrevolution.com/marginalrevolution/2026/10/the-pope-v-graham.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pope-v-graham)**  
-`Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
