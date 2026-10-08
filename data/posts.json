@@ -1,7 +1,71 @@
 {
-  "generated_at": "2026-10-08T01:01:21Z",
-  "count": 340,
+  "generated_at": "2026-10-08T10:36:18Z",
+  "count": 344,
   "posts": [
+    {
+      "id": "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook",
+      "title": "An Interview with Katie Harbath About Disrupting Politics at Facebook",
+      "link": "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/",
+      "published": "2026-10-08T10:00:00Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for the company in the 2010s.",
+      "fetched_at": "2026-10-08T10:36:09Z"
+    },
+    {
+      "id": "https://thetwentyminutevc.libsyn.com/20vc-cognition-vs-factory-vinod-khosla-creates-a-storm-openai-nears-70b-run-rate-anthropic-under-threat-elevenlabs-doubles-its-valuation-to-22b-salesforce-buys-listen-labs-for-2b",
+      "title": "20VC: Cognition vs Factory: Vinod Khosla Creates a Storm | OpenAI Nears $70B Run Rate: Anthropic Under Threat | ElevenLabs Doubles Its Valuation to $22B & Salesforce Buys Listen Labs for $2B",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-cognition-vs-factory-vinod-khosla-creates-a-storm-openai-nears-70b-run-rate-anthropic-under-threat-elevenlabs-doubles-its-valuation-to-22b-salesforce-buys-listen-labs-for-2b",
+      "published": "2026-10-08T07:07:00Z",
+      "source": "20VC",
+      "author": "Harry Stebbings",
+      "lang": "en",
+      "tags": [
+        "创投",
+        "深度访谈"
+      ],
+      "type": "interview",
+      "raw_text": "Joinin the trio today we have Dev Ittycheria, CEO @ MongoDB. \n AGENDA: \n 04:00 OpenAI Nears $70B Run Rate—Anthropic's Lead Under Threat\n 12:00 Factory vs Cognition: Silicon Valley's Talent War Turns Ugly\n 23:00 Vinod Khosla Blasts His Own Portfolio Company\n 25:00 Reflection Launches Beam: America Strikes Back in Open-Source AI\n 34:00 ElevenLabs Doubles Its Valuation to $22B\n 37:00 Salesforce Buys Listen Labs for $2B—Sequoia Cashes In\n 46:00 Vercel Hits $600M ARR as Agents Drive Half Its New Business\n 55:00 Former Groq Engineers Sue Over Nvidia's $17B Deal\n 01:01:00 Meta's Muse Steals the Show as OpenAI's Dots Underwhelms\n 01:05:00 Oura Pulls Its IPO Despite 74% Growth—A Warning for VC",
+      "fetched_at": "2026-10-08T10:36:18Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/how-and-why-did-the-victorians-succeed.html",
+      "title": "How and why did the Victorians succeed?",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/how-and-why-did-the-victorians-succeed.html?utm_source=rss&utm_medium=rss&utm_campaign=how-and-why-did-the-victorians-succeed",
+      "published": "2026-10-08T07:02:17Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "From Samuel Hughes , in Works in Progress:\n\n The elites of Victorian Britain operated differently. Their schools and universities were not terribly academic and had very little STEM. As adults, they got up late, drank a lot, and spent a remarkable share of their waking hours partying. They loved feasting, sports, holidays, dancing, and dressing up. Contrary to their stodgy reputation, they were probably a lot of fun.\n \n Here is some further detail:\n\n Most socially elite Victorian boys began formal education at the age of seven or eight, spending about five years in a ‘preparatory school’ before passing on to a ‘public school’ (which, to the enduring confusion of international observers, is a kind of elite private school). There was a hierarchy of public schools, with the nine ‘Clarendon schools’ at the top, and just one, Eton College, clearly at the apex. About 30 percent of nineteenth-century cabinet ministers and 40 percent of prime ministers were Old Etonians.\n\n Most students at both preparatory and public schools were boarders, meaning that elite Victorians were generally sent away from home by the age of eight and spent their childhoods more with peers than with family. In this respect they were distinctive even in their own time: elite families in continental Europe and the United States were far more likely to keep their children at home and educate them at small local private schools. It is plausible that this contributed to the lack of subnational loyalties in the British elite, in contrast to the distinct elites of, for example, the Southern United States, Catalonia in Spain, or Hungary in the Austrian Empire.\n \n Nor did the Victorians wake up early in the morning. Recommended, there is much more at the link , though the answer to the question remains somewhat of a mystery to me.\n\n The post How and why did the Victorians succeed? appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-08T10:36:09Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-296.html",
+      "title": "What I’ve been reading",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-296.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-296",
+      "published": "2026-10-08T04:52:29Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "1. Begoña Gómez Urzaiz, The Abandoners: On Mothers and Monsters . A wonderful book about mothers who abandon their children, and properly unsentimental. You will never think about Muriel Spark the same way again. Vashti Bunyan gets a section too. Recommended.\n\n 2. Evan Gershkovich, This Cursed Beautiful Land: A Russian-American Story . Yes he is the WSJ reporter who was arrested by the secret service in Putin s Russia and held for eighteen months before being traded back home. He starts off naive, but does not finish that way. A compelling read, with good background information on what it is like to live in Russia in recent times, namely early years of the war with Ukraine. In prison it seems he was treated better than most. Excerpt: I remembered what Eugenia Ginzburghad written about her two years in a maximum-security Yaroslavl prison before being sent to the Gulag that during this period she was the best version of herself, at her most patient, kind, and thoughtful. \n\n 3. Reinier de Graaf, architect, verb : The New Language of Building . A fun read, with chapters on the various prizes in architecture, Vancouver and city liveability, Richard Florida, and more. The book closes with a fun list of b.s. terms often heard from both academics and bureaucrats.\n\n 4. China Mieville, The Rouse . This novel is 1200 pp. plus, with pretty big pages, and I am on p.350 or so. It seems very good. At what point can I judge it? Can it sustain itself? Is ah, but it fell apart on p.1137 actually a possibility? Past what page number is it in the clear? I guess I will find out.\n\n The post What I ve been reading appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-08T10:36:09Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-574.html",
       "title": "Wednesday assorted links",

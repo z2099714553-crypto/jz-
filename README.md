@@ -112,25 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-08 01:01 UTC*
+*更新于 2026-10-08 10:36 UTC*
+
+**[An Interview with Katie Harbath About Disrupting Politics at Facebook](https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/)**  
+`Ben Thompson` · 刚刚  
+
+**[20VC: Cognition vs Factory: Vinod Khosla Creates a Storm \| OpenAI Nears $70B Run Rate: Anthropic Under Threat \| ElevenLabs Doubles Its Valuation to $22B & Salesforce Buys Listen Labs for $2B](https://thetwentyminutevc.libsyn.com/20vc-cognition-vs-factory-vinod-khosla-creates-a-storm-openai-nears-70b-run-rate-anthropic-under-threat-elevenlabs-doubles-its-valuation-to-22b-salesforce-buys-listen-labs-for-2b)**  
+`Harry Stebbings` · 3 小时前  
+
+**[How and why did the Victorians succeed?](https://marginalrevolution.com/marginalrevolution/2026/10/how-and-why-did-the-victorians-succeed.html?utm_source=rss&utm_medium=rss&utm_campaign=how-and-why-did-the-victorians-succeed)**  
+`Tyler Cowen` · 3 小时前  
+
+**[What I’ve been reading](https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-296.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-296)**  
+`Tyler Cowen` · 5 小时前  
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-574)**  
-`Tyler Cowen` · 7 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[Against Laissez-Faire Democracy](https://marginalrevolution.com/marginalrevolution/2026/10/against-laissez-faire-democracy.html?utm_source=rss&utm_medium=rss&utm_campaign=against-laissez-faire-democracy)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[Texas-Canada Fact of the Day](https://marginalrevolution.com/marginalrevolution/2026/10/texas-canada-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=texas-canada-fact-of-the-day)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[Apple and LG, The House For Everyone Else, Agent Standards and Amazon](https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/)**  
-`Ben Thompson` · 14 小时前  
+`Ben Thompson` · 1 天前  
 
 **[Why most stereotypes are negative](https://marginalrevolution.com/marginalrevolution/2026/10/why-most-stereotypes-are-negative.html?utm_source=rss&utm_medium=rss&utm_campaign=why-most-stereotypes-are-negative)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Effective altruism is useful at the margin](https://marginalrevolution.com/marginalrevolution/2026/10/effective-altruism-is-useful-at-the-margin.html?utm_source=rss&utm_medium=rss&utm_campaign=effective-altruism-is-useful-at-the-margin)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Does intelligence need a hard cap?](https://www.platformer.news/does-intelligence-need-a-hard-cap/)**  
 `Casey Newton` · 1 天前  
@@ -145,18 +157,6 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[Paul Graham Versus the Pope](https://marginalrevolution.com/marginalrevolution/2026/10/the-pope-v-graham.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pope-v-graham)**  
-`Tyler Cowen` · 1 天前  
-
-**[Game Decompilation, Is This Legal?, A Well-Trodden Path](https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path/)**  
-`Ben Thompson` · 1 天前  
-
-**[Charlie Munger's Interview with Todd Combs](https://fs.blog/knowledge-project-podcast/outliers-munger-combs/)**  
-`Shane Parrish` · 1 天前  
-
-**[The Great Accretion and the Great Depression](https://marginalrevolution.com/marginalrevolution/2026/10/the-great-accretion-and-the-great-depression.html?utm_source=rss&utm_medium=rss&utm_campaign=the-great-accretion-and-the-great-depression)**  
-`Tyler Cowen` · 1 天前  
-
-**[Rising concentration for economics awards](https://marginalrevolution.com/marginalrevolution/2026/10/rising-concentration-for-economics-awards.html?utm_source=rss&utm_medium=rss&utm_campaign=rising-concentration-for-economics-awards)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
