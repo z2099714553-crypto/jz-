@@ -112,28 +112,43 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-09 10:34 UTC*
+*更新于 2026-10-09 18:22 UTC*
+
+**[The origin of risk](https://marginalrevolution.com/marginalrevolution/2026/10/the-origin-of-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-origin-of-risk)**  
+`Tyler Cowen` · 刚刚  
+
+**[2026.41: It’s Not You, It’s Me](https://stratechery.com/2026/its-not-you-its-me/)**  
+`Ben Thompson` · 1 小时前  
+
+**[Ethiopia update](https://marginalrevolution.com/marginalrevolution/2026/10/ethiopia-update.html?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-update)**  
+`Tyler Cowen` · 1 小时前  
+
+**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-594.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-594)**  
+`Tyler Cowen` · 2 小时前  
+
+**[Weekly Dose of Optimism #214](https://www.notboring.co/p/weekly-dose-of-optimism-214)**  
+`Packy McCormick` · 5 小时前  
 
 **[A Sentiment Analysis of Cowen, Hanson, Caplan, and Krugman](https://marginalrevolution.com/marginalrevolution/2026/10/a-sentiment-analysis-of-cowen-hanson-caplan-and-krugman.html?utm_source=rss&utm_medium=rss&utm_campaign=a-sentiment-analysis-of-cowen-hanson-caplan-and-krugman)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 11 小时前  
 
 **[On *Stubborn Attachments* and religion (from my email)](https://marginalrevolution.com/marginalrevolution/2026/10/on-stubborn-attachments-and-religion-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=on-stubborn-attachments-and-religion-from-my-email)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 13 小时前  
 
 **[AI is solving math problems faster than humans can understand the solutions](https://www.platformer.news/openai-math-breakthroughs-tao-reaction/)**  
-`Casey Newton` · 10 小时前  
+`Casey Newton` · 17 小时前  
 
 **[E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔](https://sv101.fireside.fm/269)**  
-`陈茜` · 11 小时前  
+`陈茜` · 19 小时前  
 
 **[Predictions for economics, given AI](https://marginalrevolution.com/marginalrevolution/2026/10/predictions-for-economics-given-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=predictions-for-economics-given-ai)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-573)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Jaan Tallinn would like us to survive](https://www.generalist.com/p/jaan-tallinn-would-like-us-to-survive)**  
-`Mario Gabriele` · 22 小时前  
+`Mario Gabriele` · 1 天前  
 
 **[An Interview with Katie Harbath About Disrupting Politics at Facebook](https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/)**  
 `Ben Thompson` · 1 天前  
@@ -143,20 +158,5 @@ open docs/index.html
 
 **[How and why did the Victorians succeed?](https://marginalrevolution.com/marginalrevolution/2026/10/how-and-why-did-the-victorians-succeed.html?utm_source=rss&utm_medium=rss&utm_campaign=how-and-why-did-the-victorians-succeed)**  
 `Tyler Cowen` · 1 天前  
-
-**[What I’ve been reading](https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-296.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-296)**  
-`Tyler Cowen` · 1 天前  
-
-**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-574)**  
-`Tyler Cowen` · 1 天前  
-
-**[Against Laissez-Faire Democracy](https://marginalrevolution.com/marginalrevolution/2026/10/against-laissez-faire-democracy.html?utm_source=rss&utm_medium=rss&utm_campaign=against-laissez-faire-democracy)**  
-`Tyler Cowen` · 1 天前  
-
-**[Texas-Canada Fact of the Day](https://marginalrevolution.com/marginalrevolution/2026/10/texas-canada-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=texas-canada-fact-of-the-day)**  
-`Tyler Cowen` · 1 天前  
-
-**[Apple and LG, The House For Everyone Else, Agent Standards and Amazon](https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/)**  
-`Ben Thompson` · 2 天前  
 
 <!-- POSTS:END -->
