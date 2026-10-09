@@ -112,34 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-09 01:14 UTC*
+*更新于 2026-10-09 10:34 UTC*
+
+**[A Sentiment Analysis of Cowen, Hanson, Caplan, and Krugman](https://marginalrevolution.com/marginalrevolution/2026/10/a-sentiment-analysis-of-cowen-hanson-caplan-and-krugman.html?utm_source=rss&utm_medium=rss&utm_campaign=a-sentiment-analysis-of-cowen-hanson-caplan-and-krugman)**  
+`Tyler Cowen` · 4 小时前  
+
+**[On *Stubborn Attachments* and religion (from my email)](https://marginalrevolution.com/marginalrevolution/2026/10/on-stubborn-attachments-and-religion-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=on-stubborn-attachments-and-religion-from-my-email)**  
+`Tyler Cowen` · 5 小时前  
 
 **[AI is solving math problems faster than humans can understand the solutions](https://www.platformer.news/openai-math-breakthroughs-tao-reaction/)**  
-`Casey Newton` · 刚刚  
+`Casey Newton` · 10 小时前  
 
 **[E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔](https://sv101.fireside.fm/269)**  
-`陈茜` · 2 小时前  
+`陈茜` · 11 小时前  
 
 **[Predictions for economics, given AI](https://marginalrevolution.com/marginalrevolution/2026/10/predictions-for-economics-given-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=predictions-for-economics-given-ai)**  
-`Tyler Cowen` · 7 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-573)**  
-`Tyler Cowen` · 7 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[Jaan Tallinn would like us to survive](https://www.generalist.com/p/jaan-tallinn-would-like-us-to-survive)**  
-`Mario Gabriele` · 13 小时前  
+`Mario Gabriele` · 22 小时前  
 
 **[An Interview with Katie Harbath About Disrupting Politics at Facebook](https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/)**  
-`Ben Thompson` · 15 小时前  
+`Ben Thompson` · 1 天前  
 
 **[20VC: Cognition vs Factory: Vinod Khosla Creates a Storm \| OpenAI Nears $70B Run Rate: Anthropic Under Threat \| ElevenLabs Doubles Its Valuation to $22B & Salesforce Buys Listen Labs for $2B](https://thetwentyminutevc.libsyn.com/20vc-cognition-vs-factory-vinod-khosla-creates-a-storm-openai-nears-70b-run-rate-anthropic-under-threat-elevenlabs-doubles-its-valuation-to-22b-salesforce-buys-listen-labs-for-2b)**  
-`Harry Stebbings` · 18 小时前  
+`Harry Stebbings` · 1 天前  
 
 **[How and why did the Victorians succeed?](https://marginalrevolution.com/marginalrevolution/2026/10/how-and-why-did-the-victorians-succeed.html?utm_source=rss&utm_medium=rss&utm_campaign=how-and-why-did-the-victorians-succeed)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[What I’ve been reading](https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-296.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-296)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-574)**  
 `Tyler Cowen` · 1 天前  
@@ -151,12 +157,6 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[Apple and LG, The House For Everyone Else, Agent Standards and Amazon](https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/)**  
-`Ben Thompson` · 1 天前  
-
-**[Why most stereotypes are negative](https://marginalrevolution.com/marginalrevolution/2026/10/why-most-stereotypes-are-negative.html?utm_source=rss&utm_medium=rss&utm_campaign=why-most-stereotypes-are-negative)**  
-`Tyler Cowen` · 1 天前  
-
-**[Effective altruism is useful at the margin](https://marginalrevolution.com/marginalrevolution/2026/10/effective-altruism-is-useful-at-the-margin.html?utm_source=rss&utm_medium=rss&utm_campaign=effective-altruism-is-useful-at-the-margin)**  
-`Tyler Cowen` · 1 天前  
+`Ben Thompson` · 2 天前  
 
 <!-- POSTS:END -->
