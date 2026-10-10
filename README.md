@@ -112,34 +112,34 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-09 18:22 UTC*
+*更新于 2026-10-10 00:52 UTC*
 
 **[The origin of risk](https://marginalrevolution.com/marginalrevolution/2026/10/the-origin-of-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-origin-of-risk)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 6 小时前  
 
 **[2026.41: It’s Not You, It’s Me](https://stratechery.com/2026/its-not-you-its-me/)**  
-`Ben Thompson` · 1 小时前  
+`Ben Thompson` · 7 小时前  
 
 **[Ethiopia update](https://marginalrevolution.com/marginalrevolution/2026/10/ethiopia-update.html?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-update)**  
-`Tyler Cowen` · 1 小时前  
+`Tyler Cowen` · 8 小时前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-594.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-594)**  
-`Tyler Cowen` · 2 小时前  
+`Tyler Cowen` · 8 小时前  
 
 **[Weekly Dose of Optimism #214](https://www.notboring.co/p/weekly-dose-of-optimism-214)**  
-`Packy McCormick` · 5 小时前  
+`Packy McCormick` · 12 小时前  
 
 **[A Sentiment Analysis of Cowen, Hanson, Caplan, and Krugman](https://marginalrevolution.com/marginalrevolution/2026/10/a-sentiment-analysis-of-cowen-hanson-caplan-and-krugman.html?utm_source=rss&utm_medium=rss&utm_campaign=a-sentiment-analysis-of-cowen-hanson-caplan-and-krugman)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[On *Stubborn Attachments* and religion (from my email)](https://marginalrevolution.com/marginalrevolution/2026/10/on-stubborn-attachments-and-religion-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=on-stubborn-attachments-and-religion-from-my-email)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 20 小时前  
 
 **[AI is solving math problems faster than humans can understand the solutions](https://www.platformer.news/openai-math-breakthroughs-tao-reaction/)**  
-`Casey Newton` · 17 小时前  
+`Casey Newton` · 1 天前  
 
 **[E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔](https://sv101.fireside.fm/269)**  
-`陈茜` · 19 小时前  
+`陈茜` · 1 天前  
 
 **[Predictions for economics, given AI](https://marginalrevolution.com/marginalrevolution/2026/10/predictions-for-economics-given-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=predictions-for-economics-given-ai)**  
 `Tyler Cowen` · 1 天前  
