@@ -112,28 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-10 00:52 UTC*
+*更新于 2026-10-10 09:51 UTC*
+
+**[Earth facts of the day](https://marginalrevolution.com/marginalrevolution/2026/10/earth-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-facts-of-the-day)**  
+`Tyler Cowen` · 2 小时前  
+
+**[20Sales: Inside Ramp's Sales Playbook: How to Build a $1.7BN ARR Sales Machine with Max Freeman, SVP Sales @ Ramp](https://thetwentyminutevc.libsyn.com/20sales-inside-ramps-sales-playbook-how-to-build-a-17bn-arr-sales-machine-with-max-freeman-svp-sales-ramp)**  
+`Harry Stebbings` · 2 小时前  
+
+**[California in-migration and out-migration](https://marginalrevolution.com/marginalrevolution/2026/10/california-in-migration-and-out-migration.html?utm_source=rss&utm_medium=rss&utm_campaign=california-in-migration-and-out-migration)**  
+`Tyler Cowen` · 5 小时前  
 
 **[The origin of risk](https://marginalrevolution.com/marginalrevolution/2026/10/the-origin-of-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-origin-of-risk)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 15 小时前  
 
 **[2026.41: It’s Not You, It’s Me](https://stratechery.com/2026/its-not-you-its-me/)**  
-`Ben Thompson` · 7 小时前  
+`Ben Thompson` · 16 小时前  
 
 **[Ethiopia update](https://marginalrevolution.com/marginalrevolution/2026/10/ethiopia-update.html?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-update)**  
-`Tyler Cowen` · 8 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-594.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-594)**  
-`Tyler Cowen` · 8 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[Weekly Dose of Optimism #214](https://www.notboring.co/p/weekly-dose-of-optimism-214)**  
-`Packy McCormick` · 12 小时前  
+`Packy McCormick` · 21 小时前  
 
 **[A Sentiment Analysis of Cowen, Hanson, Caplan, and Krugman](https://marginalrevolution.com/marginalrevolution/2026/10/a-sentiment-analysis-of-cowen-hanson-caplan-and-krugman.html?utm_source=rss&utm_medium=rss&utm_campaign=a-sentiment-analysis-of-cowen-hanson-caplan-and-krugman)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[On *Stubborn Attachments* and religion (from my email)](https://marginalrevolution.com/marginalrevolution/2026/10/on-stubborn-attachments-and-religion-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=on-stubborn-attachments-and-religion-from-my-email)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[AI is solving math problems faster than humans can understand the solutions](https://www.platformer.news/openai-math-breakthroughs-tao-reaction/)**  
 `Casey Newton` · 1 天前  
@@ -149,14 +158,5 @@ open docs/index.html
 
 **[Jaan Tallinn would like us to survive](https://www.generalist.com/p/jaan-tallinn-would-like-us-to-survive)**  
 `Mario Gabriele` · 1 天前  
-
-**[An Interview with Katie Harbath About Disrupting Politics at Facebook](https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/)**  
-`Ben Thompson` · 1 天前  
-
-**[20VC: Cognition vs Factory: Vinod Khosla Creates a Storm \| OpenAI Nears $70B Run Rate: Anthropic Under Threat \| ElevenLabs Doubles Its Valuation to $22B & Salesforce Buys Listen Labs for $2B](https://thetwentyminutevc.libsyn.com/20vc-cognition-vs-factory-vinod-khosla-creates-a-storm-openai-nears-70b-run-rate-anthropic-under-threat-elevenlabs-doubles-its-valuation-to-22b-salesforce-buys-listen-labs-for-2b)**  
-`Harry Stebbings` · 1 天前  
-
-**[How and why did the Victorians succeed?](https://marginalrevolution.com/marginalrevolution/2026/10/how-and-why-did-the-victorians-succeed.html?utm_source=rss&utm_medium=rss&utm_campaign=how-and-why-did-the-victorians-succeed)**  
-`Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
