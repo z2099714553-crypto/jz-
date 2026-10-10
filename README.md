@@ -112,28 +112,28 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-10 17:21 UTC*
+*更新于 2026-10-10 21:45 UTC*
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-582)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 5 小时前  
 
 **[🧠 Community Wisdom: Community Wisdom Top Contributors Summer Class 2026 + ML recommendation systems, getting back into product after being fired, deciding when to quit a side project, and more](https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom)**  
-`Lenny Rachitsky` · 4 小时前  
+`Lenny Rachitsky` · 8 小时前  
 
 **[When Saturday Comes](https://www.netinterest.co/p/when-saturday-comes)**  
-`Marc Rubinstein` · 4 小时前  
+`Marc Rubinstein` · 9 小时前  
 
 **[Earth facts of the day](https://marginalrevolution.com/marginalrevolution/2026/10/earth-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-facts-of-the-day)**  
-`Tyler Cowen` · 9 小时前  
+`Tyler Cowen` · 14 小时前  
 
 **[20Sales: Inside Ramp's Sales Playbook: How to Build a Sales Machine with Max Freeman, SVP Sales @ Ramp](https://thetwentyminutevc.libsyn.com/20sales-inside-ramps-sales-playbook-how-to-build-a-17bn-arr-sales-machine-with-max-freeman-svp-sales-ramp)**  
-`Harry Stebbings` · 10 小时前  
+`Harry Stebbings` · 14 小时前  
 
 **[California in-migration and out-migration](https://marginalrevolution.com/marginalrevolution/2026/10/california-in-migration-and-out-migration.html?utm_source=rss&utm_medium=rss&utm_campaign=california-in-migration-and-out-migration)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[The origin of risk](https://marginalrevolution.com/marginalrevolution/2026/10/the-origin-of-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-origin-of-risk)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[2026.41: It’s Not You, It’s Me](https://stratechery.com/2026/its-not-you-its-me/)**  
 `Ben Thompson` · 1 天前  
