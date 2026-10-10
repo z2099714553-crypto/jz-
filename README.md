@@ -112,31 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-10 09:51 UTC*
+*更新于 2026-10-10 17:21 UTC*
+
+**[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-582)**  
+`Tyler Cowen` · 刚刚  
+
+**[🧠 Community Wisdom: Community Wisdom Top Contributors Summer Class 2026 + ML recommendation systems, getting back into product after being fired, deciding when to quit a side project, and more](https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom)**  
+`Lenny Rachitsky` · 4 小时前  
+
+**[When Saturday Comes](https://www.netinterest.co/p/when-saturday-comes)**  
+`Marc Rubinstein` · 4 小时前  
 
 **[Earth facts of the day](https://marginalrevolution.com/marginalrevolution/2026/10/earth-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-facts-of-the-day)**  
-`Tyler Cowen` · 2 小时前  
+`Tyler Cowen` · 9 小时前  
 
-**[20Sales: Inside Ramp's Sales Playbook: How to Build a $1.7BN ARR Sales Machine with Max Freeman, SVP Sales @ Ramp](https://thetwentyminutevc.libsyn.com/20sales-inside-ramps-sales-playbook-how-to-build-a-17bn-arr-sales-machine-with-max-freeman-svp-sales-ramp)**  
-`Harry Stebbings` · 2 小时前  
+**[20Sales: Inside Ramp's Sales Playbook: How to Build a Sales Machine with Max Freeman, SVP Sales @ Ramp](https://thetwentyminutevc.libsyn.com/20sales-inside-ramps-sales-playbook-how-to-build-a-17bn-arr-sales-machine-with-max-freeman-svp-sales-ramp)**  
+`Harry Stebbings` · 10 小时前  
 
 **[California in-migration and out-migration](https://marginalrevolution.com/marginalrevolution/2026/10/california-in-migration-and-out-migration.html?utm_source=rss&utm_medium=rss&utm_campaign=california-in-migration-and-out-migration)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[The origin of risk](https://marginalrevolution.com/marginalrevolution/2026/10/the-origin-of-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-origin-of-risk)**  
-`Tyler Cowen` · 15 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[2026.41: It’s Not You, It’s Me](https://stratechery.com/2026/its-not-you-its-me/)**  
-`Ben Thompson` · 16 小时前  
+`Ben Thompson` · 1 天前  
 
 **[Ethiopia update](https://marginalrevolution.com/marginalrevolution/2026/10/ethiopia-update.html?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-update)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-594.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-594)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Weekly Dose of Optimism #214](https://www.notboring.co/p/weekly-dose-of-optimism-214)**  
-`Packy McCormick` · 21 小时前  
+`Packy McCormick` · 1 天前  
 
 **[A Sentiment Analysis of Cowen, Hanson, Caplan, and Krugman](https://marginalrevolution.com/marginalrevolution/2026/10/a-sentiment-analysis-of-cowen-hanson-caplan-and-krugman.html?utm_source=rss&utm_medium=rss&utm_campaign=a-sentiment-analysis-of-cowen-hanson-caplan-and-krugman)**  
 `Tyler Cowen` · 1 天前  
@@ -149,14 +158,5 @@ open docs/index.html
 
 **[E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔](https://sv101.fireside.fm/269)**  
 `陈茜` · 1 天前  
-
-**[Predictions for economics, given AI](https://marginalrevolution.com/marginalrevolution/2026/10/predictions-for-economics-given-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=predictions-for-economics-given-ai)**  
-`Tyler Cowen` · 1 天前  
-
-**[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-573.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-573)**  
-`Tyler Cowen` · 1 天前  
-
-**[Jaan Tallinn would like us to survive](https://www.generalist.com/p/jaan-tallinn-would-like-us-to-survive)**  
-`Mario Gabriele` · 1 天前  
 
 <!-- POSTS:END -->
