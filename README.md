@@ -112,25 +112,28 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-10 21:45 UTC*
+*更新于 2026-10-11 05:48 UTC*
+
+**[The economics of agents](https://marginalrevolution.com/marginalrevolution/2026/10/the-economics-of-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-agents)**  
+`Tyler Cowen` · 刚刚  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-582)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 13 小时前  
 
 **[🧠 Community Wisdom: Community Wisdom Top Contributors Summer Class 2026 + ML recommendation systems, getting back into product after being fired, deciding when to quit a side project, and more](https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom)**  
-`Lenny Rachitsky` · 8 小时前  
+`Lenny Rachitsky` · 16 小时前  
 
 **[When Saturday Comes](https://www.netinterest.co/p/when-saturday-comes)**  
-`Marc Rubinstein` · 9 小时前  
+`Marc Rubinstein` · 17 小时前  
 
 **[Earth facts of the day](https://marginalrevolution.com/marginalrevolution/2026/10/earth-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-facts-of-the-day)**  
-`Tyler Cowen` · 14 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[20Sales: Inside Ramp's Sales Playbook: How to Build a Sales Machine with Max Freeman, SVP Sales @ Ramp](https://thetwentyminutevc.libsyn.com/20sales-inside-ramps-sales-playbook-how-to-build-a-17bn-arr-sales-machine-with-max-freeman-svp-sales-ramp)**  
-`Harry Stebbings` · 14 小时前  
+`Harry Stebbings` · 22 小时前  
 
 **[California in-migration and out-migration](https://marginalrevolution.com/marginalrevolution/2026/10/california-in-migration-and-out-migration.html?utm_source=rss&utm_medium=rss&utm_campaign=california-in-migration-and-out-migration)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[The origin of risk](https://marginalrevolution.com/marginalrevolution/2026/10/the-origin-of-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-origin-of-risk)**  
 `Tyler Cowen` · 1 天前  
@@ -151,12 +154,9 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[On *Stubborn Attachments* and religion (from my email)](https://marginalrevolution.com/marginalrevolution/2026/10/on-stubborn-attachments-and-religion-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=on-stubborn-attachments-and-religion-from-my-email)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 **[AI is solving math problems faster than humans can understand the solutions](https://www.platformer.news/openai-math-breakthroughs-tao-reaction/)**  
-`Casey Newton` · 1 天前  
-
-**[E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔](https://sv101.fireside.fm/269)**  
-`陈茜` · 1 天前  
+`Casey Newton` · 2 天前  
 
 <!-- POSTS:END -->
