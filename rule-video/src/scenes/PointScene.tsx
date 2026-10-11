@@ -2,7 +2,7 @@ import {AbsoluteFill, interpolate, spring, useCurrentFrame, useVideoConfig} from
 import {ChartBlock} from '../components/ChartBlock';
 import {Emphasis} from '../components/Emphasis';
 import {contentBox, type Layout} from '../lib/layout';
-import {theme} from '../lib/theme';
+import {balanced, theme} from '../lib/theme';
 import type {Point} from '../lib/timeline';
 
 /** 一个要点：序号 + 标题；有图表时竖版上下排、横版左右排。 */
@@ -38,7 +38,7 @@ export const PointScene: React.FC<{point: Point; index: number; count: number; l
 			>
 				{String(index + 1).padStart(2, '0')} / {String(count).padStart(2, '0')}
 			</div>
-			<div style={{fontSize: headingSize, fontWeight: 800, lineHeight: 1.22}}>
+			<div style={{...balanced, fontSize: headingSize, fontWeight: 800, lineHeight: 1.22}}>
 				<Emphasis text={point.text} accent={accent} />
 			</div>
 		</div>
