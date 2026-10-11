@@ -95,3 +95,16 @@ npm run render -- episodes/ep02-xxx.json      # 出 out/ep02-xxx-竖版.mp4 和 
 
 `episodes/ep01-kanyidao.json` 里的数字来自一个示意模型：每刀砍掉剩余金额的 8%。
 它不是任何平台的真实参数，正式发之前，换成真实数据或你自己的模拟结果。
+
+## 单期定制：《沉没成本》
+
+横版 1920×1080，仿知识动画的风格：暖黑底、金色和银灰、衬线标题、每屏都有隐喻动画（金币沉池、等式划掉、电影票分叉、恋爱年份轴、成本账卡片、损失厌恶天平……）。
+
+```bash
+npm run studio          # 左边选 SunkCost 预览
+npm run render:sunk     # 输出 out/ep02-沉没成本.mp4
+```
+
+改口播就改 `episodes/ep02-sunk-cost.json`：每个场景的 `narration` 决定时长，`highlight` 是字幕里标金色的词。
+动画按口播里的关键词自动对齐（比如念到"走掉"时分叉线才画出来），所以改字时别删掉这些关键词；删了也能播，只是动画会退回到固定时间点。
+录好配音后，在每个场景加 `"seconds"` 填实际秒数，再把配音放进 public/，写 `"voiceover": "文件名"`。

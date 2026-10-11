@@ -3,12 +3,19 @@ import {RuleVideo} from './RuleVideo';
 import {LAYOUTS} from './lib/layout';
 import {buildTimeline, FPS, type RuleScript} from './lib/timeline';
 import example from '../episodes/ep01-kanyidao.json';
+import sunkExample from '../episodes/ep02-sunk-cost.json';
+import {SunkCost, type SunkProps} from './sunk/SunkCost';
+import {buildSunkTimeline} from './sunk/timeline';
 
 // 换一期：Studio 右侧改 props，或渲染时 --props=episodes/xxx.json
 const defaultProps = example as RuleScript;
 
 const calculateMetadata: CalculateMetadataFunction<RuleScript> = ({props}) => ({
 	durationInFrames: Math.max(1, buildTimeline(props).totalFrames),
+});
+
+const sunkMetadata: CalculateMetadataFunction<SunkProps> = ({props}) => ({
+	durationInFrames: Math.max(1, buildSunkTimeline(props).totalFrames),
 });
 
 export const RemotionRoot: React.FC = () => (
@@ -26,5 +33,16 @@ export const RemotionRoot: React.FC = () => (
 				calculateMetadata={calculateMetadata}
 			/>
 		))}
+		{/* 单期定制：沉没成本（横版，仿知识动画风格） */}
+		<Composition
+			id="SunkCost"
+			component={SunkCost}
+			width={1920}
+			height={1080}
+			fps={FPS}
+			durationInFrames={FPS * 100}
+			defaultProps={sunkExample as SunkProps}
+			calculateMetadata={sunkMetadata}
+		/>
 	</>
 );

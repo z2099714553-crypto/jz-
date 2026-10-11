@@ -10,6 +10,7 @@
     "studio": "remotion studio",
     "check": "node --experimental-strip-types --no-warnings scripts/check.ts",
     "render": "node scripts/render.mjs",
+    "render:sunk": "remotion render SunkCost out/ep02-沉没成本.mp4 --props=episodes/ep02-sunk-cost.json",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
