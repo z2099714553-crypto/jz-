@@ -1,5 +1,6 @@
 import {AbsoluteFill, interpolate, spring, useCurrentFrame, useVideoConfig} from 'remotion';
 import {Emphasis} from '../components/Emphasis';
+import {VisualBlock} from '../components/visuals';
 import {contentBox, type Layout} from '../lib/layout';
 import {balanced} from '../lib/theme';
 import type {RuleScript} from '../lib/timeline';
@@ -29,7 +30,7 @@ export const OutroScene: React.FC<{outro: RuleScript['outro']; layout: Layout; a
 					flexDirection: 'column',
 					justifyContent: 'center',
 					alignItems: layout.vertical ? 'flex-start' : 'center',
-					gap: 60,
+					gap: outro.visual ? 40 : 60,
 				}}
 			>
 				<div
@@ -43,6 +44,15 @@ export const OutroScene: React.FC<{outro: RuleScript['outro']; layout: Layout; a
 				>
 					<Emphasis text={outro.text} accent={accent} />
 				</div>
+				{outro.visual && (
+					<VisualBlock
+						visual={outro.visual}
+						width={layout.vertical ? box.width : box.width * 0.6}
+						height={box.height * 0.38}
+						accent={accent}
+						delay={8}
+					/>
+				)}
 				{outro.cta && (
 					<div
 						style={{

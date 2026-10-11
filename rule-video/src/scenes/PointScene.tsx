@@ -1,6 +1,7 @@
 import {AbsoluteFill, interpolate, spring, useCurrentFrame, useVideoConfig} from 'remotion';
 import {ChartBlock} from '../components/ChartBlock';
 import {Emphasis} from '../components/Emphasis';
+import {VisualBlock} from '../components/visuals';
 import {contentBox, type Layout} from '../lib/layout';
 import {balanced, theme} from '../lib/theme';
 import type {Point} from '../lib/timeline';
@@ -19,11 +20,17 @@ export const PointScene: React.FC<{point: Point; index: number; count: number; l
 	const enter = spring({frame, fps, config: {damping: 200}, durationInFrames: 18});
 	const fade = interpolate(frame, [0, 6], [0, 1], {extrapolateRight: 'clamp'});
 
-	const {chart} = point;
-	const sideBySide = chart && !layout.vertical;
-	const headingSize = chart ? (layout.vertical ? 76 : 72) : layout.vertical ? 104 : 100;
+	const {chart, visual} = point;
+	const media = Boolean(chart || visual);
+	const sideBySide = media && !layout.vertical;
+	const headingSize = media ? (layout.vertical ? 76 : 72) : layout.vertical ? 104 : 100;
 	const headingWidth = sideBySide ? box.width * 0.38 : box.width;
-	const headingHeight = chart && layout.vertical ? 300 : box.height;
+	const headingHeight = media && layout.vertical ? 300 : box.height;
+
+	const mediaBox = {
+		width: sideBySide ? box.width * 0.56 : box.width,
+		height: sideBySide ? box.height * 0.9 : box.height - headingHeight - 50,
+	};
 
 	const heading = (
 		<div style={{width: headingWidth, transform: `translateY(${(1 - enter) * 40}px)`}}>
@@ -55,22 +62,18 @@ export const PointScene: React.FC<{point: Point; index: number; count: number; l
 					height: box.height,
 					display: 'flex',
 					flexDirection: sideBySide ? 'row' : 'column',
-					justifyContent: chart ? 'space-between' : 'center',
+					justifyContent: media ? 'space-between' : 'center',
 					alignItems: sideBySide ? 'center' : 'stretch',
 				}}
 			>
-				<div style={{height: sideBySide ? 'auto' : chart ? headingHeight : 'auto', display: 'flex', alignItems: 'flex-end'}}>
+				<div style={{height: sideBySide ? 'auto' : media ? headingHeight : 'auto', display: 'flex', alignItems: 'flex-end'}}>
 					{heading}
 				</div>
-				{chart && (
-					<ChartBlock
-						chart={chart}
-						width={sideBySide ? box.width * 0.56 : box.width}
-						height={sideBySide ? box.height * 0.9 : box.height - headingHeight - 50}
-						accent={accent}
-						delay={12}
-					/>
-				)}
+				{chart ? (
+					<ChartBlock chart={chart} {...mediaBox} accent={accent} delay={12} />
+				) : visual ? (
+					<VisualBlock visual={visual} {...mediaBox} accent={accent} delay={12} />
+				) : null}
 			</div>
 		</AbsoluteFill>
 	);

@@ -1,6 +1,6 @@
 // 用法：npm run check -- episodes/xxx.json
 // 打印时间轴和字幕切分；时长不在 55–65 秒或脚本有错误时退出码为 1。
-import {readFileSync} from 'node:fs';
+import {existsSync, readFileSync} from 'node:fs';
 import {captionsFor, validate, type RuleScript} from '../src/lib/timeline.ts';
 import {LAYOUTS} from '../src/lib/layout.ts';
 
@@ -12,6 +12,15 @@ if (!file) {
 
 const script = JSON.parse(readFileSync(file, 'utf8')) as RuleScript;
 const {errors, warnings, timeline} = validate(script);
+
+// 图片和配音要放在 public/ 下，渲染时找不到会直接报错，这里提前查
+const assets = [script.hook, ...script.points, script.outro]
+	.map((seg) => (seg?.visual?.type === 'image' ? seg.visual.src : null))
+	.concat(script.voiceover ?? null)
+	.filter((src): src is string => Boolean(src));
+for (const src of assets) {
+	if (!existsSync(`public/${src}`)) errors.push(`找不到 public/${src}`);
+}
 
 if (timeline) {
 	const sec = (f: number) => (f / 30).toFixed(1).padStart(5);
