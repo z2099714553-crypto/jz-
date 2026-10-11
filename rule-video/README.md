@@ -54,6 +54,23 @@ npm run render -- episodes/ep02-xxx.json      # 出 out/ep02-xxx-竖版.mp4 和 
 }
 ```
 
+### 配图
+
+开头、每个要点、结尾都可以加一个 `"visual"`，挂在大字或标题下面。要点里已经有 `chart` 的，优先显示图表。
+
+| type | 画的是什么 | 字段 |
+|---|---|---|
+| `progress` | 砍价式进度条：前 95% 一下冲上去，剩下的慢慢挪 | `value` 百分比，`label`，`note` 底下一行字 |
+| `people` | 小人方阵一个个蹦出来，计数往上跳 | `count` 人数（最多画 100 个），`highlight` 最后几个标成强调色，`label` |
+| `network` | 中心是"你"，连线射向一圈人 | `count`（最多 24），`center` 中心文字，`label` |
+| `number` | 一个大数字从 0 跳上去 | `value`，`unit`，`label` |
+| `image` | 你自己的图片或截图，缓慢推近 | `src` 是 public/ 下的文件名，`caption` |
+
+```jsonc
+"visual": {"type": "people", "count": 50, "label": "个人已经帮你砍过"}
+"visual": {"type": "image", "src": "kanjia-screenshot.png", "caption": "某平台活动页截图"}
+```
+
 ### 时长怎么算
 
 每段时长按口播字数估算：汉字和数字各算 1 个音节，`%` 算 3 个（读作"百分之"），标点算半个停顿，默认语速每秒 4.5 字。
@@ -71,6 +88,7 @@ npm run render -- episodes/ep02-xxx.json      # 出 out/ep02-xxx-竖版.mp4 和 
 | `src/lib/theme.ts` | 配色和字体 |
 | `src/scenes/` | 开头、要点、结尾三种场景 |
 | `src/components/` | 条形图、折线图、字幕、进度条 |
+| `src/components/visuals/` | 配图：进度条、小人方阵、关系网、大数字、图片 |
 | `episodes/` | 每期一份脚本 |
 
 ## 示例这期的数据

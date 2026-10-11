@@ -13,9 +13,20 @@ export type Chart = {
 	source?: string;
 };
 
+/** 配图：用代码画的示意图，或 public/ 下你自己的图片 */
+export type Visual =
+	| {type: 'progress'; value: number; label?: string; note?: string}
+	| {type: 'people'; count: number; highlight?: number; label?: string}
+	| {type: 'network'; count: number; center?: string; label?: string}
+	| {type: 'number'; value: number; unit?: string; label?: string}
+	| {type: 'image'; src: string; caption?: string};
+
+export const VISUAL_TYPES = ['progress', 'people', 'network', 'number', 'image'] as const;
+
 export type Segment = {
 	/** 屏幕上的大字 */
 	text: string;
+	visual?: Visual;
 	/** 口播 / 字幕。时长按它的字数估算 */
 	narration: string;
 	/** 录好配音后，用实际秒数覆盖估算 */
@@ -139,7 +150,7 @@ export function buildTimeline(script: RuleScript): Timeline {
 			kind: 'point' as const,
 			index: i,
 			seg: p,
-			min: p.chart ? MIN_SECONDS.chart : MIN_SECONDS.point,
+			min: p.chart || p.visual ? MIN_SECONDS.chart : MIN_SECONDS.point,
 		})),
 		{kind: 'outro', index: 0, seg: script.outro, min: MIN_SECONDS.outro},
 	];
@@ -232,6 +243,25 @@ export function validate(script: RuleScript): Report {
 		if (!c.source) warnings.push(`${at}.chart 没写 source，数据来源要交代`);
 	});
 	if (!charts) warnings.push('没有任何图表，至少给一个要点配 chart');
+
+	const segments: [string, Segment][] = [
+		['hook', script.hook],
+		...script.points.map((p, i): [string, Segment] => [`points[${i}]`, p]),
+		['outro', script.outro],
+	];
+	for (const [at, seg] of segments) {
+		const v = seg.visual;
+		if (!v) continue;
+		if (!VISUAL_TYPES.includes(v.type)) {
+			errors.push(`${at}.visual.type 只能是 ${VISUAL_TYPES.join(' / ')}`);
+			continue;
+		}
+		if ('chart' in seg && seg.chart) warnings.push(`${at} 同时有 chart 和 visual，只显示 chart`);
+		if (v.type === 'progress') need(v.value >= 0 && v.value <= 100, `${at}.visual.value 是百分比，要在 0 到 100 之间`);
+		if (v.type === 'people' || v.type === 'network') need(Number.isInteger(v.count) && v.count > 0, `${at}.visual.count 必须是正整数`);
+		if (v.type === 'number') need(Number.isFinite(v.value), `${at}.visual.value 必须是数字`);
+		if (v.type === 'image') need(typeof v.src === 'string' && v.src, `${at}.visual.src 要写 public/ 下的文件名`);
+	}
 	if (errors.length) return {errors, warnings};
 
 	const timeline = buildTimeline(script);
