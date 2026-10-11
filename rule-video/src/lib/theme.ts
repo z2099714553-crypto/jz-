@@ -9,3 +9,6 @@ export const theme = {
 	font: '"PingFang SC", "Noto Sans SC", "Source Han Sans SC", "Microsoft YaHei", "WenQuanYi Zen Hei", sans-serif',
 	numFont: '"DIN Alternate", "Roboto Mono", "SF Mono", "PingFang SC", sans-serif',
 };
+
+/** 多行标题均衡换行，避免最后一行只剩一个字（"一小部 / 分"）。 */
+export const balanced = {textWrap: 'balance'} as React.CSSProperties;

@@ -1,6 +1,7 @@
 import {AbsoluteFill, interpolate, spring, useCurrentFrame, useVideoConfig} from 'remotion';
 import {Emphasis} from '../components/Emphasis';
 import {contentBox, type Layout} from '../lib/layout';
+import {balanced} from '../lib/theme';
 import type {RuleScript} from '../lib/timeline';
 
 /** 结尾：重申结论 + 关注引导。 */
@@ -33,6 +34,7 @@ export const OutroScene: React.FC<{outro: RuleScript['outro']; layout: Layout; a
 			>
 				<div
 					style={{
+						...balanced,
 						fontSize: layout.vertical ? 104 : 96,
 						fontWeight: 900,
 						lineHeight: 1.2,

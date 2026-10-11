@@ -1,6 +1,6 @@
 import {useCurrentFrame} from 'remotion';
 import type {Layout} from '../lib/layout';
-import {theme} from '../lib/theme';
+import {balanced, theme} from '../lib/theme';
 import {captionsFor, type Scene} from '../lib/timeline';
 
 export const Captions: React.FC<{scene: Scene; layout: Layout}> = ({scene, layout}) => {
@@ -23,6 +23,7 @@ export const Captions: React.FC<{scene: Scene; layout: Layout}> = ({scene, layou
 		>
 			<div
 				style={{
+					...balanced,
 					fontSize: layout.captionSize,
 					fontWeight: 700,
 					lineHeight: 1.3,
