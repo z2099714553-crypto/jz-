@@ -112,25 +112,28 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-11 12:51 UTC*
+*更新于 2026-10-11 19:34 UTC*
 
-**[Why every company now needs to think and operate like a lab team \| Josh Woodward (Google Labs, Gemini, AI Studio)](https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think)**  
-`Lenny Rachitsky` · 刚刚  
-
-**[Sky Roomba!](https://marginalrevolution.com/marginalrevolution/2026/10/sky-roomba.html?utm_source=rss&utm_medium=rss&utm_campaign=sky-roomba)**  
-`Tyler Cowen` · 1 小时前  
-
-**[What should I ask Fuchsia Dunlop?](https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-fuchsia-dunlop-2.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-fuchsia-dunlop-2)**  
+**[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-586)**  
 `Tyler Cowen` · 3 小时前  
 
+**[Why every company now needs to think and operate like a lab team \| Josh Woodward (Google Labs, Gemini, AI Studio)](https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think)**  
+`Lenny Rachitsky` · 7 小时前  
+
+**[Sky Roomba!](https://marginalrevolution.com/marginalrevolution/2026/10/sky-roomba.html?utm_source=rss&utm_medium=rss&utm_campaign=sky-roomba)**  
+`Tyler Cowen` · 8 小时前  
+
+**[What should I ask Fuchsia Dunlop?](https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-fuchsia-dunlop-2.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-fuchsia-dunlop-2)**  
+`Tyler Cowen` · 10 小时前  
+
 **[The economics of agents](https://marginalrevolution.com/marginalrevolution/2026/10/the-economics-of-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-agents)**  
-`Tyler Cowen` · 7 小时前  
+`Tyler Cowen` · 14 小时前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-582)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[🧠 Community Wisdom: Community Wisdom Top Contributors Summer Class 2026 + ML recommendation systems, getting back into product after being fired, deciding when to quit a side project, and more](https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom)**  
-`Lenny Rachitsky` · 23 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[When Saturday Comes](https://www.netinterest.co/p/when-saturday-comes)**  
 `Marc Rubinstein` · 1 天前  
@@ -145,18 +148,15 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[The origin of risk](https://marginalrevolution.com/marginalrevolution/2026/10/the-origin-of-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-origin-of-risk)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 **[2026.41: It’s Not You, It’s Me](https://stratechery.com/2026/its-not-you-its-me/)**  
-`Ben Thompson` · 1 天前  
+`Ben Thompson` · 2 天前  
 
 **[Ethiopia update](https://marginalrevolution.com/marginalrevolution/2026/10/ethiopia-update.html?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-update)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-594.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-594)**  
-`Tyler Cowen` · 1 天前  
-
-**[Weekly Dose of Optimism #214](https://www.notboring.co/p/weekly-dose-of-optimism-214)**  
-`Packy McCormick` · 2 天前  
+`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
