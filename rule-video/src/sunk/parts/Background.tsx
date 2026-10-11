@@ -1,5 +1,6 @@
 import {AbsoluteFill, useCurrentFrame} from 'remotion';
-import {gold, H, W} from '../theme';
+import {gold} from '../theme';
+import {useStage} from './stage';
 
 // 固定的"随机"光线，保证每次渲染一样
 const STREAKS = Array.from({length: 18}, (_, i) => ({
@@ -12,7 +13,8 @@ const STREAKS = Array.from({length: 18}, (_, i) => ({
 /** 暖黑底 + 缓慢漂移的水平光线 + 透视地板线 + 中心金色辉光。 */
 export const Background: React.FC<{glow?: number}> = ({glow = 1}) => {
 	const frame = useCurrentFrame();
-	const horizon = H * 0.62;
+	const {w: W, h: H, v} = useStage();
+	const horizon = H * (v ? 0.7 : 0.62);
 	return (
 		<AbsoluteFill style={{backgroundColor: gold.bg, overflow: 'hidden'}}>
 			<div

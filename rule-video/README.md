@@ -102,7 +102,8 @@ npm run render -- episodes/ep02-xxx.json      # 出 out/ep02-xxx-竖版.mp4 和 
 
 ```bash
 npm run studio          # 左边选 SunkCost 预览
-npm run render:sunk     # 输出 out/ep02-沉没成本.mp4
+npm run render:sunk     # 横版：out/ep02-沉没成本.mp4
+npm run render:sunk-v   # 竖版：out/ep02-沉没成本-竖版.mp4（每个场景单独排过，避开抖音的按钮和文案区）
 ```
 
 改口播就改 `episodes/ep02-sunk-cost.json`：每个场景的 `narration` 决定时长，`highlight` 是字幕里标金色的词。

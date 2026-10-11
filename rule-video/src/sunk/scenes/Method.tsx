@@ -2,12 +2,14 @@ import {AbsoluteFill, interpolate, useCurrentFrame} from 'remotion';
 import {clamp, pop, ramp, rise} from '../parts/anim';
 import {Coin} from '../parts/Coin';
 import {Pill} from '../parts/Text';
+import {useStage} from '../parts/stage';
 import {gold} from '../theme';
 import {cue, type SunkScene} from '../timeline';
 
 /** 怎么办：三步卡片，每张都有自己的小动画。 */
 export const Method: React.FC<{scene: SunkScene}> = ({scene}) => {
 	const frame = useCurrentFrame();
+	const {v} = useStage();
 	const t = [cue(scene, '划掉', 0.3), cue(scene, '只比较未来', 0.45), cue(scene, '如果从零开始', 0.65)];
 	const tAsk = cue(scene, '我还会选它吗', 0.85);
 	const strike = interpolate(frame, [t[0] + 10, t[0] + 24], [0, 1], clamp);
@@ -43,24 +45,26 @@ export const Method: React.FC<{scene: SunkScene}> = ({scene}) => {
 						key={title}
 						style={{
 							position: 'absolute',
-							left: 230 + i * 500,
-							top: 230,
-							width: 460,
-							height: 500,
+							// 横版三张并排；竖版三张竖排成横条
+							left: v ? 80 : 230 + i * 500,
+							top: v ? 330 + i * 330 : 230,
+							width: v ? 840 : 460,
+							height: v ? 290 : 500,
 							borderRadius: 28,
 							border: `2px solid ${gold.gold}${i === 2 && ask > 0 ? 'CC' : '55'}`,
 							background: 'linear-gradient(180deg, rgba(36,30,20,0.9), rgba(14,14,18,0.9))',
 							boxShadow: `0 0 ${70 * glow}px rgba(233,180,76,0.45)`,
 							display: 'flex',
-							flexDirection: 'column',
+							flexDirection: v ? 'row' : 'column',
 							alignItems: 'center',
 							justifyContent: 'space-evenly',
+							padding: v ? '0 30px' : undefined,
 							...rise(p, 60),
 						}}
 					>
 						<div style={{fontFamily: gold.serif, fontWeight: 900, fontSize: 80, color: gold.gold}}>{i + 1}</div>
-						<div style={{height: 160, display: 'flex', alignItems: 'center'}}>{illos[i]}</div>
-						<div style={{fontFamily: gold.sans, fontWeight: 700, fontSize: 38, color: gold.text}}>{title}</div>
+						<div style={{height: 160, width: v ? 220 : undefined, display: 'flex', alignItems: 'center', justifyContent: 'center'}}>{illos[i]}</div>
+						<div style={{fontFamily: gold.sans, fontWeight: 700, fontSize: 38, color: gold.text, width: v ? 400 : undefined, textAlign: 'center', whiteSpace: 'nowrap'}}>{title}</div>
 					</div>
 				);
 			})}

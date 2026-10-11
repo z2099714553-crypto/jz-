@@ -33,16 +33,19 @@ export const RemotionRoot: React.FC = () => (
 				calculateMetadata={calculateMetadata}
 			/>
 		))}
-		{/* 单期定制：沉没成本（横版，仿知识动画风格） */}
-		<Composition
-			id="SunkCost"
-			component={SunkCost}
-			width={1920}
-			height={1080}
-			fps={FPS}
-			durationInFrames={FPS * 100}
-			defaultProps={sunkExample as SunkProps}
-			calculateMetadata={sunkMetadata}
-		/>
+		{/* 单期定制：沉没成本（仿知识动画风格），横版 + 竖版 */}
+		{([['SunkCost', 1920, 1080], ['SunkCostVertical', 1080, 1920]] as const).map(([id, width, height]) => (
+			<Composition
+				key={id}
+				id={id}
+				component={SunkCost}
+				width={width}
+				height={height}
+				fps={FPS}
+				durationInFrames={FPS * 100}
+				defaultProps={sunkExample as SunkProps}
+				calculateMetadata={sunkMetadata}
+			/>
+		))}
 	</>
 );

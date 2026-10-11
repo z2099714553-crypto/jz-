@@ -2,21 +2,24 @@ import {useCurrentFrame} from 'remotion';
 import {captionsFor} from '../../lib/timeline';
 import {gold} from '../theme';
 import type {SunkScene} from '../timeline';
+import {useStage} from './stage';
 import {Highlight} from './Text';
 
 /** 底部居中一行字幕，关键词金色。参考视频的字幕风格。 */
 export const Caption: React.FC<{scene: SunkScene}> = ({scene}) => {
 	const frame = useCurrentFrame();
-	const current = captionsFor({...scene, kind: 'point', index: 0}, 20).find(
+	const {v} = useStage();
+	const current = captionsFor({...scene, kind: 'point', index: 0}, v ? 12 : 20).find(
 		(c) => frame >= c.from && frame < c.from + c.duration,
 	);
 	if (!current) return null;
 	return (
-		<div style={{position: 'absolute', left: 0, right: 0, bottom: 70, display: 'flex', justifyContent: 'center'}}>
+		<div style={{position: 'absolute', left: v ? 60 : 0, right: v ? 160 : 0, bottom: v ? 430 : 70, display: 'flex', justifyContent: 'center'}}>
 			<div
 				style={{
 					fontFamily: gold.sans,
-					fontSize: 46,
+					fontSize: v ? 56 : 46,
+					textAlign: 'center',
 					fontWeight: 600,
 					color: gold.text,
 					letterSpacing: 2,
@@ -30,15 +33,16 @@ export const Caption: React.FC<{scene: SunkScene}> = ({scene}) => {
 };
 
 /** 左上角章节名。 */
-export const Chapter: React.FC<{text?: string}> = ({text}) =>
-	text ? (
+export const Chapter: React.FC<{text?: string}> = ({text}) => {
+	const {v} = useStage();
+	return text ? (
 		<div
 			style={{
 				position: 'absolute',
-				top: 48,
-				left: 64,
+				top: v ? 210 : 48,
+				left: v ? 60 : 64,
 				fontFamily: gold.sans,
-				fontSize: 24,
+				fontSize: v ? 30 : 24,
 				letterSpacing: 4,
 				color: gold.muted,
 			}}
@@ -46,3 +50,4 @@ export const Chapter: React.FC<{text?: string}> = ({text}) =>
 			{text}
 		</div>
 	) : null;
+};

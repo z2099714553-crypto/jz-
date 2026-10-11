@@ -2,6 +2,7 @@ import {AbsoluteFill, interpolate, useCurrentFrame} from 'remotion';
 import {clamp, pop, ramp} from '../parts/anim';
 import {Coin} from '../parts/Coin';
 import {GoldTitle} from '../parts/Text';
+import {useStage} from '../parts/stage';
 import {gold} from '../theme';
 import {cue, type SunkScene} from '../timeline';
 
@@ -14,6 +15,8 @@ const CARDS = [
 /** 日常连拍：三张卡片翻进来，最后一起滑进同一个坑。 */
 export const Montage: React.FC<{scene: SunkScene}> = ({scene}) => {
 	const frame = useCurrentFrame();
+	const {v, cx} = useStage();
+	const pitY = v ? 1260 : 800;
 	const tPit = cue(scene, '同一个坑', 0.8);
 	const fall = interpolate(frame, [tPit, tPit + 22], [0, 1], {...clamp, easing: (t) => t * t});
 	return (
@@ -22,9 +25,9 @@ export const Montage: React.FC<{scene: SunkScene}> = ({scene}) => {
 			<div
 				style={{
 					position: 'absolute',
-					left: 960 - 560,
-					top: 800,
-					width: 1120,
+					left: cx - (v ? 450 : 560),
+					top: pitY,
+					width: v ? 900 : 1120,
 					height: 120,
 					borderRadius: '50%',
 					background: 'radial-gradient(ellipse at center, #000 45%, rgba(233,180,76,0.25) 72%, transparent 78%)',
@@ -34,35 +37,40 @@ export const Montage: React.FC<{scene: SunkScene}> = ({scene}) => {
 			{CARDS.map((c, i) => {
 				const t = cue(scene, c.key, 0.15 + i * 0.2);
 				const flip = pop(frame, t, 30, 14);
-				const x = 360 + i * 400;
+				// 横版三张并排；竖版三张竖排，卡片改成横条
+				const box = v
+					? {left: 80, top: 330 + i * 290, width: 840, height: 250}
+					: {left: 360 + i * 400, top: 220, width: 360, height: 420};
 				return (
 					<div
 						key={c.key}
 						style={{
 							position: 'absolute',
-							left: x,
-							top: 220 + fall * 560,
-							width: 400 - 40,
-							height: 420,
+							left: box.left,
+							top: box.top + fall * (pitY - box.top - 40),
+							width: box.width,
+							height: box.height,
 							borderRadius: 28,
 							border: `1.5px solid ${gold.gold}66`,
 							background: 'linear-gradient(180deg, rgba(40,34,22,0.9), rgba(18,18,22,0.9))',
 							display: 'flex',
-							flexDirection: 'column',
+							flexDirection: v ? 'row' : 'column',
 							alignItems: 'center',
 							justifyContent: 'center',
-							gap: 26,
+							gap: v ? 40 : 26,
 							transform: `perspective(900px) rotateY(${(1 - flip) * 90}deg) rotate(${fall * (i - 1) * 25}deg) scale(${1 - fall * 0.5})`,
 							opacity: Math.min(1, flip * 2) * (1 - fall * 0.9),
 						}}
 					>
 						<Coin size={120} label={c.glyph} />
-						<div style={{fontFamily: gold.sans, fontSize: 40, fontWeight: 700, color: gold.text}}>{c.title}</div>
-						<div style={{fontFamily: gold.sans, fontSize: 28, color: gold.muted}}>{c.sub}</div>
+						<div style={{display: 'flex', flexDirection: 'column', alignItems: v ? 'flex-start' : 'center', gap: v ? 14 : 26}}>
+							<div style={{fontFamily: gold.sans, fontSize: v ? 46 : 40, fontWeight: 700, color: gold.text}}>{c.title}</div>
+							<div style={{fontFamily: gold.sans, fontSize: v ? 32 : 28, color: gold.muted}}>{c.sub}</div>
+						</div>
 					</div>
 				);
 			})}
-			<div style={{position: 'absolute', top: 360, left: 0, right: 0, display: 'flex', justifyContent: 'center'}}>
+			<div style={{position: 'absolute', top: v ? 640 : 360, left: 0, right: 0, display: 'flex', justifyContent: 'center'}}>
 				<GoldTitle size={120} reveal={ramp(frame, tPit + 8, 18)}>
 					同一个坑
 				</GoldTitle>
