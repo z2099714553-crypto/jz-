@@ -112,22 +112,34 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-12 00:33 UTC*
+*更新于 2026-10-12 10:51 UTC*
+
+**[The Nobel Prize Goes to Robert Hall and Michael Woodford](https://marginalrevolution.com/marginalrevolution/2026/10/the-nobel-prize-goes-to-robert-hall-and-michael-woodford.html?utm_source=rss&utm_medium=rss&utm_campaign=the-nobel-prize-goes-to-robert-hall-and-michael-woodford)**  
+`Tyler Cowen` · 刚刚  
+
+**[Personal Day](https://stratechery.com/2026/personal-day-4/)**  
+`Ben Thompson` · 刚刚  
+
+**[20VC: Atlassian CEO on Why Agents Won't Replace Interfaces \| Why Enterprises Won't Trust Chinese Models \| Why The Jury Is Still Out On The Benefits of Specialised Models with Mike Cannon-Brookes](https://thetwentyminutevc.libsyn.com/20vc-atlassian-ceo-on-why-agents-wont-replace-interfaces-why-enterprises-wont-trust-chinese-models-why-the-jury-is-still-out-on-the-benefits-of-specialised-models-with-mike-cannon-brookes)**  
+`Harry Stebbings` · 3 小时前  
+
+**[Okie-dokie, Casey Handmer edition](https://marginalrevolution.com/marginalrevolution/2026/10/okie-dokie-casey-handmer-edition.html?utm_source=rss&utm_medium=rss&utm_campaign=okie-dokie-casey-handmer-edition)**  
+`Tyler Cowen` · 6 小时前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-586)**  
-`Tyler Cowen` · 8 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[Why every company now needs to think and operate like a lab team \| Josh Woodward (Google Labs, Gemini, AI Studio)](https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think)**  
-`Lenny Rachitsky` · 12 小时前  
+`Lenny Rachitsky` · 22 小时前  
 
 **[Sky Roomba!](https://marginalrevolution.com/marginalrevolution/2026/10/sky-roomba.html?utm_source=rss&utm_medium=rss&utm_campaign=sky-roomba)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[What should I ask Fuchsia Dunlop?](https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-fuchsia-dunlop-2.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-fuchsia-dunlop-2)**  
-`Tyler Cowen` · 15 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[The economics of agents](https://marginalrevolution.com/marginalrevolution/2026/10/the-economics-of-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-agents)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-582)**  
 `Tyler Cowen` · 1 天前  
@@ -139,24 +151,12 @@ open docs/index.html
 `Marc Rubinstein` · 1 天前  
 
 **[Earth facts of the day](https://marginalrevolution.com/marginalrevolution/2026/10/earth-facts-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=earth-facts-of-the-day)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 **[20Sales: Inside Ramp's Sales Playbook: How to Build a Sales Machine with Max Freeman, SVP Sales @ Ramp](https://thetwentyminutevc.libsyn.com/20sales-inside-ramps-sales-playbook-how-to-build-a-17bn-arr-sales-machine-with-max-freeman-svp-sales-ramp)**  
-`Harry Stebbings` · 1 天前  
+`Harry Stebbings` · 2 天前  
 
 **[California in-migration and out-migration](https://marginalrevolution.com/marginalrevolution/2026/10/california-in-migration-and-out-migration.html?utm_source=rss&utm_medium=rss&utm_campaign=california-in-migration-and-out-migration)**  
-`Tyler Cowen` · 1 天前  
-
-**[The origin of risk](https://marginalrevolution.com/marginalrevolution/2026/10/the-origin-of-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-origin-of-risk)**  
-`Tyler Cowen` · 2 天前  
-
-**[2026.41: It’s Not You, It’s Me](https://stratechery.com/2026/its-not-you-its-me/)**  
-`Ben Thompson` · 2 天前  
-
-**[Ethiopia update](https://marginalrevolution.com/marginalrevolution/2026/10/ethiopia-update.html?utm_source=rss&utm_medium=rss&utm_campaign=ethiopia-update)**  
-`Tyler Cowen` · 2 天前  
-
-**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-594.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-594)**  
 `Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->

@@ -1,7 +1,71 @@
 {
-  "generated_at": "2026-10-12T00:33:18Z",
-  "count": 367,
+  "generated_at": "2026-10-12T10:51:17Z",
+  "count": 371,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/the-nobel-prize-goes-to-robert-hall-and-michael-woodford.html",
+      "title": "The Nobel Prize Goes to Robert Hall and Michael Woodford",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/the-nobel-prize-goes-to-robert-hall-and-michael-woodford.html?utm_source=rss&utm_medium=rss&utm_campaign=the-nobel-prize-goes-to-robert-hall-and-michael-woodford",
+      "published": "2026-10-12T10:06:32Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "More soon!\n\n The post The Nobel Prize Goes to Robert Hall and Michael Woodford appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-12T10:51:08Z"
+    },
+    {
+      "id": "https://stratechery.com/2026/personal-day-4",
+      "title": "Personal Day",
+      "link": "https://stratechery.com/2026/personal-day-4/",
+      "published": "2026-10-12T10:00:00Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "Personal Day — No Update",
+      "fetched_at": "2026-10-12T10:51:08Z"
+    },
+    {
+      "id": "https://thetwentyminutevc.libsyn.com/20vc-atlassian-ceo-on-why-agents-wont-replace-interfaces-why-enterprises-wont-trust-chinese-models-why-the-jury-is-still-out-on-the-benefits-of-specialised-models-with-mike-cannon-brookes",
+      "title": "20VC: Atlassian CEO on Why Agents Won't Replace Interfaces | Why Enterprises Won't Trust Chinese Models | Why The Jury Is Still Out On The Benefits of Specialised Models with Mike Cannon-Brookes",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-atlassian-ceo-on-why-agents-wont-replace-interfaces-why-enterprises-wont-trust-chinese-models-why-the-jury-is-still-out-on-the-benefits-of-specialised-models-with-mike-cannon-brookes",
+      "published": "2026-10-12T07:07:00Z",
+      "source": "20VC",
+      "author": "Harry Stebbings",
+      "lang": "en",
+      "tags": [
+        "创投",
+        "深度访谈"
+      ],
+      "type": "interview",
+      "raw_text": "Mike Cannon-Brookes is the Co-Founder and CEO of Atlassian, the company behind Jira, Confluence, Trello and Loom.\n Atlassian generated $6.5BN in ARR in 2026, and serves more than 350,000 customers, including over 85% of the Fortune 500. Today, Mike is leading its expansion into enterprise AI through Rovo and the Teamwork Graph, connecting company knowledge with AI agents.\n AGENDA: \n 03:00 Do AI Agents Turn Traditional Software Into Just Databases?\n 16:00 Will Enterprises Ever Trust Chinese AI Models?\n 20:00 Is Building Your Own AI Model a Losing Bet?\n 24:00 Can AI Startups Survive When They Finally Have to Care About Costs?\n 30:00 What Happens When AI Gets Cheaper Than Anyone Expects?\n 35:00 Is Company Context the Real Moat in Enterprise AI?\n 41:00 What Happens When OpenAI and Anthropic Come for Your Customers?\n 44:00 Why Are Young Founders Cashing Out More Than Ever?\n 49:00 What Does Nobody Tell You About Getting Rich?",
+      "fetched_at": "2026-10-12T10:51:17Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/okie-dokie-casey-handmer-edition.html",
+      "title": "Okie-dokie, Casey Handmer edition",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/okie-dokie-casey-handmer-edition.html?utm_source=rss&utm_medium=rss&utm_campaign=okie-dokie-casey-handmer-edition",
+      "published": "2026-10-12T04:20:47Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "I ve been prototyping an automated peer review project. With current models you get human level peer review for about $0.10 of tokens. For $5 you can rederive every result, check every statistical inference, and audit every paper cited in both directions.\n\n There are about 100m papers in the scientific corpus. Most are not important. Many are sloppy. For structural reasons it s essentially impossible to change published work, even to correct a typo.\n\n For $500m today you can thoroughly audit every paper ever written. Every p-hacked result, every plagiarist, every fabrication, every citation club, everything.\n\n I don t have $500m so instead I build a tree, focusing on the 1% of papers that carry 99% of the signal, doing a cheap first pass looking for obvious problems. I can find 90% of the nonsense for a few hundred dollars of tokens.\n\n Any guesses where the biggest surprises will be found?\n \n Here is the link .\n\n The post Okie-dokie, Casey Handmer edition appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-12T10:51:08Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-586.html",
       "title": "Sunday assorted links",
