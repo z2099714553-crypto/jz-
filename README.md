@@ -112,22 +112,22 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-11 19:34 UTC*
+*更新于 2026-10-12 00:33 UTC*
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-586)**  
-`Tyler Cowen` · 3 小时前  
-
-**[Why every company now needs to think and operate like a lab team \| Josh Woodward (Google Labs, Gemini, AI Studio)](https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think)**  
-`Lenny Rachitsky` · 7 小时前  
-
-**[Sky Roomba!](https://marginalrevolution.com/marginalrevolution/2026/10/sky-roomba.html?utm_source=rss&utm_medium=rss&utm_campaign=sky-roomba)**  
 `Tyler Cowen` · 8 小时前  
 
+**[Why every company now needs to think and operate like a lab team \| Josh Woodward (Google Labs, Gemini, AI Studio)](https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think)**  
+`Lenny Rachitsky` · 12 小时前  
+
+**[Sky Roomba!](https://marginalrevolution.com/marginalrevolution/2026/10/sky-roomba.html?utm_source=rss&utm_medium=rss&utm_campaign=sky-roomba)**  
+`Tyler Cowen` · 13 小时前  
+
 **[What should I ask Fuchsia Dunlop?](https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-fuchsia-dunlop-2.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-fuchsia-dunlop-2)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 15 小时前  
 
 **[The economics of agents](https://marginalrevolution.com/marginalrevolution/2026/10/the-economics-of-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-agents)**  
-`Tyler Cowen` · 14 小时前  
+`Tyler Cowen` · 19 小时前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-582)**  
 `Tyler Cowen` · 1 天前  
