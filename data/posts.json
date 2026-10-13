@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T21:17:01Z",
-  "count": 377,
+  "generated_at": "2026-10-13T02:36:52Z",
+  "count": 378,
   "posts": [
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-581.html",
@@ -81,7 +81,7 @@
         "商业评论"
       ],
       "type": "blog",
-      "raw_text": "Alex has already covered this , I will add a few remarks.\n\n First, every Bob Hall paper is interesting! Only a handful of economists can say the same. Every paper has an idea, and some sort of novel contribution. His lesser-known papers can be as thought-provoking as the more famous ones.\n\n Here is Bob on scholar.google.com . You will notice topping the list are important papers on economic growth, even though Bob is best known for his work on the consumption function, where he gave birth to an entire literature.\n\n One of the first Bob Hall papers I studied was his supply and demand analysis with David Lilien . It is one of the best papers for seeing how Bob approaches every issue by thinking like an economist .\n\n Bob also thought very creatively about how claims about the Solow residual could be translated into isomorphic claims about the gap between price and marginal cost, and for trying to apply that point to cyclical issues. Bob is one of the best researchers for thinking about the elasticity of supply.\n\n He did much of the core work on the Hall and Jorgensen 1967 (!) tax paper as an undergraduate.\n\n Bob also has important papers on rent-seeking and on looting .\n\n Second, Bob is the greatest commentator on other people s work of all time. He is nice and polite, but if he is assigned to your paper beware! He will find its flaws. He is also a famously great co-author, before that was established practice.\n\n Third, Bob was part of the production function for Andy Hall, whose work has been covered on this blog much as of late , mostly on AI and economics/social science. I also just learned there is a connection to Anne E. Hall at Treasury . And there is Jonathan Hall, economist at Uber!\n\n Fourth, Bob has in the past emailed me to correct typographical errors on this blog. It is the old saying that if you want to get something done, give it to a busy person.\n\n Here is the Nobel committee on the award , noting I find it slightly strange that they made stabilization the overall theme linking Bob with Michael Woodford.\n\n An award much deserved \n\n The post Robert E. Hall, Nobel Laureate appeared first on Marginal REVOLUTION .",
+      "raw_text": "Alex has already covered this , I will add a few remarks.\n\n First, every Bob Hall paper is interesting! Only a handful of economists can say the same. Every paper has an idea, and some sort of novel contribution. His lesser-known papers can be as thought-provoking as the more famous ones.\n\n Here is Bob on scholar.google.com . You will notice topping the list are important papers on economic growth, even though Bob is best known for his work on the consumption function, where he gave birth to an entire literature.\n\n One of the first Bob Hall papers I studied was his supply and demand analysis with David Lilien . It is one of the best papers for seeing how Bob approaches every issue by thinking like an economist .\n\n Bob also thought very creatively about how claims about the Solow residual could be translated into isomorphic claims about the gap between price and marginal cost, and for trying to apply that point to cyclical issues. Bob is one of the best researchers for thinking about the elasticity of supply.\n\n He did much of the core work on the Hall and Jorgensen 1967 (!) tax paper as an undergraduate.\n\n Bob also has important papers on rent-seeking and on looting .\n\n Second, Bob is the greatest commentator on other people s work of all time. He is nice and polite, but if he is assigned to your paper beware! He will find its flaws. He is also a famously great co-author, before that was established practice.\n\n Third, Bob was part of the production function for Andy Hall, whose work has been covered on this blog much as of late , mostly on AI and economics/social science. I also just learned there is a connection to Anne E. Hall at Treasury . And there is Jonathan Hall, chief economist at Amazon!\n\n Fourth, Bob has in the past emailed me to correct typographical errors on this blog. It is the old saying that if you want to get something done, give it to a busy person.\n\n Here is the Nobel committee on the award , noting I find it slightly strange that they made stabilization the overall theme linking Bob with Michael Woodford.\n\n An award much deserved \n\n The post Robert E. Hall, Nobel Laureate appeared first on Marginal REVOLUTION .",
       "fetched_at": "2026-10-12T21:16:49Z"
     },
     {
@@ -163,6 +163,22 @@
       "type": "blog",
       "raw_text": "I ve been prototyping an automated peer review project. With current models you get human level peer review for about $0.10 of tokens. For $5 you can rederive every result, check every statistical inference, and audit every paper cited in both directions.\n\n There are about 100m papers in the scientific corpus. Most are not important. Many are sloppy. For structural reasons it s essentially impossible to change published work, even to correct a typo.\n\n For $500m today you can thoroughly audit every paper ever written. Every p-hacked result, every plagiarist, every fabrication, every citation club, everything.\n\n I don t have $500m so instead I build a tree, focusing on the 1% of papers that carry 99% of the signal, doing a cheap first pass looking for obvious problems. I can find 90% of the nonsense for a few hundred dollars of tokens.\n\n Any guesses where the biggest surprises will be found?\n \n Here is the link .\n\n The post Okie-dokie, Casey Handmer edition appeared first on Marginal REVOLUTION .",
       "fetched_at": "2026-10-12T10:51:08Z"
+    },
+    {
+      "id": "https://tomtunguz.com/bardia-shahali-office-hours",
+      "title": "Sales in the Age of AI",
+      "link": "https://tomtunguz.com/bardia-shahali-office-hours/",
+      "published": "2026-10-12T00:00:00Z",
+      "source": "Tomasz Tunguz",
+      "author": "Tomasz Tunguz",
+      "lang": "en",
+      "tags": [
+        "SaaS",
+        "数据分析"
+      ],
+      "type": "blog",
+      "raw_text": "On Tuesday, October 20th at 10 AM Pacific, Office Hours will host Bardia Shahali , VP of Sales at Granola, for a conversation on what the sales organization should look like in the AI era.\n\n We&rsquo;ll talk about :\n\n Why AI-era sales teams run smaller, and how far quotas have moved from traditional SaaS benchmarks.\n\n How faster ramps and larger deals change who you hire and how you compensate reps.\n\n How to structure go-to-market when the product spreads on its own.\n\n Register here for Office Hours : The Leaner Sales Org with Bardia Shahali .",
+      "fetched_at": "2026-10-13T02:36:43Z"
     },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-586.html",

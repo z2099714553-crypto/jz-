@@ -112,37 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-12 21:17 UTC*
+*更新于 2026-10-13 02:36 UTC*
 
 **[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-581)**  
-`Tyler Cowen` · 2 小时前  
-
-**[🎙️ How I AI: How Meta designed Muse with Alex Cornell](https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with)**  
-`Lenny Rachitsky` · 6 小时前  
-
-**[Michael Woodford, Nobel Laureate](https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-nobel-laureate.html?utm_source=rss&utm_medium=rss&utm_campaign=michael-woodford-nobel-laureate)**  
 `Tyler Cowen` · 8 小时前  
 
+**[🎙️ How I AI: How Meta designed Muse with Alex Cornell](https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with)**  
+`Lenny Rachitsky` · 11 小时前  
+
+**[Michael Woodford, Nobel Laureate](https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-nobel-laureate.html?utm_source=rss&utm_medium=rss&utm_campaign=michael-woodford-nobel-laureate)**  
+`Tyler Cowen` · 14 小时前  
+
 **[How Meta designed Muse: an AI agent people actually want to talk to \| Alex Cornell (Design Director)](https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent)**  
-`Lenny Rachitsky` · 9 小时前  
+`Lenny Rachitsky` · 14 小时前  
 
 **[Robert E. Hall, Nobel Laureate](https://marginalrevolution.com/marginalrevolution/2026/10/robert-hall-nobel-laureate.html?utm_source=rss&utm_medium=rss&utm_campaign=robert-hall-nobel-laureate)**  
-`Tyler Cowen` · 9 小时前  
+`Tyler Cowen` · 14 小时前  
 
 **[The Nobel Prize Goes to Robert Hall and Michael Woodford](https://marginalrevolution.com/marginalrevolution/2026/10/the-nobel-prize-goes-to-robert-hall-and-michael-woodford.html?utm_source=rss&utm_medium=rss&utm_campaign=the-nobel-prize-goes-to-robert-hall-and-michael-woodford)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[Michael Woodford Wins Nobel](https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-wins-nobel.html?utm_source=rss&utm_medium=rss&utm_campaign=michael-woodford-wins-nobel)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[Personal Day](https://stratechery.com/2026/personal-day-4/)**  
-`Ben Thompson` · 11 小时前  
+`Ben Thompson` · 16 小时前  
 
 **[20VC: Atlassian CEO on Why Agents Won't Replace Interfaces \| Why Enterprises Won't Trust Chinese Models \| Why The Jury Is Still Out On The Benefits of Specialised Models with Mike Cannon-Brookes](https://thetwentyminutevc.libsyn.com/20vc-atlassian-ceo-on-why-agents-wont-replace-interfaces-why-enterprises-wont-trust-chinese-models-why-the-jury-is-still-out-on-the-benefits-of-specialised-models-with-mike-cannon-brookes)**  
-`Harry Stebbings` · 14 小时前  
+`Harry Stebbings` · 19 小时前  
 
 **[Okie-dokie, Casey Handmer edition](https://marginalrevolution.com/marginalrevolution/2026/10/okie-dokie-casey-handmer-edition.html?utm_source=rss&utm_medium=rss&utm_campaign=okie-dokie-casey-handmer-edition)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 22 小时前  
+
+**[Sales in the Age of AI](https://tomtunguz.com/bardia-shahali-office-hours/)**  
+`Tomasz Tunguz` · 1 天前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-586)**  
 `Tyler Cowen` · 1 天前  
@@ -154,9 +157,6 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[What should I ask Fuchsia Dunlop?](https://marginalrevolution.com/marginalrevolution/2026/10/what-should-i-ask-fuchsia-dunlop-2.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-fuchsia-dunlop-2)**  
-`Tyler Cowen` · 1 天前  
-
-**[The economics of agents](https://marginalrevolution.com/marginalrevolution/2026/10/the-economics-of-agents.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-agents)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
