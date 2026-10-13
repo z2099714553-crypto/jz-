@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-13 10:37 UTC*
+*更新于 2026-10-13 19:18 UTC*
+
+**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-590.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-590)**  
+`Tyler Cowen` · 2 小时前  
+
+**[The Theory 2026 AI Survey Results](https://tomtunguz.com/ai-in-practice-survey-2026/)**  
+`Tomasz Tunguz` · 4 小时前  
+
+**[How to tell if a startup has a moat](https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat)**  
+`Lenny Rachitsky` · 6 小时前  
+
+**[Runway: Learning From Watching the World](https://www.notboring.co/p/runway-learning-from-watching-the)**  
+`Packy McCormick` · 6 小时前  
+
+**[Is Your Agent a Double Agent?](https://marginalrevolution.com/marginalrevolution/2026/10/the-manchurian-candidate-or-is-your-agent-a-double-agent.html?utm_source=rss&utm_medium=rss&utm_campaign=the-manchurian-candidate-or-is-your-agent-a-double-agent)**  
+`Tyler Cowen` · 7 小时前  
 
 **[SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular](https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/)**  
-`Ben Thompson` · 刚刚  
+`Ben Thompson` · 9 小时前  
 
 **[How to Get People to Say Yes \| Ryan Serhant](https://fs.blog/knowledge-project-podcast/ryan-serhant/)**  
-`Shane Parrish` · 刚刚  
+`Shane Parrish` · 9 小时前  
 
 **[*Lost Worlds*](https://marginalrevolution.com/marginalrevolution/2026/10/lost-worlds.html?utm_source=rss&utm_medium=rss&utm_campaign=lost-worlds)**  
-`Tyler Cowen` · 3 小时前  
+`Tyler Cowen` · 11 小时前  
 
 **[“I have no mouth and I must scream”](https://marginalrevolution.com/marginalrevolution/2026/10/i-have-no-mouth-and-i-must-scream.html?utm_source=rss&utm_medium=rss&utm_campaign=i-have-no-mouth-and-i-must-scream)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 14 小时前  
 
 **[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-581)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[🎙️ How I AI: How Meta designed Muse with Alex Cornell](https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with)**  
-`Lenny Rachitsky` · 19 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[Michael Woodford, Nobel Laureate](https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-nobel-laureate.html?utm_source=rss&utm_medium=rss&utm_campaign=michael-woodford-nobel-laureate)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[How Meta designed Muse: an AI agent people actually want to talk to \| Alex Cornell (Design Director)](https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent)**  
-`Lenny Rachitsky` · 22 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[Robert E. Hall, Nobel Laureate](https://marginalrevolution.com/marginalrevolution/2026/10/robert-hall-nobel-laureate.html?utm_source=rss&utm_medium=rss&utm_campaign=robert-hall-nobel-laureate)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[The Nobel Prize Goes to Robert Hall and Michael Woodford](https://marginalrevolution.com/marginalrevolution/2026/10/the-nobel-prize-goes-to-robert-hall-and-michael-woodford.html?utm_source=rss&utm_medium=rss&utm_campaign=the-nobel-prize-goes-to-robert-hall-and-michael-woodford)**  
 `Tyler Cowen` · 1 天前  
-
-**[Michael Woodford Wins Nobel](https://marginalrevolution.com/marginalrevolution/2026/10/michael-woodford-wins-nobel.html?utm_source=rss&utm_medium=rss&utm_campaign=michael-woodford-wins-nobel)**  
-`Tyler Cowen` · 1 天前  
-
-**[Personal Day](https://stratechery.com/2026/personal-day-4/)**  
-`Ben Thompson` · 1 天前  
-
-**[20VC: Atlassian CEO on Why Agents Won't Replace Interfaces \| Why Enterprises Won't Trust Chinese Models \| Why The Jury Is Still Out On The Benefits of Specialised Models with Mike Cannon-Brookes](https://thetwentyminutevc.libsyn.com/20vc-atlassian-ceo-on-why-agents-wont-replace-interfaces-why-enterprises-wont-trust-chinese-models-why-the-jury-is-still-out-on-the-benefits-of-specialised-models-with-mike-cannon-brookes)**  
-`Harry Stebbings` · 1 天前  
-
-**[Okie-dokie, Casey Handmer edition](https://marginalrevolution.com/marginalrevolution/2026/10/okie-dokie-casey-handmer-edition.html?utm_source=rss&utm_medium=rss&utm_campaign=okie-dokie-casey-handmer-edition)**  
-`Tyler Cowen` · 1 天前  
-
-**[Sales in the Age of AI](https://tomtunguz.com/bardia-shahali-office-hours/)**  
-`Tomasz Tunguz` · 1 天前  
 
 <!-- POSTS:END -->
