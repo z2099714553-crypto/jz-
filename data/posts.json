@@ -1,7 +1,56 @@
 {
-  "generated_at": "2026-10-14T08:44:23Z",
-  "count": 391,
+  "generated_at": "2026-10-14T14:31:43Z",
+  "count": 394,
   "posts": [
+    {
+      "id": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
+      "title": "Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design",
+      "link": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
+      "published": "2026-10-14T12:04:05Z",
+      "source": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "lang": "en",
+      "tags": [
+        "产品",
+        "增长",
+        "访谈"
+      ],
+      "type": "interview",
+      "raw_text": "I put Meta s new Muse Wonder (and Wonderful) frontier models through the How I AI bench, which covers nearly 20 tasks across prototyping, agentic workflows, coding, writing, and creative work. I scored everything with an LLM-as-a-judge pass and my own voice notes, then pulled together the first-look results you see here.\n Listen or watch on YouTube , Spotify , or Apple Podcasts \n\n What you ll learn: Why Meta s personal and professional agent framing mostly holds up, and where it doesn t\n\n What active focus mode actually does on long-running tasks, and whether it s real\n\n The three agentic tasks where Muse ranked first, and why those categories matter\n\n What Muse s design output actually looks like (it s not good)\n\n How it compares to Sonnet on voice assistant tasks\n\n Where Muse lands on SVG and short-form video versus Opus 5.5, Astra, and Fable\n\n Whether I m actually putting Muse into any of my agent workflows\n\n Brought to you by: \n\n DX Engineering intelligence for the AI era\n Jira AI SDLC Get your tokens worth with Jira\n \n In this episode, we cover: ( 00:00 ) Intro and what Muse Wonder is\n ( 01:19 ) Meta s frontier capability claims\n ( 04:36 ) Muse code\n ( 06:06 ) Benchmark overview and how the How I AI bench works\n ( 07:51 ) Overall results and TL;DR verdict\n ( 11:53 ) Agentic tasks\n ( 13:36 ) Email writing and voice assistant performance\n ( 14:35 ) Where Muse falls short\n ( 18:28 ) SVG illustration results\n ( 19:33 ) Short-form video editing\n ( 21:18 ) Fast on one-shot work, slow on agent tasks\n ( 22:15 ) Final verdict and where I ll use Muse Wonder next\n \n Tools referenced: Meta Muse Wonder / Muse Wonderful: https://research.meta.ai/blog/muse-wonder \n Muse Code: https://developer.meta.com/ai/lp/muse-code \n \n Where to find Claire Vo: ChatPRD: https://www.chatprd.ai/ \n Website: https://clairevo.com/ \n LinkedIn: https://www.linkedin.com/in/clairevo/ \n X: https://x.com/clairevo \n \n Production and marketing by https://penname.co/ . For inquiries about sponsoring the podcast, email jordan@penname.co.",
+      "fetched_at": "2026-10-14T14:31:29Z"
+    },
+    {
+      "id": "https://cowenconvos.libsyn.com/liaquat-ahamed-on-financial-crises-gold-and-the-lessons-of-1873",
+      "title": "Liaquat Ahamed on Financial Crises, Gold, and the Lessons of 1873",
+      "link": "https://cowenconvos.libsyn.com/liaquat-ahamed-on-financial-crises-gold-and-the-lessons-of-1873",
+      "published": "2026-10-14T11:07:00Z",
+      "source": "Conversations with Tyler",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "深度访谈",
+        "经济学"
+      ],
+      "type": "interview",
+      "raw_text": "Liaquat Ahamed has spent years making central bankers into compelling characters. His 2009 book Lords of Finance won the Pulitzer Prize for its account of the bankers whose decisions helped cause the Great Depression; his new book, 1873: The Rothschilds, the First Great Depression, and the Making of the Modern World, tells a stranger story — a severe deflationary crisis that barely dented global growth but poisoned politics for a generation. Tyler pushes him hard on the central puzzle of those two books — why did one financial crisis derail the world, while another left growth almost untouched?\n Tyler and Liaquat start with that puzzle before moving through Gladstone's startlingly self-interested bet on Egyptian bonds, Bismarck's role in destroying bimetallism and deflating the world economy for two decades, whether a global silver or symmetallic standard could have worked, Britain's fateful decision to re-peg the pound to gold in 1926, Hjalmar Schacht's transformation from the economist who stabilized Weimar's currency to opportunist collaborator with the Nazi regime , Montagu Norman's spiritualist beliefs, why the 1920s produced such a creative cultural moment, lessons from the IMF on Ireland's housing bubble and Pakistan's two dozen bailouts, what went wrong in the eurozone crisis, Britain's baffling modern stagnation, and finally to his own restless career and what he wants to write next.\n Read a transcript enhanced with helpful links, or watch the full video on YouTube.\n Recorded July 28th, 2026. \n Other ways to connect\n Follow us on X and Instagram \n Follow Tyler on X\n Sign up for our newsletter \n Join our Discord \n Email us: cowenconvos@mercatus.gmu.edu \n Learn more about Conversations with Tyler and other Mercatus Center podcasts here .\n Timestamps:\n 00:00:00 - Intro\n 00:01:13 - On 1873 vs. the Great Depression\n 00:15:32 - On bimetallism and the gold standard\n 00:21:32 - On the 1920s and Weimar hyperinflation\n 00:29:29 - On Ireland, Pakistan, and the Eurozone crisis\n 00:36:21 - On Liaquat's career and Ismaili Islam\n 00:44:37 - Outro",
+      "fetched_at": "2026-10-14T14:31:34Z"
+    },
+    {
+      "id": "https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story",
+      "title": "Apple HomeView, The New Apple TV, The App Story",
+      "link": "https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/",
+      "published": "2026-10-14T10:00:00Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "The Apple Homeview is official, and the question is how big is the addressable market for expensive devices based on subpar AI.",
+      "fetched_at": "2026-10-14T14:31:28Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/plunder-the-last-of-the-war-in-europe-1945.html",
       "title": "*Plunder: The Last of the War in Europe, 1945*",

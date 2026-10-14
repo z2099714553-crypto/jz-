@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-14 08:44 UTC*
+*更新于 2026-10-14 14:31 UTC*
+
+**[Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design](https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good)**  
+`Lenny Rachitsky` · 2 小时前  
+
+**[Liaquat Ahamed on Financial Crises, Gold, and the Lessons of 1873](https://cowenconvos.libsyn.com/liaquat-ahamed-on-financial-crises-gold-and-the-lessons-of-1873)**  
+`Tyler Cowen` · 3 小时前  
+
+**[Apple HomeView, The New Apple TV, The App Story](https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/)**  
+`Ben Thompson` · 4 小时前  
 
 **[*Plunder: The Last of the War in Europe, 1945*](https://marginalrevolution.com/marginalrevolution/2026/10/plunder-the-last-of-the-war-in-europe-1945.html?utm_source=rss&utm_medium=rss&utm_campaign=plunder-the-last-of-the-war-in-europe-1945)**  
-`Tyler Cowen` · 1 小时前  
+`Tyler Cowen` · 7 小时前  
 
 **[Well-planned African immigration to America will go fine](https://marginalrevolution.com/marginalrevolution/2026/10/well-planned-african-immigration-to-america-will-go-fine.html?utm_source=rss&utm_medium=rss&utm_campaign=well-planned-african-immigration-to-america-will-go-fine)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 10 小时前  
 
 **[X’s reverse eternal September](https://www.platformer.news/x-reverse-eternal-september/)**  
-`Casey Newton` · 8 小时前  
+`Casey Newton` · 14 小时前  
 
 **[Perry Mehrling, RIP](https://marginalrevolution.com/marginalrevolution/2026/10/perry-mehrling-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=perry-mehrling-rip)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-590.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-590)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[The Theory 2026 AI Survey Results](https://tomtunguz.com/ai-in-practice-survey-2026/)**  
-`Tomasz Tunguz` · 17 小时前  
+`Tomasz Tunguz` · 23 小时前  
 
 **[How to tell if a startup has a moat](https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat)**  
-`Lenny Rachitsky` · 19 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[Runway: Learning From Watching the World](https://www.notboring.co/p/runway-learning-from-watching-the)**  
-`Packy McCormick` · 19 小时前  
+`Packy McCormick` · 1 天前  
 
 **[Is Your Agent a Double Agent?](https://marginalrevolution.com/marginalrevolution/2026/10/the-manchurian-candidate-or-is-your-agent-a-double-agent.html?utm_source=rss&utm_medium=rss&utm_campaign=the-manchurian-candidate-or-is-your-agent-a-double-agent)**  
-`Tyler Cowen` · 21 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular](https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/)**  
-`Ben Thompson` · 22 小时前  
+`Ben Thompson` · 1 天前  
 
 **[How to Get People to Say Yes \| Ryan Serhant](https://fs.blog/knowledge-project-podcast/ryan-serhant/)**  
-`Shane Parrish` · 22 小时前  
+`Shane Parrish` · 1 天前  
 
 **[*Lost Worlds*](https://marginalrevolution.com/marginalrevolution/2026/10/lost-worlds.html?utm_source=rss&utm_medium=rss&utm_campaign=lost-worlds)**  
 `Tyler Cowen` · 1 天前  
-
-**[“I have no mouth and I must scream”](https://marginalrevolution.com/marginalrevolution/2026/10/i-have-no-mouth-and-i-must-scream.html?utm_source=rss&utm_medium=rss&utm_campaign=i-have-no-mouth-and-i-must-scream)**  
-`Tyler Cowen` · 1 天前  
-
-**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-581)**  
-`Tyler Cowen` · 1 天前  
-
-**[🎙️ How I AI: How Meta designed Muse with Alex Cornell](https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with)**  
-`Lenny Rachitsky` · 1 天前  
 
 <!-- POSTS:END -->
