@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-15 11:30 UTC*
+*更新于 2026-10-15 17:02 UTC*
 
-**[Astra Held Its Ground (Truth)](https://marginalrevolution.com/marginalrevolution/2026/10/astra-held-its-ground-truth.html?utm_source=rss&utm_medium=rss&utm_campaign=astra-held-its-ground-truth)**  
+**[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-574)**  
 `Tyler Cowen` · 刚刚  
 
+**[Astra Held Its Ground (Truth)](https://marginalrevolution.com/marginalrevolution/2026/10/astra-held-its-ground-truth.html?utm_source=rss&utm_medium=rss&utm_campaign=astra-held-its-ground-truth)**  
+`Tyler Cowen` · 5 小时前  
+
 **[A Conversation With Ari Emanuel About Entertainment and AI](https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/)**  
-`Ben Thompson` · 1 小时前  
+`Ben Thompson` · 7 小时前  
 
 **[Jensen Huang \| Does AI Revenue Justify Capex, '27 AI Bottlenecks, Singularity, Open vs Closed & more](https://podcasters.spotify.com/pod/show/bg2pod/episodes/Jensen-Huang--Does-AI-Revenue-Justify-Capex--27-AI-Bottlenecks--Singularity--Open-vs-Closed--more-e3qhfl4)**  
-`Bill Gurley & Brad Gerstner` · 1 小时前  
+`Bill Gurley & Brad Gerstner` · 7 小时前  
 
 **[Why I do not use LLMs more](https://marginalrevolution.com/marginalrevolution/2026/10/why-i-do-not-use-llms-more.html?utm_source=rss&utm_medium=rss&utm_campaign=why-i-do-not-use-llms-more)**  
-`Tyler Cowen` · 3 小时前  
+`Tyler Cowen` · 8 小时前  
 
 **[20VC: The Pro-Rata Battle: Valar Atomics Sues Day One Ventures \| Meta Returns to the AI Frontier With Muse Wonder \| NVIDIA Eyes $30B Reflection Deal & Jev Raises $870M at a $7.5B Valuation](https://thetwentyminutevc.libsyn.com/20vc-the-pro-rata-battle-valar-atomics-sues-day-one-ventures-meta-returns-to-the-ai-frontier-with-muse-wonder-nvidia-eyes-30b-reflection-deal-jev-raises-870m-at-a-75b-valuation)**  
-`Harry Stebbings` · 4 小时前  
+`Harry Stebbings` · 9 小时前  
 
 **[My excellent Conversation with Liaquat Ahamed](https://marginalrevolution.com/marginalrevolution/2026/10/my-excellent-conversation-with-liaquat-ahamed.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-liaquat-ahamed)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[The states come for OpenAI](https://www.platformer.news/openai-states-lawsuit-liability/)**  
-`Casey Newton` · 10 小时前  
+`Casey Newton` · 16 小时前  
 
 **[154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明](https://www.xiaoyuzhoufm.com/episode/6acf81f0195d838e2af1e281?utm_source=rss)**  
-`张小珺` · 11 小时前  
+`张小珺` · 17 小时前  
 
 **[184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？](https://podcast.latepost.com/184)**  
-`晚点团队` · 13 小时前  
+`晚点团队` · 18 小时前  
 
 **[China fact (?) of the day](https://marginalrevolution.com/marginalrevolution/2026/10/china-fact-of-the-day-83.html?utm_source=rss&utm_medium=rss&utm_campaign=china-fact-of-the-day-83)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-575)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design](https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good)**  
-`Lenny Rachitsky` · 23 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[Liaquat Ahamed on Financial Crises, Gold, and the Lessons of 1873](https://cowenconvos.libsyn.com/liaquat-ahamed-on-financial-crises-gold-and-the-lessons-of-1873)**  
 `Tyler Cowen` · 1 天前  
 
 **[Apple HomeView, The New Apple TV, The App Story](https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/)**  
 `Ben Thompson` · 1 天前  
-
-**[*Plunder: The Last of the War in Europe, 1945*](https://marginalrevolution.com/marginalrevolution/2026/10/plunder-the-last-of-the-war-in-europe-1945.html?utm_source=rss&utm_medium=rss&utm_campaign=plunder-the-last-of-the-war-in-europe-1945)**  
-`Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
