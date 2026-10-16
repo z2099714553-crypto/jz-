@@ -112,28 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-16 04:33 UTC*
+*更新于 2026-10-16 11:25 UTC*
+
+**[India has more Restrictive Labor Law than Germany](https://marginalrevolution.com/marginalrevolution/2026/10/india-has-more-restrictive-labor-law-than-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=india-has-more-restrictive-labor-law-than-germany)**  
+`Tyler Cowen` · 刚刚  
+
+**[On Bergman’s *Persona*](https://marginalrevolution.com/marginalrevolution/2026/10/on-bergmans-persona.html?utm_source=rss&utm_medium=rss&utm_campaign=on-bergmans-persona)**  
+`Tyler Cowen` · 4 小时前  
+
+**[I guest host the NYT podcast and interview Dwarkesh](https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-the-nyt-podcast-and-interview-dwarkesh.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-the-nyt-podcast-and-interview-dwarkesh)**  
+`Tyler Cowen` · 6 小时前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-574)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[Astra Held Its Ground (Truth)](https://marginalrevolution.com/marginalrevolution/2026/10/astra-held-its-ground-truth.html?utm_source=rss&utm_medium=rss&utm_campaign=astra-held-its-ground-truth)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[A Conversation With Ari Emanuel About Entertainment and AI](https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/)**  
-`Ben Thompson` · 18 小时前  
+`Ben Thompson` · 1 天前  
 
 **[Jensen Huang \| Does AI Revenue Justify Capex, '27 AI Bottlenecks, Singularity, Open vs Closed & more](https://podcasters.spotify.com/pod/show/bg2pod/episodes/Jensen-Huang--Does-AI-Revenue-Justify-Capex--27-AI-Bottlenecks--Singularity--Open-vs-Closed--more-e3qhfl4)**  
-`Bill Gurley & Brad Gerstner` · 18 小时前  
+`Bill Gurley & Brad Gerstner` · 1 天前  
 
 **[Why I do not use LLMs more](https://marginalrevolution.com/marginalrevolution/2026/10/why-i-do-not-use-llms-more.html?utm_source=rss&utm_medium=rss&utm_campaign=why-i-do-not-use-llms-more)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[20VC: The Pro-Rata Battle: Valar Atomics Sues Day One Ventures \| Meta Returns to the AI Frontier With Muse Wonder \| NVIDIA Eyes $30B Reflection Deal & Jev Raises $870M at a $7.5B Valuation](https://thetwentyminutevc.libsyn.com/20vc-the-pro-rata-battle-valar-atomics-sues-day-one-ventures-meta-returns-to-the-ai-frontier-with-muse-wonder-nvidia-eyes-30b-reflection-deal-jev-raises-870m-at-a-75b-valuation)**  
-`Harry Stebbings` · 21 小时前  
+`Harry Stebbings` · 1 天前  
 
 **[My excellent Conversation with Liaquat Ahamed](https://marginalrevolution.com/marginalrevolution/2026/10/my-excellent-conversation-with-liaquat-ahamed.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-liaquat-ahamed)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[The states come for OpenAI](https://www.platformer.news/openai-states-lawsuit-liability/)**  
 `Casey Newton` · 1 天前  
@@ -149,14 +158,5 @@ open docs/index.html
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-575)**  
 `Tyler Cowen` · 1 天前  
-
-**[Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design](https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good)**  
-`Lenny Rachitsky` · 1 天前  
-
-**[Liaquat Ahamed on Financial Crises, Gold, and the Lessons of 1873](https://cowenconvos.libsyn.com/liaquat-ahamed-on-financial-crises-gold-and-the-lessons-of-1873)**  
-`Tyler Cowen` · 1 天前  
-
-**[Apple HomeView, The New Apple TV, The App Story](https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/)**  
-`Ben Thompson` · 1 天前  
 
 <!-- POSTS:END -->
