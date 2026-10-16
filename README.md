@@ -112,19 +112,22 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-16 11:25 UTC*
+*更新于 2026-10-16 16:40 UTC*
+
+**[Weekly Dose of Optimism #215](https://www.notboring.co/p/weekly-dose-of-optimism-215)**  
+`Packy McCormick` · 3 小时前  
 
 **[India has more Restrictive Labor Law than Germany](https://marginalrevolution.com/marginalrevolution/2026/10/india-has-more-restrictive-labor-law-than-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=india-has-more-restrictive-labor-law-than-germany)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 5 小时前  
 
 **[On Bergman’s *Persona*](https://marginalrevolution.com/marginalrevolution/2026/10/on-bergmans-persona.html?utm_source=rss&utm_medium=rss&utm_campaign=on-bergmans-persona)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 9 小时前  
 
 **[I guest host the NYT podcast and interview Dwarkesh](https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-the-nyt-podcast-and-interview-dwarkesh.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-the-nyt-podcast-and-interview-dwarkesh)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 11 小时前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-574)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[Astra Held Its Ground (Truth)](https://marginalrevolution.com/marginalrevolution/2026/10/astra-held-its-ground-truth.html?utm_source=rss&utm_medium=rss&utm_campaign=astra-held-its-ground-truth)**  
 `Tyler Cowen` · 1 天前  
@@ -154,9 +157,6 @@ open docs/index.html
 `晚点团队` · 1 天前  
 
 **[China fact (?) of the day](https://marginalrevolution.com/marginalrevolution/2026/10/china-fact-of-the-day-83.html?utm_source=rss&utm_medium=rss&utm_campaign=china-fact-of-the-day-83)**  
-`Tyler Cowen` · 1 天前  
-
-**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-575)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
