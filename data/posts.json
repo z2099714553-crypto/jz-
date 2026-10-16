@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-10-16T16:40:36Z",
-  "count": 411,
+  "generated_at": "2026-10-16T21:10:03Z",
+  "count": 414,
   "posts": [
+    {
+      "id": "https://stratechery.com/2026/home-at-last",
+      "title": "2026.42: Home At Last",
+      "link": "https://stratechery.com/2026/home-at-last/",
+      "published": "2026-10-16T17:42:42Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "( X: @twostraws ) \n\n Welcome back to This Week in Stratechery!\n\n As a reminder, each week, every Friday, we re sending out this overview of content in the Stratechery bundle; highlighted links are free for everyone . Additionally, you have complete control over what we send to you. If you don t want to receive This Week in Stratechery emails (there is no podcast), please uncheck the box in your delivery settings .\n\n On that note, here were a few of our favorites this week.\n\n What is Apple Doing? On last week s Dithering, John and I bemoaned Apple s exit from home appliances in the 2010s; now the company is back and John doesn t see the point . I think a big problem was Apple s marketing video; after I explained what Apple was trying to accomplish on Sharp Tech Andrew was almost persuaded to go all in on HomeView. — Ben Thompson \n\n SpaceX Continues Eating and Expands Its Appetite. Elon Musk and SpaceX have continued their spectrum buying spree, and in Tuesday s update Ben broke down the implications of both the latest deal, as well as recent deals that mobile carriers (and airlines) have done to avoid reliance on SpaceX. This market s dynamics are fascinating to me, and for SpaceX, what once looked like a play to become the de-facto provider of emergency satellite coverage among mobile providers now looks like a company that s coming for primary cellular coverage. Come to read about the methods that could make that path viable, and stay to appreciate challenges that make it a quintessential Musk strategy. — Andrew Sharp \n\n Titles, Takes, and the Washington Wizards. The NBA season begins next Tuesday, and if you want to have a good time preparing this weekend, we ve got you covered. First, Greatest of All Talk makes the case for eight different potential title winners (although I must warn you that our Knicks repeat case was extremely unconvincing) and runs down our favorite highlights from the preseason. Then, for Friday s Sharp Text , I played the most dangerous game of all and expressed confidence the Washington Wizards (for the first time in a full decade) while also offering 18 more takes and predictions for the rest of the league. — AS \n\n Stratechery Articles and Updates \n\n SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular — SpaceX’s mobile strategy is becoming clearly with its latest spectrum purchase, and it might work. \n\n Apple HomeView, The New Apple TV, The App Story — The Apple Homeview is official, and the question is how big is the addressable market for expensive devices based on subpar AI. \n\n A Conversation With Ari Emanuel About Entertainment and AI — A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call. \n\n Sharp Text by Andrew Sharp \n\n A Wizards Public Service Announcement and 18 More NBA Takes — Optimism in D.C. for the first time in a decade, plus predictions, a giant wild card, and Bet Your Mortgage Locks. \n\n Dithering with Ben Thompson and Daring Fireball s John Gruber \n\n Meanness and Claude \n\n HomeView \n\n Asianometry with Jon Yu \n\n ASML’s New Multibeam Inspection Tool is Familiar \n\n IGBTs Took Silicon Power to the Next Level \n\n Sharp China with Andrew Sharp and Sinocism s Bill Bishop \n\n Brussels and Beijing Make a Deal; Weak Holiday Spending Data; Xi’s Reported Rest Breaks; Peak Dove? \n\n Greatest of All Talk \n\n Tell Me Why They Will, Preseason Highlight Digest, Sizing Up a Loaded Northwest Division \n\n Sharp Tech with Andrew Sharp and Ben Thompson \n\n Apple Enters the Uncanny Valley, The SpaceX Play for Cellular, Q&A on The Ringer, Smartphones, AI Parenting \n\n This week s Stratechery video is on Apple and a Hacker’s Future .",
+      "fetched_at": "2026-10-16T21:09:50Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-595.html",
+      "title": "Friday assorted links",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-595",
+      "published": "2026-10-16T16:42:18Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "1. Can Dybantsa (and others) turn around the Wizards? (NYT)\n\n 2. Claims about interpretability . I have to say I do not quite get it ? Here is some exposition .\n\n 3. 90% of Americans’ working hours are spent on tasks not covered well by AI benchmarks. That’s our best guess from a new project mapping frontier benchmarks onto the US economy. Study here .\n\n 4. Ross Douthat (The Free Press) on how to survive the robot apocalypse .\n\n 5. Jonathan Beauchamp podcast on genonomics .\n\n 6. More Bob Hall on monetary economics .\n\n 7. Arundhati Roy is upset at AI .\n\n 8. Flying car, at least for a bit . And here . As Roon points out, they offer you the characters too!\n\n 9. Henry Oliver on the Mid-South .\n\n The post Friday assorted links appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-16T21:09:50Z"
+    },
+    {
+      "id": "https://www.netinterest.co/p/me-and-my-agents",
+      "title": "Me and My Agents",
+      "link": "https://www.netinterest.co/p/me-and-my-agents",
+      "published": "2026-10-16T16:39:55Z",
+      "source": "Net Interest",
+      "author": "Marc Rubinstein",
+      "lang": "en",
+      "tags": [
+        "金融",
+        "商业分析"
+      ],
+      "type": "blog",
+      "raw_text": "Programming note: I ll be attending the TomorrowX Summit in Austin in November, followed by Fintech Nerdcon in San Diego. If you re at either, please say hi. \n In my former career as a research analyst, I would approach earnings season with a mix of trepidation and excitement. The period which kicked off this week in the banks sector meant early starts and late nights. Companies report as early as 6am and I would need to be on standby to read the release. With filings stretching to 75 pages, there was a lot to absorb. I would need to communicate my thoughts to an internal salesforce and to institutional clients, and then update my model, dial in to the earnings call, ask three questions, revise my model and publish a note all against the backdrop of a cutthroat Wall Street environment where a dozen other analysts were doing the same thing. Sometimes we d juggle several earnings releases on the same day, and unless it was Friday, it d start all over again the next morning.\n As an investor, the experience was less intense, though the stakes were higher. My time on the sell-side taught me what to look for in a release, so by the time I started managing money, I could process earnings much faster. It proved useful. Although they make up just 1.6% of trading days, earnings release dates account for 15% of annual share-price variance. Earnings revisions remain a key driver of stock performance and the market doesn t always get them right. On more than a few occasions, I was able to exploit the heightened liquidity around announcements to act on my analysis before the market opened or while earnings calls were underway.\n This week, the six largest US banks reported third-quarter earnings. Collectively, they poured over 250 pages of financial information into the market and hosted over eight hours of calls to explain it. JPMorgan alone furnished investors with 523 new data points.\n These days, I m fortunate to have a team to help me distill it all. I ve trained four AI agents to parse earnings materials, and this week they earned their keep.\n Allow me to introduce them:\n Ernie does the heavy lifting. I have a folder on my desktop for each of the banks I follow, containing historic earnings releases, investor presentations, call transcripts and the latest annual report. When a new release lands, Ernie studies the folder, builds a picture of what the market is expecting from analyst previews and tells me where the quarter confirms that view and where it departs. Once the call transcript is in, Ernie incorporates it, delivering a five-page report and a two-page brief in the time it takes me to brew an espresso.\n Thelma tracks the themes I m monitoring, collating new evidence as it emerges. Agentic disruption , AI financing and private credit are three that we ve discussed here the past few weeks; the impact of rising rates is back on the list, too. Thelma flags what management is saying about each of them and what the underlying numbers show.\n My Mike Mayo bot previews the question Mike Mayo is most likely to ask on the call. I ve profiled Mike here before. Currently working as an analyst at Wells Fargo Securities, Mike has covered banks through more than 140 earnings seasons, and his unflinching questions invariably surface the most pressing issues of the day.\n Finally, my earnings modeller updates my model directly in Excel. We road-tested AI modelling back in February in Excel Forever it s improved a lot since then.\n My agents were more impressed with earnings than the market seemed to be. Guidance was broadly up, in particular on higher net interest income. Equities trading and banking fees were mostly strong enough to offset a weaker period for fixed income trading. Consumers continued to spend and credit held up.\n But that only scratches the surface. Ernie, Thelma and the team turned up things I couldn t have got to as quickly. To find out what they showed me and, more generally, how I trained them to do it, read on. Paid subscribers can also email me for access to the instructions I wrote for them and the outputs they produced.\n\n Read more",
+      "fetched_at": "2026-10-16T21:09:51Z"
+    },
     {
       "id": "https://www.notboring.co/p/weekly-dose-of-optimism-215",
       "title": "Weekly Dose of Optimism #215",
