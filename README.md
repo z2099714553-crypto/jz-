@@ -112,28 +112,28 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-16 23:36 UTC*
+*更新于 2026-10-17 04:27 UTC*
 
 **[2026.42: Home At Last](https://stratechery.com/2026/home-at-last/)**  
-`Ben Thompson` · 5 小时前  
+`Ben Thompson` · 10 小时前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-595)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 11 小时前  
 
 **[Me and My Agents](https://www.netinterest.co/p/me-and-my-agents)**  
-`Marc Rubinstein` · 6 小时前  
+`Marc Rubinstein` · 11 小时前  
 
 **[Weekly Dose of Optimism #215](https://www.notboring.co/p/weekly-dose-of-optimism-215)**  
-`Packy McCormick` · 10 小时前  
+`Packy McCormick` · 15 小时前  
 
 **[India has more Restrictive Labor Law than Germany](https://marginalrevolution.com/marginalrevolution/2026/10/india-has-more-restrictive-labor-law-than-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=india-has-more-restrictive-labor-law-than-germany)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[On Bergman’s *Persona*](https://marginalrevolution.com/marginalrevolution/2026/10/on-bergmans-persona.html?utm_source=rss&utm_medium=rss&utm_campaign=on-bergmans-persona)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 21 小时前  
 
 **[I guest host the NYT podcast and interview Dwarkesh](https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-the-nyt-podcast-and-interview-dwarkesh.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-the-nyt-podcast-and-interview-dwarkesh)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-574)**  
 `Tyler Cowen` · 1 天前  
@@ -157,6 +157,6 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[The states come for OpenAI](https://www.platformer.news/openai-states-lawsuit-liability/)**  
-`Casey Newton` · 1 天前  
+`Casey Newton` · 2 天前  
 
 <!-- POSTS:END -->
