@@ -112,31 +112,34 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-17 10:45 UTC*
+*更新于 2026-10-17 15:36 UTC*
+
+**[🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more](https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents)**  
+`Lenny Rachitsky` · 1 小时前  
 
 **[Solving for the equilibrium?](https://marginalrevolution.com/marginalrevolution/2026/10/solving-for-the-equilibrium-2.html?utm_source=rss&utm_medium=rss&utm_campaign=solving-for-the-equilibrium-2)**  
-`Tyler Cowen` · 3 小时前  
+`Tyler Cowen` · 8 小时前  
 
 **[20VC: Horizontal vs Vertical Agents: Who Wins \| Model Routing: Commodity or Increasing in Value \| The Future of the Inference Market \| Why Founders Should Take Discounts for Tier 1 Firms with Harrison Chase, LangChain](https://thetwentyminutevc.libsyn.com/20vc-horizontal-vs-vertical-agents-who-wins-model-routing-commodity-or-increasing-in-value-the-future-of-the-inference-market-why-founders-should-take-discounts-for-tier-1-firms-with-harrison-chase-langchain)**  
-`Harry Stebbings` · 3 小时前  
+`Harry Stebbings` · 8 小时前  
 
 **[New Matt Faherty study of the NSF](https://marginalrevolution.com/marginalrevolution/2026/10/new-matt-flaherty-study-of-the-nsf.html?utm_source=rss&utm_medium=rss&utm_campaign=new-matt-flaherty-study-of-the-nsf)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 10 小时前  
 
 **[2026.42: Home At Last](https://stratechery.com/2026/home-at-last/)**  
-`Ben Thompson` · 17 小时前  
+`Ben Thompson` · 21 小时前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-595)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[Me and My Agents](https://www.netinterest.co/p/me-and-my-agents)**  
-`Marc Rubinstein` · 18 小时前  
+`Marc Rubinstein` · 22 小时前  
 
 **[Weekly Dose of Optimism #215](https://www.notboring.co/p/weekly-dose-of-optimism-215)**  
-`Packy McCormick` · 21 小时前  
+`Packy McCormick` · 1 天前  
 
 **[India has more Restrictive Labor Law than Germany](https://marginalrevolution.com/marginalrevolution/2026/10/india-has-more-restrictive-labor-law-than-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=india-has-more-restrictive-labor-law-than-germany)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[On Bergman’s *Persona*](https://marginalrevolution.com/marginalrevolution/2026/10/on-bergmans-persona.html?utm_source=rss&utm_medium=rss&utm_campaign=on-bergmans-persona)**  
 `Tyler Cowen` · 1 天前  
@@ -148,15 +151,12 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[Astra Held Its Ground (Truth)](https://marginalrevolution.com/marginalrevolution/2026/10/astra-held-its-ground-truth.html?utm_source=rss&utm_medium=rss&utm_campaign=astra-held-its-ground-truth)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 **[A Conversation With Ari Emanuel About Entertainment and AI](https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/)**  
 `Ben Thompson` · 2 天前  
 
 **[Jensen Huang \| Does AI Revenue Justify Capex, '27 AI Bottlenecks, Singularity, Open vs Closed & more](https://podcasters.spotify.com/pod/show/bg2pod/episodes/Jensen-Huang--Does-AI-Revenue-Justify-Capex--27-AI-Bottlenecks--Singularity--Open-vs-Closed--more-e3qhfl4)**  
 `Bill Gurley & Brad Gerstner` · 2 天前  
-
-**[Why I do not use LLMs more](https://marginalrevolution.com/marginalrevolution/2026/10/why-i-do-not-use-llms-more.html?utm_source=rss&utm_medium=rss&utm_campaign=why-i-do-not-use-llms-more)**  
-`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->

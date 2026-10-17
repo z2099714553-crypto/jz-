@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-10-17T10:45:33Z",
-  "count": 417,
+  "generated_at": "2026-10-17T15:36:23Z",
+  "count": 418,
   "posts": [
+    {
+      "id": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
+      "title": "🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more",
+      "link": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
+      "published": "2026-10-17T13:53:57Z",
+      "source": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "lang": "en",
+      "tags": [
+        "产品",
+        "增长",
+        "访谈"
+      ],
+      "type": "interview",
+      "raw_text": "Hello and welcome to this week s edition of Community Wisdom a subscriber-only email, delivered every Saturday, highlighting the most helpful conversations in our members-only Slack community . \n\n Read more",
+      "fetched_at": "2026-10-17T15:36:07Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/solving-for-the-equilibrium-2.html",
       "title": "Solving for the equilibrium?",
