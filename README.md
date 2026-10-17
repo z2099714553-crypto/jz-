@@ -112,28 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-17 04:27 UTC*
+*更新于 2026-10-17 10:45 UTC*
+
+**[Solving for the equilibrium?](https://marginalrevolution.com/marginalrevolution/2026/10/solving-for-the-equilibrium-2.html?utm_source=rss&utm_medium=rss&utm_campaign=solving-for-the-equilibrium-2)**  
+`Tyler Cowen` · 3 小时前  
+
+**[20VC: Horizontal vs Vertical Agents: Who Wins \| Model Routing: Commodity or Increasing in Value \| The Future of the Inference Market \| Why Founders Should Take Discounts for Tier 1 Firms with Harrison Chase, LangChain](https://thetwentyminutevc.libsyn.com/20vc-horizontal-vs-vertical-agents-who-wins-model-routing-commodity-or-increasing-in-value-the-future-of-the-inference-market-why-founders-should-take-discounts-for-tier-1-firms-with-harrison-chase-langchain)**  
+`Harry Stebbings` · 3 小时前  
+
+**[New Matt Faherty study of the NSF](https://marginalrevolution.com/marginalrevolution/2026/10/new-matt-flaherty-study-of-the-nsf.html?utm_source=rss&utm_medium=rss&utm_campaign=new-matt-flaherty-study-of-the-nsf)**  
+`Tyler Cowen` · 5 小时前  
 
 **[2026.42: Home At Last](https://stratechery.com/2026/home-at-last/)**  
-`Ben Thompson` · 10 小时前  
+`Ben Thompson` · 17 小时前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-595)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[Me and My Agents](https://www.netinterest.co/p/me-and-my-agents)**  
-`Marc Rubinstein` · 11 小时前  
+`Marc Rubinstein` · 18 小时前  
 
 **[Weekly Dose of Optimism #215](https://www.notboring.co/p/weekly-dose-of-optimism-215)**  
-`Packy McCormick` · 15 小时前  
+`Packy McCormick` · 21 小时前  
 
 **[India has more Restrictive Labor Law than Germany](https://marginalrevolution.com/marginalrevolution/2026/10/india-has-more-restrictive-labor-law-than-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=india-has-more-restrictive-labor-law-than-germany)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[On Bergman’s *Persona*](https://marginalrevolution.com/marginalrevolution/2026/10/on-bergmans-persona.html?utm_source=rss&utm_medium=rss&utm_campaign=on-bergmans-persona)**  
-`Tyler Cowen` · 21 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[I guest host the NYT podcast and interview Dwarkesh](https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-the-nyt-podcast-and-interview-dwarkesh.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-the-nyt-podcast-and-interview-dwarkesh)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-574)**  
 `Tyler Cowen` · 1 天前  
@@ -142,21 +151,12 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[A Conversation With Ari Emanuel About Entertainment and AI](https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/)**  
-`Ben Thompson` · 1 天前  
+`Ben Thompson` · 2 天前  
 
 **[Jensen Huang \| Does AI Revenue Justify Capex, '27 AI Bottlenecks, Singularity, Open vs Closed & more](https://podcasters.spotify.com/pod/show/bg2pod/episodes/Jensen-Huang--Does-AI-Revenue-Justify-Capex--27-AI-Bottlenecks--Singularity--Open-vs-Closed--more-e3qhfl4)**  
-`Bill Gurley & Brad Gerstner` · 1 天前  
+`Bill Gurley & Brad Gerstner` · 2 天前  
 
 **[Why I do not use LLMs more](https://marginalrevolution.com/marginalrevolution/2026/10/why-i-do-not-use-llms-more.html?utm_source=rss&utm_medium=rss&utm_campaign=why-i-do-not-use-llms-more)**  
-`Tyler Cowen` · 1 天前  
-
-**[20VC: The Pro-Rata Battle: Valar Atomics Sues Day One Ventures \| Meta Returns to the AI Frontier With Muse Wonder \| NVIDIA Eyes $30B Reflection Deal & Jev Raises $870M at a $7.5B Valuation](https://thetwentyminutevc.libsyn.com/20vc-the-pro-rata-battle-valar-atomics-sues-day-one-ventures-meta-returns-to-the-ai-frontier-with-muse-wonder-nvidia-eyes-30b-reflection-deal-jev-raises-870m-at-a-75b-valuation)**  
-`Harry Stebbings` · 1 天前  
-
-**[My excellent Conversation with Liaquat Ahamed](https://marginalrevolution.com/marginalrevolution/2026/10/my-excellent-conversation-with-liaquat-ahamed.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-liaquat-ahamed)**  
-`Tyler Cowen` · 1 天前  
-
-**[The states come for OpenAI](https://www.platformer.news/openai-states-lawsuit-liability/)**  
-`Casey Newton` · 2 天前  
+`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->

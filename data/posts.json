@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-10-17T04:27:45Z",
-  "count": 414,
+  "generated_at": "2026-10-17T10:45:33Z",
+  "count": 417,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/solving-for-the-equilibrium-2.html",
+      "title": "Solving for the equilibrium?",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/solving-for-the-equilibrium-2.html?utm_source=rss&utm_medium=rss&utm_campaign=solving-for-the-equilibrium-2",
+      "published": "2026-10-17T07:34:21Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Sixteen AI agents were each ha‍nded 1,000 satoshi⁠s of real b‌itcoin and told nothing about how to use​ it. A hund‍red rounds l‌at‍er⁠, four of them had roughly doubled⁠ th‍eir money, tw‍o h‌a‍d​ been wiped out, and the‍ three richest a​gents held more than half‍ of all the bitco‌in in the room.⁠ Nobody wrote a r​ule that‌ sai⁠d “expl‌oi​t the trusting ones.” The agen​ts foun‍d t​hat on thei‌r o⁠wn.‍ This was not a thought experiment. It was a rea⁠l study⁠ of AI agents and Bitcoin, run by an independent d​evelo‍per w‍ith 8 Claud‌e agents an‌d 8 GPT-​4o age‍nts, and it⁠s raw payment data is​ publi‌c. I​ downloa​ded every on⁠e⁠ o‍f those pa‍y⁠men⁠ts and checked what they really show, in‌clu‌d‍ing one headline claim that holds up better than I ex​pect‍ed and one t‌hat does n​ot hol‌d up at all.\n\n This matters now becaus​e the plumbing⁠ for AI agent payments arr​i​ved t‍his yea⁠r. I‍n J​uly 20⁠26, Light⁠n⁠ing Lab​s rele⁠ased Wave‍length,‌ a‌…\n \n Here is more from Hayanan , via Sonia Farrell Pearson .\n\n The post Solving for the equilibrium? appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-17T10:45:15Z"
+    },
+    {
+      "id": "https://thetwentyminutevc.libsyn.com/20vc-horizontal-vs-vertical-agents-who-wins-model-routing-commodity-or-increasing-in-value-the-future-of-the-inference-market-why-founders-should-take-discounts-for-tier-1-firms-with-harrison-chase-langchain",
+      "title": "20VC: Horizontal vs Vertical Agents: Who Wins | Model Routing: Commodity or Increasing in Value | The Future of the Inference Market | Why Founders Should Take Discounts for Tier 1 Firms with Harrison Chase, LangChain",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-horizontal-vs-vertical-agents-who-wins-model-routing-commodity-or-increasing-in-value-the-future-of-the-inference-market-why-founders-should-take-discounts-for-tier-1-firms-with-harrison-chase-langchain",
+      "published": "2026-10-17T07:07:00Z",
+      "source": "20VC",
+      "author": "Harry Stebbings",
+      "lang": "en",
+      "tags": [
+        "创投",
+        "深度访谈"
+      ],
+      "type": "interview",
+      "raw_text": "Harrison Chase is the co-founder and CEO of LangChain, which helps developers build, test and deploy AI agents.\n Backed by Sequoia Capital, Benchmark and IVP, LangChain has announced approximately $160 million in funding with the last round at a $1.25BN valuation. The company works with 35% of the Fortune 500, has surpassed one billion open-source downloads and processes over one billion events daily through LangSmith.\n AGENDA: \n 04:10 Why Is It Still So Hard to Build AI Agents?\n 08:50 Will the Model Labs Eat the Agent Stack?\n 16:25 Is Model Routing a Real Business or a Commodity?\n 25:45 Why Has No One Solved AI Memory?\n 35:45 Why Are AI Bills Exploding as Tokens Get Cheaper?\n 43:25 Should Companies Be Afraid of Chinese AI Models?\n 46:20 Where Would Harrison Not Be Investing Today?\n 53:05 Should Founders Take a Discount for Benchmark and Sequoia?\n 57:35 OpenAI at $1.5T or Anthropic at $2T: Which Would You Buy?",
+      "fetched_at": "2026-10-17T10:45:33Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/new-matt-flaherty-study-of-the-nsf.html",
+      "title": "New Matt Faherty study of the NSF",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/new-matt-flaherty-study-of-the-nsf.html?utm_source=rss&utm_medium=rss&utm_campaign=new-matt-flaherty-study-of-the-nsf",
+      "published": "2026-10-17T04:55:57Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "From the Executive Summary:\n\n Therefore, the NSF, NIH, and the federal government should put far more resources and effort into developing metascience. With proper metascience efforts, the NSF could run experiments on science funding reform proposals, such as shifting to a people-over-projects funding model or directly funding replication efforts, and determine which reforms will most improve NSF outcomes. The NSF’s September 2026 announcement of an Office of Metascience is a welcome step toward this goal. This report’s recommendations can help guide the office’s development, its experimental agenda, and the evaluation of its results.\n\n On July 21, 2026, Michael Kratsios, the director of the White House Office of Science and Technology Policy, released “Science: A New Golden Age,” a report for the President that, if fully enacted, might constitute the greatest overhaul of federal science policy since World War II. Based on my interviews and research, I strongly support most of the report’s recommendations and conclusions, and I believe the wider science community should as well.\n\n Here is the entire study , of interest throughout. Here is an earlier Matt Faherty study on improving the NIH .\n\n The post New Matt Faherty study of the NSF appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-17T10:45:15Z"
+    },
     {
       "id": "https://stratechery.com/2026/home-at-last",
       "title": "2026.42: Home At Last",
