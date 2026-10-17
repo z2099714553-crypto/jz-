@@ -112,22 +112,22 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-17 20:37 UTC*
+*更新于 2026-10-17 23:08 UTC*
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-583)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 7 小时前  
 
 **[🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more](https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents)**  
-`Lenny Rachitsky` · 6 小时前  
+`Lenny Rachitsky` · 9 小时前  
 
 **[Solving for the equilibrium?](https://marginalrevolution.com/marginalrevolution/2026/10/solving-for-the-equilibrium-2.html?utm_source=rss&utm_medium=rss&utm_campaign=solving-for-the-equilibrium-2)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 15 小时前  
 
 **[20VC: Horizontal vs Vertical Agents: Who Wins \| Model Routing: Commodity or Increasing in Value \| The Future of the Inference Market \| Why Founders Should Take Discounts for Tier 1 Firms with Harrison Chase, LangChain](https://thetwentyminutevc.libsyn.com/20vc-horizontal-vs-vertical-agents-who-wins-model-routing-commodity-or-increasing-in-value-the-future-of-the-inference-market-why-founders-should-take-discounts-for-tier-1-firms-with-harrison-chase-langchain)**  
-`Harry Stebbings` · 13 小时前  
+`Harry Stebbings` · 16 小时前  
 
 **[New Matt Faherty study of the NSF](https://marginalrevolution.com/marginalrevolution/2026/10/new-matt-flaherty-study-of-the-nsf.html?utm_source=rss&utm_medium=rss&utm_campaign=new-matt-flaherty-study-of-the-nsf)**  
-`Tyler Cowen` · 15 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[2026.42: Home At Last](https://stratechery.com/2026/home-at-last/)**  
 `Ben Thompson` · 1 天前  
