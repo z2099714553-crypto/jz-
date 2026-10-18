@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-10-18T11:07:05Z",
-  "count": 421,
+  "generated_at": "2026-10-18T15:53:22Z",
+  "count": 422,
   "posts": [
+    {
+      "id": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+      "link": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+      "published": "2026-10-18T12:31:36Z",
+      "source": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "lang": "en",
+      "tags": [
+        "产品",
+        "增长",
+        "访谈"
+      ],
+      "type": "interview",
+      "raw_text": "Emmanuel Ameisen is an interpretability researcher at Anthropic, where he looks inside LLMs like Claude to understand how they think. Before joining Anthropic, he spent years in applied ML at Stripe and Insight, and is the author of Building Machine Learning Powered Applications . His research has produced some of the most striking findings in the field: that models form general representations of concepts, plan many tokens ahead without stating those plans explicitly, and may exhibit something structurally similar to the distinction between conscious and unconscious processing in humans.\n Listen on YouTube , Spotify , or Apple Podcasts \n\n We discuss: Why the next-token predictor framing undersells how models actually plan and think\n\n Why anthropomorphizing AI can actually be the right approach\n\n Why models are grown, not built\n\n What the J space reveals about model self-awareness\n\n The smooth scaling curve behind what look like sudden capability jumps\n\n How interpretability connects to AI alignment and safety\n\n Brought to you by: \n\n WorkOS Make your app enterprise-ready, with SSO, SCIM, RBAC, and more\n DX Engineering intelligence for the AI era\n\n Where to find Emmanuel Ameisen: X: https://x.com/mlpowered \n LinkedIn: https://www.linkedin.com/in/ameisen \n Website: https://www.mlpowered.com \n \n Referenced: Chris Olah on X: https://x.com/ch402 \n Distill: https://distill.pub \n Ilya Sutskever on X: https://x.com/ilyasut \n Tracing the thoughts of a large language model: https://www.anthropic.com/research/tracing-thoughts-language-model \n A global workspace in language models: https://www.anthropic.com/research/global-workspace \n Scaling Laws for Neural Language Models: https://arxiv.org/abs/2001.08361 \n Head of Claude Code: What happens after coding is solved | Boris Cherny: https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens \n Claude s Constitution: https://www.anthropic.com/constitution \n Golden Gate Claude: https://www.anthropic.com/news/golden-gate-claude \n The Rise and Fall of Agent Civilizations: The whole OpenAI/Hugging Face story in plain English: https://www.dwarkesh.com/p/openai-huggingface \n The Utility of Interpretability Emmanuel Ameisen, Anthropic: https://www.latent.space/p/circuit-tracing \n Swyx on X: https://x.com/swyx \n Jev for beginners: how to use it and what to build: https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and \n Jev: https://typesafe.ai/blog/introducing-system-one-models-and-jev \n What is System 1 and System 2 Thinking?: https://thedecisionlab.com/reference-guide/philosophy/system-1-and-system-2-thinking \n Neuronpedia: https://www.neuronpedia.org \n Obsession : https://www.imdb.com/title/tt37287335 \n Bref 2 on Hulu: https://www.hulu.com/series/bref2-251c6388-18e9-4545-9e5d-d5f3f6bf20d7 \n Apple Watch Ultra: https://www.apple.com/apple-watch-ultra-4 \n \n Recommended books: A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains : https://www.amazon.com/dp/0063286343 \n Stories of Your Life and Others : https://www.amazon.com/Stories-Your-Life-Others-Chiang/dp/1101972122 \n Four Thousand Weeks : https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/1250849357 \n \n Production and marketing by https://penname.co/ . For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com .\n Lenny may be an investor in the companies discussed. \n \n My biggest takeaways from this conversation: \n\n Read more",
+      "fetched_at": "2026-10-18T15:53:14Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/our-fascination-with-screens-demand-curves-slope-downward-installment-1637.html",
       "title": "Our fascination with screens, demand curves slope downward installment #1637",

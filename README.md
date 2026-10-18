@@ -112,19 +112,22 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-18 11:07 UTC*
+*更新于 2026-10-18 15:53 UTC*
+
+**[Inside the black box of AI: How AI models actually think \| Emmanuel Ameisen (Anthropic)](https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on)**  
+`Lenny Rachitsky` · 3 小时前  
 
 **[Our fascination with screens, demand curves slope downward installment #1637](https://marginalrevolution.com/marginalrevolution/2026/10/our-fascination-with-screens-demand-curves-slope-downward-installment-1637.html?utm_source=rss&utm_medium=rss&utm_campaign=our-fascination-with-screens-demand-curves-slope-downward-installment-1637)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 9 小时前  
 
 **[The archaeology tranche of Emergent Ventures](https://marginalrevolution.com/marginalrevolution/2026/10/the-archaeology-tranche-of-emergent-ventures.html?utm_source=rss&utm_medium=rss&utm_campaign=the-archaeology-tranche-of-emergent-ventures)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 10 小时前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-583)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more](https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents)**  
-`Lenny Rachitsky` · 21 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[Solving for the equilibrium?](https://marginalrevolution.com/marginalrevolution/2026/10/solving-for-the-equilibrium-2.html?utm_source=rss&utm_medium=rss&utm_campaign=solving-for-the-equilibrium-2)**  
 `Tyler Cowen` · 1 天前  
@@ -145,18 +148,15 @@ open docs/index.html
 `Marc Rubinstein` · 1 天前  
 
 **[Weekly Dose of Optimism #215](https://www.notboring.co/p/weekly-dose-of-optimism-215)**  
-`Packy McCormick` · 1 天前  
+`Packy McCormick` · 2 天前  
 
 **[India has more Restrictive Labor Law than Germany](https://marginalrevolution.com/marginalrevolution/2026/10/india-has-more-restrictive-labor-law-than-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=india-has-more-restrictive-labor-law-than-germany)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 **[On Bergman’s *Persona*](https://marginalrevolution.com/marginalrevolution/2026/10/on-bergmans-persona.html?utm_source=rss&utm_medium=rss&utm_campaign=on-bergmans-persona)**  
 `Tyler Cowen` · 2 天前  
 
 **[I guest host the NYT podcast and interview Dwarkesh](https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-the-nyt-podcast-and-interview-dwarkesh.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-the-nyt-podcast-and-interview-dwarkesh)**  
-`Tyler Cowen` · 2 天前  
-
-**[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-574)**  
 `Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
