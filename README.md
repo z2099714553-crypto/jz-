@@ -112,22 +112,28 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-18 04:35 UTC*
+*更新于 2026-10-18 11:07 UTC*
+
+**[Our fascination with screens, demand curves slope downward installment #1637](https://marginalrevolution.com/marginalrevolution/2026/10/our-fascination-with-screens-demand-curves-slope-downward-installment-1637.html?utm_source=rss&utm_medium=rss&utm_campaign=our-fascination-with-screens-demand-curves-slope-downward-installment-1637)**  
+`Tyler Cowen` · 4 小时前  
+
+**[The archaeology tranche of Emergent Ventures](https://marginalrevolution.com/marginalrevolution/2026/10/the-archaeology-tranche-of-emergent-ventures.html?utm_source=rss&utm_medium=rss&utm_campaign=the-archaeology-tranche-of-emergent-ventures)**  
+`Tyler Cowen` · 6 小时前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-583)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 19 小时前  
 
 **[🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more](https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents)**  
-`Lenny Rachitsky` · 14 小时前  
+`Lenny Rachitsky` · 21 小时前  
 
 **[Solving for the equilibrium?](https://marginalrevolution.com/marginalrevolution/2026/10/solving-for-the-equilibrium-2.html?utm_source=rss&utm_medium=rss&utm_campaign=solving-for-the-equilibrium-2)**  
-`Tyler Cowen` · 21 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[20VC: Horizontal vs Vertical Agents: Who Wins \| Model Routing: Commodity or Increasing in Value \| The Future of the Inference Market \| Why Founders Should Take Discounts for Tier 1 Firms with Harrison Chase, LangChain](https://thetwentyminutevc.libsyn.com/20vc-horizontal-vs-vertical-agents-who-wins-model-routing-commodity-or-increasing-in-value-the-future-of-the-inference-market-why-founders-should-take-discounts-for-tier-1-firms-with-harrison-chase-langchain)**  
-`Harry Stebbings` · 21 小时前  
+`Harry Stebbings` · 1 天前  
 
 **[New Matt Faherty study of the NSF](https://marginalrevolution.com/marginalrevolution/2026/10/new-matt-flaherty-study-of-the-nsf.html?utm_source=rss&utm_medium=rss&utm_campaign=new-matt-flaherty-study-of-the-nsf)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[2026.42: Home At Last](https://stratechery.com/2026/home-at-last/)**  
 `Ben Thompson` · 1 天前  
@@ -145,18 +151,12 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[On Bergman’s *Persona*](https://marginalrevolution.com/marginalrevolution/2026/10/on-bergmans-persona.html?utm_source=rss&utm_medium=rss&utm_campaign=on-bergmans-persona)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 **[I guest host the NYT podcast and interview Dwarkesh](https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-the-nyt-podcast-and-interview-dwarkesh.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-the-nyt-podcast-and-interview-dwarkesh)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-574.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-574)**  
 `Tyler Cowen` · 2 天前  
-
-**[Astra Held Its Ground (Truth)](https://marginalrevolution.com/marginalrevolution/2026/10/astra-held-its-ground-truth.html?utm_source=rss&utm_medium=rss&utm_campaign=astra-held-its-ground-truth)**  
-`Tyler Cowen` · 2 天前  
-
-**[A Conversation With Ari Emanuel About Entertainment and AI](https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/)**  
-`Ben Thompson` · 2 天前  
 
 <!-- POSTS:END -->
