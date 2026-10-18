@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-10-18T15:53:22Z",
-  "count": 422,
+  "generated_at": "2026-10-18T20:45:11Z",
+  "count": 423,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/this-beautiful-country.html",
+      "title": "*This Beautiful Country*",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/this-beautiful-country.html?utm_source=rss&utm_medium=rss&utm_campaign=this-beautiful-country",
+      "published": "2026-10-18T16:32:02Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "The author is Edward Cutler and the subtitle is How Italy s Nature Shaped its Culture and Civilisation . This is an excellent book on how the Italy you know has been shaped by its natural environment, such as its mountains, rivers, geology, and so on. Ever wondered why Sardinia is different? The book is good at sticking to specifics. Excerpt:\n\n This extraordinary overlap has made Italy the continent s botanical crossroads and one of its greatest arboreal sanctuaries. Within Europe, few countries host such a variety of native trees: at least 140 species, more than almost anywhere west of the Balkans. Some, like the Sicilian fir, Lobel s maple and the Etna birch, are totally unique. The structure of Italy s forests is equally diverse dense, high-altitude canopies, open oak pastures, cork scrub and coastal maquis, each shaped by centuries of disturbance and renewal. This is the legacy of a land that sreved first as Europe s refuge during the Ice Ages and later as its great corridor of return, where northern, eastern and African floras met and mingled in perpetual exchange.\n \n Recommended to all those with an interest in Italy.\n\n The post *This Beautiful Country* appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-18T20:44:53Z"
+    },
     {
       "id": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
       "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",

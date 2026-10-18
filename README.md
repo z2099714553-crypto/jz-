@@ -112,19 +112,22 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-18 15:53 UTC*
+*更新于 2026-10-18 20:45 UTC*
+
+**[*This Beautiful Country*](https://marginalrevolution.com/marginalrevolution/2026/10/this-beautiful-country.html?utm_source=rss&utm_medium=rss&utm_campaign=this-beautiful-country)**  
+`Tyler Cowen` · 4 小时前  
 
 **[Inside the black box of AI: How AI models actually think \| Emmanuel Ameisen (Anthropic)](https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on)**  
-`Lenny Rachitsky` · 3 小时前  
+`Lenny Rachitsky` · 8 小时前  
 
 **[Our fascination with screens, demand curves slope downward installment #1637](https://marginalrevolution.com/marginalrevolution/2026/10/our-fascination-with-screens-demand-curves-slope-downward-installment-1637.html?utm_source=rss&utm_medium=rss&utm_campaign=our-fascination-with-screens-demand-curves-slope-downward-installment-1637)**  
-`Tyler Cowen` · 9 小时前  
+`Tyler Cowen` · 14 小时前  
 
 **[The archaeology tranche of Emergent Ventures](https://marginalrevolution.com/marginalrevolution/2026/10/the-archaeology-tranche-of-emergent-ventures.html?utm_source=rss&utm_medium=rss&utm_campaign=the-archaeology-tranche-of-emergent-ventures)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 15 小时前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-583)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more](https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents)**  
 `Lenny Rachitsky` · 1 天前  
@@ -139,13 +142,13 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[2026.42: Home At Last](https://stratechery.com/2026/home-at-last/)**  
-`Ben Thompson` · 1 天前  
+`Ben Thompson` · 2 天前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-595)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 **[Me and My Agents](https://www.netinterest.co/p/me-and-my-agents)**  
-`Marc Rubinstein` · 1 天前  
+`Marc Rubinstein` · 2 天前  
 
 **[Weekly Dose of Optimism #215](https://www.notboring.co/p/weekly-dose-of-optimism-215)**  
 `Packy McCormick` · 2 天前  
@@ -154,9 +157,6 @@ open docs/index.html
 `Tyler Cowen` · 2 天前  
 
 **[On Bergman’s *Persona*](https://marginalrevolution.com/marginalrevolution/2026/10/on-bergmans-persona.html?utm_source=rss&utm_medium=rss&utm_campaign=on-bergmans-persona)**  
-`Tyler Cowen` · 2 天前  
-
-**[I guest host the NYT podcast and interview Dwarkesh](https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-the-nyt-podcast-and-interview-dwarkesh.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-the-nyt-podcast-and-interview-dwarkesh)**  
 `Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
