@@ -112,22 +112,28 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-18 23:13 UTC*
+*更新于 2026-10-19 04:42 UTC*
+
+**[What I’ve been reading](https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-297.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-297)**  
+`Tyler Cowen` · 刚刚  
+
+**[Seinfeld](https://www.acquired.fm/episodes/seinfeld)**  
+`Ben Gilbert & David Rosenthal` · 刚刚  
 
 **[*You Can See Everything* (no spoilers)](https://marginalrevolution.com/marginalrevolution/2026/10/you-can-see-everything-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=you-can-see-everything-no-spoilers)**  
-`Tyler Cowen` · 1 小时前  
-
-**[*This Beautiful Country*](https://marginalrevolution.com/marginalrevolution/2026/10/this-beautiful-country.html?utm_source=rss&utm_medium=rss&utm_campaign=this-beautiful-country)**  
 `Tyler Cowen` · 6 小时前  
 
+**[*This Beautiful Country*](https://marginalrevolution.com/marginalrevolution/2026/10/this-beautiful-country.html?utm_source=rss&utm_medium=rss&utm_campaign=this-beautiful-country)**  
+`Tyler Cowen` · 12 小时前  
+
 **[Inside the black box of AI: How AI models actually think \| Emmanuel Ameisen (Anthropic)](https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on)**  
-`Lenny Rachitsky` · 10 小时前  
+`Lenny Rachitsky` · 16 小时前  
 
 **[Our fascination with screens, demand curves slope downward installment #1637](https://marginalrevolution.com/marginalrevolution/2026/10/our-fascination-with-screens-demand-curves-slope-downward-installment-1637.html?utm_source=rss&utm_medium=rss&utm_campaign=our-fascination-with-screens-demand-curves-slope-downward-installment-1637)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[The archaeology tranche of Emergent Ventures](https://marginalrevolution.com/marginalrevolution/2026/10/the-archaeology-tranche-of-emergent-ventures.html?utm_source=rss&utm_medium=rss&utm_campaign=the-archaeology-tranche-of-emergent-ventures)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-583)**  
 `Tyler Cowen` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[Me and My Agents](https://www.netinterest.co/p/me-and-my-agents)**  
 `Marc Rubinstein` · 2 天前  
-
-**[Weekly Dose of Optimism #215](https://www.notboring.co/p/weekly-dose-of-optimism-215)**  
-`Packy McCormick` · 2 天前  
-
-**[India has more Restrictive Labor Law than Germany](https://marginalrevolution.com/marginalrevolution/2026/10/india-has-more-restrictive-labor-law-than-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=india-has-more-restrictive-labor-law-than-germany)**  
-`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
