@@ -112,28 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-19 04:42 UTC*
+*更新于 2026-10-19 13:17 UTC*
+
+**[“Claude cuts my TikTok”: How this creator is scaling video with AI \| Brooke Lacey](https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator)**  
+`Lenny Rachitsky` · 1 小时前  
+
+**[No, DataCenters are Not Crowding-Out Other Investments](https://marginalrevolution.com/marginalrevolution/2026/10/no-datacenters-are-not-crowding-out-other-investments.html?utm_source=rss&utm_medium=rss&utm_campaign=no-datacenters-are-not-crowding-out-other-investments)**  
+`Tyler Cowen` · 2 小时前  
+
+**[Do You Trust Apple?](https://stratechery.com/2026/do-you-trust-apple/)**  
+`Ben Thompson` · 3 小时前  
+
+**[20VC: You Need $1BN To Do Seed Today: The Untold Truths of Venture \| Who Wins and Who Loses in the Next Decade of VC \| Why Margin and Price Matter Less in a World of AI with Sameer Dholakia, Bessemer](https://thetwentyminutevc.libsyn.com/20vc-you-need-1bn-to-do-seed-today-the-untold-truths-of-venture-who-wins-and-who-loses-in-the-next-decade-of-vc-why-margin-and-price-matter-less-in-a-world-of-ai-with-sameer-dholakia-bessemer)**  
+`Harry Stebbings` · 6 小时前  
 
 **[What I’ve been reading](https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-297.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-297)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 8 小时前  
 
 **[Seinfeld](https://www.acquired.fm/episodes/seinfeld)**  
-`Ben Gilbert & David Rosenthal` · 刚刚  
+`Ben Gilbert & David Rosenthal` · 9 小时前  
 
 **[*You Can See Everything* (no spoilers)](https://marginalrevolution.com/marginalrevolution/2026/10/you-can-see-everything-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=you-can-see-everything-no-spoilers)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 15 小时前  
 
 **[*This Beautiful Country*](https://marginalrevolution.com/marginalrevolution/2026/10/this-beautiful-country.html?utm_source=rss&utm_medium=rss&utm_campaign=this-beautiful-country)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 20 小时前  
 
 **[Inside the black box of AI: How AI models actually think \| Emmanuel Ameisen (Anthropic)](https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on)**  
-`Lenny Rachitsky` · 16 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[Our fascination with screens, demand curves slope downward installment #1637](https://marginalrevolution.com/marginalrevolution/2026/10/our-fascination-with-screens-demand-curves-slope-downward-installment-1637.html?utm_source=rss&utm_medium=rss&utm_campaign=our-fascination-with-screens-demand-curves-slope-downward-installment-1637)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[The archaeology tranche of Emergent Ventures](https://marginalrevolution.com/marginalrevolution/2026/10/the-archaeology-tranche-of-emergent-ventures.html?utm_source=rss&utm_medium=rss&utm_campaign=the-archaeology-tranche-of-emergent-ventures)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-583)**  
 `Tyler Cowen` · 1 天前  
@@ -142,21 +154,9 @@ open docs/index.html
 `Lenny Rachitsky` · 1 天前  
 
 **[Solving for the equilibrium?](https://marginalrevolution.com/marginalrevolution/2026/10/solving-for-the-equilibrium-2.html?utm_source=rss&utm_medium=rss&utm_campaign=solving-for-the-equilibrium-2)**  
-`Tyler Cowen` · 1 天前  
-
-**[20VC: Horizontal vs Vertical Agents: Who Wins \| Model Routing: Commodity or Increasing in Value \| The Future of the Inference Market \| Why Founders Should Take Discounts for Tier 1 Firms with Harrison Chase, LangChain](https://thetwentyminutevc.libsyn.com/20vc-horizontal-vs-vertical-agents-who-wins-model-routing-commodity-or-increasing-in-value-the-future-of-the-inference-market-why-founders-should-take-discounts-for-tier-1-firms-with-harrison-chase-langchain)**  
-`Harry Stebbings` · 1 天前  
-
-**[New Matt Faherty study of the NSF](https://marginalrevolution.com/marginalrevolution/2026/10/new-matt-flaherty-study-of-the-nsf.html?utm_source=rss&utm_medium=rss&utm_campaign=new-matt-flaherty-study-of-the-nsf)**  
-`Tyler Cowen` · 1 天前  
-
-**[2026.42: Home At Last](https://stratechery.com/2026/home-at-last/)**  
-`Ben Thompson` · 2 天前  
-
-**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-595)**  
 `Tyler Cowen` · 2 天前  
 
-**[Me and My Agents](https://www.netinterest.co/p/me-and-my-agents)**  
-`Marc Rubinstein` · 2 天前  
+**[20VC: Horizontal vs Vertical Agents: Who Wins \| Model Routing: Commodity or Increasing in Value \| The Future of the Inference Market \| Why Founders Should Take Discounts for Tier 1 Firms with Harrison Chase, LangChain](https://thetwentyminutevc.libsyn.com/20vc-horizontal-vs-vertical-agents-who-wins-model-routing-commodity-or-increasing-in-value-the-future-of-the-inference-market-why-founders-should-take-discounts-for-tier-1-firms-with-harrison-chase-langchain)**  
+`Harry Stebbings` · 2 天前  
 
 <!-- POSTS:END -->
