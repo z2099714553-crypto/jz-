@@ -112,31 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-20 14:19 UTC*
+*更新于 2026-10-20 19:17 UTC*
+
+**[Saving for the machines](https://marginalrevolution.com/marginalrevolution/2026/10/saving-for-the-machines.html?utm_source=rss&utm_medium=rss&utm_campaign=saving-for-the-machines)**  
+`Tyler Cowen` · 刚刚  
+
+**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-591)**  
+`Tyler Cowen` · 3 小时前  
 
 **[Pete Florence: When Robots Improvise](https://www.generalist.com/p/pete-florence-when-robots-improvise)**  
-`Mario Gabriele` · 2 小时前  
+`Mario Gabriele` · 7 小时前  
 
 **[Muse Spark Open, Meta + Apple, Thin and Thick](https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/)**  
-`Ben Thompson` · 4 小时前  
+`Ben Thompson` · 9 小时前  
 
 **[The net fiscal impact of immigration should include gains from trade](https://marginalrevolution.com/marginalrevolution/2026/10/the-net-fiscal-impact-of-immigration-should-include-gains-from-trade.html?utm_source=rss&utm_medium=rss&utm_campaign=the-net-fiscal-impact-of-immigration-should-include-gains-from-trade)**  
-`Tyler Cowen` · 9 小时前  
+`Tyler Cowen` · 14 小时前  
 
 **[On Brazilian food](https://marginalrevolution.com/marginalrevolution/2026/10/on-brazilian-food.html?utm_source=rss&utm_medium=rss&utm_campaign=on-brazilian-food)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 15 小时前  
 
 **[E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？](https://sv101.fireside.fm/270)**  
-`陈茜` · 15 小时前  
+`陈茜` · 20 小时前  
 
 **[The California billionaire tax is very likely a net revenue loser](https://marginalrevolution.com/marginalrevolution/2026/10/the-california-billionaire-tax.html?utm_source=rss&utm_medium=rss&utm_campaign=the-california-billionaire-tax)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-582)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI](https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke)**  
-`Lenny Rachitsky` · 23 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[“Claude cuts my TikTok”: How this creator is scaling video with AI \| Brooke Lacey](https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator)**  
 `Lenny Rachitsky` · 1 天前  
@@ -151,12 +157,6 @@ open docs/index.html
 `Harry Stebbings` · 1 天前  
 
 **[What I’ve been reading](https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-297.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-297)**  
-`Tyler Cowen` · 1 天前  
-
-**[Seinfeld](https://www.acquired.fm/episodes/seinfeld)**  
-`Ben Gilbert & David Rosenthal` · 1 天前  
-
-**[*You Can See Everything* (no spoilers)](https://marginalrevolution.com/marginalrevolution/2026/10/you-can-see-everything-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=you-can-see-everything-no-spoilers)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
