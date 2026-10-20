@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-10-20T08:33:57Z",
-  "count": 437,
+  "generated_at": "2026-10-20T14:19:20Z",
+  "count": 439,
   "posts": [
+    {
+      "id": "https://www.generalist.com/p/pete-florence-when-robots-improvise",
+      "title": "Pete Florence: When Robots Improvise",
+      "link": "https://www.generalist.com/p/pete-florence-when-robots-improvise",
+      "published": "2026-10-20T12:04:23Z",
+      "source": "The Generalist",
+      "author": "Mario Gabriele",
+      "lang": "en",
+      "tags": [
+        "公司分析",
+        "创投"
+      ],
+      "type": "blog",
+      "raw_text": "Before fire existed, it s hard to imagine all the implications of fire. I think the same thing will very much be true with the level of robotics that will be possible. It s just hard to even think of all the possibilities. Pete Florence, Co-Founder & CEO of Generalist\n \n Pete Florence and I began by agreeing that his company has an excellent name. Generalist builds AI for robots, including models that can begin learning a new task from a single demonstration. We talked about dexterity, the strange business of gathering physical experience for a machine, and what we might build if robots could do much more of the work.\n Listen or watch on YouTube , Spotify , or Apple Podcasts .\n From my notebook We re trying a new thing where I share a few of my thoughts from after the episodes. The moments that struck me, the tidbits that reframed my thinking, or something I just really enjoyed. Let me know if you like reading these! \n Dexterity, dexterity, dexterity. Before the conversation, I was trying to think about what robotics equivalent of coding would be. I found myself looking for a big industry or use case something in manufacturing or construction. Pete s answer is dexterity. Like coding, it s a horizontal capability that runs across fields and opens up a huge range of work. It s the kind of simple, sharp description that made me realize I d been thinking too narrowly.\n\n Robots that build robots. There s an implication of dexterity that I hadn t properly thought through, but is obvious in hindsight. Once robots are truly dexterous, they will become capable enough to replicate themselves and successive generations. Your ability to manufacture starts to scale with the machines themselves.\n\n GPT-3 feels roughly right. This is the comparison Anthropic researcher Sholto Douglas made when Generalist s latest model launched. That feels apt. ChatGPT ran on GPT-3.5, and OpenAI had already trained GPT-4 by then. What Generalist is doing is remarkable, but we re still short of that astonishing moment when everything clicks.\n\n What might we build? I liked Pete s framing of robotics opening up entirely new human projects. There are plenty of dangerous and unpleasant jobs we machines will take take over. But if the cost of physical labor falls dramatically, what kinds of strange, miraculous buildings, cities, and infrastructure become possible? What would we attempt that we currently dismiss as absurd?\n\n Sometimes the fastest way is a plane. The lengths Pete has gone to get robotic data are extraordinary. He described packing hard drives into a backpack and getting on a plane because poor internet connectivity at the collection site meant flying would be faster. The team has also built custom servers and software to upload data from large numbers of memory cards at once. I loved getting a more visceral sense of the physical work that goes into this part of the process.\n\n Pete s bookshelf When I asked Pete to recommend a book, he turned to two coaches: Bill Walsh of the San Francisco 49ers and John Wooden of UCLA. Walsh s book is The Score Takes Care of Itself , a classic Wooden tome is On Leadership . Pete s answer brought us back to teaching and coaching, both of which have been big parts of his life.\n\n Tangents What I m reading, watching, and into this week: \n Training a small model to autocorrect my text messages more accurately. So far the gains are modest :)\n\n Empire of Pain by Patrick Radden Keefe. I don t usually read non-fiction in my spare time, but I ve enjoyed (a strange word for so bleak a story) this excellent reporting of the Sackler family and the opioid epidemic.\n\n Playing with the models 3D capabilities to spin up an Italo Calvino-themed personal website (in progress).\n\n Mario\n \n Every timestamp 00:00 Intro\n 02:24 GEN-1.5 and one-shot learning\n 08:55 What makes a task difficult\n 10:53 Dexterity in robotics\n 14:53 Matt Mason s definition of a hand\n 17:34 Giving robots a sense of touch\n 20:30 Growing up in a family of technologists and scientists\n 22:46 What drew Pete into robotics\n 27:38 Generalist s founding thesis and what sets it apart\n 32:17 Protecting simplicity\n 35:01 How Generalist s data collection has evolved\n 35:30 Generalist s scaling philosophy\n 39:53 Generalist s build-versus-buy philosophy\n 42:15 Balancing general intelligence with commercial deployment\n 44:24 Why Pete is betting on dexterity\n 47:33 The durability of the robotics application layer\n 49:09 Open-weight robotics models and data flywheels\n 50:52 Geopolitics, safety, and alignment\n 52:42 The parallels between teaching humans and robots\n 1:00:05 The timeline for robotics progress and adoption\n 1:03:37 Book recommendations\n Listen or watch on YouTube Spotify Apple Podcasts \n\n Pete s complete reading list The Score Takes Care of Itself: My Philosophy of Leadership : https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472 \n\n Wooden on Leadership: How to Create a Winning Organization : https://www.amazon.com/Wooden-Leadership-Create-Winning-Organization/dp/0071453393 \n\n Other resources Generalist: https://generalistai.com \n\n GEN-1.5: https://generalistai.com/blog/gen-1.5 \n\n Proprioception: https://en.wikipedia.org/wiki/Proprioception \n\n Cutaneous receptor: https://en.wikipedia.org/wiki/Cutaneous_receptor \n\n Fukushima nuclear accident: https://en.wikipedia.org/wiki/Fukushima_nuclear_accident \n\n The bitter lesson: https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf \n\n GEN-1: https://generalistai.com/blog/gen-1 \n\n Where to find Pete Florence LinkedIn: https://www.linkedin.com/in/peteflorence \n X: https://x.com/peteflorence \n Website: https://www.peteflorence.com \n \n Subscribe to the show I d love it if you d subscribe and share the show. Your support makes all the difference as we try to bring more curious minds into the conversation.\n YouTube \n Spotify \n Apple \n \n Production and marketing by penname.co . For inquiries about sponsoring the podcast, email jordan@penname.co.",
+      "fetched_at": "2026-10-20T14:19:11Z"
+    },
+    {
+      "id": "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick",
+      "title": "Muse Spark Open, Meta + Apple, Thin and Thick",
+      "link": "https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/",
+      "published": "2026-10-20T10:00:00Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "Meta has a new open source model, and to everyone's surprise, they are are partnering with Apple to make sure you can run it locally.",
+      "fetched_at": "2026-10-20T14:19:11Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/the-net-fiscal-impact-of-immigration-should-include-gains-from-trade.html",
       "title": "The net fiscal impact of immigration should include gains from trade",
