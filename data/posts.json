@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-10-20T00:21:08Z",
-  "count": 435,
+  "generated_at": "2026-10-20T08:33:57Z",
+  "count": 437,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/the-net-fiscal-impact-of-immigration-should-include-gains-from-trade.html",
+      "title": "The net fiscal impact of immigration should include gains from trade",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/the-net-fiscal-impact-of-immigration-should-include-gains-from-trade.html?utm_source=rss&utm_medium=rss&utm_campaign=the-net-fiscal-impact-of-immigration-should-include-gains-from-trade",
+      "published": "2026-10-20T04:47:19Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Immigration affects natives through both labor markets and public budgets, yet these channels are usually studied separately. We combine them in a general-equilibrium model with search-and-matching frictions, skill-specific progressive labor taxes, capital taxation and public goods, calibrated to 17 OECD countries over 2015-2019. The welfare effect on natives of a one-percentage-point increase in immigrant inflows varies in sign and size across countries, hinging on immigrants skill mix, immigrant-native wage gaps, resident unemployment, and tax progressivity. For inflows matching the skill composition of 2019-2024 arrivals, native welfare rises in 14 of 17 economies, and in most cases both skill groups gain, through different channels. Lower-skilled natives gain mainly from higher pre-tax earnings, driven by job creation and complementarity with skilled immigrants; higher-skilled natives gain mainly from lower labor-tax burdens. Evaluating immigration policy thus requires modeling labor-market and fiscal channels jointly: either channel alone gives an incomplete picture of who gains and why.\n \n That is from a new NBER working paper by Michele Battisti , Giovanni Peri & Eleonora Romano . I have seen the core point here neglected so, so many times in recent discussions of the fiscal impact of immigration. The gains from trade count too! \n\n As a side note, I do not accept the authors claim that the immigrants are equally productive yet underpaid, and thus the native economy benefits from capturing that surplus. The better mechanism is simply that immigrants boost market size, and (especially for the United States) that brings some gains from increasing returns to scale, more innovation, making the country a talent magnet, and so on. The point holds that the gains from trade effect can be small, and it still will overwhelm what otherwise appear to be net fiscal costs.\n\n The post The net fiscal impact of immigration should include gains from trade appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-20T08:33:43Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/on-brazilian-food.html",
+      "title": "On Brazilian food",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/on-brazilian-food.html?utm_source=rss&utm_medium=rss&utm_campaign=on-brazilian-food",
+      "published": "2026-10-20T04:08:38Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Every now and then I will write a piece on food for Works in Progress. Here is my piece on eating in Brazil :\n\n Brazil, like most large nations, also offers multiple cuisines. For instance you can go to Minas Gerais for pork and beans. Minas beans would be my favorite of what I have sampled, surpassing Mexico. Belem serves cuisine from the Amazon region, including exotic river fish, dried shrimp, duck, and rice, with flavors from cassava, manioc, and the local fruit. You cannot get those dishes in many other places.\n\n Feijoada is of slave origins, and is often associated with Rio de Janeiro, but it has evolved into a national dish, available almost everywhere. Think rice, black beans, collard greens, orange slices, and farofa, a kind of manioc flour, with different parts of the pig mixed in. At home I cook the vegetarian version of this dish. The coolness and sweetness of the orange go well with the sandy texture of the farofa, and the meal hardly costs anything to make.\n\n Rio de Janeiro offers highly cosmopolitan options, and the city has a tradition of excellent French and Continental restaurants.\n\n The best churrascarias I have had were on the outskirts of Curitiba in the south. You can get an excellent pasta meal combined with your choice of many kinds of meat, leading to an impossibly large quantity of food at your disposal. I favored these establishments more in my youth, but if you have never tried them, you are missing something.\n\n Campo Grande, the booming agro-city in central western Brazil, has a derivative form of Okinawan soba (!) as a dining specialty. I regret that, due to a delayed flight connection, I have yet to try this apparent delicacy.\n \n There is much more at the link, recommended.\n\n The post On Brazilian food appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-20T08:33:43Z"
+    },
     {
       "id": "https://sv101.fireside.fm/270",
       "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
