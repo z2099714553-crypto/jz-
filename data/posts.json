@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-10-19T20:36:04Z",
-  "count": 434,
+  "generated_at": "2026-10-20T00:21:08Z",
+  "count": 435,
   "posts": [
+    {
+      "id": "https://sv101.fireside.fm/270",
+      "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+      "link": "https://sv101.fireside.fm/270",
+      "published": "2026-10-19T23:00:00Z",
+      "source": "硅谷101",
+      "author": "陈茜",
+      "lang": "zh",
+      "tags": [
+        "深度访谈",
+        "科技商业"
+      ],
+      "type": "interview",
+      "raw_text": "回顾9月，AI圈的重磅新闻一个接一个。\n\n先是OpenAI发布GPT-6 Astra，总裁格雷格·布罗克曼在发布会上宣布：AGI已经到来。\n\n这场发布对机器人行业的冲击，来得有些意外，一个发布会报告里只字未提机器人的通用模型，转身就空降了机器人评测榜首，甚至让很多机器人的Benchmark都失效了。有人开玩笑说：机器人领域等了这么多年的“GPT时刻”，居然是GPT自己。\n\n同样在这个月里：Meta Muse冲上美国App Store榜首，它的竞争对手Instinct估值也涨到了100亿美元；xAI的Grok Bot开放了企业部署；不生成文本、只给选项打概率的决策模型Jev以“系统1”走红，发布24天就融了8.7亿美元。\n\n在AI for Science方面，Claude发现类CRISPR的新酶系统；扎克伯格夫妇资助成立的Biohub宣布将虚拟细胞计划扩大到18亿美元……这些进展又会为科学发现带来哪些改变？\n\n本期《硅谷101》，我们请来三位分别站在Agent、机器人和AI制药一线的研究者，聊清楚三件事：个人Agent商业化卡在哪？机器人怎么被Astra这样的底层模型冲击？AI制药真正的瓶颈是什么？\n\n 本期节目录制于2026年9月29日 \n\n 【主播】 \n\n泓君，硅谷101创始人，播客主理人\n\n 【嘉宾】 \n\n许华哲，破壳机器人创始人、清华大学交叉信息研究院助理教授（X:@HarryXu12）\n\n朱哲清，Pokee.ai创始人兼CEO，前MetaAI应用强化学习团队负责人，斯坦福强化学习博士（X:@ZheqingZhu）\n\n王晟，华盛顿大学计算机学院助理教授（X:@profshengwang）\n\n 【你将听到】 \n\n00:05 新播客 《消费101》 上线啦！\n\n00:49 9月AI大事记\n\n04:18 各领域实测Astra感受\n\n Agent领域 \n\n09:11 生物医学“古董级软件”有了Computer Use\n\n12:17 Computer Use是什么？与API调用的区别\n\n15:47 Meta Muse会走Manus的老路吗？\n\n17:31 Meta Muse破局关键——软硬件结合\n\n19:37 商家愿意开access，前提是确认身份\n\n22:21 个人助手Agent新一轮烧钱获客大战\n\n24:57 Grok Bot，“走在后面的人”\n\n25:44 前沿Lab最烧token的是AI for Science\n\n27:48 小模型追大模型，差距在缩小，但可能追错了benchmark\n\n 机器人领域 \n\n30:19 未来需要快决策模型 + Astra的推理能力\n\n35:48 筷子夹小球效果：自研模型 V.S Astra\n\n37:25 Astra冲击：利好Sim-to-Real和本体硬件\n\n39:07 从TAMP到Agentic：机器人规划重回台前\n\n40:19 数据标注新门槛：标注因果与直觉物理\n\n43:06 惊艳之后，Astra也有明显短板\n\n45:12 Jev“快系统”的潜在价值\n\n 生物医学领域 \n\n47:10 实验设计完成度只有30%，Astra缺什么？\n\n51:39 AI制药，离不开实验室的验证和数据积累\n\n53:15 制药时间线：AI设计分子快，真实验证慢\n\n55:01 从AlphaFold开源，看垂直科学公司的数据护城河\n\n58:24 未来趋势：湿实验公司用MCP/API直连大模型\n\n01:02:15 人类科学家的角色转向“定义问题”\n\n01:03:47 好的benchmark，应该是无上限的\n\n01:02:15 ART的启示：酶和蛋白质实验周期短，最先跑出来\n\n 尾声 \n\n01:07:48 “蒸馏”是否让普通人失去了价值？\n\n1:11:51 Agent、机器人与AI制药的核心问题\n\n 【消费101】 \n\n 《消费101》 是《硅谷101》团队新开设的消费垂类节目，由资深消费记者&研究员麻花担任主播，是一档提供有趣、有料、有用的消费行业观察与品牌解读的播客。每周更新，欢迎关注！\n\n 【硅谷101听友群】 \n\n在这里，和同好一起深聊科技、商业与未来，期待你的声音，也期待更多有趣的讨论。\n\n扫码加入，即刻相遇！\n\n 【监制】 \n\n泓君\n\n 【后期】 \n\nAmei\n\n 【运营】 \n\n朱婕\n\n 【BGM】 \n\nImba Wimbo - RaFa Orchestra\n\nSignal Containment - Out To The World\n\nFlickering Torches - Christian Andersen\n\nVideo Knights - Sebastian Winskog\n\n 【在这里找到我们】 \n\n公众号：硅谷101\n\n收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐\n\n其他平台：YouTube｜Bilibili 搜索「硅谷101播客」\n\n联系我们： podcast@sv101.net \n Special Guests: 朱哲清, 王晟, and 许华哲.",
+      "fetched_at": "2026-10-20T00:21:02Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/the-california-billionaire-tax.html",
       "title": "The California billionaire tax is very likely a net revenue loser",
