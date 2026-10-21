@@ -112,31 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-21 11:50 UTC*
+*更新于 2026-10-21 17:13 UTC*
+
+**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-576)**  
+`Tyler Cowen` · 1 小时前  
 
 **[Netflix Earnings, Business or Franchise, Disney’s Deal](https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal/)**  
-`Ben Thompson` · 1 小时前  
+`Ben Thompson` · 7 小时前  
 
 **[One reason I do not love AI writing, or even AI-assisted writing](https://marginalrevolution.com/marginalrevolution/2026/10/one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing.html?utm_source=rss&utm_medium=rss&utm_campaign=one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 10 小时前  
 
 **[The Causal Effect of Foreign Ideas on U.S. Innovation](https://marginalrevolution.com/marginalrevolution/2026/10/the-causal-effect-of-foreign-ideas-on-u-s-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=the-causal-effect-of-foreign-ideas-on-u-s-innovation)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[Joel Kaplan leaves Meta](https://www.platformer.news/meta-joel-kaplan-midterms-moderation/)**  
-`Casey Newton` · 10 小时前  
+`Casey Newton` · 15 小时前  
 
 **[155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻](https://www.xiaoyuzhoufm.com/episode/6ad4dacd641ef406308d86e5?utm_source=rss)**  
-`张小珺` · 11 小时前  
+`张小珺` · 17 小时前  
+
+**[The GPU Revenue Ladder](https://tomtunguz.com/the-gpu-revenue-ladder/)**  
+`Tomasz Tunguz` · 17 小时前  
 
 **[Saving for the machines](https://marginalrevolution.com/marginalrevolution/2026/10/saving-for-the-machines.html?utm_source=rss&utm_medium=rss&utm_campaign=saving-for-the-machines)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-591)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Pete Florence: When Robots Improvise](https://www.generalist.com/p/pete-florence-when-robots-improvise)**  
-`Mario Gabriele` · 23 小时前  
+`Mario Gabriele` · 1 天前  
 
 **[Muse Spark Open, Meta + Apple, Thin and Thick](https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/)**  
 `Ben Thompson` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[The California billionaire tax is very likely a net revenue loser](https://marginalrevolution.com/marginalrevolution/2026/10/the-california-billionaire-tax.html?utm_source=rss&utm_medium=rss&utm_campaign=the-california-billionaire-tax)**  
 `Tyler Cowen` · 1 天前  
-
-**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-582)**  
-`Tyler Cowen` · 1 天前  
-
-**[🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI](https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke)**  
-`Lenny Rachitsky` · 1 天前  
 
 <!-- POSTS:END -->
