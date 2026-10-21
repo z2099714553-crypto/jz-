@@ -112,25 +112,34 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-21 04:49 UTC*
+*更新于 2026-10-21 11:50 UTC*
+
+**[Netflix Earnings, Business or Franchise, Disney’s Deal](https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal/)**  
+`Ben Thompson` · 1 小时前  
+
+**[One reason I do not love AI writing, or even AI-assisted writing](https://marginalrevolution.com/marginalrevolution/2026/10/one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing.html?utm_source=rss&utm_medium=rss&utm_campaign=one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing)**  
+`Tyler Cowen` · 5 小时前  
+
+**[The Causal Effect of Foreign Ideas on U.S. Innovation](https://marginalrevolution.com/marginalrevolution/2026/10/the-causal-effect-of-foreign-ideas-on-u-s-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=the-causal-effect-of-foreign-ideas-on-u-s-innovation)**  
+`Tyler Cowen` · 6 小时前  
 
 **[Joel Kaplan leaves Meta](https://www.platformer.news/meta-joel-kaplan-midterms-moderation/)**  
-`Casey Newton` · 3 小时前  
+`Casey Newton` · 10 小时前  
 
 **[155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻](https://www.xiaoyuzhoufm.com/episode/6ad4dacd641ef406308d86e5?utm_source=rss)**  
-`张小珺` · 4 小时前  
+`张小珺` · 11 小时前  
 
 **[Saving for the machines](https://marginalrevolution.com/marginalrevolution/2026/10/saving-for-the-machines.html?utm_source=rss&utm_medium=rss&utm_campaign=saving-for-the-machines)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-591)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 19 小时前  
 
 **[Pete Florence: When Robots Improvise](https://www.generalist.com/p/pete-florence-when-robots-improvise)**  
-`Mario Gabriele` · 16 小时前  
+`Mario Gabriele` · 23 小时前  
 
 **[Muse Spark Open, Meta + Apple, Thin and Thick](https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/)**  
-`Ben Thompson` · 18 小时前  
+`Ben Thompson` · 1 天前  
 
 **[The net fiscal impact of immigration should include gains from trade](https://marginalrevolution.com/marginalrevolution/2026/10/the-net-fiscal-impact-of-immigration-should-include-gains-from-trade.html?utm_source=rss&utm_medium=rss&utm_campaign=the-net-fiscal-impact-of-immigration-should-include-gains-from-trade)**  
 `Tyler Cowen` · 1 天前  
@@ -149,14 +158,5 @@ open docs/index.html
 
 **[🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI](https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke)**  
 `Lenny Rachitsky` · 1 天前  
-
-**[“Claude cuts my TikTok”: How this creator is scaling video with AI \| Brooke Lacey](https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator)**  
-`Lenny Rachitsky` · 1 天前  
-
-**[No, DataCenters are Not Crowding-Out Other Investments](https://marginalrevolution.com/marginalrevolution/2026/10/no-datacenters-are-not-crowding-out-other-investments.html?utm_source=rss&utm_medium=rss&utm_campaign=no-datacenters-are-not-crowding-out-other-investments)**  
-`Tyler Cowen` · 1 天前  
-
-**[Do You Trust Apple?](https://stratechery.com/2026/do-you-trust-apple/)**  
-`Ben Thompson` · 1 天前  
 
 <!-- POSTS:END -->

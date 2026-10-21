@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-10-21T04:49:33Z",
-  "count": 443,
+  "generated_at": "2026-10-21T11:50:39Z",
+  "count": 446,
   "posts": [
+    {
+      "id": "https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal",
+      "title": "Netflix Earnings, Business or Franchise, Disney’s Deal",
+      "link": "https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal/",
+      "published": "2026-10-21T10:00:00Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "Netflix has a solid business, which is exactly the problem: the company increasingly seems like a business and not a franchise, at least in terms of growth.",
+      "fetched_at": "2026-10-21T11:50:30Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing.html",
+      "title": "One reason I do not love AI writing, or even AI-assisted writing",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing.html?utm_source=rss&utm_medium=rss&utm_campaign=one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing",
+      "published": "2026-10-21T06:20:34Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Of course I read to absorb the content, but I also am in a position to meet many authors, have contact with them, and spend time with them. So reading anything also is a potential option on those future connections. But when I am reading an AI piece, the value of that option comes pretty close to zero.\n\n The post One reason I do not love AI writing, or even AI-assisted writing appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-21T11:50:30Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/the-causal-effect-of-foreign-ideas-on-u-s-innovation.html",
+      "title": "The Causal Effect of Foreign Ideas on U.S. Innovation",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/the-causal-effect-of-foreign-ideas-on-u-s-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=the-causal-effect-of-foreign-ideas-on-u-s-innovation",
+      "published": "2026-10-21T05:00:58Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Globalization is once again better than many people realize:\n\n We study the role of foreign ideas in U.S. innovation by constructing a directed “genealogy” of technologies from the full text of 13 million patents filed between 1887 and 2024. By tracing which earlier technologies appear in the founding patents of new ones, we recover a large-scale input–output network of technological recombination that identifies the foreign technologies that serve as inputs into innovation in the United States. We report four main findings. First, foreign ideas are pervasive: 54% of U.S. technologies build on at least one foreign input, and the most fertile U.S. technologies rely on foreign inputs most heavily. Second, foreign ideas have large causal effects on U.S. innovation. Using the historical settlement of migrants as a source of exogenous variation in local ancestry, we show that U.S. counties more exposed to knowledge from a given foreign country absorb substantially more technologies from that country and, in turn, invent significantly more U.S. technologies building on them. Third, foreign ideas shape not only the level but also the direction of technical change: U.S. counties are far more likely to pioneer the specific technologies whose foreign inputs are already in their local idea stock, and the changing origins of foreign ideas accompany the shift of American innovation from its historical heartland toward the coasts. Fourth, these effects leave a lasting imprint on local labor markets: decades later, counties that absorbed more of an origin’s ideas host more jobs working with those ideas, and even more work with the U.S. technologies descended from them.\n \n Here is the full paper by Tarek Alexander Hassan , Aakash Kalyani & Juan Cruz Lopez Del Valle . \n\n The post The Causal Effect of Foreign Ideas on U.S. Innovation appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-21T11:50:30Z"
+    },
     {
       "id": "https://www.platformer.news/meta-joel-kaplan-midterms-moderation",
       "title": "Joel Kaplan leaves Meta",
