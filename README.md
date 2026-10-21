@@ -112,25 +112,31 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-20 23:53 UTC*
+*更新于 2026-10-21 04:49 UTC*
+
+**[Joel Kaplan leaves Meta](https://www.platformer.news/meta-joel-kaplan-midterms-moderation/)**  
+`Casey Newton` · 3 小时前  
+
+**[155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻](https://www.xiaoyuzhoufm.com/episode/6ad4dacd641ef406308d86e5?utm_source=rss)**  
+`张小珺` · 4 小时前  
 
 **[Saving for the machines](https://marginalrevolution.com/marginalrevolution/2026/10/saving-for-the-machines.html?utm_source=rss&utm_medium=rss&utm_campaign=saving-for-the-machines)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 10 小时前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-591)**  
-`Tyler Cowen` · 7 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[Pete Florence: When Robots Improvise](https://www.generalist.com/p/pete-florence-when-robots-improvise)**  
-`Mario Gabriele` · 11 小时前  
+`Mario Gabriele` · 16 小时前  
 
 **[Muse Spark Open, Meta + Apple, Thin and Thick](https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/)**  
-`Ben Thompson` · 13 小时前  
+`Ben Thompson` · 18 小时前  
 
 **[The net fiscal impact of immigration should include gains from trade](https://marginalrevolution.com/marginalrevolution/2026/10/the-net-fiscal-impact-of-immigration-should-include-gains-from-trade.html?utm_source=rss&utm_medium=rss&utm_campaign=the-net-fiscal-impact-of-immigration-should-include-gains-from-trade)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[On Brazilian food](https://marginalrevolution.com/marginalrevolution/2026/10/on-brazilian-food.html?utm_source=rss&utm_medium=rss&utm_campaign=on-brazilian-food)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？](https://sv101.fireside.fm/270)**  
 `陈茜` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[Do You Trust Apple?](https://stratechery.com/2026/do-you-trust-apple/)**  
 `Ben Thompson` · 1 天前  
-
-**[20VC: You Need $1BN To Do Seed Today: The Untold Truths of Venture \| Who Wins and Who Loses in the Next Decade of VC \| Why Margin and Price Matter Less in a World of AI with Sameer Dholakia, Bessemer](https://thetwentyminutevc.libsyn.com/20vc-you-need-1bn-to-do-seed-today-the-untold-truths-of-venture-who-wins-and-who-loses-in-the-next-decade-of-vc-why-margin-and-price-matter-less-in-a-world-of-ai-with-sameer-dholakia-bessemer)**  
-`Harry Stebbings` · 1 天前  
-
-**[What I’ve been reading](https://marginalrevolution.com/marginalrevolution/2026/10/what-ive-been-reading-297.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-297)**  
-`Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
