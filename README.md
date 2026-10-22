@@ -112,34 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-22 11:54 UTC*
+*更新于 2026-10-22 17:11 UTC*
+
+**[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-575)**  
+`Tyler Cowen` · 1 小时前  
+
+**[What will computer chips look like in 2045?](https://www.dwarkesh.com/p/intel-tour)**  
+`Dwarkesh Patel` · 2 小时前  
 
 **[Modern Principles of Economics!](https://marginalrevolution.com/marginalrevolution/2026/10/modern-principles-of-economics-3.html?utm_source=rss&utm_medium=rss&utm_campaign=modern-principles-of-economics-3)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 5 小时前  
 
 **[An Interview with Craig Moffett About SpaceX and Bubbles](https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles/)**  
-`Ben Thompson` · 1 小时前  
+`Ben Thompson` · 7 小时前  
 
 **[A simple point about the intertemporal regulation of AI](https://marginalrevolution.com/marginalrevolution/2026/10/a-simple-point-about-the-intertemporal-regulation-of-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-point-about-the-intertemporal-regulation-of-ai)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 9 小时前  
 
 **[20VC: Trillion or Bust: The New VC Game \| Coreweave Sell-Off Creates Panic \| Town at $1B, Anduril at $90B: Revenue Multiples Out of Control \| General Atlantic Eyes IPO & Modal Raises $750M at $15.75B](https://thetwentyminutevc.libsyn.com/20vc-trillion-or-bust-the-new-vc-game-coreweave-sell-off-creates-panic-town-at-1b-anduril-at-90b-revenue-multiples-out-of-control-general-atlantic-eyes-ipo-modal-raises-750m-at-1575b)**  
-`Harry Stebbings` · 4 小时前  
+`Harry Stebbings` · 10 小时前  
 
 **[Do mass shootings in universities lead to permanent effects?](https://marginalrevolution.com/marginalrevolution/2026/10/do-mass-shootings-in-universities-lead-to-permanent-effects.html?utm_source=rss&utm_medium=rss&utm_campaign=do-mass-shootings-in-universities-lead-to-permanent-effects)**  
-`Tyler Cowen` · 7 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[Claude Duet is beautiful. I still forgot to use it](https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still)**  
-`Lenny Rachitsky` · 15 小时前  
+`Lenny Rachitsky` · 20 小时前  
 
 **[More on Elizabeth Holmes and prison](https://marginalrevolution.com/marginalrevolution/2026/10/more-on-elizabeth-holmes-and-prison.html?utm_source=rss&utm_medium=rss&utm_campaign=more-on-elizabeth-holmes-and-prison)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 21 小时前  
 
 **[Presented by Stripe](https://stratechery.com/2026/presented-by-stripe/)**  
-`Ben Thompson` · 18 小时前  
+`Ben Thompson` · 23 小时前  
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-576)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Netflix Earnings, Business or Franchise, Disney’s Deal](https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal/)**  
 `Ben Thompson` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[Joel Kaplan leaves Meta](https://www.platformer.news/meta-joel-kaplan-midterms-moderation/)**  
 `Casey Newton` · 1 天前  
-
-**[155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻](https://www.xiaoyuzhoufm.com/episode/6ad4dacd641ef406308d86e5?utm_source=rss)**  
-`张小珺` · 1 天前  
-
-**[The GPU Revenue Ladder](https://tomtunguz.com/the-gpu-revenue-ladder/)**  
-`Tomasz Tunguz` · 1 天前  
 
 <!-- POSTS:END -->
