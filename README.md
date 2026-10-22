@@ -112,31 +112,43 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-22 04:47 UTC*
+*更新于 2026-10-22 11:54 UTC*
 
-**[Do mass shootings in universities lead to permanent effects?](https://marginalrevolution.com/marginalrevolution/2026/10/do-mass-shootings-in-universities-lead-to-permanent-effects.html?utm_source=rss&utm_medium=rss&utm_campaign=do-mass-shootings-in-universities-lead-to-permanent-effects)**  
+**[Modern Principles of Economics!](https://marginalrevolution.com/marginalrevolution/2026/10/modern-principles-of-economics-3.html?utm_source=rss&utm_medium=rss&utm_campaign=modern-principles-of-economics-3)**  
 `Tyler Cowen` · 刚刚  
 
+**[An Interview with Craig Moffett About SpaceX and Bubbles](https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles/)**  
+`Ben Thompson` · 1 小时前  
+
+**[A simple point about the intertemporal regulation of AI](https://marginalrevolution.com/marginalrevolution/2026/10/a-simple-point-about-the-intertemporal-regulation-of-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-point-about-the-intertemporal-regulation-of-ai)**  
+`Tyler Cowen` · 4 小时前  
+
+**[20VC: Trillion or Bust: The New VC Game \| Coreweave Sell-Off Creates Panic \| Town at $1B, Anduril at $90B: Revenue Multiples Out of Control \| General Atlantic Eyes IPO & Modal Raises $750M at $15.75B](https://thetwentyminutevc.libsyn.com/20vc-trillion-or-bust-the-new-vc-game-coreweave-sell-off-creates-panic-town-at-1b-anduril-at-90b-revenue-multiples-out-of-control-general-atlantic-eyes-ipo-modal-raises-750m-at-1575b)**  
+`Harry Stebbings` · 4 小时前  
+
+**[Do mass shootings in universities lead to permanent effects?](https://marginalrevolution.com/marginalrevolution/2026/10/do-mass-shootings-in-universities-lead-to-permanent-effects.html?utm_source=rss&utm_medium=rss&utm_campaign=do-mass-shootings-in-universities-lead-to-permanent-effects)**  
+`Tyler Cowen` · 7 小时前  
+
 **[Claude Duet is beautiful. I still forgot to use it](https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still)**  
-`Lenny Rachitsky` · 8 小时前  
+`Lenny Rachitsky` · 15 小时前  
 
 **[More on Elizabeth Holmes and prison](https://marginalrevolution.com/marginalrevolution/2026/10/more-on-elizabeth-holmes-and-prison.html?utm_source=rss&utm_medium=rss&utm_campaign=more-on-elizabeth-holmes-and-prison)**  
-`Tyler Cowen` · 9 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[Presented by Stripe](https://stratechery.com/2026/presented-by-stripe/)**  
-`Ben Thompson` · 11 小时前  
-
-**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-576)**  
-`Tyler Cowen` · 12 小时前  
-
-**[Netflix Earnings, Business or Franchise, Disney’s Deal](https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal/)**  
 `Ben Thompson` · 18 小时前  
 
+**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-576)**  
+`Tyler Cowen` · 19 小时前  
+
+**[Netflix Earnings, Business or Franchise, Disney’s Deal](https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal/)**  
+`Ben Thompson` · 1 天前  
+
 **[One reason I do not love AI writing, or even AI-assisted writing](https://marginalrevolution.com/marginalrevolution/2026/10/one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing.html?utm_source=rss&utm_medium=rss&utm_campaign=one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[The Causal Effect of Foreign Ideas on U.S. Innovation](https://marginalrevolution.com/marginalrevolution/2026/10/the-causal-effect-of-foreign-ideas-on-u-s-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=the-causal-effect-of-foreign-ideas-on-u-s-innovation)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Joel Kaplan leaves Meta](https://www.platformer.news/meta-joel-kaplan-midterms-moderation/)**  
 `Casey Newton` · 1 天前  
@@ -146,17 +158,5 @@ open docs/index.html
 
 **[The GPU Revenue Ladder](https://tomtunguz.com/the-gpu-revenue-ladder/)**  
 `Tomasz Tunguz` · 1 天前  
-
-**[Saving for the machines](https://marginalrevolution.com/marginalrevolution/2026/10/saving-for-the-machines.html?utm_source=rss&utm_medium=rss&utm_campaign=saving-for-the-machines)**  
-`Tyler Cowen` · 1 天前  
-
-**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-591)**  
-`Tyler Cowen` · 1 天前  
-
-**[Pete Florence: When Robots Improvise](https://www.generalist.com/p/pete-florence-when-robots-improvise)**  
-`Mario Gabriele` · 1 天前  
-
-**[Muse Spark Open, Meta + Apple, Thin and Thick](https://stratechery.com/2026/muse-spark-open-meta-apple-thin-and-thick/)**  
-`Ben Thompson` · 1 天前  
 
 <!-- POSTS:END -->
