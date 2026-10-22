@@ -112,37 +112,43 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-22 17:11 UTC*
+*更新于 2026-10-22 21:36 UTC*
+
+**[How Long Do Wealth Shocks Persist? Less Than Three Generations in England, 1700–2026](https://marginalrevolution.com/marginalrevolution/2026/10/how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026)**  
+`Tyler Cowen` · 3 小时前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-575)**  
-`Tyler Cowen` · 1 小时前  
-
-**[What will computer chips look like in 2045?](https://www.dwarkesh.com/p/intel-tour)**  
-`Dwarkesh Patel` · 2 小时前  
-
-**[Modern Principles of Economics!](https://marginalrevolution.com/marginalrevolution/2026/10/modern-principles-of-economics-3.html?utm_source=rss&utm_medium=rss&utm_campaign=modern-principles-of-economics-3)**  
 `Tyler Cowen` · 5 小时前  
 
+**[What will computer chips look like in 2045?](https://www.dwarkesh.com/p/intel-tour)**  
+`Dwarkesh Patel` · 6 小时前  
+
+**[Modern Principles of Economics!](https://marginalrevolution.com/marginalrevolution/2026/10/modern-principles-of-economics-3.html?utm_source=rss&utm_medium=rss&utm_campaign=modern-principles-of-economics-3)**  
+`Tyler Cowen` · 10 小时前  
+
 **[An Interview with Craig Moffett About SpaceX and Bubbles](https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles/)**  
-`Ben Thompson` · 7 小时前  
+`Ben Thompson` · 11 小时前  
 
 **[A simple point about the intertemporal regulation of AI](https://marginalrevolution.com/marginalrevolution/2026/10/a-simple-point-about-the-intertemporal-regulation-of-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-point-about-the-intertemporal-regulation-of-ai)**  
-`Tyler Cowen` · 9 小时前  
+`Tyler Cowen` · 14 小时前  
 
 **[20VC: Trillion or Bust: The New VC Game \| Coreweave Sell-Off Creates Panic \| Town at $1B, Anduril at $90B: Revenue Multiples Out of Control \| General Atlantic Eyes IPO & Modal Raises $750M at $15.75B](https://thetwentyminutevc.libsyn.com/20vc-trillion-or-bust-the-new-vc-game-coreweave-sell-off-creates-panic-town-at-1b-anduril-at-90b-revenue-multiples-out-of-control-general-atlantic-eyes-ipo-modal-raises-750m-at-1575b)**  
-`Harry Stebbings` · 10 小时前  
+`Harry Stebbings` · 14 小时前  
 
 **[Do mass shootings in universities lead to permanent effects?](https://marginalrevolution.com/marginalrevolution/2026/10/do-mass-shootings-in-universities-lead-to-permanent-effects.html?utm_source=rss&utm_medium=rss&utm_campaign=do-mass-shootings-in-universities-lead-to-permanent-effects)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 16 小时前  
+
+**[Closing Eight Figure Deals in Two Weeks](https://tomtunguz.com/closing-eight-figure-deals-in-two-weeks/)**  
+`Tomasz Tunguz` · 21 小时前  
 
 **[Claude Duet is beautiful. I still forgot to use it](https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still)**  
-`Lenny Rachitsky` · 20 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[More on Elizabeth Holmes and prison](https://marginalrevolution.com/marginalrevolution/2026/10/more-on-elizabeth-holmes-and-prison.html?utm_source=rss&utm_medium=rss&utm_campaign=more-on-elizabeth-holmes-and-prison)**  
-`Tyler Cowen` · 21 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Presented by Stripe](https://stratechery.com/2026/presented-by-stripe/)**  
-`Ben Thompson` · 23 小时前  
+`Ben Thompson` · 1 天前  
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-576)**  
 `Tyler Cowen` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[One reason I do not love AI writing, or even AI-assisted writing](https://marginalrevolution.com/marginalrevolution/2026/10/one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing.html?utm_source=rss&utm_medium=rss&utm_campaign=one-reason-i-do-not-love-ai-writing-or-even-ai-assisted-writing)**  
 `Tyler Cowen` · 1 天前  
-
-**[The Causal Effect of Foreign Ideas on U.S. Innovation](https://marginalrevolution.com/marginalrevolution/2026/10/the-causal-effect-of-foreign-ideas-on-u-s-innovation.html?utm_source=rss&utm_medium=rss&utm_campaign=the-causal-effect-of-foreign-ideas-on-u-s-innovation)**  
-`Tyler Cowen` · 1 天前  
-
-**[Joel Kaplan leaves Meta](https://www.platformer.news/meta-joel-kaplan-midterms-moderation/)**  
-`Casey Newton` · 1 天前  
 
 <!-- POSTS:END -->

@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-10-22T17:11:46Z",
-  "count": 458,
+  "generated_at": "2026-10-22T21:36:57Z",
+  "count": 460,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026.html",
+      "title": "How Long Do Wealth Shocks Persist? Less Than Three Generations in England, 1700–2026",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026",
+      "published": "2026-10-22T18:36:11Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "What happens across generations to wealth shocks? Do they endure and even magnify, or do they dissipate? By implication, how much modern wealth is attributable to events before 1900? This paper uses random shocks to family size in England before 1880 that created wealth shocks for the children to measure the persistence of wealth shocks. Fertility in England before 1880 was a biological lottery. For richer families, family size strongly influenced child wealth. This paper finds that such biology-induced wealth shocks had no impact on descendant wealth by three generations later. Since wealth itself persisted across more than five generations this implies that, in the long run, wealth mainly derives from sources other than inherited wealth. The observed link between nineteenth century and modern wealth does not lie in wealth transfers alone. Wealth persisted because of the familial inheritance of behaviors associated with wealth accumulation and retention.\n \n That is from a recent paper by Gregory Clark and Neil Cummins. Via the excellent Kevin Lewis .\n\n The post How Long Do Wealth Shocks Persist? Less Than Three Generations in England, 1700–2026 appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-22T21:36:40Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-575.html",
       "title": "Thursday assorted links",
@@ -114,6 +130,22 @@
       "type": "blog",
       "raw_text": "Using a stacked difference-in-differences design covering shootings between 1990 and 2025, I compare cohorts at affected universities before and after the shooting with cohorts at matched control universities. I find no detectable effects on time to degree, but undergraduates enrolled at the time of the shooting are 4.2% less likely to pursue further studies. Those who do continue shift toward health: the share of exposed cohorts who later enroll in a health degree rises by 1.3 percentage points (8.8%), and this effect persists among cohorts who enroll after the shooting. Effects on students present during the shooting are consistent with a response to trauma; for later cohorts, I find evidence of sorting, as master’s students with prior healthcare experience become more likely to enroll in affected universities. These results suggest that mass shootings leave institutional and cultural legacies that outlast the students who witnessed them.\n \n That is from the job market paper of María Medellín-Esguerra , who is currently on the job market from Brown University.\n\n The post Do mass shootings in universities lead to permanent effects? appeared first on Marginal REVOLUTION .",
       "fetched_at": "2026-10-22T04:47:44Z"
+    },
+    {
+      "id": "https://tomtunguz.com/closing-eight-figure-deals-in-two-weeks",
+      "title": "Closing Eight Figure Deals in Two Weeks",
+      "link": "https://tomtunguz.com/closing-eight-figure-deals-in-two-weeks/",
+      "published": "2026-10-22T00:00:00Z",
+      "source": "Tomasz Tunguz",
+      "author": "Tomasz Tunguz",
+      "lang": "en",
+      "tags": [
+        "SaaS",
+        "数据分析"
+      ],
+      "type": "blog",
+      "raw_text": "There are two markets in AI : applications & infrastructure. Bardia Shahali has built sales teams both : first at Fireworks AI from roughly $3m to roughly $400m, & now VP of Sales at Granola.\n\n In our conversation at Office Hours earlier this week, 1 we talked about the differences in building modern sales organizations in each domain. Here are three takeaways :\n\n Watch the full conversation on YouTube : Office Hours with Bardia Shahali \n\n &ldquo;You can close an eight-figure deal in two weeks.&rdquo;\n\n At Fireworks, whose customers are AI-native companies growing at extraordinary rates, single deals can reach the tens of millions with a very fast sales cycle. The counterpoint is competition. Every inference provider chases the same accounts. The stakes are higher & the competition more intense.\n\n &ldquo;But each rep, the quota they can carry is just multiples higher.&rdquo;\n\n &ldquo;We used to set like comp plans on an annual basis…Now we&rsquo;re setting comp every quarter because things change so much from quarter to quarter.&rdquo;\n\n Second, annual planning in an environment this dynamic can be a challenge : products evolve faster, model capabilities reach a new zenith every 45 days, 2 & the competitive landscape shifts quickly.\n\n &ldquo;If you have a small team, then you&rsquo;re not putting in the extra effort to go after, to do a little bit of outbound.&rdquo;\n\n Last, the risk of understaffing is a lack of emphasis on outbound & expansion. At the infrastructure layer, FDEs (forward-deployed engineers) & SEs (sales engineers) pair with AEs (account executives) to invent new acronyms I need to define within parens. Still with me?\n\n In reality, they pair to deliver a highly complex product. At the application layer, the AE & CSM (customer success manager) deliver software similar to the previous era, but with higher productivity & typically faster adoption/expansion.\n\n There&rsquo;s lots more to the 15 minute conversation : on-target earnings numbers in the AI era, on-boarding, burnout, usage-based pricing at the app layer. Watch the full episode here. Office Hours with Bardia Shahali \n\n I&rsquo;m grateful to Bardia for sharing his insights at Office Hours!\n\n Office Hours : The Leaner Sales Org with Bardia Shahali \n\n Model Release Exhaustion",
+      "fetched_at": "2026-10-22T21:36:40Z"
     },
     {
       "id": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
