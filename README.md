@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-23 11:40 UTC*
+*更新于 2026-10-23 17:08 UTC*
+
+**[2026.43: A New Era](https://stratechery.com/2026/a-new-era/)**  
+`Ben Thompson` · 刚刚  
+
+**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-596.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-596)**  
+`Tyler Cowen` · 刚刚  
+
+**[Capital Wars](https://www.netinterest.co/p/capital-wars)**  
+`Marc Rubinstein` · 刚刚  
+
+**[Weekly Dose of Optimism #216](https://www.notboring.co/p/weekly-dose-of-optimism-216)**  
+`Packy McCormick` · 4 小时前  
 
 **[Prediction Markets Are Accurate](https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html?utm_source=rss&utm_medium=rss&utm_campaign=prediction-markets-are-accurate)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 5 小时前  
 
 **[Protecting Americans from Medicine](https://marginalrevolution.com/marginalrevolution/2026/10/protecting-americans-from-medicine.html?utm_source=rss&utm_medium=rss&utm_campaign=protecting-americans-from-medicine)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 5 小时前  
 
 **[Sharp Tech on Video: Netflix Angst, the End of the Internet, and Meta’s VR Glasses](https://stratechery.com/2026/sharp-tech-on-video-netflix-angst-the-end-of-the-internet-and-metas-vr-glasses/)**  
-`Ben Thompson` · 1 小时前  
+`Ben Thompson` · 7 小时前  
 
 **[Podcast with Rabbi David Wolpe](https://marginalrevolution.com/marginalrevolution/2026/10/podcast-with-rabbi-david-wolpe.html?utm_source=rss&utm_medium=rss&utm_campaign=podcast-with-rabbi-david-wolpe)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 9 小时前  
 
 **[Will bystander economies be able to finance their governments?](https://marginalrevolution.com/marginalrevolution/2026/10/will-bystander-economies-be-able-to-finance-their-governments.html?utm_source=rss&utm_medium=rss&utm_campaign=will-bystander-economies-be-able-to-finance-their-governments)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[Introducing Machine Gods](https://www.platformer.news/machine-gods-manifesto-ai-realism/)**  
-`Casey Newton` · 10 小时前  
+`Casey Newton` · 16 小时前  
 
 **[How Long Do Wealth Shocks Persist? Less Than Three Generations in England, 1700–2026](https://marginalrevolution.com/marginalrevolution/2026/10/how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-575)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[What will computer chips look like in 2045?](https://www.dwarkesh.com/p/intel-tour)**  
-`Dwarkesh Patel` · 20 小时前  
+`Dwarkesh Patel` · 1 天前  
 
 **[Modern Principles of Economics!](https://marginalrevolution.com/marginalrevolution/2026/10/modern-principles-of-economics-3.html?utm_source=rss&utm_medium=rss&utm_campaign=modern-principles-of-economics-3)**  
 `Tyler Cowen` · 1 天前  
 
 **[An Interview with Craig Moffett About SpaceX and Bubbles](https://stratechery.com/2026/an-interview-with-craig-moffett-about-spacex-and-bubbles/)**  
 `Ben Thompson` · 1 天前  
-
-**[A simple point about the intertemporal regulation of AI](https://marginalrevolution.com/marginalrevolution/2026/10/a-simple-point-about-the-intertemporal-regulation-of-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-point-about-the-intertemporal-regulation-of-ai)**  
-`Tyler Cowen` · 1 天前  
-
-**[20VC: Trillion or Bust: The New VC Game \| Coreweave Sell-Off Creates Panic \| Town at $1B, Anduril at $90B: Revenue Multiples Out of Control \| General Atlantic Eyes IPO & Modal Raises $750M at $15.75B](https://thetwentyminutevc.libsyn.com/20vc-trillion-or-bust-the-new-vc-game-coreweave-sell-off-creates-panic-town-at-1b-anduril-at-90b-revenue-multiples-out-of-control-general-atlantic-eyes-ipo-modal-raises-750m-at-1575b)**  
-`Harry Stebbings` · 1 天前  
-
-**[Do mass shootings in universities lead to permanent effects?](https://marginalrevolution.com/marginalrevolution/2026/10/do-mass-shootings-in-universities-lead-to-permanent-effects.html?utm_source=rss&utm_medium=rss&utm_campaign=do-mass-shootings-in-universities-lead-to-permanent-effects)**  
-`Tyler Cowen` · 1 天前  
-
-**[Closing Eight Figure Deals in Two Weeks](https://tomtunguz.com/closing-eight-figure-deals-in-two-weeks/)**  
-`Tomasz Tunguz` · 1 天前  
 
 <!-- POSTS:END -->
