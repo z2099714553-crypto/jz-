@@ -112,25 +112,25 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-24 20:51 UTC*
+*更新于 2026-10-24 23:15 UTC*
 
 **[Econvitals](https://marginalrevolution.com/marginalrevolution/2026/10/econvitals.html?utm_source=rss&utm_medium=rss&utm_campaign=econvitals)**  
-`Tyler Cowen` · 2 小时前  
+`Tyler Cowen` · 5 小时前  
 
 **[Why are cybersecurity losses not worse?](https://marginalrevolution.com/marginalrevolution/2026/10/why-are-cybersecurity-losses-not-worse.html?utm_source=rss&utm_medium=rss&utm_campaign=why-are-cybersecurity-losses-not-worse)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 7 小时前  
 
 **[🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more](https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball)**  
-`Lenny Rachitsky` · 5 小时前  
+`Lenny Rachitsky` · 8 小时前  
 
 **[Cybersecurity ETF](https://marginalrevolution.com/marginalrevolution/2026/10/cybersecurity-etf.html?utm_source=rss&utm_medium=rss&utm_campaign=cybersecurity-etf)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 14 小时前  
 
 **[20VC: Why Robotics Will be 100x Bigger than Coding Agents \| Inference Will Be a $10TRN Market: What No One Sees \| Why Software Investors are F***** Today with Naveen Rao, Unconventional](https://thetwentyminutevc.libsyn.com/20vc-why-robotics-will-be-100x-bigger-than-coding-agents-inference-will-be-a-10trn-market-what-no-one-sees-why-software-investors-are-f-today-with-naveen-rao-unconventional)**  
-`Harry Stebbings` · 13 小时前  
+`Harry Stebbings` · 16 小时前  
 
 **[I guest host an NYT podcast with Michael Kratsios, Trump science advisor](https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor)**  
-`Tyler Cowen` · 15 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[2026.43: A New Era](https://stratechery.com/2026/a-new-era/)**  
 `Ben Thompson` · 1 天前  
