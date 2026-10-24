@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-10-24T11:02:22Z",
-  "count": 474,
+  "generated_at": "2026-10-24T15:57:54Z",
+  "count": 475,
   "posts": [
+    {
+      "id": "https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball",
+      "title": "🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more",
+      "link": "https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball",
+      "published": "2026-10-24T15:11:42Z",
+      "source": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "lang": "en",
+      "tags": [
+        "产品",
+        "增长",
+        "访谈"
+      ],
+      "type": "interview",
+      "raw_text": "Hello and welcome to this week s edition of Community Wisdom a subscriber-only email, delivered every Saturday, highlighting the most helpful conversations in our members-only Slack community . \n\n Read more",
+      "fetched_at": "2026-10-24T15:57:38Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/cybersecurity-etf.html",
       "title": "Cybersecurity ETF",
