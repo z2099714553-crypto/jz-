@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-10-24T04:38:14Z",
-  "count": 471,
+  "generated_at": "2026-10-24T11:02:22Z",
+  "count": 474,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/cybersecurity-etf.html",
+      "title": "Cybersecurity ETF",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/cybersecurity-etf.html?utm_source=rss&utm_medium=rss&utm_campaign=cybersecurity-etf",
+      "published": "2026-10-24T08:46:22Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Joe Weisenthal : The Red Line is the day that Anthropic introduced Mythos \n\n The post Cybersecurity ETF appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-24T11:02:13Z"
+    },
+    {
+      "id": "https://thetwentyminutevc.libsyn.com/20vc-why-robotics-will-be-100x-bigger-than-coding-agents-inference-will-be-a-10trn-market-what-no-one-sees-why-software-investors-are-f-today-with-naveen-rao-unconventional",
+      "title": "20VC: Why Robotics Will be 100x Bigger than Coding Agents | Inference Will Be a $10TRN Market: What No One Sees | Why Software Investors are F***** Today with Naveen Rao, Unconventional",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-why-robotics-will-be-100x-bigger-than-coding-agents-inference-will-be-a-10trn-market-what-no-one-sees-why-software-investors-are-f-today-with-naveen-rao-unconventional",
+      "published": "2026-10-24T07:07:00Z",
+      "source": "20VC",
+      "author": "Harry Stebbings",
+      "lang": "en",
+      "tags": [
+        "创投",
+        "深度访谈"
+      ],
+      "type": "interview",
+      "raw_text": "AGENDA: \n 05:00 Will we run out of energy?\n 19:00 Will specialised chips threaten NVIDIA's dominance?\n 26:00 Can we trust AI agents more than humans?\n 31:00 Will data companies become commodities?\n 36:00 What comes after transformers?\n 41:00 Are software investors f****** in a world of infra and compute?\n 52:00 How big will the inference market be in 10 years?\n 53:00 Could robotics be 100x bigger than coding agents?\n 59:00 Why are coding agents the most overrated AI investment?",
+      "fetched_at": "2026-10-24T11:02:22Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor.html",
+      "title": "I guest host an NYT podcast with Michael Kratsios, Trump science advisor",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor",
+      "published": "2026-10-24T04:53:27Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Here is the audio, video, and transcript . Here is one excerpt:\n\n Cowen: Talk me out of this worry: So we agree science is an ecosystem, and there’s always a temptation to want to fund the most dynamic, most productive parts of the ecosystem. And right now, that would probably be A.I.\n\n But if you need the whole ecosystem to be working well, arguably you should be funding, at the margin, the less productive parts, which need the aid. That will sometimes be universities, but there’s plenty of other inefficient parts of our ecosystem.\n\n So is this plan not putting more resources into the parts that are working well, but we get stuck with bottlenecks if the parts that are not working well end up with fewer resources?\n\n Kratsios: Well, luckily, we’re not investing all of our money for the federal government into S.I. for science. It’s a portfolio approach. And obviously one ——\n\n Cowen: But it’s a net shift toward artificial intelligence, right?\n\n Kratsios: Well, I would argue — and I think this is a very important distinction — it’s not investing in superintelligence, it’s investing in superintelligence for science.\n\n So the question is, I think a lot of people argue: Oh, why would the federal government want to invest more in superintelligence when billions, if not trillions, of dollars are being invested in the private sector into superintelligence? And I would agree with that statement. We shouldn’t be doing that.\n\n The government isn’t funding how to create a next frontier model. That’s something that our great American companies are working on.\n\n But applying those models to scientific discovery is still in its early stages. And as you know, if you think about the trend or the path by which we’ve gotten to this place with L.L.M.s — we started first with being able, essentially, to scrape the whole corpus of the internet, to use that to train a large language model.\n\n The next chapter of that was around coding, where the model builders realized: Oh, we have really good coding data, and we can actually train these models to be good at coding. So then we had this rise of Anthropic and OpenAI Codex and all this stuff.\n\n And I think, to me, the next chapter is around science, and the data that you need to train these large language models for science is still one that we’re working on a lot. And we were very proud to announce 190 federal data sets being made public in order to help train these science models.\n\n But ultimately, you’re going to be applying this superintelligence to everything from material science to chemistry to math to physics, and we have to be in a position to actually leverage that.\n \n Definitely interesting throughout, pretty much entirely we are discussing the Trump administration science plan , authored by Michael.\n\n The post I guest host an NYT podcast with Michael Kratsios, Trump science advisor appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-24T11:02:13Z"
+    },
     {
       "id": "https://stratechery.com/2026/a-new-era",
       "title": "2026.43: A New Era",

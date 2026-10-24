@@ -112,34 +112,43 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-24 04:38 UTC*
+*更新于 2026-10-24 11:02 UTC*
+
+**[Cybersecurity ETF](https://marginalrevolution.com/marginalrevolution/2026/10/cybersecurity-etf.html?utm_source=rss&utm_medium=rss&utm_campaign=cybersecurity-etf)**  
+`Tyler Cowen` · 2 小时前  
+
+**[20VC: Why Robotics Will be 100x Bigger than Coding Agents \| Inference Will Be a $10TRN Market: What No One Sees \| Why Software Investors are F***** Today with Naveen Rao, Unconventional](https://thetwentyminutevc.libsyn.com/20vc-why-robotics-will-be-100x-bigger-than-coding-agents-inference-will-be-a-10trn-market-what-no-one-sees-why-software-investors-are-f-today-with-naveen-rao-unconventional)**  
+`Harry Stebbings` · 3 小时前  
+
+**[I guest host an NYT podcast with Michael Kratsios, Trump science advisor](https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor)**  
+`Tyler Cowen` · 6 小时前  
 
 **[2026.43: A New Era](https://stratechery.com/2026/a-new-era/)**  
-`Ben Thompson` · 11 小时前  
-
-**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-596.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-596)**  
-`Tyler Cowen` · 12 小时前  
-
-**[Capital Wars](https://www.netinterest.co/p/capital-wars)**  
-`Marc Rubinstein` · 12 小时前  
-
-**[Weekly Dose of Optimism #216](https://www.notboring.co/p/weekly-dose-of-optimism-216)**  
-`Packy McCormick` · 16 小时前  
-
-**[Prediction Markets Are Accurate](https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html?utm_source=rss&utm_medium=rss&utm_campaign=prediction-markets-are-accurate)**  
-`Tyler Cowen` · 17 小时前  
-
-**[Protecting Americans from Medicine](https://marginalrevolution.com/marginalrevolution/2026/10/protecting-americans-from-medicine.html?utm_source=rss&utm_medium=rss&utm_campaign=protecting-americans-from-medicine)**  
-`Tyler Cowen` · 17 小时前  
-
-**[Sharp Tech on Video: Netflix Angst, the End of the Internet, and Meta’s VR Glasses](https://stratechery.com/2026/sharp-tech-on-video-netflix-angst-the-end-of-the-internet-and-metas-vr-glasses/)**  
 `Ben Thompson` · 18 小时前  
 
+**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-596.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-596)**  
+`Tyler Cowen` · 18 小时前  
+
+**[Capital Wars](https://www.netinterest.co/p/capital-wars)**  
+`Marc Rubinstein` · 18 小时前  
+
+**[Weekly Dose of Optimism #216](https://www.notboring.co/p/weekly-dose-of-optimism-216)**  
+`Packy McCormick` · 22 小时前  
+
+**[Prediction Markets Are Accurate](https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html?utm_source=rss&utm_medium=rss&utm_campaign=prediction-markets-are-accurate)**  
+`Tyler Cowen` · 23 小时前  
+
+**[Protecting Americans from Medicine](https://marginalrevolution.com/marginalrevolution/2026/10/protecting-americans-from-medicine.html?utm_source=rss&utm_medium=rss&utm_campaign=protecting-americans-from-medicine)**  
+`Tyler Cowen` · 23 小时前  
+
+**[Sharp Tech on Video: Netflix Angst, the End of the Internet, and Meta’s VR Glasses](https://stratechery.com/2026/sharp-tech-on-video-netflix-angst-the-end-of-the-internet-and-metas-vr-glasses/)**  
+`Ben Thompson` · 1 天前  
+
 **[Podcast with Rabbi David Wolpe](https://marginalrevolution.com/marginalrevolution/2026/10/podcast-with-rabbi-david-wolpe.html?utm_source=rss&utm_medium=rss&utm_campaign=podcast-with-rabbi-david-wolpe)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Will bystander economies be able to finance their governments?](https://marginalrevolution.com/marginalrevolution/2026/10/will-bystander-economies-be-able-to-finance-their-governments.html?utm_source=rss&utm_medium=rss&utm_campaign=will-bystander-economies-be-able-to-finance-their-governments)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Introducing Machine Gods](https://www.platformer.news/machine-gods-manifesto-ai-realism/)**  
 `Casey Newton` · 1 天前  
@@ -148,15 +157,6 @@ open docs/index.html
 `Tomasz Tunguz` · 1 天前  
 
 **[How Long Do Wealth Shocks Persist? Less Than Three Generations in England, 1700–2026](https://marginalrevolution.com/marginalrevolution/2026/10/how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=how-long-do-wealth-shocks-persist-less-than-three-generations-in-england-1700-2026)**  
-`Tyler Cowen` · 1 天前  
-
-**[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-575.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-575)**  
-`Tyler Cowen` · 1 天前  
-
-**[What will computer chips look like in 2045?](https://www.dwarkesh.com/p/intel-tour)**  
-`Dwarkesh Patel` · 1 天前  
-
-**[Modern Principles of Economics!](https://marginalrevolution.com/marginalrevolution/2026/10/modern-principles-of-economics-3.html?utm_source=rss&utm_medium=rss&utm_campaign=modern-principles-of-economics-3)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
