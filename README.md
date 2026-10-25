@@ -112,25 +112,25 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-25 20:52 UTC*
+*更新于 2026-10-25 23:17 UTC*
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-587)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 7 小时前  
 
 **[An 86-minute guide to finding PMF \| Rob Snyder (Author, The Power of Pull)](https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf)**  
-`Lenny Rachitsky` · 8 小时前  
+`Lenny Rachitsky` · 10 小时前  
 
 **[The Panic Patrol](https://marginalrevolution.com/marginalrevolution/2026/10/the-panic-patrol.html?utm_source=rss&utm_medium=rss&utm_campaign=the-panic-patrol)**  
-`Tyler Cowen` · 9 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[Facts about breastfeeding](https://marginalrevolution.com/marginalrevolution/2026/10/facts-about-breastfeeding.html?utm_source=rss&utm_medium=rss&utm_campaign=facts-about-breastfeeding)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[How central bankers spend their time](https://marginalrevolution.com/marginalrevolution/2026/10/how-central-bankers-spend-their-time.html?utm_source=rss&utm_medium=rss&utm_campaign=how-central-bankers-spend-their-time)**  
-`Tyler Cowen` · 15 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[Emergent Ventures India, 20th cohort](https://marginalrevolution.com/marginalrevolution/2026/10/emergent-ventures-india-20th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-20th-cohort)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[Econvitals](https://marginalrevolution.com/marginalrevolution/2026/10/econvitals.html?utm_source=rss&utm_medium=rss&utm_campaign=econvitals)**  
 `Tyler Cowen` · 1 天前  
