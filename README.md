@@ -112,28 +112,34 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-25 11:31 UTC*
+*更新于 2026-10-25 16:21 UTC*
 
-**[The Panic Patrol](https://marginalrevolution.com/marginalrevolution/2026/10/the-panic-patrol.html?utm_source=rss&utm_medium=rss&utm_campaign=the-panic-patrol)**  
+**[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-587)**  
 `Tyler Cowen` · 刚刚  
 
+**[An 86-minute guide to finding PMF \| Rob Snyder (Author, The Power of Pull)](https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf)**  
+`Lenny Rachitsky` · 3 小时前  
+
+**[The Panic Patrol](https://marginalrevolution.com/marginalrevolution/2026/10/the-panic-patrol.html?utm_source=rss&utm_medium=rss&utm_campaign=the-panic-patrol)**  
+`Tyler Cowen` · 5 小时前  
+
 **[Facts about breastfeeding](https://marginalrevolution.com/marginalrevolution/2026/10/facts-about-breastfeeding.html?utm_source=rss&utm_medium=rss&utm_campaign=facts-about-breastfeeding)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 9 小时前  
 
 **[How central bankers spend their time](https://marginalrevolution.com/marginalrevolution/2026/10/how-central-bankers-spend-their-time.html?utm_source=rss&utm_medium=rss&utm_campaign=how-central-bankers-spend-their-time)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 11 小时前  
 
 **[Emergent Ventures India, 20th cohort](https://marginalrevolution.com/marginalrevolution/2026/10/emergent-ventures-india-20th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-20th-cohort)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 11 小时前  
 
 **[Econvitals](https://marginalrevolution.com/marginalrevolution/2026/10/econvitals.html?utm_source=rss&utm_medium=rss&utm_campaign=econvitals)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[Why are cybersecurity losses not worse?](https://marginalrevolution.com/marginalrevolution/2026/10/why-are-cybersecurity-losses-not-worse.html?utm_source=rss&utm_medium=rss&utm_campaign=why-are-cybersecurity-losses-not-worse)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more](https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball)**  
-`Lenny Rachitsky` · 20 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[Cybersecurity ETF](https://marginalrevolution.com/marginalrevolution/2026/10/cybersecurity-etf.html?utm_source=rss&utm_medium=rss&utm_campaign=cybersecurity-etf)**  
 `Tyler Cowen` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[Capital Wars](https://www.netinterest.co/p/capital-wars)**  
 `Marc Rubinstein` · 1 天前  
-
-**[Weekly Dose of Optimism #216](https://www.notboring.co/p/weekly-dose-of-optimism-216)**  
-`Packy McCormick` · 1 天前  
-
-**[Prediction Markets Are Accurate](https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html?utm_source=rss&utm_medium=rss&utm_campaign=prediction-markets-are-accurate)**  
-`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
