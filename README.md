@@ -112,25 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-25 04:42 UTC*
+*更新于 2026-10-25 11:31 UTC*
+
+**[The Panic Patrol](https://marginalrevolution.com/marginalrevolution/2026/10/the-panic-patrol.html?utm_source=rss&utm_medium=rss&utm_campaign=the-panic-patrol)**  
+`Tyler Cowen` · 刚刚  
+
+**[Facts about breastfeeding](https://marginalrevolution.com/marginalrevolution/2026/10/facts-about-breastfeeding.html?utm_source=rss&utm_medium=rss&utm_campaign=facts-about-breastfeeding)**  
+`Tyler Cowen` · 4 小时前  
+
+**[How central bankers spend their time](https://marginalrevolution.com/marginalrevolution/2026/10/how-central-bankers-spend-their-time.html?utm_source=rss&utm_medium=rss&utm_campaign=how-central-bankers-spend-their-time)**  
+`Tyler Cowen` · 6 小时前  
+
+**[Emergent Ventures India, 20th cohort](https://marginalrevolution.com/marginalrevolution/2026/10/emergent-ventures-india-20th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-20th-cohort)**  
+`Tyler Cowen` · 6 小时前  
 
 **[Econvitals](https://marginalrevolution.com/marginalrevolution/2026/10/econvitals.html?utm_source=rss&utm_medium=rss&utm_campaign=econvitals)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[Why are cybersecurity losses not worse?](https://marginalrevolution.com/marginalrevolution/2026/10/why-are-cybersecurity-losses-not-worse.html?utm_source=rss&utm_medium=rss&utm_campaign=why-are-cybersecurity-losses-not-worse)**  
-`Tyler Cowen` · 12 小时前  
-
-**[🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more](https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball)**  
-`Lenny Rachitsky` · 13 小时前  
-
-**[Cybersecurity ETF](https://marginalrevolution.com/marginalrevolution/2026/10/cybersecurity-etf.html?utm_source=rss&utm_medium=rss&utm_campaign=cybersecurity-etf)**  
 `Tyler Cowen` · 19 小时前  
 
+**[🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more](https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball)**  
+`Lenny Rachitsky` · 20 小时前  
+
+**[Cybersecurity ETF](https://marginalrevolution.com/marginalrevolution/2026/10/cybersecurity-etf.html?utm_source=rss&utm_medium=rss&utm_campaign=cybersecurity-etf)**  
+`Tyler Cowen` · 1 天前  
+
 **[20VC: Why Robotics Will be 100x Bigger than Coding Agents \| Inference Will Be a $10TRN Market: What No One Sees \| Why Software Investors are F***** Today with Naveen Rao, Unconventional](https://thetwentyminutevc.libsyn.com/20vc-why-robotics-will-be-100x-bigger-than-coding-agents-inference-will-be-a-10trn-market-what-no-one-sees-why-software-investors-are-f-today-with-naveen-rao-unconventional)**  
-`Harry Stebbings` · 21 小时前  
+`Harry Stebbings` · 1 天前  
 
 **[I guest host an NYT podcast with Michael Kratsios, Trump science advisor](https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[2026.43: A New Era](https://stratechery.com/2026/a-new-era/)**  
 `Ben Thompson` · 1 天前  
@@ -145,18 +157,6 @@ open docs/index.html
 `Packy McCormick` · 1 天前  
 
 **[Prediction Markets Are Accurate](https://marginalrevolution.com/marginalrevolution/2026/10/prediction-markets-are-accurate.html?utm_source=rss&utm_medium=rss&utm_campaign=prediction-markets-are-accurate)**  
-`Tyler Cowen` · 1 天前  
-
-**[Protecting Americans from Medicine](https://marginalrevolution.com/marginalrevolution/2026/10/protecting-americans-from-medicine.html?utm_source=rss&utm_medium=rss&utm_campaign=protecting-americans-from-medicine)**  
-`Tyler Cowen` · 1 天前  
-
-**[Sharp Tech on Video: Netflix Angst, the End of the Internet, and Meta’s VR Glasses](https://stratechery.com/2026/sharp-tech-on-video-netflix-angst-the-end-of-the-internet-and-metas-vr-glasses/)**  
-`Ben Thompson` · 1 天前  
-
-**[Podcast with Rabbi David Wolpe](https://marginalrevolution.com/marginalrevolution/2026/10/podcast-with-rabbi-david-wolpe.html?utm_source=rss&utm_medium=rss&utm_campaign=podcast-with-rabbi-david-wolpe)**  
-`Tyler Cowen` · 1 天前  
-
-**[Will bystander economies be able to finance their governments?](https://marginalrevolution.com/marginalrevolution/2026/10/will-bystander-economies-be-able-to-finance-their-governments.html?utm_source=rss&utm_medium=rss&utm_campaign=will-bystander-economies-be-able-to-finance-their-governments)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->

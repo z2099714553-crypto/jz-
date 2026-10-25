@@ -1,7 +1,71 @@
 {
-  "generated_at": "2026-10-25T04:42:53Z",
-  "count": 477,
+  "generated_at": "2026-10-25T11:31:07Z",
+  "count": 481,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/the-panic-patrol.html",
+      "title": "The Panic Patrol",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/the-panic-patrol.html?utm_source=rss&utm_medium=rss&utm_campaign=the-panic-patrol",
+      "published": "2026-10-25T11:15:45Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "The Panic Patrol , a division of the department of future corrections, reminds us of past panics. Here s one case in point I wasn t aware of:\n\n The post The Panic Patrol appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-25T11:30:57Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/facts-about-breastfeeding.html",
+      "title": "Facts about breastfeeding",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/facts-about-breastfeeding.html?utm_source=rss&utm_medium=rss&utm_campaign=facts-about-breastfeeding",
+      "published": "2026-10-25T06:57:04Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "We produce a numerical estimate of the value of unpaid breastfeeding relative to national income spanning five centuries and integrating historical and bioarchaeological data. The relative economic contribution of maternal nursing was greater in the distant past than in recent history, rivaling regionally significant industries such as pottery, glassmaking, and even the historical public sector. It was likely the largest source of human capital investment in early modern England, supporting the physical and cognitive development of the workforce. Finally, we show that breastfeeding rates probably fell as incomes rose, challenging the Malthusian assumption that higher income correlates with lower mortality.\n \n That is from a recent paper by Louis Henderson and Jane Humphries. Via the excellent Samir Varma .\n\n The post Facts about breastfeeding appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-25T11:30:57Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/how-central-bankers-spend-their-time.html",
+      "title": "How central bankers spend their time",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/how-central-bankers-spend-their-time.html?utm_source=rss&utm_medium=rss&utm_campaign=how-central-bankers-spend-their-time",
+      "published": "2026-10-25T05:14:29Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "How leaders allocate their limited time and attention is an important question in economics. This paper constructs and analyzes a novel data set covering the daily calendars of three Federal Reserve Chairs, Ben Bernanke, Janet Yellen, and Jerome Powell, containing more than 20,000 calendar entries. We document several patterns. First, all Fed Chairs spend more than 30% of their documented meetings with Fed staff, highlighting the crucial role of economists in the Fed s decision process. Second, interactions with the media became more frequent during Bernanke s tenure and remained important until the end of Powell s tenure. Third, Powell held significantly more meetings with lawmakers than both Yellen and Bernanke, reflecting an increasing need for the Fed to engage with political actors. Beyond these trend patterns, we examine the time allocation of Fed Chairs at business cycle frequencies and show how different activities respond to shifts in the macroeconomic environment. Finally, we place our findings in historical context using the available calendars of earlier Fed Chairs, including Alan Greenspan.\n \n That is from a recent NBER working paper by Thomas Drechsel & Dali Tsakadze . \n\n The post How central bankers spend their time appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-25T11:30:57Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/emergent-ventures-india-20th-cohort.html",
+      "title": "Emergent Ventures India, 20th cohort",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/emergent-ventures-india-20th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-20th-cohort",
+      "published": "2026-10-25T04:42:24Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Zahan Turel , a backend engineer and eighth-generation Zoroastrian priest from Surat, received a grant to digitize his community’s manuscripts and liturgical records before they are lost.\n\n Aditya Vijay , 17, is building Forge , supporting overlooked, self-taught young founders with shared housing, capital, and access.\n\n Dev Goyal received a grant for SCRIPT, exploring whether stylus-based drawing kinematics can support non-diagnostic clinical triage for ADHD, autism, and anxiety.\n\n Adwait Tiwari , 16, a self-taught founder from Indore, is building BharatBahi, a WhatsApp-native AI assistant helping Indian shopkeepers.\n\n Mayukh Goswami and Meher Manda received their grant for a graphic novel examining democratic crises around the world through the lens of a fictional Indian town.\n\n Ajith Chekka is building Oru el , a physics-enabled intelligence layer to improve the reliability and efficiency of data centers.\n\n Gaurav Kumar , a software engineer and social entrepreneur, is building OncoVault, which turns fragmented cancer records into AI-generated clinical summaries to support physicians’ treatment decisions.\n\n Kush Agrawal , an engineering student at IIT Bombay, received a grant for Tensor Recon , developing execution-aware financial reconciliation infrastructure for high-volume cryptocurrency trading firms.\n\n Mohd. Ashzad , 22, a security researcher and engineer, is building Build Jam , helping young South Asian builders discover creative skills through real-world projects in AI, design, filmmaking, and photography.\n\n Vaibhav Sai , 25, received a grant to develop AI for intent-based biomolecular design, starting with a nucleotide-focused model and capture molecules for biosensors.\n\n Rithvik Vibhu and Rithwik Jayasimha received their grant for research on passive optical fiber network vulnerabilities, including wiretapping and attacks on ISP infrastructure, and presentations at Black Hat USA 2026 and DEF CON 34.\n\n Neha Sarda is building Zyogen, sovereign AI software converting injury images into patient-specific printable graft designs and bioink formulations, aiming to make regenerative medicine 30–40% more affordable.\n\n Hari Shankar Ramalingam , cofounder and CEO of SpaceTug , received a grant to develop and validate autonomous spacecraft technologies for in-orbit satellite servicing, inspection, and life extension, ahead of orbital demonstrations.\n\n Laiba Noor received a travel grant to attend a research program at Özyeğin University and develop a speech-analysis tool for detecting presymptomatic Alzheimer’s in low-resource settings.\n\n Abhishek Raj , 16, a crime and mystery writer and dual national record holder, received a grant to advance his fiction writing and criminology research.\n\n Kunal Kanase , an IIT Bombay pre-doctoral fellow, received a grant for GullyWell , studying Dharavi residents’ wellbeing where formal mental-health care rarely reaches and developing low-cost tools informed by that research.\n\n Divyaratna Joshi , a Chemical Engineering undergraduate at IIT Madras, is developing low-cost S-PEEK membranes to replace expensive fluorinated membranes and make fuel cells and electrolyzers affordable and manufacturable at scale.\n\n Tanjot Singh , 16, received a grant for PraaNavya (Erynth), a climate startup developing bio-based nanofiber air filtration technology for sustainable clean air.\n\n Tribhi Kathuria , a Lecturer in Robotics at the University of Michigan, received a grant to connect aspiring Indian engineers with robotics and AI research and mentorship from experts in the United States.\n\n Swamynathan Jerra , founder of Hyderabad’s AcquaHT Labs, received a grant to upgrade and seek patents for machines extracting drinking water from air at 30% humidity, rather than the usual 50%, for dry areas with unsafe groundwater.\n\n Niharika Srivastava , a criminal justice and technology lawyer, received a grant to develop a rule-based system identifying Indian undertrial prisoners held beyond statutory custody limits, enabling targeted legal intervention.\n\n Anirudh Varma , a New Delhi pianist, composer, and producer, leads the Anirudh Varma Collective (AVC), received a travel grant for reimagining Indian classical music in a contemporary format for its debut UK tour.\n\n Himaneesh received a grant to build AI software that simplifies professional digital audio workstation workflows.\n\n Sahasrabda Sai Pradhan received a grant to develop a skin-regenerative biomaterial that can be fabricated on-site for urgent graft substitution when suitable tissue is unavailable from the patient’s donor site.\n\n Gaurav Hadavale , 21, a final-year undergraduate at the Sardar Patel Institute of Technology, received a travel grant to present his mechanistic interpretability and trustworthy medical AI research at the MI4MedFM workshop at MICCAI 2026.\n\n M R Sharan , an economist, received a grant to establish a data and intelligence platform focused on India’s local bodies.\n\n Nitish Goel , 14, from Panchkula, is building Thalamus to reduce AI costs and improve efficiency, and Agentoverflow , a shared repository of agents’ solutions that reduces duplicated work and supplies model-training data.\n\n Sudharsanam received a grant for Hardlight , developing autonomous space robots to assemble and maintain assets in low Earth orbit, including space stations, data centers, and factories.\n\n Naveen Gulati , Noida, received a grant for instrumented rooftop trials of GIVARA ONE, a compact dual-rotor vertical-axis turbine for low, gusty winds. Givara Energy owns, installs, and maintains the machines; customers pay only for delivered electricity.\n\n Daevan Mangalmurti and Bilal Moin received their grant for Kindly Adjust , a podcast and Substack discussing small fixes for India’s big problems.\n\n Those unfamiliar with Emergent Ventures can learn more here and here . The EV India announcement is here . More about the winners of EV India second , third , fourth , fifth , sixth , seventh , eighth , ninth , tenth , eleventh , twelfth , thirteenth , fourteenth , fifteenth , sixteenth , seventeenth , eighteenth , and nineteenth cohorts. To apply for EV India, use the EV application , click the “Apply Now” button and select India from the “My Project Will Affect” drop-down menu.\n\n And here is Nabeel’s AI engine for other EV winners. Here are the other EV cohorts .\n\n If you are interested in supporting the India tranche of Emergent Ventures, please write to me or to Shruti at srajagopalan@mercatus.gmu.edu .\n\n The post Emergent Ventures India, 20th cohort appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-25T11:30:57Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/econvitals.html",
       "title": "Econvitals",
