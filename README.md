@@ -112,22 +112,43 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-26 04:48 UTC*
+*更新于 2026-10-26 13:04 UTC*
+
+**[Why Reddit built its own AI prototyping tool \| Blair Metcalf](https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping)**  
+`Lenny Rachitsky` · 1 小时前  
+
+**[The MR Archive!](https://marginalrevolution.com/marginalrevolution/2026/10/the-mr-archive.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mr-archive)**  
+`Tyler Cowen` · 1 小时前  
+
+**[Tyler Cowen’s Strongest Book Recommendations, 2003-2026](https://marginalrevolution.com/marginalrevolution/2026/10/tyler-cowens-strongest-book-recommendations-over-the-years.html?utm_source=rss&utm_medium=rss&utm_campaign=tyler-cowens-strongest-book-recommendations-over-the-years)**  
+`Tyler Cowen` · 1 小时前  
+
+**[The End of the Internet](https://stratechery.com/2026/the-end-of-the-internet/)**  
+`Ben Thompson` · 3 小时前  
+
+**[20VC: Satya Nadella on Open vs Closed Models: Who Wins \| Whether to Trust Frontier Model Providers \| Why Companies Need to Own Their Own Intelligence \| The Importance of Verticalisation: From Chips to Models and More](https://thetwentyminutevc.libsyn.com/20vc-satya-nadella-on-open-vs-closed-models-who-wins-whether-to-trust-frontier-model-providers-why-companies-need-to-own-their-own-intelligence-the-importance-of-verticalisation-from-chips-to-models-and-more)**  
+`Harry Stebbings` · 5 小时前  
+
+**[Brazil’s economic problems, in a nutshell](https://marginalrevolution.com/marginalrevolution/2026/10/brazils-economic-problems-in-a-nutshell.html?utm_source=rss&utm_medium=rss&utm_campaign=brazils-economic-problems-in-a-nutshell)**  
+`Tyler Cowen` · 6 小时前  
+
+**[Frances Lee on American elections](https://marginalrevolution.com/marginalrevolution/2026/10/frances-lee-on-american-elections.html?utm_source=rss&utm_medium=rss&utm_campaign=frances-lee-on-american-elections)**  
+`Tyler Cowen` · 8 小时前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-587)**  
-`Tyler Cowen` · 13 小时前  
-
-**[An 86-minute guide to finding PMF \| Rob Snyder (Author, The Power of Pull)](https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf)**  
-`Lenny Rachitsky` · 16 小时前  
-
-**[The Panic Patrol](https://marginalrevolution.com/marginalrevolution/2026/10/the-panic-patrol.html?utm_source=rss&utm_medium=rss&utm_campaign=the-panic-patrol)**  
-`Tyler Cowen` · 17 小时前  
-
-**[Facts about breastfeeding](https://marginalrevolution.com/marginalrevolution/2026/10/facts-about-breastfeeding.html?utm_source=rss&utm_medium=rss&utm_campaign=facts-about-breastfeeding)**  
 `Tyler Cowen` · 21 小时前  
 
+**[An 86-minute guide to finding PMF \| Rob Snyder (Author, The Power of Pull)](https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf)**  
+`Lenny Rachitsky` · 1 天前  
+
+**[The Panic Patrol](https://marginalrevolution.com/marginalrevolution/2026/10/the-panic-patrol.html?utm_source=rss&utm_medium=rss&utm_campaign=the-panic-patrol)**  
+`Tyler Cowen` · 1 天前  
+
+**[Facts about breastfeeding](https://marginalrevolution.com/marginalrevolution/2026/10/facts-about-breastfeeding.html?utm_source=rss&utm_medium=rss&utm_campaign=facts-about-breastfeeding)**  
+`Tyler Cowen` · 1 天前  
+
 **[How central bankers spend their time](https://marginalrevolution.com/marginalrevolution/2026/10/how-central-bankers-spend-their-time.html?utm_source=rss&utm_medium=rss&utm_campaign=how-central-bankers-spend-their-time)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Emergent Ventures India, 20th cohort](https://marginalrevolution.com/marginalrevolution/2026/10/emergent-ventures-india-20th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-india-20th-cohort)**  
 `Tyler Cowen` · 1 天前  
@@ -137,26 +158,5 @@ open docs/index.html
 
 **[Why are cybersecurity losses not worse?](https://marginalrevolution.com/marginalrevolution/2026/10/why-are-cybersecurity-losses-not-worse.html?utm_source=rss&utm_medium=rss&utm_campaign=why-are-cybersecurity-losses-not-worse)**  
 `Tyler Cowen` · 1 天前  
-
-**[🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more](https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball)**  
-`Lenny Rachitsky` · 1 天前  
-
-**[Cybersecurity ETF](https://marginalrevolution.com/marginalrevolution/2026/10/cybersecurity-etf.html?utm_source=rss&utm_medium=rss&utm_campaign=cybersecurity-etf)**  
-`Tyler Cowen` · 1 天前  
-
-**[20VC: Why Robotics Will be 100x Bigger than Coding Agents \| Inference Will Be a $10TRN Market: What No One Sees \| Why Software Investors are F***** Today with Naveen Rao, Unconventional](https://thetwentyminutevc.libsyn.com/20vc-why-robotics-will-be-100x-bigger-than-coding-agents-inference-will-be-a-10trn-market-what-no-one-sees-why-software-investors-are-f-today-with-naveen-rao-unconventional)**  
-`Harry Stebbings` · 1 天前  
-
-**[I guest host an NYT podcast with Michael Kratsios, Trump science advisor](https://marginalrevolution.com/marginalrevolution/2026/10/i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor.html?utm_source=rss&utm_medium=rss&utm_campaign=i-guest-host-an-nyt-podcast-with-michael-kratsios-trump-science-advisor)**  
-`Tyler Cowen` · 1 天前  
-
-**[2026.43: A New Era](https://stratechery.com/2026/a-new-era/)**  
-`Ben Thompson` · 2 天前  
-
-**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-596.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-596)**  
-`Tyler Cowen` · 2 天前  
-
-**[Capital Wars](https://www.netinterest.co/p/capital-wars)**  
-`Marc Rubinstein` · 2 天前  
 
 <!-- POSTS:END -->
