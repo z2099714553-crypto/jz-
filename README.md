@@ -112,34 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-27 00:26 UTC*
+*更新于 2026-10-27 09:00 UTC*
+
+**[NYT debate on the rules for AI companies](https://marginalrevolution.com/marginalrevolution/2026/10/nyt-debate-on-the-rules-for-ai-companies.html?utm_source=rss&utm_medium=rss&utm_campaign=nyt-debate-on-the-rules-for-ai-companies)**  
+`Tyler Cowen` · 刚刚  
+
+**[Is “Who’s on First?” funny?](https://marginalrevolution.com/marginalrevolution/2026/10/is-whos-on-first-funny.html?utm_source=rss&utm_medium=rss&utm_campaign=is-whos-on-first-funny)**  
+`Tyler Cowen` · 4 小时前  
 
 **[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-583)**  
-`Tyler Cowen` · 8 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool](https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review)**  
-`Lenny Rachitsky` · 9 小时前  
+`Lenny Rachitsky` · 17 小时前  
 
 **[Why Reddit built its own AI prototyping tool \| Blair Metcalf](https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping)**  
-`Lenny Rachitsky` · 12 小时前  
+`Lenny Rachitsky` · 20 小时前  
 
 **[The MR Archive!](https://marginalrevolution.com/marginalrevolution/2026/10/the-mr-archive.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mr-archive)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 21 小时前  
 
 **[Tyler Cowen’s Strongest Book Recommendations, 2003-2026](https://marginalrevolution.com/marginalrevolution/2026/10/tyler-cowens-strongest-book-recommendations-over-the-years.html?utm_source=rss&utm_medium=rss&utm_campaign=tyler-cowens-strongest-book-recommendations-over-the-years)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 21 小时前  
 
 **[The End of the Internet](https://stratechery.com/2026/the-end-of-the-internet/)**  
-`Ben Thompson` · 14 小时前  
+`Ben Thompson` · 23 小时前  
 
 **[20VC: Satya Nadella on Open vs Closed Models: Who Wins \| Whether to Trust Frontier Model Providers \| Why Companies Need to Own Their Own Intelligence \| The Importance of Verticalisation: From Chips to Models and More](https://thetwentyminutevc.libsyn.com/20vc-satya-nadella-on-open-vs-closed-models-who-wins-whether-to-trust-frontier-model-providers-why-companies-need-to-own-their-own-intelligence-the-importance-of-verticalisation-from-chips-to-models-and-more)**  
-`Harry Stebbings` · 17 小时前  
+`Harry Stebbings` · 1 天前  
 
 **[Brazil’s economic problems, in a nutshell](https://marginalrevolution.com/marginalrevolution/2026/10/brazils-economic-problems-in-a-nutshell.html?utm_source=rss&utm_medium=rss&utm_campaign=brazils-economic-problems-in-a-nutshell)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Frances Lee on American elections](https://marginalrevolution.com/marginalrevolution/2026/10/frances-lee-on-american-elections.html?utm_source=rss&utm_medium=rss&utm_campaign=frances-lee-on-american-elections)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Anthropic S-1 Analysis: How 7 Key Metrics Stack Up](https://tomtunguz.com/anthropics-s1-grew-eleven-fold/)**  
 `Tomasz Tunguz` · 1 天前  
@@ -151,12 +157,6 @@ open docs/index.html
 `Lenny Rachitsky` · 1 天前  
 
 **[The Panic Patrol](https://marginalrevolution.com/marginalrevolution/2026/10/the-panic-patrol.html?utm_source=rss&utm_medium=rss&utm_campaign=the-panic-patrol)**  
-`Tyler Cowen` · 1 天前  
-
-**[Facts about breastfeeding](https://marginalrevolution.com/marginalrevolution/2026/10/facts-about-breastfeeding.html?utm_source=rss&utm_medium=rss&utm_campaign=facts-about-breastfeeding)**  
-`Tyler Cowen` · 1 天前  
-
-**[How central bankers spend their time](https://marginalrevolution.com/marginalrevolution/2026/10/how-central-bankers-spend-their-time.html?utm_source=rss&utm_medium=rss&utm_campaign=how-central-bankers-spend-their-time)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
