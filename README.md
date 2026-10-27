@@ -112,31 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-27 09:00 UTC*
+*更新于 2026-10-27 15:22 UTC*
 
-**[NYT debate on the rules for AI companies](https://marginalrevolution.com/marginalrevolution/2026/10/nyt-debate-on-the-rules-for-ai-companies.html?utm_source=rss&utm_medium=rss&utm_campaign=nyt-debate-on-the-rules-for-ai-companies)**  
-`Tyler Cowen` · 刚刚  
-
-**[Is “Who’s on First?” funny?](https://marginalrevolution.com/marginalrevolution/2026/10/is-whos-on-first-funny.html?utm_source=rss&utm_medium=rss&utm_campaign=is-whos-on-first-funny)**  
+**[Eleven outstanding film and television reviews by Tyler Cowen and Alex Tabarrok](https://marginalrevolution.com/marginalrevolution/2026/10/eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok.html?utm_source=rss&utm_medium=rss&utm_campaign=eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok)**  
 `Tyler Cowen` · 4 小时前  
 
+**[Anthropic S-1, The Cost of Compute, Who Is Paying?](https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/)**  
+`Ben Thompson` · 4 小时前  
+
+**[NYT debate on the rules for AI companies](https://marginalrevolution.com/marginalrevolution/2026/10/nyt-debate-on-the-rules-for-ai-companies.html?utm_source=rss&utm_medium=rss&utm_campaign=nyt-debate-on-the-rules-for-ai-companies)**  
+`Tyler Cowen` · 7 小时前  
+
+**[Is “Who’s on First?” funny?](https://marginalrevolution.com/marginalrevolution/2026/10/is-whos-on-first-funny.html?utm_source=rss&utm_medium=rss&utm_campaign=is-whos-on-first-funny)**  
+`Tyler Cowen` · 10 小时前  
+
 **[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-583)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool](https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review)**  
-`Lenny Rachitsky` · 17 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[Why Reddit built its own AI prototyping tool \| Blair Metcalf](https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping)**  
-`Lenny Rachitsky` · 20 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[The MR Archive!](https://marginalrevolution.com/marginalrevolution/2026/10/the-mr-archive.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mr-archive)**  
-`Tyler Cowen` · 21 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Tyler Cowen’s Strongest Book Recommendations, 2003-2026](https://marginalrevolution.com/marginalrevolution/2026/10/tyler-cowens-strongest-book-recommendations-over-the-years.html?utm_source=rss&utm_medium=rss&utm_campaign=tyler-cowens-strongest-book-recommendations-over-the-years)**  
-`Tyler Cowen` · 21 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[The End of the Internet](https://stratechery.com/2026/the-end-of-the-internet/)**  
-`Ben Thompson` · 23 小时前  
+`Ben Thompson` · 1 天前  
 
 **[20VC: Satya Nadella on Open vs Closed Models: Who Wins \| Whether to Trust Frontier Model Providers \| Why Companies Need to Own Their Own Intelligence \| The Importance of Verticalisation: From Chips to Models and More](https://thetwentyminutevc.libsyn.com/20vc-satya-nadella-on-open-vs-closed-models-who-wins-whether-to-trust-frontier-model-providers-why-companies-need-to-own-their-own-intelligence-the-importance-of-verticalisation-from-chips-to-models-and-more)**  
 `Harry Stebbings` · 1 天前  
@@ -151,12 +157,6 @@ open docs/index.html
 `Tomasz Tunguz` · 1 天前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-587)**  
-`Tyler Cowen` · 1 天前  
-
-**[An 86-minute guide to finding PMF \| Rob Snyder (Author, The Power of Pull)](https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf)**  
-`Lenny Rachitsky` · 1 天前  
-
-**[The Panic Patrol](https://marginalrevolution.com/marginalrevolution/2026/10/the-panic-patrol.html?utm_source=rss&utm_medium=rss&utm_campaign=the-panic-patrol)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
