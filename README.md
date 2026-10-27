@@ -112,22 +112,25 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-27 15:22 UTC*
+*更新于 2026-10-27 22:15 UTC*
+
+**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-592.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-592)**  
+`Tyler Cowen` · 5 小时前  
 
 **[Eleven outstanding film and television reviews by Tyler Cowen and Alex Tabarrok](https://marginalrevolution.com/marginalrevolution/2026/10/eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok.html?utm_source=rss&utm_medium=rss&utm_campaign=eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok)**  
-`Tyler Cowen` · 4 小时前  
-
-**[Anthropic S-1, The Cost of Compute, Who Is Paying?](https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/)**  
-`Ben Thompson` · 4 小时前  
-
-**[NYT debate on the rules for AI companies](https://marginalrevolution.com/marginalrevolution/2026/10/nyt-debate-on-the-rules-for-ai-companies.html?utm_source=rss&utm_medium=rss&utm_campaign=nyt-debate-on-the-rules-for-ai-companies)**  
-`Tyler Cowen` · 7 小时前  
-
-**[Is “Who’s on First?” funny?](https://marginalrevolution.com/marginalrevolution/2026/10/is-whos-on-first-funny.html?utm_source=rss&utm_medium=rss&utm_campaign=is-whos-on-first-funny)**  
 `Tyler Cowen` · 10 小时前  
 
+**[Anthropic S-1, The Cost of Compute, Who Is Paying?](https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/)**  
+`Ben Thompson` · 11 小时前  
+
+**[NYT debate on the rules for AI companies](https://marginalrevolution.com/marginalrevolution/2026/10/nyt-debate-on-the-rules-for-ai-companies.html?utm_source=rss&utm_medium=rss&utm_campaign=nyt-debate-on-the-rules-for-ai-companies)**  
+`Tyler Cowen` · 13 小时前  
+
+**[Is “Who’s on First?” funny?](https://marginalrevolution.com/marginalrevolution/2026/10/is-whos-on-first-funny.html?utm_source=rss&utm_medium=rss&utm_campaign=is-whos-on-first-funny)**  
+`Tyler Cowen` · 17 小时前  
+
 **[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-583)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool](https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review)**  
 `Lenny Rachitsky` · 1 天前  
@@ -155,8 +158,5 @@ open docs/index.html
 
 **[Anthropic S-1 Analysis: How 7 Key Metrics Stack Up](https://tomtunguz.com/anthropics-s1-grew-eleven-fold/)**  
 `Tomasz Tunguz` · 1 天前  
-
-**[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-587)**  
-`Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
