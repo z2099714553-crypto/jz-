@@ -112,28 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-28 12:56 UTC*
+*更新于 2026-10-28 20:16 UTC*
+
+**[Errors in the research of Emmanuel Saez and Gabriel Zucman](https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html?utm_source=rss&utm_medium=rss&utm_campaign=errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman)**  
+`Tyler Cowen` · 1 小时前  
+
+**[How is AI shaping economic research?](https://marginalrevolution.com/marginalrevolution/2026/10/how-is-ai-shaping-economic-research.html?utm_source=rss&utm_medium=rss&utm_campaign=how-is-ai-shaping-economic-research)**  
+`Tyler Cowen` · 1 小时前  
+
+**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-577)**  
+`Tyler Cowen` · 4 小时前  
 
 **[Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?](https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet)**  
-`Lenny Rachitsky` · 刚刚  
+`Lenny Rachitsky` · 8 小时前  
 
 **[Inequality in Equal Land](https://marginalrevolution.com/marginalrevolution/2026/10/inequality-in-equal-land.html?utm_source=rss&utm_medium=rss&utm_campaign=inequality-in-equal-land)**  
-`Tyler Cowen` · 1 小时前  
-
-**[Roman Mars on Flags, Phones, and the Design of Everyday Life](https://cowenconvos.libsyn.com/roman-mars-on-flags-phones-and-the-design-of-everyday-life)**  
-`Tyler Cowen` · 1 小时前  
-
-**[Meta Earnings, Muse and the Frontier, Musebook](https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/)**  
-`Ben Thompson` · 2 小时前  
-
-**[AI hacking risks](https://marginalrevolution.com/marginalrevolution/2026/10/ai-hacking-risks.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-hacking-risks)**  
 `Tyler Cowen` · 8 小时前  
 
+**[Roman Mars on Flags, Phones, and the Design of Everyday Life](https://cowenconvos.libsyn.com/roman-mars-on-flags-phones-and-the-design-of-everyday-life)**  
+`Tyler Cowen` · 9 小时前  
+
+**[Meta Earnings, Muse and the Frontier, Musebook](https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/)**  
+`Ben Thompson` · 10 小时前  
+
+**[AI hacking risks](https://marginalrevolution.com/marginalrevolution/2026/10/ai-hacking-risks.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-hacking-risks)**  
+`Tyler Cowen` · 15 小时前  
+
 **[The AI election that wasn't](https://www.platformer.news/ai-midterms-openai-deepfakes/)**  
-`Casey Newton` · 12 小时前  
+`Casey Newton` · 19 小时前  
+
+**[Beyond Automation at OpenAI](https://tomtunguz.com/arvind-kc-office-hours/)**  
+`Tomasz Tunguz` · 20 小时前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-592.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-592)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Eleven outstanding film and television reviews by Tyler Cowen and Alex Tabarrok](https://marginalrevolution.com/marginalrevolution/2026/10/eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok.html?utm_source=rss&utm_medium=rss&utm_campaign=eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok)**  
 `Tyler Cowen` · 1 天前  
@@ -146,17 +158,5 @@ open docs/index.html
 
 **[Is “Who’s on First?” funny?](https://marginalrevolution.com/marginalrevolution/2026/10/is-whos-on-first-funny.html?utm_source=rss&utm_medium=rss&utm_campaign=is-whos-on-first-funny)**  
 `Tyler Cowen` · 1 天前  
-
-**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/monday-assorted-links-583.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-583)**  
-`Tyler Cowen` · 1 天前  
-
-**[🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool](https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review)**  
-`Lenny Rachitsky` · 1 天前  
-
-**[Why Reddit built its own AI prototyping tool \| Blair Metcalf](https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping)**  
-`Lenny Rachitsky` · 2 天前  
-
-**[The MR Archive!](https://marginalrevolution.com/marginalrevolution/2026/10/the-mr-archive.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mr-archive)**  
-`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->

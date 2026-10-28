@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-10-28T12:56:05Z",
-  "count": 505,
+  "generated_at": "2026-10-28T20:16:39Z",
+  "count": 509,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html",
+      "title": "Errors in the research of Emmanuel Saez and Gabriel Zucman",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html?utm_source=rss&utm_medium=rss&utm_campaign=errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman",
+      "published": "2026-10-28T18:56:51Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "AI issues its judgment :\n\n 138 papers audited\n\n 2,035 problems found\n\n 147 serious enough to change a headline number\n\n 69% of papers have at least one\n\n 97% of major and moderate errors with a clear direction overstate the paper s claim\n \n And on the method:\n\n Two independent audits of each paper. One by Claude Opus 5.5, one by OpenAI s GPT-6 Astra, neither seeing the other s work. Each obtained the paper, its appendices and its replication data, recomputed the headline numbers from the authors own files and, where possible, from the original sources (tax statistics, national accounts, Federal Reserve and survey data), checked that cited sources say what is claimed, and probed every assumption the conclusions rest on.\n\n Then an adjudicator. A third agent re-verified every claimed problem, tried to refute each one, discarded those that did not survive, searched for problems both auditors missed, and graded what remained by how far it undermines the paper s own headline claim: major changes a core number materially, moderate affects secondary results or a core result modestly, minor is a presentation or arithmetic slip. Confidence is graded separately.\n \n There is much, much more at the link , which goes through the research paper by paper, and with further sustained analyses behind the links. The survey is both extensive and thorough. (And I thank an anonymous MR reader for this work.)\n\n I am not even sure what to say at this point. We need a radical revaluation of this work, and of the associated policy arguments. More generally, this is only a single step in the story of how AI is going to revise economic science, and indeed past research more generally. As I stress in many of my recent talks, there will be significant gains and losses in status, with the losses often outweighing the gains. I see this as one of those cases.\n\n The post Errors in the research of Emmanuel Saez and Gabriel Zucman appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-28T20:16:22Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/how-is-ai-shaping-economic-research.html",
+      "title": "How is AI shaping economic research?",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/how-is-ai-shaping-economic-research.html?utm_source=rss&utm_medium=rss&utm_campaign=how-is-ai-shaping-economic-research",
+      "published": "2026-10-28T18:52:56Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Does generative AI narrow or widen productivity gaps in research? We study the distributional effects of AI on research productivity in economics using evidence from three sources: NBER working-paper and publication records, text-based measures of LLM-assisted writing, and an original survey of 227 academic economists measuring AI use across research tasks. We first show that productivity gaps among NBER authors narrowed following ChatGPT’s release: authors without research assistants (RAs) published a larger share of papers in top-tier journals, while authors from smaller teams gained in working-paper output and publication speed. We then use the survey to examine how individual AI use affects research productivity. We find weak evidence that AI affects working-paper output on average, but there is substantial heterogeneity. Triple-difference estimates show that greater AI exposure narrows the output gap between researchers with and without RAs but widens the gap between senior and junior researchers. Selection into AI use follows a different pattern: junior researchers use AI more intensively and are more likely to use agentic tools. Thus, these differential productivity effects reflect differences in the returns to AI rather than selection into AI use. A model with diminishing returns to execution, increasing returns to conceptual capacity, and complementarity between the two explains how AI can alleviate disadvantages in research support while amplifying the returns to accumulated expertise. Over time, however, early convergence may give way to divergence as execution constraints recede and AI’s conceptual capabilities improve.\n \n That is from Tianyu Jiang , who is this year a job market candidate from the University of Michigan. The paper is co-authored with Yuqing (Claire) Wang.\n\n The post How is AI shaping economic research? appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-28T20:16:22Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-577.html",
+      "title": "Wednesday assorted links",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-577",
+      "published": "2026-10-28T15:55:58Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "1. A new taxonomy of work, for the AI era . Thread here .\n\n 2. On Morel s Invention (NYT).\n\n 3. Iranian brick architecture .\n\n 4. How do non-profits use cash windfalls? \n\n 5. The roots of earlier German industrial success .\n\n 6. Susquehanna Hat Company skit .\n\n The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-28T20:16:22Z"
+    },
     {
       "id": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
       "title": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
@@ -98,6 +146,22 @@
       "type": "blog",
       "raw_text": "Voters have other things on their minds — for now. PLUS: OpenAI’s clever policy to fight deepfakes, and the Anthropic S-1",
       "fetched_at": "2026-10-28T05:43:25Z"
+    },
+    {
+      "id": "https://tomtunguz.com/arvind-kc-office-hours",
+      "title": "Beyond Automation at OpenAI",
+      "link": "https://tomtunguz.com/arvind-kc-office-hours/",
+      "published": "2026-10-28T00:00:00Z",
+      "source": "Tomasz Tunguz",
+      "author": "Tomasz Tunguz",
+      "lang": "en",
+      "tags": [
+        "SaaS",
+        "数据分析"
+      ],
+      "type": "blog",
+      "raw_text": "On Friday, November 6th at 10 AM Pacific / 1 PM Eastern, Office Hours will host Arvind KC , Chief People Officer at OpenAI & former CIO at Palantir, for a conversation on the future of the people function in the AI era.\n\n We&rsquo;ll talk about :\n\n Why efficiency is the wrong framing for AI when model capabilities double every six months.\n\n How the people, teams of companies, can democratize AI & amplify the most valuable capabilities in an organization.\n\n Span of control changes where an individual grows from being a manager of 7 people to 100, 200, 1,000 agents.\n\n The importance of emotional intelligence, or EQ, as a differentiator of leaders.\n\n Office Hours is a 15-minute online conversation about a single topic with a luminary in the AI world, where we collect questions ahead of time, accept call-in questions live, in a candid conversation.\n\n Register here for Office Hours : Beyond Automation at OpenAI with Arvind KC .",
+      "fetched_at": "2026-10-28T20:16:23Z"
     },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-592.html",
