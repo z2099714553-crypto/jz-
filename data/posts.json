@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-10-27T22:15:20Z",
-  "count": 499,
+  "generated_at": "2026-10-28T05:43:33Z",
+  "count": 501,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/ai-hacking-risks.html",
+      "title": "AI hacking risks",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/ai-hacking-risks.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-hacking-risks",
+      "published": "2026-10-28T04:38:22Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "That is the topic of my latest Free Press column (now there are gift links!), here is one excerpt, noting this is a worst-case scenario not a prediction:\n\n Yet current systems are likely to prove more robust than that suggests. For one thing, they use a variety of different methods of protection, including public key cryptography , AES , and cryptographic hash functions , the latter not qualifying as encryption per se. While it is possible that all could fall at the same time, that seems unlikely.\n\n The more likely scenario, assuming this comes to pass at all, is that public key encryption would become vulnerable first, but the American economy would shift toward the more secure forms of communication, most of all those that have secure cryptographic keys already established. We would also work harder to substitute into the “ post-quantum ” methods of encryption that are being developed and already are being used in browsers.\n\n The transition would be very costly, but the end result would not be total insecurity. Furthermore, today’s major financial institutions already have invested in various backup systems , including offline security methods and alternative payment-processing channels. Smaller businesses would face more serious problems of transition, although they also would be lesser targets in the first place. As for you the individual, you might have to show up in person at your bank to make a major transaction, and that requirement, imposed collectively, would strain our systems to the utmost.\n\n A second layer of protection is that the new math techniques likely would not be available to everyone. They might require technical sophistication and a willingness to break the law in some very serious ways and also risk hacking retaliation. In addition, many math breakthroughs simply shave down the safety margins on systems, rather than breaking them altogether, and in those cases the criminals still might need a lot of computing power at considerable expense.\n\n That situation is hardly the same as a complete and sudden “open season” on all methods of cryptography. Furthermore, some of the wrongdoers in this position, even assuming they felt they could get away with their crimes, might prefer to siphon off money slowly, rather than bring down the entire financial system, which could hurt their own net wealth as well.\n\n A further source of protection is that the math breakthroughs might come in stages, rather than all at once. For an example from another part of math, OpenAI has proven a quasi-Riemann hypothesis , and Terry Tao told me recently that this may open the door to solving the Riemann hypothesis proper. We now have advance notice that the Riemann hypothesis may be proven (or less likely, disproven). In similar fashion, intermediate advances may signal that cryptographic protections are vulnerable. We thus would have some time to adjust \n\n The most likely scenarios would play out in terms of probabilities, as people deal with risk before any large-scale hacking attack would come. Right now the chance of public key cryptography breaking down is on the radar screens of a relatively small number of people. Imagine that some advances in math occur, and the more sophisticated market participants start seeing something like a 10 percent chance that some forms of encryption might be vulnerable. Perhaps without much fanfare, some people would start selling their bitcoin, or they might wire their money to more secure banks, or perhaps they would hold more gold and short the market. Some hackers would invest more in the activity, including hacks without advanced AI, under the philosophy of “harvest now, decrypt later,” pulling in classified or confidential materials that previously were not worth capturing. Overall, it would be like the early days of Covid, when major bad news was pending but only a few individuals were acting on it. That state of affairs could persist for some period of time.\n \n In any case it would not be good.\n\n And this: If you have thoughts on my latest column, or questions about AI or anything else, join me for an AMA (Ask Me Anything) this week on The Free Press Forum.\n\nPaid subscribers can submit questions now . Not a subscriber? For a limited time, you can get 20% off at thefp.com/tyler . \n\n The post AI hacking risks appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-28T05:43:24Z"
+    },
+    {
+      "id": "https://www.platformer.news/ai-midterms-openai-deepfakes",
+      "title": "The AI election that wasn't",
+      "link": "https://www.platformer.news/ai-midterms-openai-deepfakes/",
+      "published": "2026-10-28T00:23:24Z",
+      "source": "Platformer",
+      "author": "Casey Newton",
+      "lang": "en",
+      "tags": [
+        "平台经济",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "Voters have other things on their minds — for now. PLUS: OpenAI’s clever policy to fight deepfakes, and the Anthropic S-1",
+      "fetched_at": "2026-10-28T05:43:25Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-592.html",
       "title": "Tuesday assorted links",
