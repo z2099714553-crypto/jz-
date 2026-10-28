@@ -1,7 +1,72 @@
 {
-  "generated_at": "2026-10-28T05:43:33Z",
-  "count": 501,
+  "generated_at": "2026-10-28T12:56:05Z",
+  "count": 505,
   "posts": [
+    {
+      "id": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
+      "title": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
+      "link": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
+      "published": "2026-10-28T12:04:22Z",
+      "source": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "lang": "en",
+      "tags": [
+        "产品",
+        "增长",
+        "访谈"
+      ],
+      "type": "interview",
+      "raw_text": "I have personal-agent fatigue, so I ran the first How I AI personal-agent benchmark: Grok Bot, Dot, Muse, and Claude Duet across nine real tasks, from a Slack reply and a Sentry bug to a Figma thumbnail, inbox triage, a family newspaper, physics homework for a fourth grader, shoe shopping, and a ChatPRD launch video. I used computer use to operate them: Claude ran Dot, Codex ran the rest and scored the results live. Here s the scoreboard and which agent I d actually trust for work vs. life.\n Listen or watch on YouTube , Spotify , or Apple Podcasts \n\n Brought to you by: \n\n WorkOS Make your app enterprise-ready, with SSO, SCIM, RBAC, and more\n Firecrawl Give your AI agents web data and beyond\n \n In this episode, we cover: ( 00:00 ) Introduction\n ( 02:13 ) The personal-agent benchmark setup\n ( 05:00 ) The nine tasks and the prompts I used\n ( 07:20 ) Scoreboard overview\n ( 10:06 ) Task 1: Draft a Slack reply as me\n ( 11:39 ) Task 2: Cut a short-form video from raw Dropbox footage\n ( 14:56 ) Task 3: Fix a bug from Sentry\n ( 17:30 ) Task 4: Build a How I AI thumbnail in Figma\n ( 19:25 ) Task 5: Triage my inbox for to-dos\n ( 21:06 ) Task 6: Build a family newspaper\n ( 23:30 ) Task 7: Explain a physics homework question to a fourth grader\n ( 24:54 ) Task 8: Shop for shoes\n ( 26:46 ) Task 9: Make a ChatPRD Product Intelligence launch video\n ( 30:01 ) Final scores\n ( 32:38 ) My takeaways\n \n Tools referenced: Grok Bot: https://x.ai/bot \n Dot: https://chatgpt.com/features/dots/ \n Meta Muse: https://ai.meta.com/muse/ \n Claude Duet: https://claude.com/product/claude-duet \n Codex: https://openai.com/codex \n ElevenLabs: https://elevenlabs.io/ \n Figma: https://www.figma.com/ \n Sentry: https://sentry.io/ \n Linear: https://linear.app/ \n Dropbox: https://www.dropbox.com/ \n \n Where to find Claire Vo: ChatPRD: https://www.chatprd.ai/ \n Website: https://clairevo.com/ \n LinkedIn: https://www.linkedin.com/in/clairevo/ \n X: https://x.com/clairevo \n \n Production and marketing by https://penname.co/ . For inquiries about sponsoring the podcast, email jordan@penname.co.",
+      "fetched_at": "2026-10-28T12:55:49Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/inequality-in-equal-land.html",
+      "title": "Inequality in Equal Land",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/inequality-in-equal-land.html?utm_source=rss&utm_medium=rss&utm_campaign=inequality-in-equal-land",
+      "published": "2026-10-28T11:18:28Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Adam Nash has a good post on wealth inequality:\n\n Every year, we pull the most recent data from the US Census on household wealth, cut by age.\n\n invariably, the students’ initial response is a reaction to the apparent disparity in wealth between households based on age.\n\n For many students, it just doesn’t seem fair at first blush. Households between the ages of 65 to 69 have a median net worth that is 9.83x that of households under 35. You can almost hear their cries, “the Baby Boomers are hoarding all the wealth!”\n\n Almost all of the graph, however, is aging! Nash considers a totally equal society called Equal Land . In Equal Land:\n\n Everyone works from the ages of 25 to 64, retiring at 65\n\n Everyone lives to the age of 85\n\n Everyone makes the same amount, $100,000 per year\n\n Everyone saves 10% of their income, every year while they work\n\n Everyone makes 8% on their savings, every year\n\n Everyone spends 4% of their portfolio, every year in retirement\n\n The result is that in equal land the distribution of wealth is even more unequal by age than in our world! This is not to say all or even most inequality is explained by age. Most inequality in our world is within-age, not between-age. But when you look at an age-wealth graph specifically, almost all of what you are seeing is just age and the power of compounding.\n\n The post Inequality in Equal Land appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-28T12:55:47Z"
+    },
+    {
+      "id": "https://cowenconvos.libsyn.com/roman-mars-on-flags-phones-and-the-design-of-everyday-life",
+      "title": "Roman Mars on Flags, Phones, and the Design of Everyday Life",
+      "link": "https://cowenconvos.libsyn.com/roman-mars-on-flags-phones-and-the-design-of-everyday-life",
+      "published": "2026-10-28T11:09:00Z",
+      "source": "Conversations with Tyler",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "深度访谈",
+        "经济学"
+      ],
+      "type": "interview",
+      "raw_text": "Roman Mars has built one of podcasting's great empires out of noticing things everyone else walks past. His show, 99% Invisible, has racked up over 500 million downloads telling stories about the unnoticed design choices that quietly shape how cities and objects work, from speed bump psychology and flag design to the shape of a good street sign. His TED Talk on vexillology (the study of flags) is so influential that it has reportedly spurred 250 to 300 municipal flag redesigns across the country, including in Pocatello, Idaho, a city he once publicly called out for having the worst flag in America. Tyler asked questions about nearly every visual surface of modern life, and Mars's answers keep circling back to the same tension: beauty and efficiency are often at odds, and most of what looks ugly to us is just a compromise we haven't yet learned to love.\n Tyler and Roman discuss street signs, why classic cars were so much more distinctive than today's SUVs, Waymos, New Jersey jughandles, yellow streetlights, lane-stripe colors, why Houston keeps growing despite its lack of charm, whether any post-war American suburb is actually beautiful, the Chrysler Building's rocky reception, brutalism done right and wrong, Central Park as an urban miracle, what Jane Jacobs got wrong, e-bike lanes, Tokyo's bike-free transit model, the placelessness of global coffee shops, why the iPhone looks boring now, the ugliest country he's visited, his love for Australia's polymer notes, his soft spot for the dollar's \"locked in amber\" weirdness, underground power lines, how to warn future civilizations about nuclear waste, why highway signs lie to you about speed limits, the principles of a great city flag, the Pocatello redesign saga, his own studio, why 99% Invisible works precisely because it's audio-only, the most unusual habit behind his long productive career, and more.\n Read a transcript enhanced with helpful links, or watch the full video on YouTube.\n Recorded August 28th, 2026. \n Other ways to connect\n Follow us on X and Instagram \n Follow Tyler on X\n Follow Roman on X\n Sign up for our newsletter \n Join our Discord \n Email us: cowenconvos@mercatus.gmu.edu \n Learn more about Conversations with Tyler and other Mercatus Center podcasts here .\n Timestamps:\n 00:00:00 - Intro\n 00:01:08 - On urban and suburban design\n 00:21:55 - On phone design\n 00:24:36 - On the world's ugliest places\n 00:26:03 - On currency design\n 00:28:33 - On power lines, speed bumps, and nuclear warning signs\n 00:34:31 - On city flags\n 00:40:39 - On building 99% Invisible\n 00:45:06 - Outro",
+      "fetched_at": "2026-10-28T12:55:55Z"
+    },
+    {
+      "id": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook",
+      "title": "Meta Earnings, Muse and the Frontier, Musebook",
+      "link": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/",
+      "published": "2026-10-28T10:06:13Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "Meta's earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta's spending on compute.",
+      "fetched_at": "2026-10-28T12:55:48Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/ai-hacking-risks.html",
       "title": "AI hacking risks",

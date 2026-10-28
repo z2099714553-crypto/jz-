@@ -112,25 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-28 05:43 UTC*
+*更新于 2026-10-28 12:56 UTC*
 
-**[AI hacking risks](https://marginalrevolution.com/marginalrevolution/2026/10/ai-hacking-risks.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-hacking-risks)**  
+**[Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?](https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet)**  
+`Lenny Rachitsky` · 刚刚  
+
+**[Inequality in Equal Land](https://marginalrevolution.com/marginalrevolution/2026/10/inequality-in-equal-land.html?utm_source=rss&utm_medium=rss&utm_campaign=inequality-in-equal-land)**  
 `Tyler Cowen` · 1 小时前  
 
+**[Roman Mars on Flags, Phones, and the Design of Everyday Life](https://cowenconvos.libsyn.com/roman-mars-on-flags-phones-and-the-design-of-everyday-life)**  
+`Tyler Cowen` · 1 小时前  
+
+**[Meta Earnings, Muse and the Frontier, Musebook](https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/)**  
+`Ben Thompson` · 2 小时前  
+
+**[AI hacking risks](https://marginalrevolution.com/marginalrevolution/2026/10/ai-hacking-risks.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-hacking-risks)**  
+`Tyler Cowen` · 8 小时前  
+
 **[The AI election that wasn't](https://www.platformer.news/ai-midterms-openai-deepfakes/)**  
-`Casey Newton` · 5 小时前  
+`Casey Newton` · 12 小时前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-592.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-592)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 20 小时前  
 
 **[Eleven outstanding film and television reviews by Tyler Cowen and Alex Tabarrok](https://marginalrevolution.com/marginalrevolution/2026/10/eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok.html?utm_source=rss&utm_medium=rss&utm_campaign=eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Anthropic S-1, The Cost of Compute, Who Is Paying?](https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/)**  
-`Ben Thompson` · 19 小时前  
+`Ben Thompson` · 1 天前  
 
 **[NYT debate on the rules for AI companies](https://marginalrevolution.com/marginalrevolution/2026/10/nyt-debate-on-the-rules-for-ai-companies.html?utm_source=rss&utm_medium=rss&utm_campaign=nyt-debate-on-the-rules-for-ai-companies)**  
-`Tyler Cowen` · 21 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Is “Who’s on First?” funny?](https://marginalrevolution.com/marginalrevolution/2026/10/is-whos-on-first-funny.html?utm_source=rss&utm_medium=rss&utm_campaign=is-whos-on-first-funny)**  
 `Tyler Cowen` · 1 天前  
@@ -142,21 +154,9 @@ open docs/index.html
 `Lenny Rachitsky` · 1 天前  
 
 **[Why Reddit built its own AI prototyping tool \| Blair Metcalf](https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping)**  
-`Lenny Rachitsky` · 1 天前  
+`Lenny Rachitsky` · 2 天前  
 
 **[The MR Archive!](https://marginalrevolution.com/marginalrevolution/2026/10/the-mr-archive.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mr-archive)**  
-`Tyler Cowen` · 1 天前  
-
-**[Tyler Cowen’s Strongest Book Recommendations, 2003-2026](https://marginalrevolution.com/marginalrevolution/2026/10/tyler-cowens-strongest-book-recommendations-over-the-years.html?utm_source=rss&utm_medium=rss&utm_campaign=tyler-cowens-strongest-book-recommendations-over-the-years)**  
-`Tyler Cowen` · 1 天前  
-
-**[The End of the Internet](https://stratechery.com/2026/the-end-of-the-internet/)**  
-`Ben Thompson` · 1 天前  
-
-**[20VC: Satya Nadella on Open vs Closed Models: Who Wins \| Whether to Trust Frontier Model Providers \| Why Companies Need to Own Their Own Intelligence \| The Importance of Verticalisation: From Chips to Models and More](https://thetwentyminutevc.libsyn.com/20vc-satya-nadella-on-open-vs-closed-models-who-wins-whether-to-trust-frontier-model-providers-why-companies-need-to-own-their-own-intelligence-the-importance-of-verticalisation-from-chips-to-models-and-more)**  
-`Harry Stebbings` · 1 天前  
-
-**[Brazil’s economic problems, in a nutshell](https://marginalrevolution.com/marginalrevolution/2026/10/brazils-economic-problems-in-a-nutshell.html?utm_source=rss&utm_medium=rss&utm_campaign=brazils-economic-problems-in-a-nutshell)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
