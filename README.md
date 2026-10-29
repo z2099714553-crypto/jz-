@@ -112,34 +112,43 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-29 00:57 UTC*
+*更新于 2026-10-29 09:59 UTC*
+
+**[AI dominates human peer reviews](https://marginalrevolution.com/marginalrevolution/2026/10/ai-dominates-human-peer-reviews.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-dominates-human-peer-reviews)**  
+`Tyler Cowen` · 2 小时前  
+
+**[20VC: Anthropic Files S1 Ahead of $2TRN IPO \| Instinct's Rumoured $30 Billion Fundraise \| Microsoft Laysoff 27,000 While Meta Taps Equity Markets for $95 Billion Capex Spending Spree](https://thetwentyminutevc.libsyn.com/20vc-anthropic-files-s1-ahead-of-2trn-ipo-instincts-rumoured-30-billion-fundraise-microsoft-laysoff-27000-while-meta-taps-equity-markets-for-95-billion-capex-spending-spree)**  
+`Harry Stebbings` · 2 小时前  
+
+**[My design Conversation with Roman Mars](https://marginalrevolution.com/marginalrevolution/2026/10/my-design-conversation-with-roman-mars.html?utm_source=rss&utm_medium=rss&utm_campaign=my-design-conversation-with-roman-mars)**  
+`Tyler Cowen` · 5 小时前  
 
 **[E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](https://sv101.fireside.fm/271)**  
-`陈茜` · 1 小时前  
+`陈茜` · 10 小时前  
 
 **[Errors in the research of Emmanuel Saez and Gabriel Zucman](https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html?utm_source=rss&utm_medium=rss&utm_campaign=errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 15 小时前  
 
 **[How is AI shaping economic research?](https://marginalrevolution.com/marginalrevolution/2026/10/how-is-ai-shaping-economic-research.html?utm_source=rss&utm_medium=rss&utm_campaign=how-is-ai-shaping-economic-research)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 15 小时前  
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-577)**  
-`Tyler Cowen` · 9 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?](https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet)**  
-`Lenny Rachitsky` · 12 小时前  
+`Lenny Rachitsky` · 21 小时前  
 
 **[Inequality in Equal Land](https://marginalrevolution.com/marginalrevolution/2026/10/inequality-in-equal-land.html?utm_source=rss&utm_medium=rss&utm_campaign=inequality-in-equal-land)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[Roman Mars on Flags, Phones, and the Design of Everyday Life](https://cowenconvos.libsyn.com/roman-mars-on-flags-phones-and-the-design-of-everyday-life)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[Meta Earnings, Muse and the Frontier, Musebook](https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/)**  
-`Ben Thompson` · 14 小时前  
+`Ben Thompson` · 23 小时前  
 
 **[AI hacking risks](https://marginalrevolution.com/marginalrevolution/2026/10/ai-hacking-risks.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-hacking-risks)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[The AI election that wasn't](https://www.platformer.news/ai-midterms-openai-deepfakes/)**  
 `Casey Newton` · 1 天前  
@@ -148,15 +157,6 @@ open docs/index.html
 `Tomasz Tunguz` · 1 天前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-592.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-592)**  
-`Tyler Cowen` · 1 天前  
-
-**[Eleven outstanding film and television reviews by Tyler Cowen and Alex Tabarrok](https://marginalrevolution.com/marginalrevolution/2026/10/eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok.html?utm_source=rss&utm_medium=rss&utm_campaign=eleven-outstanding-film-and-television-reviews-by-tyler-cowen-and-alex-tabarrok)**  
-`Tyler Cowen` · 1 天前  
-
-**[Anthropic S-1, The Cost of Compute, Who Is Paying?](https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/)**  
-`Ben Thompson` · 1 天前  
-
-**[NYT debate on the rules for AI companies](https://marginalrevolution.com/marginalrevolution/2026/10/nyt-debate-on-the-rules-for-ai-companies.html?utm_source=rss&utm_medium=rss&utm_campaign=nyt-debate-on-the-rules-for-ai-companies)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
