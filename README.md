@@ -112,37 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-28 20:16 UTC*
+*更新于 2026-10-29 00:57 UTC*
+
+**[E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](https://sv101.fireside.fm/271)**  
+`陈茜` · 1 小时前  
 
 **[Errors in the research of Emmanuel Saez and Gabriel Zucman](https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html?utm_source=rss&utm_medium=rss&utm_campaign=errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman)**  
-`Tyler Cowen` · 1 小时前  
+`Tyler Cowen` · 6 小时前  
 
 **[How is AI shaping economic research?](https://marginalrevolution.com/marginalrevolution/2026/10/how-is-ai-shaping-economic-research.html?utm_source=rss&utm_medium=rss&utm_campaign=how-is-ai-shaping-economic-research)**  
-`Tyler Cowen` · 1 小时前  
+`Tyler Cowen` · 6 小时前  
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-577)**  
-`Tyler Cowen` · 4 小时前  
-
-**[Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?](https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet)**  
-`Lenny Rachitsky` · 8 小时前  
-
-**[Inequality in Equal Land](https://marginalrevolution.com/marginalrevolution/2026/10/inequality-in-equal-land.html?utm_source=rss&utm_medium=rss&utm_campaign=inequality-in-equal-land)**  
-`Tyler Cowen` · 8 小时前  
-
-**[Roman Mars on Flags, Phones, and the Design of Everyday Life](https://cowenconvos.libsyn.com/roman-mars-on-flags-phones-and-the-design-of-everyday-life)**  
 `Tyler Cowen` · 9 小时前  
 
+**[Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?](https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet)**  
+`Lenny Rachitsky` · 12 小时前  
+
+**[Inequality in Equal Land](https://marginalrevolution.com/marginalrevolution/2026/10/inequality-in-equal-land.html?utm_source=rss&utm_medium=rss&utm_campaign=inequality-in-equal-land)**  
+`Tyler Cowen` · 13 小时前  
+
+**[Roman Mars on Flags, Phones, and the Design of Everyday Life](https://cowenconvos.libsyn.com/roman-mars-on-flags-phones-and-the-design-of-everyday-life)**  
+`Tyler Cowen` · 13 小时前  
+
 **[Meta Earnings, Muse and the Frontier, Musebook](https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/)**  
-`Ben Thompson` · 10 小时前  
+`Ben Thompson` · 14 小时前  
 
 **[AI hacking risks](https://marginalrevolution.com/marginalrevolution/2026/10/ai-hacking-risks.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-hacking-risks)**  
-`Tyler Cowen` · 15 小时前  
+`Tyler Cowen` · 20 小时前  
 
 **[The AI election that wasn't](https://www.platformer.news/ai-midterms-openai-deepfakes/)**  
-`Casey Newton` · 19 小时前  
+`Casey Newton` · 1 天前  
 
 **[Beyond Automation at OpenAI](https://tomtunguz.com/arvind-kc-office-hours/)**  
-`Tomasz Tunguz` · 20 小时前  
+`Tomasz Tunguz` · 1 天前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-592.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-592)**  
 `Tyler Cowen` · 1 天前  
@@ -154,9 +157,6 @@ open docs/index.html
 `Ben Thompson` · 1 天前  
 
 **[NYT debate on the rules for AI companies](https://marginalrevolution.com/marginalrevolution/2026/10/nyt-debate-on-the-rules-for-ai-companies.html?utm_source=rss&utm_medium=rss&utm_campaign=nyt-debate-on-the-rules-for-ai-companies)**  
-`Tyler Cowen` · 1 天前  
-
-**[Is “Who’s on First?” funny?](https://marginalrevolution.com/marginalrevolution/2026/10/is-whos-on-first-funny.html?utm_source=rss&utm_medium=rss&utm_campaign=is-whos-on-first-funny)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
