@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-10-30T01:00:36Z",
-  "count": 524,
+  "generated_at": "2026-10-30T10:02:00Z",
+  "count": 526,
   "posts": [
+    {
+      "id": "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers",
+      "title": "Sharp Tech on Video: Anthropic’s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!",
+      "link": "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/",
+      "published": "2026-10-30T10:00:00Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.",
+      "fetched_at": "2026-10-30T10:01:50Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/are-there-too-many-misdemeanor-convictions.html",
+      "title": "Are there too many misdemeanor convictions?",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/are-there-too-many-misdemeanor-convictions.html?utm_source=rss&utm_medium=rss&utm_campaign=are-there-too-many-misdemeanor-convictions",
+      "published": "2026-10-30T07:33:45Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Maybe so:\n\n Misdemeanors account for three-quarters of criminal cases filed annually in the United States, yet causal evidence on the impacts of misdemeanor conviction is scarce. We combine administrative and survey data to provide novel evidence of how misdemeanor conviction affects the socioeconomic outcomes of defendants and their families. Using data on nearly seven million defendants from 11 states, we characterize the types of people involved with the misdemeanor system. We estimate causal impacts of a conviction relative to a charge using seven county reforms that sharply reduced conviction rates. Regression discontinuity design estimates yield precise null average effects of the reforms on criminal and labor market outcomes. Defendants dismissed by the reform are unlikely to re-offend if dismissed, but also unlikely to be harmed by conviction marginal defendants are older and more likely to have been charged with minor crimes than the average defendant. Heterogeneity analyses suggest that conviction harms young and first-time defendants, implying that interventions targeting dismissal toward these groups would be beneficial. Finally, our causal estimates imply a negative Marginal Value of Public Funds of misdemeanor conviction, even under plausible estimates of general deterrence effects.\n \n That is from recent research by Nikhil Rao and James Reeves, note that Rao is this year on the job market from University of Michigan.\n\n The post Are there too many misdemeanor convictions? appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-30T10:01:50Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/10/chronicle-of-higher-education-interviews-me-on-ai-and-education.html",
+      "title": "Chronicle of Higher Education interviews me on AI and education",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/10/chronicle-of-higher-education-interviews-me-on-ai-and-education.html?utm_source=rss&utm_medium=rss&utm_campaign=chronicle-of-higher-education-interviews-me-on-ai-and-education",
+      "published": "2026-10-30T04:32:28Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Scott Carlson did the work ( gated, but free with registration ), here is one excerpt:\n\n Cowen: Another proposal I’ve made is that schools should let people do one class, only one class, AI-only — no professor, except a professor grades at the end. The professor grades not answers to an exam but the workflow of how the student used AI to learn the Glorious Revolution, or the Civil War, or whatever the student learned. Eventually, another AI will grade your AI log. But let’s start today with a professor, and try this for one class. I’m not sure how it will go. But especially for small schools that don’t offer that many classes, a student now can create a class in literally everything.\n\n If it’s successful, let them try two classes. I think the students doing this on their own are more likely to figure out how to blend AI and education than we would from a distance with some kind of centralized vision. Let them experiment.\n\n Carlson: Students should be leading the change at colleges and universities?\n\n Cowen: Absolutely. Students know more about AI than their professors do. Some of this comes from cheating, which is unfortunate. But the notion that the professors teach the students AI — I wish. It’s not always possible. You could imagine setting up a class where the students teach the professors AI, and we give the students credit for teaching. I’m half joking, but it’s not, in fact, a crazy idea. We need to experiment along a number of fronts. I’m quite convinced no one knows how to do this. It hasn’t been done before. So again, just one class. In general, schools hate this idea. They see it as opening the door to rendering some professors obsolete.\n \n And this:\n\n Carlson: There are a number of students who are deeply opposed to AI. What place do they have in this university that you’re thinking about?\n\n Cowen: I would love to have different schools with different policies. If some universities try to ban AI altogether, that’s great. Let the competitive process operate. Personally, I would bet against those schools. For a long time, I’ve been worried that within a given tier of school — big state school, community college, Ivy League — there’s not enough diversity. AI policies will force a kind of diversity on us. So I’m all for no-AI schools, even though I would not go to one.\n \n Recommended.\n\n The post Chronicle of Higher Education interviews me on AI and education appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-10-30T10:01:50Z"
+    },
     {
       "id": "https://www.platformer.news/thursday-newsletter-6",
       "title": "What Google and Reddit's bad days have in common",
@@ -8428,22 +8476,6 @@
       ],
       "type": "interview",
       "raw_text": "Anastasios Angelopoulos is the co-founder and CEO of Arena, the real-world evaluation platform that has become a leading referee of the global AI model race. Arena has raised $250 million, with the latest round valuing the company at $1.7BN. Arena recently surpassed $100M ARR just eight months after launching its enterprise offering, powered by more than 30 million monthly users.\n AGENDA:\n 00:00 – Intro: \"Kimi beat every American model\": What Nobody Wants to Admit…\n 05:20 – Is this the true commoditization of models? Are they just a utility layer now?\n 07:30 – Do Chinese open source models cannibalize the closed frontier labs?\n 10:30 – Why has America's open source community lagged so badly behind China?\n 17:20 – Will Chinese models be banned in the US — and does hosting locally really kill the backdoor risk?\n 23:20 – Are enterprises really terrified of working with the frontier labs?\n 27:20 – Why hasn't inference got cheaper — and what happens when Anthropic's \"disgustingly high\" margins go public?\n 30:20 – Who should decide if a model is safe to release: the government, a neutral body, or nobody?\n 33:10 – Are we about to see cyberattacks like we've never seen before? (The fake candidate who passed every interview)\n 37:00 – 75 Neo labs: what separates the winners from the two-thirds worth nothing?\n 40:45 – Is data actually a commodity — and can data providers be $100BN companies?\n 48:00 – Can you be the referee when the players are paying you? (And Arena's real revenue)\n 50:45 – Will the model providers eat the application layer? Are Harvey, Lagora and Figma in trouble?\n 54:10 – Quickfire: Why hasn't NVIDIA bounced on the rise of open source, who hits $10 trillion first, and does the compute debt cycle end in insolvency?",
-      "fetched_at": "2026-09-14T16:42:37Z"
-    },
-    {
-      "id": "https://thetwentyminutevc.libsyn.com/20vc-the-best-ai-companies-have-unique-data-acquisition-strategies-will-simile-kill-kalshi-polymarkets-and-nasdaq-how-to-sign-fortune-500-companies-as-customers-in-weeks-with-joon-sung-park-simile",
-      "title": "20VC: The Best AI Companies Have Unique Data Acquisition Strategies | Will Simile Kill Kalshi, Polymarkets and NASDAQ | How to Sign Fortune 500 Companies As Customers in Weeks with Joon Sung Park, Simile",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-the-best-ai-companies-have-unique-data-acquisition-strategies-will-simile-kill-kalshi-polymarkets-and-nasdaq-how-to-sign-fortune-500-companies-as-customers-in-weeks-with-joon-sung-park-simile",
-      "published": "2026-08-01T07:07:00Z",
-      "source": "20VC",
-      "author": "Harry Stebbings",
-      "lang": "en",
-      "tags": [
-        "创投",
-        "深度访谈"
-      ],
-      "type": "interview",
-      "raw_text": "Joon Sung Park is the Founder and CEO of Simile, the AI simulation company building foundation models of human behaviour; allowing companies to test how real people may think, decide and act before making a decision in the real world. Simile has now raised $300 million in total, including a $200 million Series B announced last week at a $2 billion valuation, led by Greenoaks and Index Ventures.\n AGENDA:\n 00:00 We Will Pay $100M for a Single Query on Some Models\n 10:00 Why Stock Markets May Not Exist in 5 Years Time\n 15:00 The Best Companies All Have Unique Data Acquisition Strategies\n 19:00 The Best AI Companies Have Clear and Fast Reward Functions\n 24:00 How We Sign Fortune 500 Companies for $10M Contracts in Weeks\n 32:00 Does Similie Kill Kalshi and Polymarket? Prediction vs Changing the Future\n 42:00 Inside Similie's $300M Raise; What Every Founder Needs to Know",
       "fetched_at": "2026-09-14T16:42:37Z"
     }
   ]
