@@ -112,40 +112,43 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-29 18:29 UTC*
+*更新于 2026-10-30 01:00 UTC*
+
+**[What Google and Reddit's bad days have in common](https://www.platformer.news/thursday-newsletter-6/)**  
+`Casey Newton` · 刚刚  
 
 **[Can Artificial Intelligence Forecast Treatment Effects in Economics?](https://marginalrevolution.com/marginalrevolution/2026/10/can-artificial-intelligence-forecast-treatment-effects-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=can-artificial-intelligence-forecast-treatment-effects-in-economics)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 6 小时前  
 
 **[What I learned about power from LBJ and Robert Moses](https://www.dwarkesh.com/p/lessons-in-power)**  
-`Dwarkesh Patel` · 1 小时前  
+`Dwarkesh Patel` · 8 小时前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/thursday-assorted-links-576.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-576)**  
-`Tyler Cowen` · 2 小时前  
+`Tyler Cowen` · 8 小时前  
 
 **[How Tyler Cowen and Alex Tabarrok Have Changed Their Views on AI and Where They Disagree](https://marginalrevolution.com/marginalrevolution/2026/10/how-tyler-cowen-and-alex-tabarrok-have-changed-their-views-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=how-tyler-cowen-and-alex-tabarrok-have-changed-their-views-on-ai)**  
-`Tyler Cowen` · 7 小时前  
-
-**[An Interview with Palantir CTO Shyam Sankar About the AI Religious War](https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/)**  
-`Ben Thompson` · 8 小时前  
-
-**[AI dominates human peer reviews](https://marginalrevolution.com/marginalrevolution/2026/10/ai-dominates-human-peer-reviews.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-dominates-human-peer-reviews)**  
-`Tyler Cowen` · 11 小时前  
-
-**[20VC: Anthropic Files S1 Ahead of $2TRN IPO \| Instinct's Rumoured $30 Billion Fundraise \| Microsoft Laysoff 27,000 While Meta Taps Equity Markets for $95 Billion Capex Spending Spree](https://thetwentyminutevc.libsyn.com/20vc-anthropic-files-s1-ahead-of-2trn-ipo-instincts-rumoured-30-billion-fundraise-microsoft-laysoff-27000-while-meta-taps-equity-markets-for-95-billion-capex-spending-spree)**  
-`Harry Stebbings` · 11 小时前  
-
-**[My design Conversation with Roman Mars](https://marginalrevolution.com/marginalrevolution/2026/10/my-design-conversation-with-roman-mars.html?utm_source=rss&utm_medium=rss&utm_campaign=my-design-conversation-with-roman-mars)**  
 `Tyler Cowen` · 13 小时前  
 
+**[An Interview with Palantir CTO Shyam Sankar About the AI Religious War](https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/)**  
+`Ben Thompson` · 15 小时前  
+
+**[AI dominates human peer reviews](https://marginalrevolution.com/marginalrevolution/2026/10/ai-dominates-human-peer-reviews.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-dominates-human-peer-reviews)**  
+`Tyler Cowen` · 17 小时前  
+
+**[20VC: Anthropic Files S1 Ahead of $2TRN IPO \| Instinct's Rumoured $30 Billion Fundraise \| Microsoft Laysoff 27,000 While Meta Taps Equity Markets for $95 Billion Capex Spending Spree](https://thetwentyminutevc.libsyn.com/20vc-anthropic-files-s1-ahead-of-2trn-ipo-instincts-rumoured-30-billion-fundraise-microsoft-laysoff-27000-while-meta-taps-equity-markets-for-95-billion-capex-spending-spree)**  
+`Harry Stebbings` · 17 小时前  
+
+**[My design Conversation with Roman Mars](https://marginalrevolution.com/marginalrevolution/2026/10/my-design-conversation-with-roman-mars.html?utm_source=rss&utm_medium=rss&utm_campaign=my-design-conversation-with-roman-mars)**  
+`Tyler Cowen` · 20 小时前  
+
 **[E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？](https://sv101.fireside.fm/271)**  
-`陈茜` · 19 小时前  
+`陈茜` · 1 天前  
 
 **[Errors in the research of Emmanuel Saez and Gabriel Zucman](https://marginalrevolution.com/marginalrevolution/2026/10/errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman.html?utm_source=rss&utm_medium=rss&utm_campaign=errors-in-the-research-of-emmanuel-saez-and-gabriel-zucman)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[How is AI shaping economic research?](https://marginalrevolution.com/marginalrevolution/2026/10/how-is-ai-shaping-economic-research.html?utm_source=rss&utm_medium=rss&utm_campaign=how-is-ai-shaping-economic-research)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/wednesday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-577)**  
 `Tyler Cowen` · 1 天前  
@@ -154,9 +157,6 @@ open docs/index.html
 `Lenny Rachitsky` · 1 天前  
 
 **[Inequality in Equal Land](https://marginalrevolution.com/marginalrevolution/2026/10/inequality-in-equal-land.html?utm_source=rss&utm_medium=rss&utm_campaign=inequality-in-equal-land)**  
-`Tyler Cowen` · 1 天前  
-
-**[Roman Mars on Flags, Phones, and the Design of Everyday Life](https://cowenconvos.libsyn.com/roman-mars-on-flags-phones-and-the-design-of-everyday-life)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
