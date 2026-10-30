@@ -112,40 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-30 18:00 UTC*
+*更新于 2026-10-30 22:21 UTC*
 
 **[Follow the Money](https://www.netinterest.co/p/follow-the-money-ece)**  
-`Marc Rubinstein` · 刚刚  
+`Marc Rubinstein` · 4 小时前  
 
 **[2026.44: At Long Last…](https://stratechery.com/2026/at-long-last/)**  
-`Ben Thompson` · 1 小时前  
+`Ben Thompson` · 5 小时前  
 
 **[Robert Caro – The master biographer reflects at 91](https://www.dwarkesh.com/p/robert-caro)**  
-`Dwarkesh Patel` · 1 小时前  
+`Dwarkesh Patel` · 5 小时前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-597.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-597)**  
-`Tyler Cowen` · 1 小时前  
-
-**[Weekly Dose of Optimism #217](https://www.notboring.co/p/weekly-dose-of-optimism-217)**  
-`Packy McCormick` · 5 小时前  
-
-**[Better Incentives, More Kidneys, More Lives](https://marginalrevolution.com/marginalrevolution/2026/10/better-incentives-more-kidneys-more-lives.html?utm_source=rss&utm_medium=rss&utm_campaign=better-incentives-more-kidneys-more-lives)**  
 `Tyler Cowen` · 6 小时前  
 
+**[Weekly Dose of Optimism #217](https://www.notboring.co/p/weekly-dose-of-optimism-217)**  
+`Packy McCormick` · 9 小时前  
+
+**[Better Incentives, More Kidneys, More Lives](https://marginalrevolution.com/marginalrevolution/2026/10/better-incentives-more-kidneys-more-lives.html?utm_source=rss&utm_medium=rss&utm_campaign=better-incentives-more-kidneys-more-lives)**  
+`Tyler Cowen` · 11 小时前  
+
 **[Sharp Tech on Video: Anthropic’s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!](https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/)**  
-`Ben Thompson` · 8 小时前  
+`Ben Thompson` · 12 小时前  
 
 **[Are there too many misdemeanor convictions?](https://marginalrevolution.com/marginalrevolution/2026/10/are-there-too-many-misdemeanor-convictions.html?utm_source=rss&utm_medium=rss&utm_campaign=are-there-too-many-misdemeanor-convictions)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 14 小时前  
 
 **[Chronicle of Higher Education interviews me on AI and education](https://marginalrevolution.com/marginalrevolution/2026/10/chronicle-of-higher-education-interviews-me-on-ai-and-education.html?utm_source=rss&utm_medium=rss&utm_campaign=chronicle-of-higher-education-interviews-me-on-ai-and-education)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[What Google and Reddit's bad days have in common](https://www.platformer.news/thursday-newsletter-6/)**  
-`Casey Newton` · 17 小时前  
+`Casey Newton` · 21 小时前  
 
 **[Can Artificial Intelligence Forecast Treatment Effects in Economics?](https://marginalrevolution.com/marginalrevolution/2026/10/can-artificial-intelligence-forecast-treatment-effects-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=can-artificial-intelligence-forecast-treatment-effects-in-economics)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[What I learned about power from LBJ and Robert Moses](https://www.dwarkesh.com/p/lessons-in-power)**  
 `Dwarkesh Patel` · 1 天前  
