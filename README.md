@@ -112,37 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-30 22:21 UTC*
+*更新于 2026-10-31 05:42 UTC*
+
+**[The unintended consequences of academic leniency](https://marginalrevolution.com/marginalrevolution/2026/10/the-unintended-consequences-of-academic-leniency.html?utm_source=rss&utm_medium=rss&utm_campaign=the-unintended-consequences-of-academic-leniency)**  
+`Tyler Cowen` · 刚刚  
 
 **[Follow the Money](https://www.netinterest.co/p/follow-the-money-ece)**  
-`Marc Rubinstein` · 4 小时前  
+`Marc Rubinstein` · 11 小时前  
 
 **[2026.44: At Long Last…](https://stratechery.com/2026/at-long-last/)**  
-`Ben Thompson` · 5 小时前  
-
-**[Robert Caro – The master biographer reflects at 91](https://www.dwarkesh.com/p/robert-caro)**  
-`Dwarkesh Patel` · 5 小时前  
-
-**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-597.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-597)**  
-`Tyler Cowen` · 6 小时前  
-
-**[Weekly Dose of Optimism #217](https://www.notboring.co/p/weekly-dose-of-optimism-217)**  
-`Packy McCormick` · 9 小时前  
-
-**[Better Incentives, More Kidneys, More Lives](https://marginalrevolution.com/marginalrevolution/2026/10/better-incentives-more-kidneys-more-lives.html?utm_source=rss&utm_medium=rss&utm_campaign=better-incentives-more-kidneys-more-lives)**  
-`Tyler Cowen` · 11 小时前  
-
-**[Sharp Tech on Video: Anthropic’s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!](https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/)**  
 `Ben Thompson` · 12 小时前  
 
+**[Robert Caro – The master biographer reflects at 91](https://www.dwarkesh.com/p/robert-caro)**  
+`Dwarkesh Patel` · 12 小时前  
+
+**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/friday-assorted-links-597.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-597)**  
+`Tyler Cowen` · 13 小时前  
+
+**[Weekly Dose of Optimism #217](https://www.notboring.co/p/weekly-dose-of-optimism-217)**  
+`Packy McCormick` · 16 小时前  
+
+**[Better Incentives, More Kidneys, More Lives](https://marginalrevolution.com/marginalrevolution/2026/10/better-incentives-more-kidneys-more-lives.html?utm_source=rss&utm_medium=rss&utm_campaign=better-incentives-more-kidneys-more-lives)**  
+`Tyler Cowen` · 18 小时前  
+
+**[Sharp Tech on Video: Anthropic’s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!](https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/)**  
+`Ben Thompson` · 19 小时前  
+
 **[Are there too many misdemeanor convictions?](https://marginalrevolution.com/marginalrevolution/2026/10/are-there-too-many-misdemeanor-convictions.html?utm_source=rss&utm_medium=rss&utm_campaign=are-there-too-many-misdemeanor-convictions)**  
-`Tyler Cowen` · 14 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[Chronicle of Higher Education interviews me on AI and education](https://marginalrevolution.com/marginalrevolution/2026/10/chronicle-of-higher-education-interviews-me-on-ai-and-education.html?utm_source=rss&utm_medium=rss&utm_campaign=chronicle-of-higher-education-interviews-me-on-ai-and-education)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[What Google and Reddit's bad days have in common](https://www.platformer.news/thursday-newsletter-6/)**  
-`Casey Newton` · 21 小时前  
+`Casey Newton` · 1 天前  
 
 **[Can Artificial Intelligence Forecast Treatment Effects in Economics?](https://marginalrevolution.com/marginalrevolution/2026/10/can-artificial-intelligence-forecast-treatment-effects-in-economics.html?utm_source=rss&utm_medium=rss&utm_campaign=can-artificial-intelligence-forecast-treatment-effects-in-economics)**  
 `Tyler Cowen` · 1 天前  
@@ -155,8 +158,5 @@ open docs/index.html
 
 **[How Tyler Cowen and Alex Tabarrok Have Changed Their Views on AI and Where They Disagree](https://marginalrevolution.com/marginalrevolution/2026/10/how-tyler-cowen-and-alex-tabarrok-have-changed-their-views-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=how-tyler-cowen-and-alex-tabarrok-have-changed-their-views-on-ai)**  
 `Tyler Cowen` · 1 天前  
-
-**[An Interview with Palantir CTO Shyam Sankar About the AI Religious War](https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/)**  
-`Ben Thompson` · 1 天前  
 
 <!-- POSTS:END -->
