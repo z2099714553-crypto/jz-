@@ -112,31 +112,31 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-10-31 19:18 UTC*
+*更新于 2026-11-01 00:08 UTC*
 
 **[William Nordhaus, RIP](https://marginalrevolution.com/marginalrevolution/2026/10/william-nordhaus-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=william-nordhaus-rip)**  
-`Tyler Cowen` · 刚刚  
-
-**[And so it begins…](https://marginalrevolution.com/marginalrevolution/2026/10/and-so-it-begins-2.html?utm_source=rss&utm_medium=rss&utm_campaign=and-so-it-begins-2)**  
-`Tyler Cowen` · 刚刚  
-
-**[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-584)**  
-`Tyler Cowen` · 3 小时前  
-
-**[🧠 Community Wisdom: The biggest sources of interruptions for PMs, hiring junior PMs with case studies vs. behavioral interviews, building a product harness for AI-driven development, and more](https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources)**  
-`Lenny Rachitsky` · 3 小时前  
-
-**[My Barcelona talk](https://marginalrevolution.com/marginalrevolution/2026/10/my-barcelona-talk.html?utm_source=rss&utm_medium=rss&utm_campaign=my-barcelona-talk)**  
 `Tyler Cowen` · 5 小时前  
 
+**[And so it begins…](https://marginalrevolution.com/marginalrevolution/2026/10/and-so-it-begins-2.html?utm_source=rss&utm_medium=rss&utm_campaign=and-so-it-begins-2)**  
+`Tyler Cowen` · 5 小时前  
+
+**[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-584)**  
+`Tyler Cowen` · 7 小时前  
+
+**[🧠 Community Wisdom: The biggest sources of interruptions for PMs, hiring junior PMs with case studies vs. behavioral interviews, building a product harness for AI-driven development, and more](https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources)**  
+`Lenny Rachitsky` · 7 小时前  
+
+**[My Barcelona talk](https://marginalrevolution.com/marginalrevolution/2026/10/my-barcelona-talk.html?utm_source=rss&utm_medium=rss&utm_campaign=my-barcelona-talk)**  
+`Tyler Cowen` · 10 小时前  
+
 **[20VC: David Tisch on Why High Ownership and Concentration is BS \| Why No Manager Actually Wants to Stay Small \| Why Competing with the Mega Platforms is a Losing Game \| Why the Lean Startup is a Fake?](https://thetwentyminutevc.libsyn.com/20vc-david-tisch-on-why-high-ownership-and-concentration-is-bs-why-no-manager-actually-wants-to-stay-small-why-competing-with-the-mega-platforms-is-a-losing-game-why-the-lean-startup-is-a-fake)**  
-`Harry Stebbings` · 12 小时前  
+`Harry Stebbings` · 17 小时前  
 
 **[The pass-through of retail crime](https://marginalrevolution.com/marginalrevolution/2026/10/the-pass-through-of-retail-crime.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pass-through-of-retail-crime)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[The unintended consequences of academic leniency](https://marginalrevolution.com/marginalrevolution/2026/10/the-unintended-consequences-of-academic-leniency.html?utm_source=rss&utm_medium=rss&utm_campaign=the-unintended-consequences-of-academic-leniency)**  
-`Tyler Cowen` · 14 小时前  
+`Tyler Cowen` · 19 小时前  
 
 **[Follow the Money](https://www.netinterest.co/p/follow-the-money-ece)**  
 `Marc Rubinstein` · 1 天前  
