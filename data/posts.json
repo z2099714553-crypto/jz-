@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-11-01T00:08:43Z",
-  "count": 544,
+  "generated_at": "2026-11-01T06:06:43Z",
+  "count": 545,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/are-llms-good-or-bad-bayesians.html",
+      "title": "Are LLMs good or bad Bayesians?",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/are-llms-good-or-bad-bayesians.html?utm_source=rss&utm_medium=rss&utm_campaign=are-llms-good-or-bad-bayesians",
+      "published": "2026-11-01T04:17:10Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Bryan Caplan:\n\n It seems like you and other AIs are bad Bayesians. When presented with counterevidence, you should move toward or against the presenter with roughly equal probability. It depends on whether the argument was better or worse than expected. In fact, you seem to either move toward the speaker or just not change.\n\n ChatGPT:\n\n I think you’ve identified a genuine and important failure mode in AI reasoning: LLMs tend to treat a plausible counterargument as evidence in favor of its conclusion, rather than comparing the counterargument to what they should have expected to hear. \n\n Your Bayesian point is correct, with one qualification: there’s no general theorem that updating toward and away from a speaker should happen with equal probability. But under appropriate calibration assumptions, both directions should occur, and an argument that’s weaker than expected should cause a negative update—even if the argument is perfectly valid as far as it goes.\n \n Here is the full dialogue . But will they try to fix this? Should they try to fix this? Can you undo this with good enough prompting? The scope and limits of Bayesian are truly at stake here \n\n The post Are LLMs good or bad Bayesians? appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-01T06:06:23Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/10/william-nordhaus-rip.html",
       "title": "William Nordhaus, RIP",
