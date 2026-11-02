@@ -112,22 +112,25 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-01 19:41 UTC*
+*更新于 2026-11-02 00:45 UTC*
+
+**[As predicted, the ACA exchanges seem not to be stable](https://marginalrevolution.com/marginalrevolution/2026/11/as-predicted-the-aca-exchanges-seem-not-to-be-stable.html?utm_source=rss&utm_medium=rss&utm_campaign=as-predicted-the-aca-exchanges-seem-not-to-be-stable)**  
+`Tyler Cowen` · 4 小时前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-588.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-588)**  
-`Tyler Cowen` · 3 小时前  
+`Tyler Cowen` · 8 小时前  
 
 **[How a 19-year-old intern built the growth engine behind this $2B AI company \| Hector Serrano](https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the)**  
-`Lenny Rachitsky` · 6 小时前  
+`Lenny Rachitsky` · 11 小时前  
 
 **[What are the Worst MR Posts?](https://marginalrevolution.com/marginalrevolution/2026/11/what-are-the-worst-mr-posts.html?utm_source=rss&utm_medium=rss&utm_campaign=what-are-the-worst-mr-posts)**  
-`Tyler Cowen` · 7 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[Those new service sector jobs?](https://marginalrevolution.com/marginalrevolution/2026/11/those-new-service-sector-jobs-18.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-18)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[Are LLMs good or bad Bayesians?](https://marginalrevolution.com/marginalrevolution/2026/11/are-llms-good-or-bad-bayesians.html?utm_source=rss&utm_medium=rss&utm_campaign=are-llms-good-or-bad-bayesians)**  
-`Tyler Cowen` · 15 小时前  
+`Tyler Cowen` · 20 小时前  
 
 **[William Nordhaus, RIP](https://marginalrevolution.com/marginalrevolution/2026/10/william-nordhaus-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=william-nordhaus-rip)**  
 `Tyler Cowen` · 1 天前  
@@ -155,8 +158,5 @@ open docs/index.html
 
 **[Follow the Money](https://www.netinterest.co/p/follow-the-money-ece)**  
 `Marc Rubinstein` · 2 天前  
-
-**[2026.44: At Long Last…](https://stratechery.com/2026/at-long-last/)**  
-`Ben Thompson` · 2 天前  
 
 <!-- POSTS:END -->
