@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-02 11:08 UTC*
+*更新于 2026-11-02 21:43 UTC*
+
+**[*Fjord* and *Fatherland*](https://marginalrevolution.com/marginalrevolution/2026/11/fjord-and-fatherland.html?utm_source=rss&utm_medium=rss&utm_campaign=fjord-and-fatherland)**  
+`Tyler Cowen` · 1 小时前  
+
+**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-584)**  
+`Tyler Cowen` · 4 小时前  
+
+**[🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day](https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet)**  
+`Lenny Rachitsky` · 5 小时前  
+
+**[How Figma’s PMs actually use AI every day \| Ezra Mechaber (PM, Figma)](https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every)**  
+`Lenny Rachitsky` · 8 小时前  
+
+**[Expensive Pharmaceuticals for Targeted Diseases](https://marginalrevolution.com/marginalrevolution/2026/11/expensive-pharmaceuticals-for-targeted-diseases.html?utm_source=rss&utm_medium=rss&utm_campaign=expensive-pharmaceuticals-for-targeted-diseases)**  
+`Tyler Cowen` · 9 小时前  
 
 **[Google Earnings, Facebook Déjà Vu, The Agent Play](https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/)**  
-`Ben Thompson` · 刚刚  
+`Ben Thompson` · 10 小时前  
 
 **[20VC: Who Wins the Inference Market \| Has Open-Source LLM Inference Peaked? \| What Happens to the Cost of Compute \| The Real Limits of Post-Training and RL with Erik Bernhardsson, Modal CEO](https://thetwentyminutevc.libsyn.com/20vc-who-wins-the-inference-market-has-open-source-llm-inference-peaked-what-happens-to-the-cost-of-compute-the-real-limits-of-post-training-and-rl-with-erik-bernhardsson-modal-ceo)**  
-`Harry Stebbings` · 4 小时前  
+`Harry Stebbings` · 14 小时前  
 
 **[Should you feel grief for the dead who go to heaven?](https://marginalrevolution.com/marginalrevolution/2026/11/should-you-feel-grief-for-the-dead-who-go-to-heaven.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-feel-grief-for-the-dead-who-go-to-heaven)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 16 小时前  
+
+**[The Four Questions of AI](https://tomtunguz.com/the-four-questions-of-ai/)**  
+`Tomasz Tunguz` · 21 小时前  
 
 **[As predicted, the ACA exchanges seem not to be stable](https://marginalrevolution.com/marginalrevolution/2026/11/as-predicted-the-aca-exchanges-seem-not-to-be-stable.html?utm_source=rss&utm_medium=rss&utm_campaign=as-predicted-the-aca-exchanges-seem-not-to-be-stable)**  
-`Tyler Cowen` · 15 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-588.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-588)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[How a 19-year-old intern built the growth engine behind this $2B AI company \| Hector Serrano](https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the)**  
-`Lenny Rachitsky` · 21 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[What are the Worst MR Posts?](https://marginalrevolution.com/marginalrevolution/2026/11/what-are-the-worst-mr-posts.html?utm_source=rss&utm_medium=rss&utm_campaign=what-are-the-worst-mr-posts)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Those new service sector jobs?](https://marginalrevolution.com/marginalrevolution/2026/11/those-new-service-sector-jobs-18.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-18)**  
 `Tyler Cowen` · 1 天前  
 
 **[Are LLMs good or bad Bayesians?](https://marginalrevolution.com/marginalrevolution/2026/11/are-llms-good-or-bad-bayesians.html?utm_source=rss&utm_medium=rss&utm_campaign=are-llms-good-or-bad-bayesians)**  
 `Tyler Cowen` · 1 天前  
-
-**[William Nordhaus, RIP](https://marginalrevolution.com/marginalrevolution/2026/10/william-nordhaus-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=william-nordhaus-rip)**  
-`Tyler Cowen` · 1 天前  
-
-**[And so it begins…](https://marginalrevolution.com/marginalrevolution/2026/10/and-so-it-begins-2.html?utm_source=rss&utm_medium=rss&utm_campaign=and-so-it-begins-2)**  
-`Tyler Cowen` · 1 天前  
-
-**[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-584)**  
-`Tyler Cowen` · 1 天前  
-
-**[🧠 Community Wisdom: The biggest sources of interruptions for PMs, hiring junior PMs with case studies vs. behavioral interviews, building a product harness for AI-driven development, and more](https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources)**  
-`Lenny Rachitsky` · 1 天前  
-
-**[My Barcelona talk](https://marginalrevolution.com/marginalrevolution/2026/10/my-barcelona-talk.html?utm_source=rss&utm_medium=rss&utm_campaign=my-barcelona-talk)**  
-`Tyler Cowen` · 1 天前  
-
-**[20VC: David Tisch on Why High Ownership and Concentration is BS \| Why No Manager Actually Wants to Stay Small \| Why Competing with the Mega Platforms is a Losing Game \| Why the Lean Startup is a Fake?](https://thetwentyminutevc.libsyn.com/20vc-david-tisch-on-why-high-ownership-and-concentration-is-bs-why-no-manager-actually-wants-to-stay-small-why-competing-with-the-mega-platforms-is-a-losing-game-why-the-lean-startup-is-a-fake)**  
-`Harry Stebbings` · 2 天前  
 
 <!-- POSTS:END -->
