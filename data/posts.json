@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-11-02T00:45:44Z",
-  "count": 545,
+  "generated_at": "2026-11-02T11:08:57Z",
+  "count": 547,
   "posts": [
+    {
+      "id": "https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play",
+      "title": "Google Earnings, Facebook Déjà Vu, The Agent Play",
+      "link": "https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/",
+      "published": "2026-11-02T11:00:00Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "Google's earnings miss looks a lot like Facebook's, and that's a credit to Google. The company is being more aggressive than they get credit for.",
+      "fetched_at": "2026-11-02T11:08:47Z"
+    },
+    {
+      "id": "https://thetwentyminutevc.libsyn.com/20vc-who-wins-the-inference-market-has-open-source-llm-inference-peaked-what-happens-to-the-cost-of-compute-the-real-limits-of-post-training-and-rl-with-erik-bernhardsson-modal-ceo",
+      "title": "20VC: Who Wins the Inference Market | Has Open-Source LLM Inference Peaked? | What Happens to the Cost of Compute | The Real Limits of Post-Training and RL with Erik Bernhardsson, Modal CEO",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-who-wins-the-inference-market-has-open-source-llm-inference-peaked-what-happens-to-the-cost-of-compute-the-real-limits-of-post-training-and-rl-with-erik-bernhardsson-modal-ceo",
+      "published": "2026-11-02T07:07:00Z",
+      "source": "20VC",
+      "author": "Harry Stebbings",
+      "lang": "en",
+      "tags": [
+        "创投",
+        "深度访谈"
+      ],
+      "type": "interview",
+      "raw_text": "Erik Bernhardsson is the Co-Founder and CEO of Modal, the AI infrastructure platform for training models, running inference and powering AI agents. Modal has raised over $1.2 billion, including a recent $750 million Series D led by Accel at a $15.75BN valuation. The company has surpassed $1BN in ARR, growing more than 15x year-on-year. Previously, Erik built Spotify's original music recommendation system.\n AGENDA: \n 05:30 - Why wait until your mid-30s to start a company?\n 06:40 - Is founding a startup really like \"eating glass\"?\n 08:00 - How to Raise $1BN with No Pitch Deck\n 08:45 - The danger of raising too much venture capital\n 09:40 - How much cash is Modal burning on GPUs?\n 10:30 - Do early-stage startups actually have moats?\n 13:30 - Who wins the inference market in the next 5 years?\n 15:30 - Are 90% software gross margins dead in AI?\n 17:45 - The \"open-air drug market\" for GPUs\n 21:30 - Will GPU hardware prices ever collapse?\n 22:15 - Are we about to overbuild data centers?\n 23:45 - Can custom silicon dethrone NVIDIA's monopoly?\n 24:30 - Is CUDA really the moat everyone claims it is?\n 25:20 - Are Neo Cloud providers partners or mortal enemies?\n 26:35 - Nebius vs. CoreWeave: who built the better business?\n 27:25 - Open-source vs. frontier models: which takes the lead?\n 28:20 - Can Europe ever build a competitive frontier model?\n 30:20 - The bull case for a $100B verticalized model company\n 37:15 - Modal's biggest resource allocation mistake\n 38:00 - Has open-source LLM inference already peaked?\n 41:30 - The real limits of post-training and RL\n 44:20 - How much does Modal spend every month on coding agents?\n 45:50 - The massive gold rush in selling data environments to labs\n 47:20 - Should enterprises own their own intelligence?\n 49:50 - Is model routing a defensible standalone business?\n 53:20 - $20M+ compensation packages for exceptional new grads\n 54:20 - The #1 portfolio company Erik would bet on\n 55:10 - What Erik changed his mind on most this year",
+      "fetched_at": "2026-11-02T11:08:57Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/should-you-feel-grief-for-the-dead-who-go-to-heaven.html",
+      "title": "Should you feel grief for the dead who go to heaven?",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/should-you-feel-grief-for-the-dead-who-go-to-heaven.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-feel-grief-for-the-dead-who-go-to-heaven",
+      "published": "2026-11-02T05:24:47Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "I am not myself religious, but let us consider the possible gulf between behavior and doctrine amongst those who are.\n\n It has long struck me as a kind of mini-puzzle why people feel so much grief for the departed, at least for the departed who are supposed to be headed for heaven (and yes there are supposed to be at least a few).\n\n It is fine to miss those people after they are gone, but it seems that, in addition, their death is considered a tragic event to be mourned, and also if possible to be postponed. We are crying for them, not just for ourselves .\n\n I do not doubt the sincerity of the religious belief that these people are headed to heaven. And I do not doubt the sincerity of the grief and mourning for their departure from this world.\n\n So what is going on here? Why can t you just be happy for them?\n\n I believe that people often construct a portfolio of moods when faced with stressful situations. Sometimes they will mix a positive and a negative mood, other times they will mix two different kinds of negative mood (worried about a recession? Buy a book that heralds a financial crash and hold the talisman close to your chest as pre-emptive mood management exercise.)\n\n So if the death of a loved one is a terrible event, there is a partial assuagement if you also think they are going to heaven. It makes their death modestly less terrible. But if you simply celebrated their passing, you would feel disloyal and like a rotten person who cannot recognize true loss. The point is not that you can make this bundle of feelings consistent, rather it is useful psychologically precisely because it is a portfolio and is not entirely consistent, and also not consistent over time. As your moods change, and you need an extra dose of either modest cheer or true mourning, you can adjust your blend accordingly.\n\n Others kinds of portfolios end up being constructed. For instance sometimes you may focus on some other terrible thing, to distract yourself from the first pain that came along, a bit like how you might pinch yourself during a dental session. You might prefer to have a portfolio with more pain in a way, but some of it being pain you can control.\n\n You can multiply additional examples in these directions.\n\n When people hold views for reasons of mood management (however sincerely), typically they are unable to respond intelligently to questions challenging their beliefs. Even very smart people will pull b.s. out of the hat and stick with it, moving on rapidly, mentally, to some other topic. Their response is not really thought through, it is a placeholder for now I can move on to something else. After all, consistency was never the goal in the first place, you might even argue that anti-consistency was what was needed, and what proved to be psychologically stable.\n\n I once asked someone religious about mourning death and the answer I received was something like Well, the people in New Orleans celebrate death with funerals like parties. Now, I am not sure how true that is, but assume it holds. It still resolutely refuses to address why the queried person might mourn and grieve the death of loved ones, rather than celebrate their ascent to heaven. Nonetheless it fills in the box I did say something back to the initial query. The person then wanted to simply move on to another topic.\n\n If you challenge smart people on this issue, namely the discrepancy between beliefs and actions, they often will respond with extremely weak counters and dismissals, rather than thinking the issue through.\n\n Once you see this kind of psychological portfolio construction in action, and learn how to identify it, you cannot unsee it.\n\n These days, you see it especially frequently in response to AI and its advances. People have an odd love-hate relationship with the models, and they adjust their emotional balance as their stress needs may require. They do not want to give up either the very positive or the very negative side of their visions, because then they would have a non-diversified emotional portfolio, and they would be very vulnerable to disappointment.\n\n You can understand some of the current AI debates by pondering how religious people react to the deaths of their loved ones. It was never about consistency in the first place.\n\n The post Should you feel grief for the dead who go to heaven? appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-02T11:08:47Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/11/as-predicted-the-aca-exchanges-seem-not-to-be-stable.html",
       "title": "As predicted, the ACA exchanges seem not to be stable",
@@ -8767,22 +8815,6 @@
       "type": "interview",
       "raw_text": "In this episode of Invest Like the Best, Patrick O'Shaughnessy sits down with Gavin Baker to dissect the intense AI and semiconductor market sell-off of July 2026. Describing the period as \"2022 packed into a single month,\" Gavin explains why public market panic contrasts sharply with the booming fundamentals seen on the ground in Silicon Valley. They dive into the accelerating operating cash flows of hyperscalers, the soaring spot prices for GPUs, and why open-source AI models are actually driving massive infrastructure demand. Gavin also unpacks the game theory behind Long-Term Agreements (LTAs) in the memory market, NVIDIA's strategic dominance, SpaceX's massive data center ambitions, and the looming regulatory risks for AI compute.\n\nTimestamps:\n0:00 Intro\n1:17 AI Selloff vs. Fundamentals\n10:20 Financing the AI Buildout\n18:18 GPU Prices Keep Rising\n24:23 Claude Moves Markets\n29:01 What Could Break the Thesis\n36:59 The Memory Supply War\n42:08 Nvidia’s New Playbook\n50:14 China and Open Source\n61:51 Data Centers and Regulation\n71:11 SpaceX and Orbital Compute\n\n#Investing #AI #Semiconductors #Nvidia #StockMarket #Technology #DataCenters #OpenSource #Finance #VentureCapital #nvidia #stocks #sell #stockmarket \n\nPresented by Ramp:\nhttps://ramp.com/invest\n\nSponsored by Vanta, WorkOS, Rogo, and Ridgeline:\nhttps://www.vanta.com/invest\nhttps://workos.com/\nhttps://rogo.ai/invest\nhttps://www.ridgelineapps.com/\n\n******\nPatrick O'Shaughnessy is the CEO of Positive Sum. All opinions expressed by Patrick and podcast guests are solely their own and do not reflect the opinion of Positive Sum. This podcast is for informational purposes only and should not be relied upon as a basis for investment decisions. Clients of Positive Sum may maintain positions in the securities discussed in this podcast. To learn more, visit psum.vc",
       "fetched_at": "2026-09-14T16:42:23Z"
-    },
-    {
-      "id": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2",
-      "title": "The Mindset Behind Building a Great Little Business  | Brad Jacobs",
-      "link": "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/",
-      "published": "2026-08-04T10:00:00Z",
-      "source": "The Knowledge Project",
-      "author": "Shane Parrish",
-      "lang": "en",
-      "tags": [
-        "深度访谈",
-        "决策方法"
-      ],
-      "type": "interview",
-      "raw_text": "This summer, I’m revisiting one of my favorite episodes. If you haven’t heard it, now is the time. If you have, it’s a classic and worth listening to again.\n\n Brad Jacobs has built eight billion-dollar companies, completed more than 500 acquisitions, and created extraordinary returns for shareholders over four decades. Few people understand how great businesses are built better than he does.\n\n This conversation is about the principles behind that success. Brad explains how he spots trends before they become obvious, why psychology matters as much as strategy, and how he thinks about acquisitions, hiring, capital allocation, decision-making, and building organizations that consistently outperform. \n\n He also shares lessons from therapy, meditation, and decades of leadership that changed how he manages people and makes decisions.\n\n -----\n\n Chapters:\n\n 00:00 - Finding Every Opportunity to Make Money\n\n 02:03 - The Singularity & The Future of AI\n\n 04:14 - How to Think Rationally\n\n 05:40 - The Meta-Trend Driving the Future\n\n 07:50 - His Research Process\n\n 10:21 - How to Ask Better Questions\n\n 16:26 - Rearranging Your Brain for Success 20:55 - What Music & Math Teach Us About Business\n\n 30:59 - The Asymmetry of Leverage, Debt & Optionality\n\n 35:07 - The Psychology of Contrarian Bets\n\n 40:41 - Where True Confidence Comes From\n\n 50:19 - The Hidden Cost of Negative Feedback\n\n 56:12 - Core Lessons on Money & Wealth\n\n 58:11 - The M&A Playbook: How to Build an Empire\n\n 01:07:50 - The Exact Questions to Read Anyone Instantly\n\n 01:11:10 - The Reality of Board Meetings\n\n 01:16:55 - Frameworks for High-Stakes Decision-Making\n\n 01:23:35 - The Brutal Truth About Capital Markets\n\n 01:25:40 - Avoid Hiring This Type of Person\n\n 01:31:16 - Traits of the World’s Best Capital Allocators\n\n 01:33:53 - The Biggest Lesson of the Past Year\n\n 01:37:20 - Redefining Personal Success\n\n -----\n\n *Note:* ‍Shane and guests may hold positions in assets discussed in this episode. This podcast is not investment advice and is intended for informational and entertainment purposes only. Nothing in this conversation should be considered investment advice, financial guidance, or a recommendation to buy or sell any security. Always do your own due diligence or consult with a qualified financial advisor before making investment decisions. \n-----\n\n Follow Brad Jacobs:\n\n LinkedIn: https://www.linkedin.com/in/bradjacobsqxo/ \n\n QXO: https://www.qxo.com/ \n\n ------\n\n Newsletter: The Brain Food newsletter delivers actionable insights and thoughtful ideas every Sunday. It takes 5 minutes to read, and it’s completely free. Learn more and sign up at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠fs.blog/newsletter⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ \n\n ------\n\n Follow Shane Parrish: \n\n X: ⁠⁠⁠⁠⁠⁠ https://x.com/shaneparrish⁠ \n\n Insta: ⁠https://www.instagram.com/farnamstreet/⁠ \n\n LinkedIn: ⁠https://www.linkedin.com/in/shane-parrish-050a2183/⁠ \n\n -----\n\n Thank you to the sponsors for this episode:\n\n +Applovin: Launch your first AppLovin campaign and grow your business: https://applovin.com/shane \n\n +HeyGen is a message-first AI video platform that helps people and AI agents turn ideas into professional video in minutes. Try for free at https://www.heygen.com/tkp \n\n +Matic: the robot vacuum that does it all—grab yourself a year of free bags here. http://maticrobots.com/shaneparrish \n\n +LMNT: My go-to zero sugar electrolytes — get a free LMNT Sample Pack here: https://DrinkLMNT.com/TKP \n \n Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "fetched_at": "2026-09-14T16:42:26Z"
     }
   ]
 }

@@ -112,25 +112,34 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-02 00:45 UTC*
+*更新于 2026-11-02 11:08 UTC*
+
+**[Google Earnings, Facebook Déjà Vu, The Agent Play](https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/)**  
+`Ben Thompson` · 刚刚  
+
+**[20VC: Who Wins the Inference Market \| Has Open-Source LLM Inference Peaked? \| What Happens to the Cost of Compute \| The Real Limits of Post-Training and RL with Erik Bernhardsson, Modal CEO](https://thetwentyminutevc.libsyn.com/20vc-who-wins-the-inference-market-has-open-source-llm-inference-peaked-what-happens-to-the-cost-of-compute-the-real-limits-of-post-training-and-rl-with-erik-bernhardsson-modal-ceo)**  
+`Harry Stebbings` · 4 小时前  
+
+**[Should you feel grief for the dead who go to heaven?](https://marginalrevolution.com/marginalrevolution/2026/11/should-you-feel-grief-for-the-dead-who-go-to-heaven.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-feel-grief-for-the-dead-who-go-to-heaven)**  
+`Tyler Cowen` · 5 小时前  
 
 **[As predicted, the ACA exchanges seem not to be stable](https://marginalrevolution.com/marginalrevolution/2026/11/as-predicted-the-aca-exchanges-seem-not-to-be-stable.html?utm_source=rss&utm_medium=rss&utm_campaign=as-predicted-the-aca-exchanges-seem-not-to-be-stable)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 15 小时前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-588.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-588)**  
-`Tyler Cowen` · 8 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[How a 19-year-old intern built the growth engine behind this $2B AI company \| Hector Serrano](https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the)**  
-`Lenny Rachitsky` · 11 小时前  
+`Lenny Rachitsky` · 21 小时前  
 
 **[What are the Worst MR Posts?](https://marginalrevolution.com/marginalrevolution/2026/11/what-are-the-worst-mr-posts.html?utm_source=rss&utm_medium=rss&utm_campaign=what-are-the-worst-mr-posts)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[Those new service sector jobs?](https://marginalrevolution.com/marginalrevolution/2026/11/those-new-service-sector-jobs-18.html?utm_source=rss&utm_medium=rss&utm_campaign=those-new-service-sector-jobs-18)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Are LLMs good or bad Bayesians?](https://marginalrevolution.com/marginalrevolution/2026/11/are-llms-good-or-bad-bayesians.html?utm_source=rss&utm_medium=rss&utm_campaign=are-llms-good-or-bad-bayesians)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[William Nordhaus, RIP](https://marginalrevolution.com/marginalrevolution/2026/10/william-nordhaus-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=william-nordhaus-rip)**  
 `Tyler Cowen` · 1 天前  
@@ -148,15 +157,6 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[20VC: David Tisch on Why High Ownership and Concentration is BS \| Why No Manager Actually Wants to Stay Small \| Why Competing with the Mega Platforms is a Losing Game \| Why the Lean Startup is a Fake?](https://thetwentyminutevc.libsyn.com/20vc-david-tisch-on-why-high-ownership-and-concentration-is-bs-why-no-manager-actually-wants-to-stay-small-why-competing-with-the-mega-platforms-is-a-losing-game-why-the-lean-startup-is-a-fake)**  
-`Harry Stebbings` · 1 天前  
-
-**[The pass-through of retail crime](https://marginalrevolution.com/marginalrevolution/2026/10/the-pass-through-of-retail-crime.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pass-through-of-retail-crime)**  
-`Tyler Cowen` · 1 天前  
-
-**[The unintended consequences of academic leniency](https://marginalrevolution.com/marginalrevolution/2026/10/the-unintended-consequences-of-academic-leniency.html?utm_source=rss&utm_medium=rss&utm_campaign=the-unintended-consequences-of-academic-leniency)**  
-`Tyler Cowen` · 1 天前  
-
-**[Follow the Money](https://www.netinterest.co/p/follow-the-money-ece)**  
-`Marc Rubinstein` · 2 天前  
+`Harry Stebbings` · 2 天前  
 
 <!-- POSTS:END -->
