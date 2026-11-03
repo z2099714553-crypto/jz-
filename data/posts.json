@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-11-02T21:43:00Z",
+  "generated_at": "2026-11-03T06:49:00Z",
   "count": 551,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/are-economists-declining-in-status.html",
+      "title": "Are economists declining in status?",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/are-economists-declining-in-status.html?utm_source=rss&utm_medium=rss&utm_campaign=are-economists-declining-in-status",
+      "published": "2026-11-03T05:22:51Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "That is the theme of my latest Free Press article . Excerpt, which offers the beginning of the story:\n\n If we look at the 1960s, the John F. Kennedy and Lyndon Baines Johnson administrations brought James Tobin, Robert Solow, Kenneth Arrow (all three later Nobel laureates), Arthur Okun, Walter Heller, Gardner Ackley, Otto Eckstein, and Walt Rostow into government. Those were all names with significant academic heft who could count among the world’s leading macroeconomists. Nobel laureate Paul Samuelson served as a consultant to the government. Heller and some of the others helped to shape the Kennedy-Johnson tax cut of 1964.\n\n That cluster of talent and its influence should come as no surprise. This was an age of elites, of love for science, of the moon landing project, and of network news shows with an establishment bent. Americans were used to deferring to elites, who had won World War II for them, and who were not out there making fools of themselves on the internet. With the Cold War raging, Americans felt their government had to get it right \n\n Most of this respect was still in place by the 1980s. President Ronald Reagan appointed Martin Feldstein to chair his Council of Economic Advisers (CEA), Feldstein being a Harvard professor and one of the leading market-oriented economists of his time. Two of the junior economists working for Feldstein were Paul Krugman and Lawrence Summers—before they became famous, but the intellectual firepower was already there. Michael Mussa and William Niskanen were other notables in the administration, and Milton Friedman and Friedrich A. Hayek were standing sources of inspiration.\n \n And this:\n\n On top of those political trends, there are further mechanisms at work pushing down the social status of economists. The Trump administration is proposing to eliminate social sciences funding at the National Science Foundation, and there are declining enrollments on the horizon for American colleges and universities. Academia is now seen as more politicized and left-leaning than used to be the case. Our best AI models are often better economists than the humans, just as they are proving theorems that human mathematicians cannot. All of those trends, even if you might consider some of them good news overall, are reinforcing a declining status for economists.\n \n Worth a ponder.\n\n The post Are economists declining in status? appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-03T06:48:48Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/11/fjord-and-fatherland.html",
       "title": "*Fjord* and *Fatherland*",
@@ -408,7 +424,7 @@
     },
     {
       "id": "https://www.dwarkesh.com/p/robert-caro",
-      "title": "Robert Caro – The master biographer reflects at 91",
+      "title": "What Robert Caro learned about power after studying it for 50 years",
       "link": "https://www.dwarkesh.com/p/robert-caro",
       "published": "2026-10-30T16:56:02Z",
       "source": "Dwarkesh Podcast",
@@ -8864,22 +8880,6 @@
       "type": "interview",
       "raw_text": "Julia Ioffe left the USSR as a child and came back as an adult journalist to find that the confident, credentialed women she remembered from her Soviet childhood had largely been supplanted by those chasing marriage and domesticity instead. That disorienting reversal is the engine of her book Motherland , a National Book Award finalist that reconstructs modern Russian history almost entirely through its women. Her account, drawn from her own family's history as well as the archives, keeps returning to one plain observation: Soviet policy pushed women into the workforce, the medical schools, and even into combat, while asking so little of men that low expectations became self-fulfilling—and Russia is still living with the results. \n Julia joined Tyler to discuss why so many of Russia's great constructivist painters were women, why the tsarist government established women's medical courses in 1872, changing attitudes towards abortion and birth control in the 20 th century, why the Soviet regime turned prudish, how Khrushchev's plan to \"replace the dead\" institutionalized single motherhood, Russian superwomen, why Jewish men were a prized commodity amid rampant antisemitism, the cultural significance of flowers, why a few Russian names still dominate, why Russian women think Western feminists have their priorities backwards, how gender attitudes and autocracy feed into each other, three underrated Russian novels, what she wants to write about next, and more. \n Read a full transcript enhanced with helpful links, or watch the full video on YouTube. \n Recorded April 7th, 2026 . \n Other ways to connect \n Follow us on X and Instagram \n Follow Tyler on X\n Follow Julia on X\n Sign up for our newsletter \n Join our Discord \n Email us: cowenconvos@mercatus.gmu.edu \n Learn more about Conversations with Tyler and other Mercatus Center podcasts here .\n Timestamps:\n 00:00:00 - Intro\n 00:06:38 - Bolshevik feminism\n 00:08:41 - Birth control, abortion, and prudery\n 00:14:48 - The Russian mating market\n 00:23:06 - Russian superwomen\n 00:32:02 - The importance of flowers\n 00:37:35 - Common Russian names\n 00:39:51 - Russian vs. American feminism\n 00:44:23 - Gender attitudes and Russian politics\n 00:49:54 - Russian novels\n 00:54:33 - Outro\n Photo credit: Max Avdeev",
       "fetched_at": "2026-09-14T16:42:29Z"
-    },
-    {
-      "id": "https://sv101.fireside.fm/260",
-      "title": "E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”",
-      "link": "https://sv101.fireside.fm/260",
-      "published": "2026-08-05T04:30:00Z",
-      "source": "硅谷101",
-      "author": "陈茜",
-      "lang": "zh",
-      "tags": [
-        "深度访谈",
-        "科技商业"
-      ],
-      "type": "interview",
-      "raw_text": "这期播客的嘉宾是盛颖，xAI前推理团队负责人、开源推理引擎SGLang发起人及RadixArk联合创始人/CEO。\n\n在开源模型集中爆发之际，盛颖在AI Infra（基础设施）领域的研究和贡献非常核心。她将AI Infra描述为“浪漫的关系”，是产品本身，需要有“美感”。\n\n由此，我们走进盛颖的世界。\n\n她曾经想成为一个数学家，沉浸在一个确定、纯粹、仿佛“与世界无关”的世界里。\n\n但从哥大到斯坦福，从形式化验证到 AI Infra，盛颖一路经历的并不是外界看到的连续发顶刊的高光，背后是不为人知的寻找方向、迷茫、停滞、低谷和重新出发。她逐渐意识到，自己无法勉强去做一件不感兴趣的事；只有真正被一个问题吸引，她才能进入高度专注的状态，并把它做到极致。\n\nSGLang，是这条研究路径的集大成者。它从一个学术项目成长为面向真实生产环境的开源推理引擎，也把盛颖从研究者带进了更复杂的工程、组织与产业世界。\n\n在早期的xAI，她获得了难得同时存在的“support”和“freedom”，参与搭建生产级推理系统。但随着SGLang社区迅速扩张，仅靠开发者在业余时间维护，已经无法支撑项目继续向前。为了让这件事真正走下去，她选择离开xAI，创立RadixArk。\n\n这期节目，我们从盛颖眼中的数学之美、论文和低谷聊到SGLang、xAI与RadixArk，也聊一个人如何逐渐理解自己的天性，并决定不再与之对抗。\n\n盛颖说，她在乎的不是“making impact”，而是那些她认为正确的事情，最终有没有发生。从“世界与我无关”，到“想要构建那个跟强力AI共存、且人类不会输的未来”，这，是盛颖的故事。\n\n 【主播】 \n\n陈茜，硅谷101联合创始人\n\n 【嘉宾】 \n\n盛颖，RadixArk联合创始人&CEO，xAI前推理团队负责人、开源推理引擎SGLang发起人\n\n 【你将听到】 \n\n02:16 违约金、纽约与数学之美：“世界与我无关”\n\n16:06 顶刊、低谷期与甄嬛传：“世界又与我有关了”\n\n26:01 谷歌实习：最早的“AI for code”\n\n31:54 Databricks：人生导师Ion Stoica与“making impact”价值观 \n\n34:37 xAI：拥有“support”和“freedom”的美好v1.0时代\n\n44:07 RadixArk：“两个月也等不了”\n\n48:07 Two Sigma：“有组织的公司”应该有的样子\n\n51:10 SGLang：“AI Infra是浪漫的”\n\n01:15:29 SandHill Road的套路与规则\n\n01:19:33 “养大我”的开源生态\n\n01:27:03 LMSYS：平等、平权，以及“她赢了，不需要被解释”\n\n01:37:42 “世间的美好是存在的”\n\n 【延伸阅读】 \n\n 本期节目视频版已上线 ，附精校字幕及术语注解，适合想逐句细听的听友\n\n “榨”出硅的极限：怎么让GPU不“闲着”？｜与SGLang、RadixArk深聊AI Infra技术与千亿美元市场-硅谷101视频 及 文字版 \n\n 【硅谷101正在招聘】 \n\n《硅谷101》招聘多个全职岗位，欢迎加入我们的超酷的深度内容工作团队！\n\n👉🏻 点击查看招聘详情 \n\n 【监制】 \n\n泓君\n\n 【采访】 \n\n陈茜\n\n 【后期】 \n\nFrentee Jacob Amei\n\n 【运营】 \n\n朱婕\n\n 【BGM】 \n\nThe Hoover Dam - Bonnie Grace\n\nSpring Dance - Forever Sunset\n\nCuriosity Cabinet - Mike Franklyn\n\n 【在这里找到我们】 \n\n公众号：硅谷101\n\n收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐\n\n其他平台：YouTube｜Bilibili 搜索「硅谷101播客」\n\n联系我们： podcast@sv101.net \n Special Guest: 盛颖.",
-      "fetched_at": "2026-09-14T16:42:31Z"
     }
   ]
 }
