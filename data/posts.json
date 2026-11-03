@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-11-03T17:04:07Z",
-  "count": 556,
+  "generated_at": "2026-11-03T23:24:12Z",
+  "count": 558,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/ireland-fact-of-the-day-8.html",
+      "title": "Ireland fact of the day",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/ireland-fact-of-the-day-8.html?utm_source=rss&utm_medium=rss&utm_campaign=ireland-fact-of-the-day-8",
+      "published": "2026-11-03T19:26:51Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Almost half of Ireland’s corporation tax haul comes from just three companies: Apple, Eli Lilly and Microsoft.\n \n Here is much more from Jude Webber at the FT , on why Ireland does not always feel or operate like a wealthy country.\n\n The post Ireland fact of the day appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-03T23:23:59Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-593.html",
       "title": "Tuesday assorted links",
@@ -114,6 +130,22 @@
       "type": "blog",
       "raw_text": "That is the theme of my latest Free Press article . Excerpt, which offers the beginning of the story:\n\n If we look at the 1960s, the John F. Kennedy and Lyndon Baines Johnson administrations brought James Tobin, Robert Solow, Kenneth Arrow (all three later Nobel laureates), Arthur Okun, Walter Heller, Gardner Ackley, Otto Eckstein, and Walt Rostow into government. Those were all names with significant academic heft who could count among the world’s leading macroeconomists. Nobel laureate Paul Samuelson served as a consultant to the government. Heller and some of the others helped to shape the Kennedy-Johnson tax cut of 1964.\n\n That cluster of talent and its influence should come as no surprise. This was an age of elites, of love for science, of the moon landing project, and of network news shows with an establishment bent. Americans were used to deferring to elites, who had won World War II for them, and who were not out there making fools of themselves on the internet. With the Cold War raging, Americans felt their government had to get it right \n\n Most of this respect was still in place by the 1980s. President Ronald Reagan appointed Martin Feldstein to chair his Council of Economic Advisers (CEA), Feldstein being a Harvard professor and one of the leading market-oriented economists of his time. Two of the junior economists working for Feldstein were Paul Krugman and Lawrence Summers—before they became famous, but the intellectual firepower was already there. Michael Mussa and William Niskanen were other notables in the administration, and Milton Friedman and Friedrich A. Hayek were standing sources of inspiration.\n \n And this:\n\n On top of those political trends, there are further mechanisms at work pushing down the social status of economists. The Trump administration is proposing to eliminate social sciences funding at the National Science Foundation, and there are declining enrollments on the horizon for American colleges and universities. Academia is now seen as more politicized and left-leaning than used to be the case. Our best AI models are often better economists than the humans, just as they are proving theorems that human mathematicians cannot. All of those trends, even if you might consider some of them good news overall, are reinforcing a declining status for economists.\n \n Worth a ponder.\n\n The post Are economists declining in status? appeared first on Marginal REVOLUTION .",
       "fetched_at": "2026-11-03T06:48:48Z"
+    },
+    {
+      "id": "https://tomtunguz.com/the-financial-engineering-essential-for-ai-in-2027",
+      "title": "The Financial Engineering Essential for AI in 2027",
+      "link": "https://tomtunguz.com/the-financial-engineering-essential-for-ai-in-2027/",
+      "published": "2026-11-03T00:00:00Z",
+      "source": "Tomasz Tunguz",
+      "author": "Tomasz Tunguz",
+      "lang": "en",
+      "tags": [
+        "SaaS",
+        "数据分析"
+      ],
+      "type": "blog",
+      "raw_text": "The essential ingredient to AI has more than doubled in cost in the last 6 months.\n\n GPUs, the chips that power AI, have increased in rental price per hour from $3 to $12 to $13 on short-term contracts, pushing Anthropic&rsquo;s blended cost per GPU-equivalent hour from $3.10 to $5.65 (within a $3.45 to $8.29 confidence band), according to data from the updated Anthropic S-1/A 1 2 .\n\n Anthropic, like other AI providers, is trying to rent as many accelerators as possible on multi-year contracts that fix prices around $2 to $4 per hour. When that long-term capacity is exhausted, AI vendors must buy access to GPUs in the short-term burst market, where prices have surged 1 .\n\n This cost spike changes the unit economics of a frontier lab. A doubling of GPU cost must be met by a doubling of model efficiency, a doubling of price to the customer, or a combination of the two to preserve margins.\n\n With 40% to 50% of data center projects delayed 3 & billions of dollars of GPUs sitting idle in warehouses waiting for power 4 , plus transformer & turbine lead times measured in years 5 , this supply pressure shows no sign of easing in the near term.\n\n Meanwhile, the price war across frontier & mid-tier models 6 makes raising token prices perilous : any lab that hikes rates cedes share.\n\n Labs are responding on three fronts : engineering step-function gains in model efficiency like Opus 5.5&rsquo;s 40% reduction in cost per task over Opus 5 1 , tightening subscription allowances like OpenAI&rsquo;s move to pool ChatGPT & Codex into a single shared token limit 7 , & pushing enterprise buyers from serverless API consumption into multi-year committed contracts.\n\n Financial engineering in 2027 means closing that duration mismatch : selling a Fortune 500 buyer a multi-year minimum commitment at a locked-in rate to match the duration of the GPU lease underneath it.\n\n In 2026, the race was to find GPUs at any price. In 2027, the winners will be the labs that match the duration of their customers&rsquo; contracts to the duration of their compute.\n\n Anthropic, PBC Amendment No. 1 to Form S-1 (Form S-1/A), SEC EDGAR CIK 0002130357, Registration No. 333-299633, accession 0001628280-26-068676, filed November 2, 2026 (pp. 138–140, 160, 174–176) : https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm . In the third quarter of 2026, Anthropic spent $5.0b on short-term compute alone : 51% of its $9.86b quarterly compute bill : flipping Q2&rsquo;s $974m GAAP operating profit into a $567m Q3 operating loss even as quarterly revenue grew $5.40b sequentially to $16.96b. \n\n Per-hour contract rates & confidence bounds combine Anthropic S-1/A contract commitments (pp. 139, 174–176) with public capacity disclosures : SpaceX Form 424B4 final prospectus (filed June 12, 2026, CIK 0001181412, accession 0001628280-26-042639, disclosing $1.25b/month initial fee & ~325,000 NVIDIA GPUs across Colossus 1 & Colossus II : https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm ; $3.1b/month amended SpaceXAI run-rate across 325,000 GPUs = $13.07/GPU-hour), Anthropic&rsquo;s May 6, 2026 Colossus 1 announcement (220,000+ NVIDIA GPUs : https://www.anthropic.com/news/higher-limits-spacex ), & the settled October 30, 2026 Ornn B300 Compute Price Index at $12.29/GPU-hour ( https://data.ornn.com/ ). \n\n Goldman Sachs Commodities Research puts on-time data center delivery over the next one to two years at 50% to 60% (40% to 50% delayed), & JPMorgan (cited by the Wall Street Journal, June 2026) finds that more than 60% of data center capacity planned for 2027 is not yet under construction & a further 7% is delayed ; see Tomasz Tunguz, The Gap Between a Price & a Revenue , October 21, 2026. \n\n Business Insider, October 20, 2026 : under AWS&rsquo;s &ldquo;Early Rack Receipt&rdquo; program, Amazon took delivery of roughly $5b of Nvidia GB300 racks in August 2026 & ~$3b per month thereafter before facilities had the power to activate them ( https://www.businessinsider.com/amazon-nvidia-ai-gpu-data-centers-power-shortages-2026-10 ). \n\n Tomasz Tunguz, The AI Bullwhip , August 23, 2026 : generator step-up transformers average three-to-five-year lead times & GE Vernova & Siemens Energy have sold out gas turbine production through 2029. \n\n Tomasz Tunguz, The Most Important Market in AI Is the Middle , September 23, 2026, & How GPU Prices Can Double While AI Gets Cheaper , September 28, 2026. \n\n OpenAI Help Center (updated November 2, 2026) & Paul Sawers, OpenAI&rsquo;s new shared usage limit pits ChatGPT against Codex , The New Stack, November 2, 2026 : starting in December 2026, ChatGPT & Codex on Plus, Pro, & Business plans will draw from a single shared token allowance.",
+      "fetched_at": "2026-11-03T23:23:59Z"
     },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/11/fjord-and-fatherland.html",

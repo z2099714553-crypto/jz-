@@ -112,34 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-03 17:04 UTC*
+*更新于 2026-11-03 23:24 UTC*
+
+**[Ireland fact of the day](https://marginalrevolution.com/marginalrevolution/2026/11/ireland-fact-of-the-day-8.html?utm_source=rss&utm_medium=rss&utm_campaign=ireland-fact-of-the-day-8)**  
+`Tyler Cowen` · 3 小时前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-593.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-593)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 6 小时前  
 
 **[Lenny’s Newsletter holiday gift guide 2026](https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057)**  
-`Lenny Rachitsky` · 2 小时前  
+`Lenny Rachitsky` · 8 小时前  
 
 **[A portrait of eight billion people](https://www.generalist.com/p/a-portrait-of-eight-billion-people)**  
-`Mario Gabriele` · 3 小时前  
+`Mario Gabriele` · 10 小时前  
 
 **[Thoughts on Owning a Self-Driving Tesla](https://marginalrevolution.com/marginalrevolution/2026/11/thoughts-on-owning-a-self-driving-tesla.html?utm_source=rss&utm_medium=rss&utm_campaign=thoughts-on-owning-a-self-driving-tesla)**  
-`Tyler Cowen` · 4 小时前  
-
-**[Apple Earnings, Memory Problems, The Hardware Company Regression](https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression/)**  
-`Ben Thompson` · 6 小时前  
-
-**[The economics of tips](https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-tips.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-tips)**  
-`Tyler Cowen` · 9 小时前  
-
-**[Are economists declining in status?](https://marginalrevolution.com/marginalrevolution/2026/11/are-economists-declining-in-status.html?utm_source=rss&utm_medium=rss&utm_campaign=are-economists-declining-in-status)**  
 `Tyler Cowen` · 11 小时前  
 
+**[Apple Earnings, Memory Problems, The Hardware Company Regression](https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression/)**  
+`Ben Thompson` · 12 小时前  
+
+**[The economics of tips](https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-tips.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-tips)**  
+`Tyler Cowen` · 15 小时前  
+
+**[Are economists declining in status?](https://marginalrevolution.com/marginalrevolution/2026/11/are-economists-declining-in-status.html?utm_source=rss&utm_medium=rss&utm_campaign=are-economists-declining-in-status)**  
+`Tyler Cowen` · 18 小时前  
+
+**[The Financial Engineering Essential for AI in 2027](https://tomtunguz.com/the-financial-engineering-essential-for-ai-in-2027/)**  
+`Tomasz Tunguz` · 23 小时前  
+
 **[*Fjord* and *Fatherland*](https://marginalrevolution.com/marginalrevolution/2026/11/fjord-and-fatherland.html?utm_source=rss&utm_medium=rss&utm_campaign=fjord-and-fatherland)**  
-`Tyler Cowen` · 21 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-584)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day](https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet)**  
 `Lenny Rachitsky` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[Google Earnings, Facebook Déjà Vu, The Agent Play](https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/)**  
 `Ben Thompson` · 1 天前  
-
-**[20VC: Who Wins the Inference Market \| Has Open-Source LLM Inference Peaked? \| What Happens to the Cost of Compute \| The Real Limits of Post-Training and RL with Erik Bernhardsson, Modal CEO](https://thetwentyminutevc.libsyn.com/20vc-who-wins-the-inference-market-has-open-source-llm-inference-peaked-what-happens-to-the-cost-of-compute-the-real-limits-of-post-training-and-rl-with-erik-bernhardsson-modal-ceo)**  
-`Harry Stebbings` · 1 天前  
-
-**[Should you feel grief for the dead who go to heaven?](https://marginalrevolution.com/marginalrevolution/2026/11/should-you-feel-grief-for-the-dead-who-go-to-heaven.html?utm_source=rss&utm_medium=rss&utm_campaign=should-you-feel-grief-for-the-dead-who-go-to-heaven)**  
-`Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
