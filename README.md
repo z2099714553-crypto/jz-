@@ -112,34 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-03 23:24 UTC*
+*更新于 2026-11-04 06:23 UTC*
+
+**[Trade and the end of antiquity, or did Islam serve to deglobalize the world?](https://marginalrevolution.com/marginalrevolution/2026/11/trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world)**  
+`Tyler Cowen` · 刚刚  
+
+**[The frontier labs launch election war rooms](https://www.platformer.news/election-war-room-midterms-deepfakes/)**  
+`Casey Newton` · 4 小时前  
 
 **[Ireland fact of the day](https://marginalrevolution.com/marginalrevolution/2026/11/ireland-fact-of-the-day-8.html?utm_source=rss&utm_medium=rss&utm_campaign=ireland-fact-of-the-day-8)**  
-`Tyler Cowen` · 3 小时前  
+`Tyler Cowen` · 10 小时前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-593.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-593)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 13 小时前  
 
 **[Lenny’s Newsletter holiday gift guide 2026](https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057)**  
-`Lenny Rachitsky` · 8 小时前  
+`Lenny Rachitsky` · 15 小时前  
 
 **[A portrait of eight billion people](https://www.generalist.com/p/a-portrait-of-eight-billion-people)**  
-`Mario Gabriele` · 10 小时前  
+`Mario Gabriele` · 17 小时前  
 
 **[Thoughts on Owning a Self-Driving Tesla](https://marginalrevolution.com/marginalrevolution/2026/11/thoughts-on-owning-a-self-driving-tesla.html?utm_source=rss&utm_medium=rss&utm_campaign=thoughts-on-owning-a-self-driving-tesla)**  
-`Tyler Cowen` · 11 小时前  
-
-**[Apple Earnings, Memory Problems, The Hardware Company Regression](https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression/)**  
-`Ben Thompson` · 12 小时前  
-
-**[The economics of tips](https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-tips.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-tips)**  
-`Tyler Cowen` · 15 小时前  
-
-**[Are economists declining in status?](https://marginalrevolution.com/marginalrevolution/2026/11/are-economists-declining-in-status.html?utm_source=rss&utm_medium=rss&utm_campaign=are-economists-declining-in-status)**  
 `Tyler Cowen` · 18 小时前  
 
+**[Apple Earnings, Memory Problems, The Hardware Company Regression](https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression/)**  
+`Ben Thompson` · 19 小时前  
+
+**[The economics of tips](https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-tips.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-tips)**  
+`Tyler Cowen` · 22 小时前  
+
+**[Are economists declining in status?](https://marginalrevolution.com/marginalrevolution/2026/11/are-economists-declining-in-status.html?utm_source=rss&utm_medium=rss&utm_campaign=are-economists-declining-in-status)**  
+`Tyler Cowen` · 1 天前  
+
 **[The Financial Engineering Essential for AI in 2027](https://tomtunguz.com/the-financial-engineering-essential-for-ai-in-2027/)**  
-`Tomasz Tunguz` · 23 小时前  
+`Tomasz Tunguz` · 1 天前  
 
 **[*Fjord* and *Fatherland*](https://marginalrevolution.com/marginalrevolution/2026/11/fjord-and-fatherland.html?utm_source=rss&utm_medium=rss&utm_campaign=fjord-and-fatherland)**  
 `Tyler Cowen` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[How Figma’s PMs actually use AI every day \| Ezra Mechaber (PM, Figma)](https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every)**  
 `Lenny Rachitsky` · 1 天前  
-
-**[Expensive Pharmaceuticals for Targeted Diseases](https://marginalrevolution.com/marginalrevolution/2026/11/expensive-pharmaceuticals-for-targeted-diseases.html?utm_source=rss&utm_medium=rss&utm_campaign=expensive-pharmaceuticals-for-targeted-diseases)**  
-`Tyler Cowen` · 1 天前  
-
-**[Google Earnings, Facebook Déjà Vu, The Agent Play](https://stratechery.com/2026/google-earnings-facebook-deja-vu-the-agent-play/)**  
-`Ben Thompson` · 1 天前  
 
 <!-- POSTS:END -->
