@@ -112,31 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-04 17:15 UTC*
+*更新于 2026-11-04 23:40 UTC*
+
+**[What Drives Censorship on College Campuses?](https://marginalrevolution.com/marginalrevolution/2026/11/what-drives-censorship-on-college-campuses.html?utm_source=rss&utm_medium=rss&utm_campaign=what-drives-censorship-on-college-campuses)**  
+`Tyler Cowen` · 3 小时前  
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-578)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 6 小时前  
 
 **[Richard Hanania on Conrad's Nostromo, Latin American Crime, and Populism](https://cowenconvos.libsyn.com/richard-hanania-on-conrads-nostromo-latin-american-crime-and-populism)**  
-`Tyler Cowen` · 5 小时前  
-
-**[AI on the Ballot](https://stratechery.com/2026/ai-on-the-ballot/)**  
-`Ben Thompson` · 6 小时前  
-
-**[Martin Casado on Frontier Model Economics, AI's Slowdown, and the Cursor Deal - [Invest Like the Best, EP.498]](https://colossus.com/episode/the-productive-investor/)**  
-`Patrick O'Shaughnessy` · 8 小时前  
-
-**[The election](https://marginalrevolution.com/marginalrevolution/2026/11/the-election.html?utm_source=rss&utm_medium=rss&utm_campaign=the-election)**  
-`Tyler Cowen` · 9 小时前  
-
-**[Trade and the end of antiquity, or did Islam serve to deglobalize the world?](https://marginalrevolution.com/marginalrevolution/2026/11/trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world)**  
 `Tyler Cowen` · 11 小时前  
 
+**[AI on the Ballot](https://stratechery.com/2026/ai-on-the-ballot/)**  
+`Ben Thompson` · 12 小时前  
+
+**[Martin Casado on Frontier Model Economics, AI's Slowdown, and the Cursor Deal - [Invest Like the Best, EP.498]](https://colossus.com/episode/the-productive-investor/)**  
+`Patrick O'Shaughnessy` · 14 小时前  
+
+**[The election](https://marginalrevolution.com/marginalrevolution/2026/11/the-election.html?utm_source=rss&utm_medium=rss&utm_campaign=the-election)**  
+`Tyler Cowen` · 15 小时前  
+
+**[Trade and the end of antiquity, or did Islam serve to deglobalize the world?](https://marginalrevolution.com/marginalrevolution/2026/11/trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world)**  
+`Tyler Cowen` · 17 小时前  
+
 **[The frontier labs launch election war rooms](https://www.platformer.news/election-war-room-midterms-deepfakes/)**  
-`Casey Newton` · 15 小时前  
+`Casey Newton` · 22 小时前  
+
+**[Watts in Store for 2027 : The AI Ceiling](https://tomtunguz.com/watts-in-store-for-2027-inference/)**  
+`Tomasz Tunguz` · 23 小时前  
 
 **[Ireland fact of the day](https://marginalrevolution.com/marginalrevolution/2026/11/ireland-fact-of-the-day-8.html?utm_source=rss&utm_medium=rss&utm_campaign=ireland-fact-of-the-day-8)**  
-`Tyler Cowen` · 21 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-593.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-593)**  
 `Tyler Cowen` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[Apple Earnings, Memory Problems, The Hardware Company Regression](https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression/)**  
 `Ben Thompson` · 1 天前  
-
-**[The economics of tips](https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-tips.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-tips)**  
-`Tyler Cowen` · 1 天前  
-
-**[Are economists declining in status?](https://marginalrevolution.com/marginalrevolution/2026/11/are-economists-declining-in-status.html?utm_source=rss&utm_medium=rss&utm_campaign=are-economists-declining-in-status)**  
-`Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->

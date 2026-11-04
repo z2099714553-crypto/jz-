@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-11-04T17:15:32Z",
-  "count": 563,
+  "generated_at": "2026-11-04T23:40:23Z",
+  "count": 565,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/what-drives-censorship-on-college-campuses.html",
+      "title": "What Drives Censorship on College Campuses?",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/what-drives-censorship-on-college-campuses.html?utm_source=rss&utm_medium=rss&utm_campaign=what-drives-censorship-on-college-campuses",
+      "published": "2026-11-04T19:58:38Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "There has been widespread concern about self-censorship on university campuses, and especially that conservative voices are being stifled. Using survey data from a private elite college, we show that self-censorship is not simply about being conservative: it is students with the most moderate views who self-censor the most. This pattern is associated with confidence and salience — students who are more confident in their views or who see an issue as especially important tend to hold more extreme views and to self-censor less. At the same time, conservatives self-censor at higher rates than liberals, and the same individual is more likely to self-censor on the views where they are relatively more conservative than on those where they are relatively more liberal; conservatives are also far more likely than liberals to cite concerns about social exclusion as a reason for self-censoring, and report self-censoring less outside the university community. Groups perceived as marginalized self-censor less than majority groups, and especially so on issues salient to them (e.g., Black students on BLM).\n \n That is from a new NBER working paper by Peter Arcidiacono , Cory Dowd & Matthew Lilley. \n\n The post What Drives Censorship on College Campuses? appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-04T23:40:03Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-578.html",
       "title": "Wednesday assorted links",
@@ -114,6 +130,22 @@
       "type": "blog",
       "raw_text": "An old playbook is back for the deepfake era. Is it working?",
       "fetched_at": "2026-11-04T06:23:38Z"
+    },
+    {
+      "id": "https://tomtunguz.com/watts-in-store-for-2027-inference",
+      "title": "Watts in Store for 2027 : The AI Ceiling",
+      "link": "https://tomtunguz.com/watts-in-store-for-2027-inference/",
+      "published": "2026-11-04T00:00:00Z",
+      "source": "Tomasz Tunguz",
+      "author": "Tomasz Tunguz",
+      "lang": "en",
+      "tags": [
+        "SaaS",
+        "数据分析"
+      ],
+      "type": "blog",
+      "raw_text": "The ceiling for AI in 2027 is about 80gw : doubling all the compute built in the history of the country in twelve months.\n\n Yet even at this historic pace, the hourly cost of GPUs has doubled in the last six months : short-term rental rates have jumped from $3 to $12-13 per hour, pushing Anthropic&rsquo;s blended GPU-hour cost up 82% in just two quarters. 1 Finished server racks are already sitting unpowered in staging warehouses because data centers lack the energized utility power to turn them on.\n\n When supply doubles & prices still double, demand is fundamentally outrunning physical reality. There will consistently be an active ceiling on energized compute, which will keep structural upward pressure on GPU prices per hour.\n\n On last night&rsquo;s All-In election livestream, Brad Gerstner framed that buildout in gigawatts :\n\n &ldquo;The consensus forecast is a total of 43 gigawatts coming online in 2027… the total gigawatts online at the end of &lsquo;26, the cumulative in the United States, is about 38 … I think we could see at least 10 to 15 gigawatts of the expected build not come online.&rdquo; 2 \n\n What does a ceiling like this mean for AI?\n\n First, there&rsquo;s a theoretical maximum amount of revenue we can generate from AI. A GPU can perform two types of tasks for AI : inference & training. Today, 40% of GPU hours are inference : AI sold to customers. 3 The other 60% develops models.\n\n Today&rsquo;s 38gw fleet earns about $140b, while the 43gw to be added in 2027 will run on chips that are 3-5x more powerful & should deliver an annualized earnings capability of about $350b, for a total of nearly $500b. 4 \n\n As GPU prices continue to rise, foundation model companies may need to shift the fraction of GPU hours to inference from training. This might limit the pace of innovation at the frontier.\n\n Second, latency becomes the release valve for too much demand. Internet access is priced in terms of bandwidth (gigabytes of files you can download) & speed (how quickly you can download it). AI may be priced the same way. We see this already with products focused on low-latency inference & those on long-horizon tasks. 5 \n\n Third, limitations in compute availability will encourage algorithmic innovation. Chinese models like DeepSeek, Qwen, & Kimi have demonstrated material architectural advantages that drive near-state-of-the-art performance on much smaller models & new architectures. 6 \n\n Fourth, the harness becomes critical to deliver state-of-the-art performance on limited GPU availability. Responsible for more than half of system performance, the software around the model can extract tremendous efficiency. 7 \n\n Fifth, the economics of vibe-coding face a reality check. When inference becomes more expensive, off-the-shelf software (with AI) can be less expensive than bespoke built & maintained internal software.\n\n In 2027, AI&rsquo;s constraint will be access to powered GPUs. As the prices for renting GPUs continues to increase faster than efficiency can fight, watts in store for 2027? Efficiency as the dominant motif up & down the stack.\n\n Anthropic Form S-1/A (filed November 2, 2026), disclosing blended GPU-equivalent costs rising from $3.10 to $5.65 per hour as short-term burst capacity hit $7 to $13 per hour. Under AWS&rsquo;s Early Rack Receipt program, Amazon took delivery of roughly $5b of Nvidia GB300 server racks in August 2026 alone before facilities had the substation power to activate them (Business Insider, October 20, 2026). See Tomasz Tunguz, The Financial Engineering Essential for AI in 2027 , November 3, 2026, & How GPU Prices Can Double While AI Gets Cheaper , September 28, 2026. \n\n Brad Gerstner on the All-In Podcast, &ldquo;2026 Election Night Livestream with the Besties!&rdquo; (Nov 3, 2026, 01:32:21) & All-In Summit keynote, &ldquo;No AI Bubble, Semis Eat the Nasdaq & AI&rsquo;s Take Off Problem&rdquo; (Sept 17, 2026). All-In Podcast \n\n SemiAnalysis frontier lab compute workload mix (1Q24 to 4Q26E), published Oct 6, 2026, & Anthropic Form S-1 (filed Oct 26, 2026). OfficeChai \n\n Dylan Patel, SemiAnalysis, on the Dwarkesh Podcast (Aug 25, 2026) & SemiAnalysis Tokenomics Model. Dwarkesh Podcast . New 2027 racks (GB300, Vera Rubin, TPU v7, & Trainium 3) deliver 3-5x higher token throughput per watt than the installed 2026 base ; after token price deflation & a 50/50 mix between frontier labs ($31b/gw) & the broader market ($9.4b/gw), incremental inference capacity monetizes at ~$20.2b per gigawatt ($350b on 17.2gw of new inference), raising total theoretical revenue to nearly $500b ($0.49t). \n\n OpenAI & Cerebras low-latency inference partnership ( OpenAI ) & Sail Research asynchronous inference queue ( Sail Research ). See also Tomasz Tunguz, Full Sail on Asynchronous Inference , September 2026. \n\n Architectural innovations include multi-head latent attention (MLA), sparse mixture-of-experts routing, FP4 quantization, & speculative decoding to extract far more performance from the same GPU. On Artificial Analysis&rsquo;s Intelligence Index, the 27b-parameter Qwen3.8-27B scored 52 : outscoring GLM-5.2 (51), a 753b-parameter frontier model roughly 28 times its size, & landing within 15% of the absolute frontier while running locally on a laptop. See Tomasz Tunguz, Birds Don&rsquo;t Fly Like Planes. Neither Does AI. , October 2026, & Local Coding Models , 2026. \n\n Tomasz Tunguz, Aftermarket Harnesses , July 28, 2026, & The Harness Margin Opportunity , September 17, 2026, citing Endor Labs&rsquo; Agent Security League benchmark & UC Berkeley&rsquo;s HarnessTax study showing the harness cuts the cost of the same resolved task by 71% with no loss of accuracy.",
+      "fetched_at": "2026-11-04T23:40:03Z"
     },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/11/ireland-fact-of-the-day-8.html",
