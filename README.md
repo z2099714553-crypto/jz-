@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-04 06:23 UTC*
+*更新于 2026-11-04 17:15 UTC*
 
-**[Trade and the end of antiquity, or did Islam serve to deglobalize the world?](https://marginalrevolution.com/marginalrevolution/2026/11/trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world)**  
+**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-578)**  
 `Tyler Cowen` · 刚刚  
 
+**[Richard Hanania on Conrad's Nostromo, Latin American Crime, and Populism](https://cowenconvos.libsyn.com/richard-hanania-on-conrads-nostromo-latin-american-crime-and-populism)**  
+`Tyler Cowen` · 5 小时前  
+
+**[AI on the Ballot](https://stratechery.com/2026/ai-on-the-ballot/)**  
+`Ben Thompson` · 6 小时前  
+
+**[Martin Casado on Frontier Model Economics, AI's Slowdown, and the Cursor Deal - [Invest Like the Best, EP.498]](https://colossus.com/episode/the-productive-investor/)**  
+`Patrick O'Shaughnessy` · 8 小时前  
+
+**[The election](https://marginalrevolution.com/marginalrevolution/2026/11/the-election.html?utm_source=rss&utm_medium=rss&utm_campaign=the-election)**  
+`Tyler Cowen` · 9 小时前  
+
+**[Trade and the end of antiquity, or did Islam serve to deglobalize the world?](https://marginalrevolution.com/marginalrevolution/2026/11/trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world)**  
+`Tyler Cowen` · 11 小时前  
+
 **[The frontier labs launch election war rooms](https://www.platformer.news/election-war-room-midterms-deepfakes/)**  
-`Casey Newton` · 4 小时前  
+`Casey Newton` · 15 小时前  
 
 **[Ireland fact of the day](https://marginalrevolution.com/marginalrevolution/2026/11/ireland-fact-of-the-day-8.html?utm_source=rss&utm_medium=rss&utm_campaign=ireland-fact-of-the-day-8)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 21 小时前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-593.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-593)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Lenny’s Newsletter holiday gift guide 2026](https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057)**  
-`Lenny Rachitsky` · 15 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[A portrait of eight billion people](https://www.generalist.com/p/a-portrait-of-eight-billion-people)**  
-`Mario Gabriele` · 17 小时前  
+`Mario Gabriele` · 1 天前  
 
 **[Thoughts on Owning a Self-Driving Tesla](https://marginalrevolution.com/marginalrevolution/2026/11/thoughts-on-owning-a-self-driving-tesla.html?utm_source=rss&utm_medium=rss&utm_campaign=thoughts-on-owning-a-self-driving-tesla)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Apple Earnings, Memory Problems, The Hardware Company Regression](https://stratechery.com/2026/apple-earnings-memory-problems-the-hardware-company-regression/)**  
-`Ben Thompson` · 19 小时前  
+`Ben Thompson` · 1 天前  
 
 **[The economics of tips](https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-tips.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-tips)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Are economists declining in status?](https://marginalrevolution.com/marginalrevolution/2026/11/are-economists-declining-in-status.html?utm_source=rss&utm_medium=rss&utm_campaign=are-economists-declining-in-status)**  
 `Tyler Cowen` · 1 天前  
-
-**[The Financial Engineering Essential for AI in 2027](https://tomtunguz.com/the-financial-engineering-essential-for-ai-in-2027/)**  
-`Tomasz Tunguz` · 1 天前  
-
-**[*Fjord* and *Fatherland*](https://marginalrevolution.com/marginalrevolution/2026/11/fjord-and-fatherland.html?utm_source=rss&utm_medium=rss&utm_campaign=fjord-and-fatherland)**  
-`Tyler Cowen` · 1 天前  
-
-**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-584.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-584)**  
-`Tyler Cowen` · 1 天前  
-
-**[🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day](https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet)**  
-`Lenny Rachitsky` · 1 天前  
-
-**[How Figma’s PMs actually use AI every day \| Ezra Mechaber (PM, Figma)](https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every)**  
-`Lenny Rachitsky` · 1 天前  
 
 <!-- POSTS:END -->
