@@ -112,28 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-05 06:47 UTC*
+*更新于 2026-11-05 17:25 UTC*
+
+**[Pollution as Growth Killer](https://marginalrevolution.com/marginalrevolution/2026/11/pollution-as-growth-killer.html?utm_source=rss&utm_medium=rss&utm_campaign=pollution-as-growth-killer)**  
+`Tyler Cowen` · 5 小时前  
+
+**[An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI](https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/)**  
+`Ben Thompson` · 6 小时前  
+
+**[Social media and political radicalization](https://marginalrevolution.com/marginalrevolution/2026/11/social-media-and-political-radicalization.html?utm_source=rss&utm_medium=rss&utm_campaign=social-media-and-political-radicalization)**  
+`Tyler Cowen` · 8 小时前  
+
+**[20VC: OpenAI Cuts Valuation to $1.25TRN \| Public Market Meltdown: GOOG Loses $500BN in 12 Hours \| DoorDash Buys Instacart for $17BN \| Kalshi Raises $1BN and Cognition Eyes $80BN Valuation](https://thetwentyminutevc.libsyn.com/20vc-openai-cuts-valuation-to-125trn-public-market-meltdown-goog-loses-500bn-in-12-hours-doordash-buys-instacart-for-17bn-kalshi-raises-1bn-and-cognition-eyes-80bn-valuation)**  
+`Harry Stebbings` · 10 小时前  
 
 **[My very good Conversation with Richard Hanania](https://marginalrevolution.com/marginalrevolution/2026/11/my-very-good-conversation-with-richard-hanania.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-good-conversation-with-richard-hanania)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 11 小时前  
 
 **[What Drives Censorship on College Campuses?](https://marginalrevolution.com/marginalrevolution/2026/11/what-drives-censorship-on-college-campuses.html?utm_source=rss&utm_medium=rss&utm_campaign=what-drives-censorship-on-college-campuses)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 21 小时前  
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-578)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Richard Hanania on Conrad's Nostromo, Latin American Crime, and Populism](https://cowenconvos.libsyn.com/richard-hanania-on-conrads-nostromo-latin-american-crime-and-populism)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[AI on the Ballot](https://stratechery.com/2026/ai-on-the-ballot/)**  
-`Ben Thompson` · 19 小时前  
+`Ben Thompson` · 1 天前  
 
 **[Martin Casado on Frontier Model Economics, AI's Slowdown, and the Cursor Deal - [Invest Like the Best, EP.498]](https://colossus.com/episode/the-productive-investor/)**  
-`Patrick O'Shaughnessy` · 21 小时前  
+`Patrick O'Shaughnessy` · 1 天前  
 
 **[The election](https://marginalrevolution.com/marginalrevolution/2026/11/the-election.html?utm_source=rss&utm_medium=rss&utm_campaign=the-election)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Trade and the end of antiquity, or did Islam serve to deglobalize the world?](https://marginalrevolution.com/marginalrevolution/2026/11/trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world)**  
 `Tyler Cowen` · 1 天前  
@@ -145,18 +157,6 @@ open docs/index.html
 `Tomasz Tunguz` · 1 天前  
 
 **[Ireland fact of the day](https://marginalrevolution.com/marginalrevolution/2026/11/ireland-fact-of-the-day-8.html?utm_source=rss&utm_medium=rss&utm_campaign=ireland-fact-of-the-day-8)**  
-`Tyler Cowen` · 1 天前  
-
-**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-593.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-593)**  
-`Tyler Cowen` · 1 天前  
-
-**[Lenny’s Newsletter holiday gift guide 2026](https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057)**  
-`Lenny Rachitsky` · 1 天前  
-
-**[A portrait of eight billion people](https://www.generalist.com/p/a-portrait-of-eight-billion-people)**  
-`Mario Gabriele` · 1 天前  
-
-**[Thoughts on Owning a Self-Driving Tesla](https://marginalrevolution.com/marginalrevolution/2026/11/thoughts-on-owning-a-self-driving-tesla.html?utm_source=rss&utm_medium=rss&utm_campaign=thoughts-on-owning-a-self-driving-tesla)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
