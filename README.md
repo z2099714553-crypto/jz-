@@ -112,25 +112,34 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-05 17:25 UTC*
+*更新于 2026-11-05 23:38 UTC*
+
+**[The benchmark where AIs have to lie to win](https://www.dwarkesh.com/p/clocktower)**  
+`Dwarkesh Patel` · 2 小时前  
+
+**[Love at first photo?](https://marginalrevolution.com/marginalrevolution/2026/11/love-at-first-photo.html?utm_source=rss&utm_medium=rss&utm_campaign=love-at-first-photo)**  
+`Tyler Cowen` · 3 小时前  
+
+**[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/thursday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-577)**  
+`Tyler Cowen` · 6 小时前  
 
 **[Pollution as Growth Killer](https://marginalrevolution.com/marginalrevolution/2026/11/pollution-as-growth-killer.html?utm_source=rss&utm_medium=rss&utm_campaign=pollution-as-growth-killer)**  
-`Tyler Cowen` · 5 小时前  
-
-**[An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI](https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/)**  
-`Ben Thompson` · 6 小时前  
-
-**[Social media and political radicalization](https://marginalrevolution.com/marginalrevolution/2026/11/social-media-and-political-radicalization.html?utm_source=rss&utm_medium=rss&utm_campaign=social-media-and-political-radicalization)**  
-`Tyler Cowen` · 8 小时前  
-
-**[20VC: OpenAI Cuts Valuation to $1.25TRN \| Public Market Meltdown: GOOG Loses $500BN in 12 Hours \| DoorDash Buys Instacart for $17BN \| Kalshi Raises $1BN and Cognition Eyes $80BN Valuation](https://thetwentyminutevc.libsyn.com/20vc-openai-cuts-valuation-to-125trn-public-market-meltdown-goog-loses-500bn-in-12-hours-doordash-buys-instacart-for-17bn-kalshi-raises-1bn-and-cognition-eyes-80bn-valuation)**  
-`Harry Stebbings` · 10 小时前  
-
-**[My very good Conversation with Richard Hanania](https://marginalrevolution.com/marginalrevolution/2026/11/my-very-good-conversation-with-richard-hanania.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-good-conversation-with-richard-hanania)**  
 `Tyler Cowen` · 11 小时前  
 
+**[An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI](https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/)**  
+`Ben Thompson` · 12 小时前  
+
+**[Social media and political radicalization](https://marginalrevolution.com/marginalrevolution/2026/11/social-media-and-political-radicalization.html?utm_source=rss&utm_medium=rss&utm_campaign=social-media-and-political-radicalization)**  
+`Tyler Cowen` · 14 小时前  
+
+**[20VC: OpenAI Cuts Valuation to $1.25TRN \| Public Market Meltdown: GOOG Loses $500BN in 12 Hours \| DoorDash Buys Instacart for $17BN \| Kalshi Raises $1BN and Cognition Eyes $80BN Valuation](https://thetwentyminutevc.libsyn.com/20vc-openai-cuts-valuation-to-125trn-public-market-meltdown-goog-loses-500bn-in-12-hours-doordash-buys-instacart-for-17bn-kalshi-raises-1bn-and-cognition-eyes-80bn-valuation)**  
+`Harry Stebbings` · 16 小时前  
+
+**[My very good Conversation with Richard Hanania](https://marginalrevolution.com/marginalrevolution/2026/11/my-very-good-conversation-with-richard-hanania.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-good-conversation-with-richard-hanania)**  
+`Tyler Cowen` · 17 小时前  
+
 **[What Drives Censorship on College Campuses?](https://marginalrevolution.com/marginalrevolution/2026/11/what-drives-censorship-on-college-campuses.html?utm_source=rss&utm_medium=rss&utm_campaign=what-drives-censorship-on-college-campuses)**  
-`Tyler Cowen` · 21 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-578)**  
 `Tyler Cowen` · 1 天前  
@@ -148,15 +157,6 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[Trade and the end of antiquity, or did Islam serve to deglobalize the world?](https://marginalrevolution.com/marginalrevolution/2026/11/trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world)**  
-`Tyler Cowen` · 1 天前  
-
-**[The frontier labs launch election war rooms](https://www.platformer.news/election-war-room-midterms-deepfakes/)**  
-`Casey Newton` · 1 天前  
-
-**[Watts in Store for 2027 : The AI Ceiling](https://tomtunguz.com/watts-in-store-for-2027-inference/)**  
-`Tomasz Tunguz` · 1 天前  
-
-**[Ireland fact of the day](https://marginalrevolution.com/marginalrevolution/2026/11/ireland-fact-of-the-day-8.html?utm_source=rss&utm_medium=rss&utm_campaign=ireland-fact-of-the-day-8)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
