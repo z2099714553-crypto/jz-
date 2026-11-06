@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-05 23:38 UTC*
+*更新于 2026-11-06 06:48 UTC*
+
+**[The Global Office](https://marginalrevolution.com/marginalrevolution/2026/11/the-global-office.html?utm_source=rss&utm_medium=rss&utm_campaign=the-global-office)**  
+`Tyler Cowen` · 刚刚  
+
+**[Natasha Cowen guest posts on Caffrey](https://marginalrevolution.com/marginalrevolution/2026/11/natasha-cowen-guest-posts-on-caffrey.html?utm_source=rss&utm_medium=rss&utm_campaign=natasha-cowen-guest-posts-on-caffrey)**  
+`Tyler Cowen` · 刚刚  
+
+**[185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险](https://podcast.latepost.com/185)**  
+`晚点团队` · 5 小时前  
+
+**[186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么](https://podcast.latepost.com/186)**  
+`晚点团队` · 5 小时前  
+
+**[The AI backlash needs a plan](https://www.platformer.news/thursday-newsletter-7/)**  
+`Casey Newton` · 5 小时前  
+
+**[科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html)**  
+`阮一峰` · 7 小时前  
 
 **[The benchmark where AIs have to lie to win](https://www.dwarkesh.com/p/clocktower)**  
-`Dwarkesh Patel` · 2 小时前  
+`Dwarkesh Patel` · 9 小时前  
 
 **[Love at first photo?](https://marginalrevolution.com/marginalrevolution/2026/11/love-at-first-photo.html?utm_source=rss&utm_medium=rss&utm_campaign=love-at-first-photo)**  
-`Tyler Cowen` · 3 小时前  
+`Tyler Cowen` · 10 小时前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/thursday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-577)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 13 小时前  
 
 **[Pollution as Growth Killer](https://marginalrevolution.com/marginalrevolution/2026/11/pollution-as-growth-killer.html?utm_source=rss&utm_medium=rss&utm_campaign=pollution-as-growth-killer)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI](https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/)**  
-`Ben Thompson` · 12 小时前  
+`Ben Thompson` · 19 小时前  
 
 **[Social media and political radicalization](https://marginalrevolution.com/marginalrevolution/2026/11/social-media-and-political-radicalization.html?utm_source=rss&utm_medium=rss&utm_campaign=social-media-and-political-radicalization)**  
-`Tyler Cowen` · 14 小时前  
+`Tyler Cowen` · 21 小时前  
 
 **[20VC: OpenAI Cuts Valuation to $1.25TRN \| Public Market Meltdown: GOOG Loses $500BN in 12 Hours \| DoorDash Buys Instacart for $17BN \| Kalshi Raises $1BN and Cognition Eyes $80BN Valuation](https://thetwentyminutevc.libsyn.com/20vc-openai-cuts-valuation-to-125trn-public-market-meltdown-goog-loses-500bn-in-12-hours-doordash-buys-instacart-for-17bn-kalshi-raises-1bn-and-cognition-eyes-80bn-valuation)**  
-`Harry Stebbings` · 16 小时前  
+`Harry Stebbings` · 23 小时前  
 
 **[My very good Conversation with Richard Hanania](https://marginalrevolution.com/marginalrevolution/2026/11/my-very-good-conversation-with-richard-hanania.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-good-conversation-with-richard-hanania)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[What Drives Censorship on College Campuses?](https://marginalrevolution.com/marginalrevolution/2026/11/what-drives-censorship-on-college-campuses.html?utm_source=rss&utm_medium=rss&utm_campaign=what-drives-censorship-on-college-campuses)**  
-`Tyler Cowen` · 1 天前  
-
-**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-578)**  
-`Tyler Cowen` · 1 天前  
-
-**[Richard Hanania on Conrad's Nostromo, Latin American Crime, and Populism](https://cowenconvos.libsyn.com/richard-hanania-on-conrads-nostromo-latin-american-crime-and-populism)**  
-`Tyler Cowen` · 1 天前  
-
-**[AI on the Ballot](https://stratechery.com/2026/ai-on-the-ballot/)**  
-`Ben Thompson` · 1 天前  
-
-**[Martin Casado on Frontier Model Economics, AI's Slowdown, and the Cursor Deal - [Invest Like the Best, EP.498]](https://colossus.com/episode/the-productive-investor/)**  
-`Patrick O'Shaughnessy` · 1 天前  
-
-**[The election](https://marginalrevolution.com/marginalrevolution/2026/11/the-election.html?utm_source=rss&utm_medium=rss&utm_campaign=the-election)**  
-`Tyler Cowen` · 1 天前  
-
-**[Trade and the end of antiquity, or did Islam serve to deglobalize the world?](https://marginalrevolution.com/marginalrevolution/2026/11/trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world.html?utm_source=rss&utm_medium=rss&utm_campaign=trade-and-the-end-of-antiquity-or-did-islam-serve-to-deglobalize-the-world)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
