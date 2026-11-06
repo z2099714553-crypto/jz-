@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-06 16:46 UTC*
+*更新于 2026-11-06 23:09 UTC*
+
+**[2026.45: Falling Leaves (and Stocks)](https://stratechery.com/2026/falling-leaves-and-stocks/)**  
+`Ben Thompson` · 4 小时前  
+
+**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-598.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-598)**  
+`Tyler Cowen` · 5 小时前  
+
+**[The Insatiable Demand for Alpha](https://www.netinterest.co/p/the-insatiable-demand-for-alpha)**  
+`Marc Rubinstein` · 5 小时前  
+
+**[Untethered AI agents in Delaware?](https://marginalrevolution.com/marginalrevolution/2026/11/untethered-ai-agents-in-delaware.html?utm_source=rss&utm_medium=rss&utm_campaign=untethered-ai-agents-in-delaware)**  
+`Tyler Cowen` · 6 小时前  
 
 **[Weekly Dose of Optimism #218](https://www.notboring.co/p/weekly-dose-of-optimism-218)**  
-`Packy McCormick` · 2 小时前  
+`Packy McCormick` · 9 小时前  
 
 **[What They Took From You](https://marginalrevolution.com/marginalrevolution/2026/11/what-they-took-from-you.html?utm_source=rss&utm_medium=rss&utm_campaign=what-they-took-from-you)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 10 小时前  
 
 **[Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI](https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/)**  
-`Ben Thompson` · 5 小时前  
+`Ben Thompson` · 12 小时前  
 
 **[Ramtin Naimi - The State of Venture - [Invest Like the Best, EP.499]](https://colossus.com/episode/trillion-dollar-goalposts/)**  
-`Patrick O'Shaughnessy` · 7 小时前  
+`Patrick O'Shaughnessy` · 14 小时前  
 
 **[The Global Office](https://marginalrevolution.com/marginalrevolution/2026/11/the-global-office.html?utm_source=rss&utm_medium=rss&utm_campaign=the-global-office)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[Natasha Cowen guest posts on Caffrey](https://marginalrevolution.com/marginalrevolution/2026/11/natasha-cowen-guest-posts-on-caffrey.html?utm_source=rss&utm_medium=rss&utm_campaign=natasha-cowen-guest-posts-on-caffrey)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险](https://podcast.latepost.com/185)**  
-`晚点团队` · 15 小时前  
+`晚点团队` · 21 小时前  
 
 **[186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么](https://podcast.latepost.com/186)**  
-`晚点团队` · 15 小时前  
+`晚点团队` · 21 小时前  
 
 **[The AI backlash needs a plan](https://www.platformer.news/thursday-newsletter-7/)**  
-`Casey Newton` · 15 小时前  
+`Casey Newton` · 22 小时前  
+
+**[A $90 Key into Your Company's Secrets](https://tomtunguz.com/a-90-dollar-key-into-your-companys-secrets/)**  
+`Tomasz Tunguz` · 23 小时前  
 
 **[科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html)**  
-`阮一峰` · 17 小时前  
-
-**[The benchmark where AIs have to lie to win](https://www.dwarkesh.com/p/clocktower)**  
-`Dwarkesh Patel` · 19 小时前  
-
-**[Love at first photo?](https://marginalrevolution.com/marginalrevolution/2026/11/love-at-first-photo.html?utm_source=rss&utm_medium=rss&utm_campaign=love-at-first-photo)**  
-`Tyler Cowen` · 20 小时前  
-
-**[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/thursday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-577)**  
-`Tyler Cowen` · 23 小时前  
-
-**[Pollution as Growth Killer](https://marginalrevolution.com/marginalrevolution/2026/11/pollution-as-growth-killer.html?utm_source=rss&utm_medium=rss&utm_campaign=pollution-as-growth-killer)**  
-`Tyler Cowen` · 1 天前  
-
-**[An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI](https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/)**  
-`Ben Thompson` · 1 天前  
+`阮一峰` · 23 小时前  
 
 <!-- POSTS:END -->
