@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-06 06:48 UTC*
+*更新于 2026-11-06 16:46 UTC*
+
+**[Weekly Dose of Optimism #218](https://www.notboring.co/p/weekly-dose-of-optimism-218)**  
+`Packy McCormick` · 2 小时前  
+
+**[What They Took From You](https://marginalrevolution.com/marginalrevolution/2026/11/what-they-took-from-you.html?utm_source=rss&utm_medium=rss&utm_campaign=what-they-took-from-you)**  
+`Tyler Cowen` · 4 小时前  
+
+**[Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI](https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/)**  
+`Ben Thompson` · 5 小时前  
+
+**[Ramtin Naimi - The State of Venture - [Invest Like the Best, EP.499]](https://colossus.com/episode/trillion-dollar-goalposts/)**  
+`Patrick O'Shaughnessy` · 7 小时前  
 
 **[The Global Office](https://marginalrevolution.com/marginalrevolution/2026/11/the-global-office.html?utm_source=rss&utm_medium=rss&utm_campaign=the-global-office)**  
-`Tyler Cowen` · 刚刚  
-
-**[Natasha Cowen guest posts on Caffrey](https://marginalrevolution.com/marginalrevolution/2026/11/natasha-cowen-guest-posts-on-caffrey.html?utm_source=rss&utm_medium=rss&utm_campaign=natasha-cowen-guest-posts-on-caffrey)**  
-`Tyler Cowen` · 刚刚  
-
-**[185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险](https://podcast.latepost.com/185)**  
-`晚点团队` · 5 小时前  
-
-**[186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么](https://podcast.latepost.com/186)**  
-`晚点团队` · 5 小时前  
-
-**[The AI backlash needs a plan](https://www.platformer.news/thursday-newsletter-7/)**  
-`Casey Newton` · 5 小时前  
-
-**[科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html)**  
-`阮一峰` · 7 小时前  
-
-**[The benchmark where AIs have to lie to win](https://www.dwarkesh.com/p/clocktower)**  
-`Dwarkesh Patel` · 9 小时前  
-
-**[Love at first photo?](https://marginalrevolution.com/marginalrevolution/2026/11/love-at-first-photo.html?utm_source=rss&utm_medium=rss&utm_campaign=love-at-first-photo)**  
 `Tyler Cowen` · 10 小时前  
 
+**[Natasha Cowen guest posts on Caffrey](https://marginalrevolution.com/marginalrevolution/2026/11/natasha-cowen-guest-posts-on-caffrey.html?utm_source=rss&utm_medium=rss&utm_campaign=natasha-cowen-guest-posts-on-caffrey)**  
+`Tyler Cowen` · 10 小时前  
+
+**[185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险](https://podcast.latepost.com/185)**  
+`晚点团队` · 15 小时前  
+
+**[186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么](https://podcast.latepost.com/186)**  
+`晚点团队` · 15 小时前  
+
+**[The AI backlash needs a plan](https://www.platformer.news/thursday-newsletter-7/)**  
+`Casey Newton` · 15 小时前  
+
+**[科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html)**  
+`阮一峰` · 17 小时前  
+
+**[The benchmark where AIs have to lie to win](https://www.dwarkesh.com/p/clocktower)**  
+`Dwarkesh Patel` · 19 小时前  
+
+**[Love at first photo?](https://marginalrevolution.com/marginalrevolution/2026/11/love-at-first-photo.html?utm_source=rss&utm_medium=rss&utm_campaign=love-at-first-photo)**  
+`Tyler Cowen` · 20 小时前  
+
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/thursday-assorted-links-577.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-577)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[Pollution as Growth Killer](https://marginalrevolution.com/marginalrevolution/2026/11/pollution-as-growth-killer.html?utm_source=rss&utm_medium=rss&utm_campaign=pollution-as-growth-killer)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI](https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/)**  
-`Ben Thompson` · 19 小时前  
-
-**[Social media and political radicalization](https://marginalrevolution.com/marginalrevolution/2026/11/social-media-and-political-radicalization.html?utm_source=rss&utm_medium=rss&utm_campaign=social-media-and-political-radicalization)**  
-`Tyler Cowen` · 21 小时前  
-
-**[20VC: OpenAI Cuts Valuation to $1.25TRN \| Public Market Meltdown: GOOG Loses $500BN in 12 Hours \| DoorDash Buys Instacart for $17BN \| Kalshi Raises $1BN and Cognition Eyes $80BN Valuation](https://thetwentyminutevc.libsyn.com/20vc-openai-cuts-valuation-to-125trn-public-market-meltdown-goog-loses-500bn-in-12-hours-doordash-buys-instacart-for-17bn-kalshi-raises-1bn-and-cognition-eyes-80bn-valuation)**  
-`Harry Stebbings` · 23 小时前  
-
-**[My very good Conversation with Richard Hanania](https://marginalrevolution.com/marginalrevolution/2026/11/my-very-good-conversation-with-richard-hanania.html?utm_source=rss&utm_medium=rss&utm_campaign=my-very-good-conversation-with-richard-hanania)**  
-`Tyler Cowen` · 1 天前  
-
-**[What Drives Censorship on College Campuses?](https://marginalrevolution.com/marginalrevolution/2026/11/what-drives-censorship-on-college-campuses.html?utm_source=rss&utm_medium=rss&utm_campaign=what-drives-censorship-on-college-campuses)**  
-`Tyler Cowen` · 1 天前  
+`Ben Thompson` · 1 天前  
 
 <!-- POSTS:END -->
