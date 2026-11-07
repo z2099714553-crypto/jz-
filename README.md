@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-07 05:59 UTC*
+*更新于 2026-11-07 13:02 UTC*
+
+**[What are the Best MR Posts?](https://marginalrevolution.com/marginalrevolution/2026/11/ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power.html?utm_source=rss&utm_medium=rss&utm_campaign=ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power)**  
+`Tyler Cowen` · 刚刚  
+
+**[The Anthropic succession plan?](https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-succession-plan.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anthropic-succession-plan)**  
+`Tyler Cowen` · 4 小时前  
+
+**[20VC: From $8BN to $19BN: Inside WashU's Endowment Fund \| SpaceX Made Up 20% of Our AUM \| Why Europe and China Has So Much Opportunity \| The Reckoning That is Coming for AI Companies with Scott Wilson](https://thetwentyminutevc.libsyn.com/20vc-from-8bn-to-19bn-inside-washus-endowment-fund-spacex-made-up-20-of-our-aum-why-europe-and-china-has-so-much-opportunity-the-reckoning-that-is-coming-for-ai-companies-with-scott-wilson)**  
+`Harry Stebbings` · 5 小时前  
+
+**[Was Mossadegh a liberal, democratizing force?](https://marginalrevolution.com/marginalrevolution/2026/11/was-mossadegh-a-liberal-democratizing-force.html?utm_source=rss&utm_medium=rss&utm_campaign=was-mossadegh-a-liberal-democratizing-force)**  
+`Tyler Cowen` · 7 小时前  
 
 **[2026.45: Falling Leaves (and Stocks)](https://stratechery.com/2026/falling-leaves-and-stocks/)**  
-`Ben Thompson` · 11 小时前  
-
-**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-598.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-598)**  
-`Tyler Cowen` · 11 小时前  
-
-**[The Insatiable Demand for Alpha](https://www.netinterest.co/p/the-insatiable-demand-for-alpha)**  
-`Marc Rubinstein` · 11 小时前  
-
-**[Untethered AI agents in Delaware?](https://marginalrevolution.com/marginalrevolution/2026/11/untethered-ai-agents-in-delaware.html?utm_source=rss&utm_medium=rss&utm_campaign=untethered-ai-agents-in-delaware)**  
-`Tyler Cowen` · 12 小时前  
-
-**[Weekly Dose of Optimism #218](https://www.notboring.co/p/weekly-dose-of-optimism-218)**  
-`Packy McCormick` · 16 小时前  
-
-**[What They Took From You](https://marginalrevolution.com/marginalrevolution/2026/11/what-they-took-from-you.html?utm_source=rss&utm_medium=rss&utm_campaign=what-they-took-from-you)**  
-`Tyler Cowen` · 17 小时前  
-
-**[Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI](https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/)**  
 `Ben Thompson` · 18 小时前  
 
+**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-598.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-598)**  
+`Tyler Cowen` · 18 小时前  
+
+**[The Insatiable Demand for Alpha](https://www.netinterest.co/p/the-insatiable-demand-for-alpha)**  
+`Marc Rubinstein` · 19 小时前  
+
+**[Untethered AI agents in Delaware?](https://marginalrevolution.com/marginalrevolution/2026/11/untethered-ai-agents-in-delaware.html?utm_source=rss&utm_medium=rss&utm_campaign=untethered-ai-agents-in-delaware)**  
+`Tyler Cowen` · 20 小时前  
+
+**[Weekly Dose of Optimism #218](https://www.notboring.co/p/weekly-dose-of-optimism-218)**  
+`Packy McCormick` · 23 小时前  
+
+**[What They Took From You](https://marginalrevolution.com/marginalrevolution/2026/11/what-they-took-from-you.html?utm_source=rss&utm_medium=rss&utm_campaign=what-they-took-from-you)**  
+`Tyler Cowen` · 1 天前  
+
+**[Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI](https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/)**  
+`Ben Thompson` · 1 天前  
+
 **[Ramtin Naimi - The State of Venture - [Invest Like the Best, EP.499]](https://colossus.com/episode/trillion-dollar-goalposts/)**  
-`Patrick O'Shaughnessy` · 20 小时前  
+`Patrick O'Shaughnessy` · 1 天前  
 
 **[The Global Office](https://marginalrevolution.com/marginalrevolution/2026/11/the-global-office.html?utm_source=rss&utm_medium=rss&utm_campaign=the-global-office)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Natasha Cowen guest posts on Caffrey](https://marginalrevolution.com/marginalrevolution/2026/11/natasha-cowen-guest-posts-on-caffrey.html?utm_source=rss&utm_medium=rss&utm_campaign=natasha-cowen-guest-posts-on-caffrey)**  
 `Tyler Cowen` · 1 天前  
 
 **[185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险](https://podcast.latepost.com/185)**  
 `晚点团队` · 1 天前  
-
-**[186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么](https://podcast.latepost.com/186)**  
-`晚点团队` · 1 天前  
-
-**[The AI backlash needs a plan](https://www.platformer.news/thursday-newsletter-7/)**  
-`Casey Newton` · 1 天前  
-
-**[A $90 Key into Your Company's Secrets](https://tomtunguz.com/a-90-dollar-key-into-your-companys-secrets/)**  
-`Tomasz Tunguz` · 1 天前  
-
-**[科技爱好者周刊（第 418 期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html)**  
-`阮一峰` · 1 天前  
 
 <!-- POSTS:END -->
