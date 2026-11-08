@@ -112,19 +112,19 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-08 17:56 UTC*
+*更新于 2026-11-08 22:06 UTC*
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-589)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 4 小时前  
 
-**[What it actually takes to build frontier models \| Tulsee Doshi (Head of Product for Gemini)](https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier)**  
-`Lenny Rachitsky` · 4 小时前  
+**[Why PMs are suddenly valuable again \| Tulsee Doshi (Head of Product, Gemini)](https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier)**  
+`Lenny Rachitsky` · 8 小时前  
 
 **[The Pope probably knows this song](https://marginalrevolution.com/marginalrevolution/2026/11/the-pope-probably-knows-this-song.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pope-probably-knows-this-song)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 14 小时前  
 
 **[What I’ve been reading](https://marginalrevolution.com/marginalrevolution/2026/11/what-ive-been-reading-298.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-298)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-585)**  
 `Tyler Cowen` · 1 天前  
@@ -142,13 +142,13 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[2026.45: Falling Leaves (and Stocks)](https://stratechery.com/2026/falling-leaves-and-stocks/)**  
-`Ben Thompson` · 1 天前  
+`Ben Thompson` · 2 天前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-598.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-598)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 **[The Insatiable Demand for Alpha](https://www.netinterest.co/p/the-insatiable-demand-for-alpha)**  
-`Marc Rubinstein` · 1 天前  
+`Marc Rubinstein` · 2 天前  
 
 **[Untethered AI agents in Delaware?](https://marginalrevolution.com/marginalrevolution/2026/11/untethered-ai-agents-in-delaware.html?utm_source=rss&utm_medium=rss&utm_campaign=untethered-ai-agents-in-delaware)**  
 `Tyler Cowen` · 2 天前  
