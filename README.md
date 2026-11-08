@@ -112,19 +112,25 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-08 10:24 UTC*
+*更新于 2026-11-08 17:56 UTC*
+
+**[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-589)**  
+`Tyler Cowen` · 刚刚  
+
+**[What it actually takes to build frontier models \| Tulsee Doshi (Head of Product for Gemini)](https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier)**  
+`Lenny Rachitsky` · 4 小时前  
 
 **[The Pope probably knows this song](https://marginalrevolution.com/marginalrevolution/2026/11/the-pope-probably-knows-this-song.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pope-probably-knows-this-song)**  
-`Tyler Cowen` · 2 小时前  
+`Tyler Cowen` · 10 小时前  
 
 **[What I’ve been reading](https://marginalrevolution.com/marginalrevolution/2026/11/what-ive-been-reading-298.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-298)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-585)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[What are the Best MR Posts?](https://marginalrevolution.com/marginalrevolution/2026/11/ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power.html?utm_source=rss&utm_medium=rss&utm_campaign=ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[The Anthropic succession plan?](https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-succession-plan.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anthropic-succession-plan)**  
 `Tyler Cowen` · 1 天前  
@@ -145,18 +151,12 @@ open docs/index.html
 `Marc Rubinstein` · 1 天前  
 
 **[Untethered AI agents in Delaware?](https://marginalrevolution.com/marginalrevolution/2026/11/untethered-ai-agents-in-delaware.html?utm_source=rss&utm_medium=rss&utm_campaign=untethered-ai-agents-in-delaware)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 **[Weekly Dose of Optimism #218](https://www.notboring.co/p/weekly-dose-of-optimism-218)**  
-`Packy McCormick` · 1 天前  
+`Packy McCormick` · 2 天前  
 
 **[What They Took From You](https://marginalrevolution.com/marginalrevolution/2026/11/what-they-took-from-you.html?utm_source=rss&utm_medium=rss&utm_campaign=what-they-took-from-you)**  
-`Tyler Cowen` · 1 天前  
-
-**[Sharp Tech on Video: The U.S. Votes on Data Centers, Implications for Big Tech, Google’s Response to AI](https://stratechery.com/2026/sharp-tech-on-video-the-u-s-votes-on-data-centers-implications-for-big-tech-googles-response-to-ai/)**  
-`Ben Thompson` · 1 天前  
-
-**[Ramtin Naimi - The State of Venture - [Invest Like the Best, EP.499]](https://colossus.com/episode/trillion-dollar-goalposts/)**  
-`Patrick O'Shaughnessy` · 2 天前  
+`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->

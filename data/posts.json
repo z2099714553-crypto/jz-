@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-11-08T10:24:12Z",
-  "count": 588,
+  "generated_at": "2026-11-08T17:56:17Z",
+  "count": 590,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-589.html",
+      "title": "Sunday assorted links",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-589",
+      "published": "2026-11-08T17:06:45Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "1. Among the Wagner fanatics .\n\n 2. Does AI instead commodify jobs? \n\n 3. The digital world is making Islam more diverse (The Economist).\n\n 4. An affair with an economist exposed the calculus of modern dating. (New Yorker)\n\n 5. How Much Economic Value Do AI Systems Produce per Unit of Energy? \n\n 6. John Gray will be writing a column for Unherd .\n\n 7. How France took over basketball (New Yorker).\n\n 8. If existing AI capabilities are widely adopted, they could double research output in some fields. \n\n 9. Canvas is why students prefer AI over you. \n\n The post Sunday assorted links appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-08T17:56:01Z"
+    },
+    {
+      "id": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
+      "title": "What it actually takes to build frontier models | Tulsee Doshi (Head of Product for Gemini)",
+      "link": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
+      "published": "2026-11-08T13:31:32Z",
+      "source": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "lang": "en",
+      "tags": [
+        "产品",
+        "增长",
+        "访谈"
+      ],
+      "type": "interview",
+      "raw_text": "Tulsee Doshi is head of product for Google s frontier AI models, including Gemini and other multimodal models, such as Nano Banana, Genie, Veo, and Lyria.\n Listen on YouTube , Spotify , or Apple Podcasts \n\n We discuss: Why model development is not just engineering, but also like Snape s potions class\n\n Google s full-stack frontier AI strategy\n\n What PMs do inside a frontier AI lab\n\n Tulsee s 60-20-20 framework for balancing what works now and what s almost working\n\n How to write your first eval\n\n The rising value of great PMs\n\n Brought to you by: \n\n WorkOS Make your app enterprise-ready, with SSO, SCIM, RBAC, and more\n DX Engineering intelligence for the AI era\n\n Where to find Tulsee Doshi: X: https://x.com/tulseedoshi \n LinkedIn: linkedin.com/in/tulsee-doshi \n \n Referenced: Nano Banana: https://aistudio.google.com/models/nano-banana \n Lyria: https://deepmind.google/models/lyria \n Gemma: https://deepmind.google/models/gemma \n Gemini Audio: https://deepmind.google/models/gemini-audio \n Severus Snape: https://en.wikipedia.org/wiki/Severus_Snape \n Emmanuel Ameisen on LinkedIn: https://www.linkedin.com/in/ameisen \n Gemini 4 Argon: our next era of frontier intelligence: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon \n Inside OpenAI | Logan Kilpatrick (head of developer relations): https://www.lennysnewsletter.com/p/inside-openai-logan-kilpatrick-head \n Madhavi Sewak on LinkedIn: https://www.linkedin.com/in/madhavisewak \n Wiz: https://www.wiz.io \n Scan for Good: Using AI to discover and fix high-priority exposures across public services and critical infrastructure: https://www.wiz.io/blog/scan-for-good-critical-ai-exposures \n All-In: Trump s Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions: https://www.youtube.com/v/ZJKs08oU1zg \n Google AI Studio: https://aistudio.google.com/onboarding \n Dots: https://chatgpt.com/features/dots \n Genie: https://deepmind.google/models/genie \n Veo: https://aistudio.google.com/models/veo \n Omni: https://gemini.google/overview/video-generation \n Flow: https://flow.google.com \n NotebookLM: https://notebook.google.com \n Antigravity: https://antigravity.google/ \n Eli Collins on LinkedIn: linkedin.com/in/elidcollins \n Developing the Monk Skin Tone Scale: https://skintone.google/the-scale \n Michael Bernstein on LinkedIn: https://www.linkedin.com/in/mibernstein \n Expert Crowdsourcing with Flash Teams: https://hci.stanford.edu/publications/2014/flashteams/flashteams-uist2014.pdf \n The Hugging Face incident and the road ahead: https://openai.com/index/hugging-face-incident-and-the-road-ahead \n Head of Claude Code: What happens after coding is solved | Boris Cherny: https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens \n Grok Bot: https://x.ai/bot \n Josh Woodward on LinkedIn: linkedin.com/in/joshwoodward \n Muse: https://ai.meta.com/muse \n Instinct: https://instinct.co \n Spark: https://gemini.google/overview/agent/spark \n How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal): https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about \n OpenAI s Head of ChatGPT: We re entering a new era of AI (again) | Tibo Sottiaux: https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering \n Severance on Apple TV: https://tv.apple.com/us/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx \n Wispr Flow: https://wisprflow.ai \n TEDxConcordia: Lenny Rachitsky Losing Serendipity: https://www.youtube.com/watch?v=5p0VK_-BoJI \n Serendipity : https://www.imdb.com/title/tt0240890 \n India Festival: https://www.icaportland.org \n Rambler voice input on Gboard: https://support.google.com/gboard/answer/17468539 \n \n Recommended books: Exhalation : https://www.amazon.com/Exhalation/dp/1529014492 \n Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration : https://www.amazon.com/Creativity-Inc-Expanded-Overcoming-Inspiration/dp/0593594649 \n Throne of Glass : https://www.amazon.com/Throne-Glass-1/dp/1639730958 \n A Court of Thorns and Roses : https://www.amazon.com/Court-Thorns-Roses-Sarah-Maas/dp/1635575567 \n \n Production and marketing by https://penname.co/ . For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com .\n Lenny may be an investor in the companies discussed. \n \n My biggest takeaways from this conversation: \n\n Read more",
+      "fetched_at": "2026-11-08T17:56:02Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/11/the-pope-probably-knows-this-song.html",
       "title": "The Pope probably knows this song",
