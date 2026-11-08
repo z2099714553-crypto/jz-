@@ -112,22 +112,28 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-08 00:37 UTC*
+*更新于 2026-11-08 10:24 UTC*
+
+**[The Pope probably knows this song](https://marginalrevolution.com/marginalrevolution/2026/11/the-pope-probably-knows-this-song.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pope-probably-knows-this-song)**  
+`Tyler Cowen` · 2 小时前  
+
+**[What I’ve been reading](https://marginalrevolution.com/marginalrevolution/2026/11/what-ive-been-reading-298.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-298)**  
+`Tyler Cowen` · 4 小时前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-585)**  
-`Tyler Cowen` · 7 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[What are the Best MR Posts?](https://marginalrevolution.com/marginalrevolution/2026/11/ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power.html?utm_source=rss&utm_medium=rss&utm_campaign=ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[The Anthropic succession plan?](https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-succession-plan.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anthropic-succession-plan)**  
-`Tyler Cowen` · 15 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[20VC: From $8BN to $19BN: Inside WashU's Endowment Fund \| SpaceX Made Up 20% of Our AUM \| Why Europe and China Has So Much Opportunity \| The Reckoning That is Coming for AI Companies with Scott Wilson](https://thetwentyminutevc.libsyn.com/20vc-from-8bn-to-19bn-inside-washus-endowment-fund-spacex-made-up-20-of-our-aum-why-europe-and-china-has-so-much-opportunity-the-reckoning-that-is-coming-for-ai-companies-with-scott-wilson)**  
-`Harry Stebbings` · 17 小时前  
+`Harry Stebbings` · 1 天前  
 
 **[Was Mossadegh a liberal, democratizing force?](https://marginalrevolution.com/marginalrevolution/2026/11/was-mossadegh-a-liberal-democratizing-force.html?utm_source=rss&utm_medium=rss&utm_campaign=was-mossadegh-a-liberal-democratizing-force)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[2026.45: Falling Leaves (and Stocks)](https://stratechery.com/2026/falling-leaves-and-stocks/)**  
 `Ben Thompson` · 1 天前  
@@ -151,12 +157,6 @@ open docs/index.html
 `Ben Thompson` · 1 天前  
 
 **[Ramtin Naimi - The State of Venture - [Invest Like the Best, EP.499]](https://colossus.com/episode/trillion-dollar-goalposts/)**  
-`Patrick O'Shaughnessy` · 1 天前  
-
-**[The Global Office](https://marginalrevolution.com/marginalrevolution/2026/11/the-global-office.html?utm_source=rss&utm_medium=rss&utm_campaign=the-global-office)**  
-`Tyler Cowen` · 1 天前  
-
-**[Natasha Cowen guest posts on Caffrey](https://marginalrevolution.com/marginalrevolution/2026/11/natasha-cowen-guest-posts-on-caffrey.html?utm_source=rss&utm_medium=rss&utm_campaign=natasha-cowen-guest-posts-on-caffrey)**  
-`Tyler Cowen` · 1 天前  
+`Patrick O'Shaughnessy` · 2 天前  
 
 <!-- POSTS:END -->
