@@ -112,22 +112,22 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-07 19:26 UTC*
+*更新于 2026-11-08 00:37 UTC*
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-585)**  
-`Tyler Cowen` · 2 小时前  
-
-**[What are the Best MR Posts?](https://marginalrevolution.com/marginalrevolution/2026/11/ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power.html?utm_source=rss&utm_medium=rss&utm_campaign=ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power)**  
 `Tyler Cowen` · 7 小时前  
 
+**[What are the Best MR Posts?](https://marginalrevolution.com/marginalrevolution/2026/11/ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power.html?utm_source=rss&utm_medium=rss&utm_campaign=ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power)**  
+`Tyler Cowen` · 12 小时前  
+
 **[The Anthropic succession plan?](https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-succession-plan.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anthropic-succession-plan)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 15 小时前  
 
 **[20VC: From $8BN to $19BN: Inside WashU's Endowment Fund \| SpaceX Made Up 20% of Our AUM \| Why Europe and China Has So Much Opportunity \| The Reckoning That is Coming for AI Companies with Scott Wilson](https://thetwentyminutevc.libsyn.com/20vc-from-8bn-to-19bn-inside-washus-endowment-fund-spacex-made-up-20-of-our-aum-why-europe-and-china-has-so-much-opportunity-the-reckoning-that-is-coming-for-ai-companies-with-scott-wilson)**  
-`Harry Stebbings` · 12 小时前  
+`Harry Stebbings` · 17 小时前  
 
 **[Was Mossadegh a liberal, democratizing force?](https://marginalrevolution.com/marginalrevolution/2026/11/was-mossadegh-a-liberal-democratizing-force.html?utm_source=rss&utm_medium=rss&utm_campaign=was-mossadegh-a-liberal-democratizing-force)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[2026.45: Falling Leaves (and Stocks)](https://stratechery.com/2026/falling-leaves-and-stocks/)**  
 `Ben Thompson` · 1 天前  
