@@ -112,19 +112,22 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-08 22:06 UTC*
+*更新于 2026-11-09 06:31 UTC*
+
+**[The Paraguayan bank story](https://marginalrevolution.com/marginalrevolution/2026/11/the-paraguayan-bank-story.html?utm_source=rss&utm_medium=rss&utm_campaign=the-paraguayan-bank-story)**  
+`Tyler Cowen` · 1 小时前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-589)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 13 小时前  
 
 **[Why PMs are suddenly valuable again \| Tulsee Doshi (Head of Product, Gemini)](https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier)**  
-`Lenny Rachitsky` · 8 小时前  
+`Lenny Rachitsky` · 17 小时前  
 
 **[The Pope probably knows this song](https://marginalrevolution.com/marginalrevolution/2026/11/the-pope-probably-knows-this-song.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pope-probably-knows-this-song)**  
-`Tyler Cowen` · 14 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[What I’ve been reading](https://marginalrevolution.com/marginalrevolution/2026/11/what-ive-been-reading-298.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-298)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-585)**  
 `Tyler Cowen` · 1 天前  
@@ -139,7 +142,7 @@ open docs/index.html
 `Harry Stebbings` · 1 天前  
 
 **[Was Mossadegh a liberal, democratizing force?](https://marginalrevolution.com/marginalrevolution/2026/11/was-mossadegh-a-liberal-democratizing-force.html?utm_source=rss&utm_medium=rss&utm_campaign=was-mossadegh-a-liberal-democratizing-force)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 **[2026.45: Falling Leaves (and Stocks)](https://stratechery.com/2026/falling-leaves-and-stocks/)**  
 `Ben Thompson` · 2 天前  
@@ -155,8 +158,5 @@ open docs/index.html
 
 **[Weekly Dose of Optimism #218](https://www.notboring.co/p/weekly-dose-of-optimism-218)**  
 `Packy McCormick` · 2 天前  
-
-**[What They Took From You](https://marginalrevolution.com/marginalrevolution/2026/11/what-they-took-from-you.html?utm_source=rss&utm_medium=rss&utm_campaign=what-they-took-from-you)**  
-`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
