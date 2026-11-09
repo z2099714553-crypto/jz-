@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-09 06:31 UTC*
+*更新于 2026-11-09 19:50 UTC*
+
+**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-585)**  
+`Tyler Cowen` · 2 小时前  
+
+**[🎙️ How I AI: How this founder built a better Duolingo with Codex](https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a)**  
+`Lenny Rachitsky` · 3 小时前  
+
+**[How this founder built a better Duolingo with Codex \| William Imoh](https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo)**  
+`Lenny Rachitsky` · 6 小时前  
+
+**[End the State Veto on Power Lines](https://marginalrevolution.com/marginalrevolution/2026/11/end-the-state-veto-on-power-lines.html?utm_source=rss&utm_medium=rss&utm_campaign=end-the-state-veto-on-power-lines)**  
+`Tyler Cowen` · 7 小时前  
+
+**[The economics of honeypots](https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-honeypots.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-honeypots)**  
+`Tyler Cowen` · 8 小时前  
+
+**[Jensen Huang’s Affair, The Culper Report, Huang’s Righteousness](https://stratechery.com/2026/jensen-huangs-affair-the-culper-report-huangs-righteousness/)**  
+`Ben Thompson` · 8 小时前  
+
+**[Seb Krier, Ricardian?](https://marginalrevolution.com/marginalrevolution/2026/11/seb-krier-ricardian.html?utm_source=rss&utm_medium=rss&utm_campaign=seb-krier-ricardian)**  
+`Tyler Cowen` · 12 小时前  
+
+**[20VC: Mistral CEO on Why Energy Is Not the Bottleneck to AI \| Why OpenAI and Anthropic Will Come for Your Business \| The Future of the Inference Market \| Are Chinese Open-Source Models Truly Safe?](https://thetwentyminutevc.libsyn.com/20vc-mistral-ceo-on-why-energy-is-not-the-bottleneck-to-ai-why-openai-and-anthropic-will-come-for-your-business-the-future-of-the-inference-market-are-chinese-open-source-models-truly-safe)**  
+`Harry Stebbings` · 12 小时前  
 
 **[The Paraguayan bank story](https://marginalrevolution.com/marginalrevolution/2026/11/the-paraguayan-bank-story.html?utm_source=rss&utm_medium=rss&utm_campaign=the-paraguayan-bank-story)**  
-`Tyler Cowen` · 1 小时前  
+`Tyler Cowen` · 14 小时前  
+
+**[When Does the US Become a Net Importer of Tokens?](https://tomtunguz.com/when-does-the-us-become-a-net-importer-of-tokens/)**  
+`Tomasz Tunguz` · 19 小时前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-589)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Why PMs are suddenly valuable again \| Tulsee Doshi (Head of Product, Gemini)](https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier)**  
-`Lenny Rachitsky` · 17 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[The Pope probably knows this song](https://marginalrevolution.com/marginalrevolution/2026/11/the-pope-probably-knows-this-song.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pope-probably-knows-this-song)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[What I’ve been reading](https://marginalrevolution.com/marginalrevolution/2026/11/what-ive-been-reading-298.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-298)**  
 `Tyler Cowen` · 1 天前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-585)**  
-`Tyler Cowen` · 1 天前  
-
-**[What are the Best MR Posts?](https://marginalrevolution.com/marginalrevolution/2026/11/ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power.html?utm_source=rss&utm_medium=rss&utm_campaign=ten-outstanding-marginal-revolution-posts-reasoning-originality-and-explanatory-power)**  
-`Tyler Cowen` · 1 天前  
-
-**[The Anthropic succession plan?](https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-succession-plan.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anthropic-succession-plan)**  
-`Tyler Cowen` · 1 天前  
-
-**[20VC: From $8BN to $19BN: Inside WashU's Endowment Fund \| SpaceX Made Up 20% of Our AUM \| Why Europe and China Has So Much Opportunity \| The Reckoning That is Coming for AI Companies with Scott Wilson](https://thetwentyminutevc.libsyn.com/20vc-from-8bn-to-19bn-inside-washus-endowment-fund-spacex-made-up-20-of-our-aum-why-europe-and-china-has-so-much-opportunity-the-reckoning-that-is-coming-for-ai-companies-with-scott-wilson)**  
-`Harry Stebbings` · 1 天前  
-
-**[Was Mossadegh a liberal, democratizing force?](https://marginalrevolution.com/marginalrevolution/2026/11/was-mossadegh-a-liberal-democratizing-force.html?utm_source=rss&utm_medium=rss&utm_campaign=was-mossadegh-a-liberal-democratizing-force)**  
 `Tyler Cowen` · 2 天前  
-
-**[2026.45: Falling Leaves (and Stocks)](https://stratechery.com/2026/falling-leaves-and-stocks/)**  
-`Ben Thompson` · 2 天前  
-
-**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-598.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-598)**  
-`Tyler Cowen` · 2 天前  
-
-**[The Insatiable Demand for Alpha](https://www.netinterest.co/p/the-insatiable-demand-for-alpha)**  
-`Marc Rubinstein` · 2 天前  
-
-**[Untethered AI agents in Delaware?](https://marginalrevolution.com/marginalrevolution/2026/11/untethered-ai-agents-in-delaware.html?utm_source=rss&utm_medium=rss&utm_campaign=untethered-ai-agents-in-delaware)**  
-`Tyler Cowen` · 2 天前  
-
-**[Weekly Dose of Optimism #218](https://www.notboring.co/p/weekly-dose-of-optimism-218)**  
-`Packy McCormick` · 2 天前  
 
 <!-- POSTS:END -->
