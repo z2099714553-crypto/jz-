@@ -112,37 +112,43 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-09 19:50 UTC*
+*更新于 2026-11-10 03:35 UTC*
 
-**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-585)**  
-`Tyler Cowen` · 2 小时前  
+**[E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事](https://sv101.fireside.fm/272)**  
+`陈茜` · 4 小时前  
 
-**[🎙️ How I AI: How this founder built a better Duolingo with Codex](https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a)**  
-`Lenny Rachitsky` · 3 小时前  
-
-**[How this founder built a better Duolingo with Codex \| William Imoh](https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo)**  
+**[Claude Fable 5.2 review: fast, creative, and finally not annoying](https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative)**  
 `Lenny Rachitsky` · 6 小时前  
 
+**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-585)**  
+`Tyler Cowen` · 9 小时前  
+
+**[🎙️ How I AI: How this founder built a better Duolingo with Codex](https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a)**  
+`Lenny Rachitsky` · 11 小时前  
+
+**[How this founder built a better Duolingo with Codex \| William Imoh](https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo)**  
+`Lenny Rachitsky` · 14 小时前  
+
 **[End the State Veto on Power Lines](https://marginalrevolution.com/marginalrevolution/2026/11/end-the-state-veto-on-power-lines.html?utm_source=rss&utm_medium=rss&utm_campaign=end-the-state-veto-on-power-lines)**  
-`Tyler Cowen` · 7 小时前  
+`Tyler Cowen` · 15 小时前  
 
 **[The economics of honeypots](https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-honeypots.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-honeypots)**  
-`Tyler Cowen` · 8 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[Jensen Huang’s Affair, The Culper Report, Huang’s Righteousness](https://stratechery.com/2026/jensen-huangs-affair-the-culper-report-huangs-righteousness/)**  
-`Ben Thompson` · 8 小时前  
+`Ben Thompson` · 16 小时前  
 
 **[Seb Krier, Ricardian?](https://marginalrevolution.com/marginalrevolution/2026/11/seb-krier-ricardian.html?utm_source=rss&utm_medium=rss&utm_campaign=seb-krier-ricardian)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 20 小时前  
 
 **[20VC: Mistral CEO on Why Energy Is Not the Bottleneck to AI \| Why OpenAI and Anthropic Will Come for Your Business \| The Future of the Inference Market \| Are Chinese Open-Source Models Truly Safe?](https://thetwentyminutevc.libsyn.com/20vc-mistral-ceo-on-why-energy-is-not-the-bottleneck-to-ai-why-openai-and-anthropic-will-come-for-your-business-the-future-of-the-inference-market-are-chinese-open-source-models-truly-safe)**  
-`Harry Stebbings` · 12 小时前  
+`Harry Stebbings` · 20 小时前  
 
 **[The Paraguayan bank story](https://marginalrevolution.com/marginalrevolution/2026/11/the-paraguayan-bank-story.html?utm_source=rss&utm_medium=rss&utm_campaign=the-paraguayan-bank-story)**  
-`Tyler Cowen` · 14 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[When Does the US Become a Net Importer of Tokens?](https://tomtunguz.com/when-does-the-us-become-a-net-importer-of-tokens/)**  
-`Tomasz Tunguz` · 19 小时前  
+`Tomasz Tunguz` · 1 天前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-589)**  
 `Tyler Cowen` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[The Pope probably knows this song](https://marginalrevolution.com/marginalrevolution/2026/11/the-pope-probably-knows-this-song.html?utm_source=rss&utm_medium=rss&utm_campaign=the-pope-probably-knows-this-song)**  
 `Tyler Cowen` · 1 天前  
-
-**[What I’ve been reading](https://marginalrevolution.com/marginalrevolution/2026/11/what-ive-been-reading-298.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-298)**  
-`Tyler Cowen` · 1 天前  
-
-**[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-585)**  
-`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
