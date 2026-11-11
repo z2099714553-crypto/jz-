@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-11 06:22 UTC*
+*更新于 2026-11-11 17:08 UTC*
+
+**[What should I ask Simon Sebag Montefiore?](https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-simon-sebag-montefiore.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-simon-sebag-montefiore)**  
+`Tyler Cowen` · 3 小时前  
+
+**[Of Miracles and Moats](https://www.notboring.co/p/of-miracles-and-moats)**  
+`Packy McCormick` · 3 小时前  
+
+**[Claude Code + Obsidian: My family’s AI brain \| Scott Farrar](https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai)**  
+`Lenny Rachitsky` · 4 小时前  
+
+**[Terence Tao on Proof, Beauty, and the Future of Mathematics](https://cowenconvos.libsyn.com/terence-tao-on-proof-beauty-and-the-future-of-mathematics)**  
+`Tyler Cowen` · 5 小时前  
+
+**[Intel Earnings, AMD Earnings, Intel and AMD’s Divergence](https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence/)**  
+`Ben Thompson` · 6 小时前  
+
+**[Zach Reitano - Building Ro and Why Healthcare Should Be 50% of GDP - [Invest Like the Best, EP.500]](https://colossus.com/episode/the-patient-revolution/)**  
+`Patrick O'Shaughnessy` · 8 小时前  
+
+**[UK fact of the day](https://marginalrevolution.com/marginalrevolution/2026/11/uk-fact-of-the-day-9.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-fact-of-the-day-9)**  
+`Tyler Cowen` · 9 小时前  
 
 **[Spying makes a comeback](https://marginalrevolution.com/marginalrevolution/2026/11/spying-makes-a-comeback.html?utm_source=rss&utm_medium=rss&utm_campaign=spying-makes-a-comeback)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 11 小时前  
 
 **[Following: Jensen Huang’s affair with an alleged Chinese spy and GPU smuggler](https://www.platformer.news/following-jensen-huangs-affair-with-an-alleged-chinese-spy-and-gpu-smuggler/)**  
-`Casey Newton` · 5 小时前  
+`Casey Newton` · 16 小时前  
 
 **[Are RCTs underpowered?](https://marginalrevolution.com/marginalrevolution/2026/11/are-rcts-underpowered.html?utm_source=rss&utm_medium=rss&utm_campaign=are-rcts-underpowered)**  
-`Tyler Cowen` · 10 小时前  
-
-**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-594.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-594)**  
-`Tyler Cowen` · 13 小时前  
-
-**[State of the tech job market: late 2026](https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late)**  
-`Lenny Rachitsky` · 15 小时前  
-
-**[Checking the AI audit of Saez and Zucman’s research.](https://marginalrevolution.com/marginalrevolution/2026/11/checking-the-ai-audit-of-saez-and-zucmans-research.html?utm_source=rss&utm_medium=rss&utm_campaign=checking-the-ai-audit-of-saez-and-zucmans-research)**  
-`Tyler Cowen` · 18 小时前  
-
-**[The Jensen Huang Story Gets Worse, Washington vs. New York, Silicon Valley](https://stratechery.com/2026/the-jensen-huang-story-gets-worse-washington-vs-new-york-silicon-valley/)**  
-`Ben Thompson` · 19 小时前  
-
-**[*Godzilla: Minus Zero* (no spoilers)](https://marginalrevolution.com/marginalrevolution/2026/11/godzilla-minus-zero-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-no-spoilers)**  
 `Tyler Cowen` · 21 小时前  
 
-**[*Unbeatable: The Brutally Honest Case for Free Markets*](https://marginalrevolution.com/marginalrevolution/2026/11/unbeatable-the-brutally-honest-case-for-free-markets.html?utm_source=rss&utm_medium=rss&utm_campaign=unbeatable-the-brutally-honest-case-for-free-markets)**  
+**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-594.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-594)**  
 `Tyler Cowen` · 1 天前  
 
-**[We Are All Junior Talent Now](https://tomtunguz.com/we-are-all-junior-talent-now/)**  
-`Tomasz Tunguz` · 1 天前  
-
-**[E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事](https://sv101.fireside.fm/272)**  
-`陈茜` · 1 天前  
-
-**[Claude Fable 5.2 review: fast, creative, and finally not annoying](https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative)**  
+**[State of the tech job market: late 2026](https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late)**  
 `Lenny Rachitsky` · 1 天前  
 
-**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-585)**  
+**[Checking the AI audit of Saez and Zucman’s research.](https://marginalrevolution.com/marginalrevolution/2026/11/checking-the-ai-audit-of-saez-and-zucmans-research.html?utm_source=rss&utm_medium=rss&utm_campaign=checking-the-ai-audit-of-saez-and-zucmans-research)**  
 `Tyler Cowen` · 1 天前  
 
-**[🎙️ How I AI: How this founder built a better Duolingo with Codex](https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a)**  
-`Lenny Rachitsky` · 1 天前  
+**[The Jensen Huang Story Gets Worse, Washington vs. New York, Silicon Valley](https://stratechery.com/2026/the-jensen-huang-story-gets-worse-washington-vs-new-york-silicon-valley/)**  
+`Ben Thompson` · 1 天前  
 
-**[How this founder built a better Duolingo with Codex \| William Imoh](https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo)**  
-`Lenny Rachitsky` · 1 天前  
+**[*Godzilla: Minus Zero* (no spoilers)](https://marginalrevolution.com/marginalrevolution/2026/11/godzilla-minus-zero-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-no-spoilers)**  
+`Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
