@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-10T21:18:37Z",
-  "count": 604,
+  "generated_at": "2026-11-11T06:22:56Z",
+  "count": 605,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/spying-makes-a-comeback.html",
+      "title": "Spying makes a comeback",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/spying-makes-a-comeback.html?utm_source=rss&utm_medium=rss&utm_campaign=spying-makes-a-comeback",
+      "published": "2026-11-11T05:55:45Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "That is the theme of my latest Free Press article , here is one excerpt:\n\n It may look like merely the latest story of a wealthy, powerful man making an irresponsible decision. But below the surface, it is also a harbinger of the erosion of privacy today, as well as the acceleration of espionage and the increasing value of secrets. More time and resources are going to be devoted to uncovering secrets, with honeypotting only one part of a larger picture: more spying, more attempted honeypotting, more private surveillance, more attempts to record (and search, using AI) conversations, more hacks of phones and computers, and more attempts to use AI to figure out the details of people’s lives and plans. Life is going to feel much more cloak-and-dagger, especially for the wealthy and influential \n\n The wealthy and influential are likely to take ever-greater care to minimize public scrutiny, protect their digital privacy, prevent journalists from going through their trash, and travel incognito, and their language in (supposedly) private conversations will have to be more guarded as well. We now live in an era where NDAs for hookups and even dinner dates are a thing .\n \n Worth a ponder, as in the pending world secrets will be more valuable than before. The super-wealthy and their companies can be decisive actors, there are more prediction markets than before, and AI is equalizing the value of high-quality but publicly available information.\n\n The post Spying makes a comeback appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-11T06:22:37Z"
+    },
+    {
+      "id": "https://www.platformer.news/following-jensen-huangs-affair-with-an-alleged-chinese-spy-and-gpu-smuggler",
+      "title": "Following: Jensen Huang’s affair with an alleged Chinese spy and GPU smuggler",
+      "link": "https://www.platformer.news/following-jensen-huangs-affair-with-an-alleged-chinese-spy-and-gpu-smuggler/",
+      "published": "2026-11-11T00:56:40Z",
+      "source": "Platformer",
+      "author": "Casey Newton",
+      "lang": "en",
+      "tags": [
+        "平台经济",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "Trump was briefed on the affair and took no action; ~240,000 GPUs were smuggled into China",
+      "fetched_at": "2026-11-11T06:22:38Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/11/are-rcts-underpowered.html",
       "title": "Are RCTs underpowered?",
@@ -9718,22 +9750,6 @@
       "type": "interview",
       "raw_text": "AGENDA:\n 05:00 Canva's Growth Gets Slashed as AI Costs Explode\n 20:00 The Great Software Reset: Why 2026 Will Punish AI Hesitancy\n 29:00 Canva's Valuation Reality Check—and the LP Liquidity Trap\n 35:00 Google's AI Brain Drain: Jeff Dean Leaves, Demis Steps Back\n 43:00 Why Google Can't Afford to Cure Alzheimer's\n 50:00 The Data-Centre Revolt: Can AI Survive the Political Backlash?\n 55:00 Elon Musk's $55BN Terrafab Bet to Break Free from TSMC\n 57:00 Revolut's $50BN CEO Pay Package—and the Return of Founder Control\n 01:13 AI Shopping, Atlassian's Revival, and Airtable's Brutal Sale Reality",
       "fetched_at": "2026-09-14T16:42:37Z"
-    },
-    {
-      "id": "https://www.xiaoyuzhoufm.com/episode/6a7cbeb017676351c5710266",
-      "title": "150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a7cbeb017676351c5710266?utm_source=rss",
-      "published": "2026-08-12T23:00:00Z",
-      "source": "张小珺商业访谈录",
-      "author": "张小珺",
-      "lang": "zh",
-      "tags": [
-        "深度访谈",
-        "商业分析"
-      ],
-      "type": "interview",
-      "raw_text": "每次见到刘洺堉，他都穿一件黑色夹克，背着一个有点旧的斜挎包。\n 现任英伟达研究副总裁的刘洺堉，是英伟达第一位从研究员擢升至副总裁之位的管理者，他领导英伟达最重要的模型项目之一——世界基座模型Cosmos。 \n 刘出生于中国台湾，是金庸小说爱好者。18岁起，刘洺堉就师从著名的武术家徐纪（神枪李书文一脉传人），练习中国功夫，一直至今。最近他又有了一个ice plunge（冰水浴）的新嗜好。凌晨4点多，刘洺堉起床后会依惯例进行武术训练：一个人蹲桩、打拳。做完全套后，再只身跳进冰桶，帮助身体修复。\n 这种锻炼习惯与我对刘洺堉的印象截然不同——他看起来谦和，说话音量也不大。 “中国武术最重要的是控制自己。”刘洺堉说，“我并不是为了展现强大的破坏能力。” \n 某种程度上，这反映了他以及他所代表的英伟达这样巨型的基础设施型企业的竞争观。\n 访谈中，他反复强调，他没有任何竞争对手，他没有和任何人竞争，所有人都可以是合作伙伴。\n “什么叫战争呢？我没有打算把别人杀死。”刘洺堉说，“我们的心态不是说想把别人给杀死，我们的心态是我们要怎么去造市场。你懂我意思吗？” \n “Jensen（英伟达创始人兼CEO黄仁勋）经常说，要造市场，而不是存量竞争。他讲我们就要做zero-billion-dollar business（从零到十亿美元的业务）——你可以不赚钱，但当这个生意成功的时候，必须是很influential（有影响力）的。不能说满足每年赚100个million（1个亿）——这种scale（规模）对很多公司都很大，但对英伟达而言，这是一个distraction（分心）。”刘接着说，“你要去解最重要的问题，产生最大的贡献。” \n 英伟达正在“造”的市场，即面向物理世界的人工智能（Physical AI），世界基座模型Cosmos被寄予厚望。这个项目从2024年立项，经过两年多已发布至Cosmos 3。Cosmos直属团队不到100人，虚线汇报规模是200至300人。黄仁勋对刘洺堉表达战略决心，称：“你就做到Cosmos 97。”\n 如今，刘洺堉已在美国生活20年，在英伟达工作10年，他仍然用一些朴素的东方智慧进行技术表达——比如，他把大模型比作中医，时常援引《孙子兵法》“备多则力寡”来思考世界模型的技术趋势。\n 本次访谈，我们详细地聊了聊Cosmos系列（尤其是前不久发布的Cosmos 3）、世界模型、物理世界的人工智能、英伟达的竞争观、组织哲学，当然还有绕不开的黄仁勋。 \n 接下来，就是我对刘洺堉的访谈。\n OUTLINE: \n 00:02:35 英伟达的赌注与边界\n 00:29:57 意外、顿悟、转变\n 01:02:46 如何在英伟达拿到GPU\n 01:21:57 从研究员到英伟达VP：“我可能是第一个吧”\n 01:37:00 Cosmos的诞生\n 01:51:39 从Cosmos 1到Cosmos 3的演变\n 02:36:33 “黑客帝国”\n 02:44:20 下一个CUDA?\n 02:47:04 关于黄仁勋：Mission is the boss\n 03:12:20 模型竞争不是鱿鱼游戏\n LINKS： \n 我们的播客在 小宇宙 、 Apple Podcast 、Spotify等全音频平台播出；\n 我们的视频播客在 小宇宙 、 Bilibili 、 小红书 、视频号、抖音等全视频平台播出；\n 如果你想服用文字版，请搜索我们工作室的公众号：语言即世界language is world。\n DISCLAIMER: 本内容不作为投资建议。\n CONTACT: xiaojunzhang@lisw.ai\n Jump into the new world-and explore with us! 😉",
-      "fetched_at": "2026-09-14T16:46:42Z"
     }
   ]
 }
