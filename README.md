@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-11 17:08 UTC*
+*更新于 2026-11-12 00:45 UTC*
 
-**[What should I ask Simon Sebag Montefiore?](https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-simon-sebag-montefiore.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-simon-sebag-montefiore)**  
-`Tyler Cowen` · 3 小时前  
+**[Richard Posner, RIP…](https://marginalrevolution.com/marginalrevolution/2026/11/richard-posner-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=richard-posner-rip)**  
+`Tyler Cowen` · 1 小时前  
 
-**[Of Miracles and Moats](https://www.notboring.co/p/of-miracles-and-moats)**  
-`Packy McCormick` · 3 小时前  
-
-**[Claude Code + Obsidian: My family’s AI brain \| Scott Farrar](https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai)**  
-`Lenny Rachitsky` · 4 小时前  
-
-**[Terence Tao on Proof, Beauty, and the Future of Mathematics](https://cowenconvos.libsyn.com/terence-tao-on-proof-beauty-and-the-future-of-mathematics)**  
+**[Experimentally validated digital twins](https://marginalrevolution.com/marginalrevolution/2026/11/experimentally-validated-digital-twins.html?utm_source=rss&utm_medium=rss&utm_campaign=experimentally-validated-digital-twins)**  
 `Tyler Cowen` · 5 小时前  
 
+**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-579)**  
+`Tyler Cowen` · 7 小时前  
+
+**[What should I ask Simon Sebag Montefiore?](https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-simon-sebag-montefiore.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-simon-sebag-montefiore)**  
+`Tyler Cowen` · 10 小时前  
+
+**[Of Miracles and Moats](https://www.notboring.co/p/of-miracles-and-moats)**  
+`Packy McCormick` · 10 小时前  
+
+**[Claude Code + Obsidian: My family’s AI brain \| Scott Farrar](https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai)**  
+`Lenny Rachitsky` · 11 小时前  
+
+**[Terence Tao on Proof, Beauty, and the Future of Mathematics](https://cowenconvos.libsyn.com/terence-tao-on-proof-beauty-and-the-future-of-mathematics)**  
+`Tyler Cowen` · 12 小时前  
+
 **[Intel Earnings, AMD Earnings, Intel and AMD’s Divergence](https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence/)**  
-`Ben Thompson` · 6 小时前  
+`Ben Thompson` · 13 小时前  
 
 **[Zach Reitano - Building Ro and Why Healthcare Should Be 50% of GDP - [Invest Like the Best, EP.500]](https://colossus.com/episode/the-patient-revolution/)**  
-`Patrick O'Shaughnessy` · 8 小时前  
+`Patrick O'Shaughnessy` · 15 小时前  
 
 **[UK fact of the day](https://marginalrevolution.com/marginalrevolution/2026/11/uk-fact-of-the-day-9.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-fact-of-the-day-9)**  
-`Tyler Cowen` · 9 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[Spying makes a comeback](https://marginalrevolution.com/marginalrevolution/2026/11/spying-makes-a-comeback.html?utm_source=rss&utm_medium=rss&utm_campaign=spying-makes-a-comeback)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[Following: Jensen Huang’s affair with an alleged Chinese spy and GPU smuggler](https://www.platformer.news/following-jensen-huangs-affair-with-an-alleged-chinese-spy-and-gpu-smuggler/)**  
-`Casey Newton` · 16 小时前  
+`Casey Newton` · 23 小时前  
+
+**[Who Captures the Most Margin in AI?](https://tomtunguz.com/who-captures-the-most-margin-in-ai/)**  
+`Tomasz Tunguz` · 1 天前  
 
 **[Are RCTs underpowered?](https://marginalrevolution.com/marginalrevolution/2026/11/are-rcts-underpowered.html?utm_source=rss&utm_medium=rss&utm_campaign=are-rcts-underpowered)**  
-`Tyler Cowen` · 21 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-594.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-594)**  
-`Tyler Cowen` · 1 天前  
-
-**[State of the tech job market: late 2026](https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late)**  
-`Lenny Rachitsky` · 1 天前  
-
-**[Checking the AI audit of Saez and Zucman’s research.](https://marginalrevolution.com/marginalrevolution/2026/11/checking-the-ai-audit-of-saez-and-zucmans-research.html?utm_source=rss&utm_medium=rss&utm_campaign=checking-the-ai-audit-of-saez-and-zucmans-research)**  
-`Tyler Cowen` · 1 天前  
-
-**[The Jensen Huang Story Gets Worse, Washington vs. New York, Silicon Valley](https://stratechery.com/2026/the-jensen-huang-story-gets-worse-washington-vs-new-york-silicon-valley/)**  
-`Ben Thompson` · 1 天前  
-
-**[*Godzilla: Minus Zero* (no spoilers)](https://marginalrevolution.com/marginalrevolution/2026/11/godzilla-minus-zero-no-spoilers.html?utm_source=rss&utm_medium=rss&utm_campaign=godzilla-minus-zero-no-spoilers)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
