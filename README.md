@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-12 00:45 UTC*
+*更新于 2026-11-12 11:12 UTC*
 
-**[Richard Posner, RIP…](https://marginalrevolution.com/marginalrevolution/2026/11/richard-posner-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=richard-posner-rip)**  
-`Tyler Cowen` · 1 小时前  
+**[An Interview With Roblox CEO David Baszucki About Aggregating Play](https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/)**  
+`Ben Thompson` · 刚刚  
 
-**[Experimentally validated digital twins](https://marginalrevolution.com/marginalrevolution/2026/11/experimentally-validated-digital-twins.html?utm_source=rss&utm_medium=rss&utm_campaign=experimentally-validated-digital-twins)**  
+**[USG assets are worth less than Arnold Kling had thought](https://marginalrevolution.com/marginalrevolution/2026/11/usg-assets-are-worth-less-than-arnold-kling-had-thought.html?utm_source=rss&utm_medium=rss&utm_campaign=usg-assets-are-worth-less-than-arnold-kling-had-thought)**  
+`Tyler Cowen` · 3 小时前  
+
+**[20VC: Jensen Huang Investigation: What Happens Now \| Sequoia Leave London, Close Scout Program and End Evergreen Fund \| NASDAQ Loses $2.5TRN in 24 hours \| Anthropic targets $1.4TRN IPO valuation](https://thetwentyminutevc.libsyn.com/20vc-jensen-huang-investigation-what-happens-now-sequoia-leave-london-close-scout-program-and-end-evergreen-fund-nasdaq-loses-25trn-in-24-hours-anthropic-targets-14trn-ipo-valuation)**  
+`Harry Stebbings` · 4 小时前  
+
+**[My excellent Conversation with Terence Tao](https://marginalrevolution.com/marginalrevolution/2026/11/my-excellent-conversation-with-terence-tao.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-terence-tao)**  
 `Tyler Cowen` · 5 小时前  
 
-**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-579)**  
-`Tyler Cowen` · 7 小时前  
-
-**[What should I ask Simon Sebag Montefiore?](https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-simon-sebag-montefiore.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-simon-sebag-montefiore)**  
-`Tyler Cowen` · 10 小时前  
-
-**[Of Miracles and Moats](https://www.notboring.co/p/of-miracles-and-moats)**  
-`Packy McCormick` · 10 小时前  
-
-**[Claude Code + Obsidian: My family’s AI brain \| Scott Farrar](https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai)**  
-`Lenny Rachitsky` · 11 小时前  
-
-**[Terence Tao on Proof, Beauty, and the Future of Mathematics](https://cowenconvos.libsyn.com/terence-tao-on-proof-beauty-and-the-future-of-mathematics)**  
+**[Richard Posner, RIP…](https://marginalrevolution.com/marginalrevolution/2026/11/richard-posner-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=richard-posner-rip)**  
 `Tyler Cowen` · 12 小时前  
 
+**[Experimentally validated digital twins](https://marginalrevolution.com/marginalrevolution/2026/11/experimentally-validated-digital-twins.html?utm_source=rss&utm_medium=rss&utm_campaign=experimentally-validated-digital-twins)**  
+`Tyler Cowen` · 15 小时前  
+
+**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-579)**  
+`Tyler Cowen` · 17 小时前  
+
+**[What should I ask Simon Sebag Montefiore?](https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-simon-sebag-montefiore.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-simon-sebag-montefiore)**  
+`Tyler Cowen` · 21 小时前  
+
+**[Of Miracles and Moats](https://www.notboring.co/p/of-miracles-and-moats)**  
+`Packy McCormick` · 21 小时前  
+
+**[Claude Code + Obsidian: My family’s AI brain \| Scott Farrar](https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai)**  
+`Lenny Rachitsky` · 22 小时前  
+
+**[Terence Tao on Proof, Beauty, and the Future of Mathematics](https://cowenconvos.libsyn.com/terence-tao-on-proof-beauty-and-the-future-of-mathematics)**  
+`Tyler Cowen` · 23 小时前  
+
 **[Intel Earnings, AMD Earnings, Intel and AMD’s Divergence](https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence/)**  
-`Ben Thompson` · 13 小时前  
+`Ben Thompson` · 1 天前  
 
 **[Zach Reitano - Building Ro and Why Healthcare Should Be 50% of GDP - [Invest Like the Best, EP.500]](https://colossus.com/episode/the-patient-revolution/)**  
-`Patrick O'Shaughnessy` · 15 小时前  
+`Patrick O'Shaughnessy` · 1 天前  
 
 **[UK fact of the day](https://marginalrevolution.com/marginalrevolution/2026/11/uk-fact-of-the-day-9.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-fact-of-the-day-9)**  
-`Tyler Cowen` · 16 小时前  
-
-**[Spying makes a comeback](https://marginalrevolution.com/marginalrevolution/2026/11/spying-makes-a-comeback.html?utm_source=rss&utm_medium=rss&utm_campaign=spying-makes-a-comeback)**  
-`Tyler Cowen` · 18 小时前  
-
-**[Following: Jensen Huang’s affair with an alleged Chinese spy and GPU smuggler](https://www.platformer.news/following-jensen-huangs-affair-with-an-alleged-chinese-spy-and-gpu-smuggler/)**  
-`Casey Newton` · 23 小时前  
-
-**[Who Captures the Most Margin in AI?](https://tomtunguz.com/who-captures-the-most-margin-in-ai/)**  
-`Tomasz Tunguz` · 1 天前  
-
-**[Are RCTs underpowered?](https://marginalrevolution.com/marginalrevolution/2026/11/are-rcts-underpowered.html?utm_source=rss&utm_medium=rss&utm_campaign=are-rcts-underpowered)**  
 `Tyler Cowen` · 1 天前  
 
-**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-594.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-594)**  
+**[Spying makes a comeback](https://marginalrevolution.com/marginalrevolution/2026/11/spying-makes-a-comeback.html?utm_source=rss&utm_medium=rss&utm_campaign=spying-makes-a-comeback)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
