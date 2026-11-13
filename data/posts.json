@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-11-13T01:50:30Z",
-  "count": 623,
+  "generated_at": "2026-11-13T10:59:37Z",
+  "count": 626,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/the-u-s-federal-ai-observatory.html",
+      "title": "The U.S. Federal AI Observatory",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-u-s-federal-ai-observatory.html?utm_source=rss&utm_medium=rss&utm_campaign=the-u-s-federal-ai-observatory",
+      "published": "2026-11-13T08:32:05Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Federal AI at a glance \n 41 agencies · 3,611 reported use cases · OMB 2025 Inventory. Portfolio size reflects reporting, not performance.\n \n From Irakli Petriashvili of Tblisi, here is the site .\n\n The post The U.S. Federal AI Observatory appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-13T10:59:23Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/do-not-overrate-zero-sum-status-seeking.html",
+      "title": "Do not overrate zero-sum status-seeking",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/do-not-overrate-zero-sum-status-seeking.html?utm_source=rss&utm_medium=rss&utm_campaign=do-not-overrate-zero-sum-status-seeking",
+      "published": "2026-11-13T05:48:25Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "If people really preferred relatively higher income in a poorer society, then those born in Western Europe and the US would be saving up their money so they could live like kings in Africa. Very few people of middle- or upper-class status in poor countries would try to get to the West. Obviously, what we observe is precisely the opposite. Doctors from Africa will come to America in order to drive a cab if their license to practice medicine isn’t recognized. Research on Middle Eastern and African migrants to Europe shows that they aren’t the poorest of the poor, but are relatively well off for where they come from. There are a lot of stories about how terribly South Asian migrant workers are treated in the Arab Gulf, but this causes no problem in recruiting laborers who want to earn a higher income.\n \n Here is more from Richard Hanania .\n\n The post Do not overrate zero-sum status-seeking appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-13T10:59:23Z"
+    },
+    {
+      "id": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge",
+      "title": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
+      "link": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/",
+      "published": "2026-11-13T03:47:52Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
+      "fetched_at": "2026-11-13T10:59:24Z"
+    },
     {
       "id": "https://www.platformer.news/jensen-huang-resigns-founder-cult-accountability",
       "title": "Jensen Huang and the end of the ‘lol nothing matters’ era of American politics",
@@ -982,7 +1030,7 @@
         "科技商业"
       ],
       "type": "blog",
-      "raw_text": "Sharp Tech is, for the first time, available on video. You have two ways to consume it: YouTube, and here on Stratechery",
+      "raw_text": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
       "fetched_at": "2026-11-06T16:46:44Z"
     },
     {

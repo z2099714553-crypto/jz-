@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-13 01:50 UTC*
+*更新于 2026-11-13 10:59 UTC*
+
+**[The U.S. Federal AI Observatory](https://marginalrevolution.com/marginalrevolution/2026/11/the-u-s-federal-ai-observatory.html?utm_source=rss&utm_medium=rss&utm_campaign=the-u-s-federal-ai-observatory)**  
+`Tyler Cowen` · 2 小时前  
+
+**[Do not overrate zero-sum status-seeking](https://marginalrevolution.com/marginalrevolution/2026/11/do-not-overrate-zero-sum-status-seeking.html?utm_source=rss&utm_medium=rss&utm_campaign=do-not-overrate-zero-sum-status-seeking)**  
+`Tyler Cowen` · 5 小时前  
+
+**[Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge](https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/)**  
+`Ben Thompson` · 7 小时前  
 
 **[Jensen Huang and the end of the ‘lol nothing matters’ era of American politics](https://www.platformer.news/jensen-huang-resigns-founder-cult-accountability/)**  
-`Casey Newton` · 刚刚  
+`Casey Newton` · 9 小时前  
 
 **[187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率](https://podcast.latepost.com/187)**  
-`晚点团队` · 刚刚  
+`晚点团队` · 9 小时前  
 
 **[科技爱好者周刊（第 419 期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html)**  
-`阮一峰` · 1 小时前  
+`阮一峰` · 10 小时前  
 
 **[156. 《侠》｜对影之刃零制作人梁其伟6小时访谈](https://www.xiaoyuzhoufm.com/episode/6af5debf14d01a26f8a900ac?utm_source=rss)**  
-`张小珺` · 1 小时前  
+`张小珺` · 10 小时前  
 
 **[My Barcelona talk on AI](https://marginalrevolution.com/marginalrevolution/2026/11/my-barcelona-talk-on-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=my-barcelona-talk-on-ai)**  
-`Tyler Cowen` · 7 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/thursday-assorted-links-578.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-578)**  
-`Tyler Cowen` · 8 小时前  
-
-**[The Everywhere Rent Seekers](https://marginalrevolution.com/marginalrevolution/2026/11/the-everywhere-rent-seekers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-everywhere-rent-seekers)**  
-`Tyler Cowen` · 13 小时前  
-
-**[An Interview With Roblox CEO David Baszucki About Aggregating Play](https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/)**  
-`Ben Thompson` · 14 小时前  
-
-**[USG assets are worth less than Arnold Kling had thought](https://marginalrevolution.com/marginalrevolution/2026/11/usg-assets-are-worth-less-than-arnold-kling-had-thought.html?utm_source=rss&utm_medium=rss&utm_campaign=usg-assets-are-worth-less-than-arnold-kling-had-thought)**  
 `Tyler Cowen` · 17 小时前  
 
+**[The Everywhere Rent Seekers](https://marginalrevolution.com/marginalrevolution/2026/11/the-everywhere-rent-seekers.html?utm_source=rss&utm_medium=rss&utm_campaign=the-everywhere-rent-seekers)**  
+`Tyler Cowen` · 22 小时前  
+
+**[An Interview With Roblox CEO David Baszucki About Aggregating Play](https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/)**  
+`Ben Thompson` · 23 小时前  
+
+**[USG assets are worth less than Arnold Kling had thought](https://marginalrevolution.com/marginalrevolution/2026/11/usg-assets-are-worth-less-than-arnold-kling-had-thought.html?utm_source=rss&utm_medium=rss&utm_campaign=usg-assets-are-worth-less-than-arnold-kling-had-thought)**  
+`Tyler Cowen` · 1 天前  
+
 **[20VC: Jensen Huang Investigation: What Happens Now \| Sequoia Leave London, Close Scout Program and End Evergreen Fund \| NASDAQ Loses $2.5TRN in 24 hours \| Anthropic targets $1.4TRN IPO valuation](https://thetwentyminutevc.libsyn.com/20vc-jensen-huang-investigation-what-happens-now-sequoia-leave-london-close-scout-program-and-end-evergreen-fund-nasdaq-loses-25trn-in-24-hours-anthropic-targets-14trn-ipo-valuation)**  
-`Harry Stebbings` · 18 小时前  
+`Harry Stebbings` · 1 天前  
 
 **[My excellent Conversation with Terence Tao](https://marginalrevolution.com/marginalrevolution/2026/11/my-excellent-conversation-with-terence-tao.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-terence-tao)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[When the Central Bank of AI Changes Chairs](https://tomtunguz.com/the-impact-of-jensens-resignation/)**  
 `Tomasz Tunguz` · 1 天前  
-
-**[Richard Posner, RIP…](https://marginalrevolution.com/marginalrevolution/2026/11/richard-posner-rip.html?utm_source=rss&utm_medium=rss&utm_campaign=richard-posner-rip)**  
-`Tyler Cowen` · 1 天前  
-
-**[Experimentally validated digital twins](https://marginalrevolution.com/marginalrevolution/2026/11/experimentally-validated-digital-twins.html?utm_source=rss&utm_medium=rss&utm_campaign=experimentally-validated-digital-twins)**  
-`Tyler Cowen` · 1 天前  
-
-**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-579)**  
-`Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
