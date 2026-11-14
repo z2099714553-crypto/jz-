@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-14 01:27 UTC*
+*更新于 2026-11-14 10:27 UTC*
+
+**[20VC: Taking on NVIDIA: Fractile CEO on the Future of Chips \| What Everyone Gets Wrong About Capex Spending \| The Winners and Losers in Neo Clouds with Walter Goodwin](https://thetwentyminutevc.libsyn.com/20vc-taking-on-nvidia-fractile-ceo-on-the-future-of-chips-what-everyone-gets-wrong-about-capex-spending-the-winners-and-losers-in-neo-clouds-with-walter-goodwin)**  
+`Harry Stebbings` · 3 小时前  
+
+**[People like their jobs, even British people](https://marginalrevolution.com/marginalrevolution/2026/11/people-like-their-jobs-even-british-people.html?utm_source=rss&utm_medium=rss&utm_campaign=people-like-their-jobs-even-british-people)**  
+`Tyler Cowen` · 3 小时前  
+
+**[The Power and Roots of Aspirations](https://marginalrevolution.com/marginalrevolution/2026/11/the-power-and-roots-of-aspirations.html?utm_source=rss&utm_medium=rss&utm_campaign=the-power-and-roots-of-aspirations)**  
+`Tyler Cowen` · 4 小时前  
 
 **[Are we witnessing an intelligence explosion?](https://marginalrevolution.com/marginalrevolution/2026/11/are-we-witnessing-an-intelligence-explosion.html?utm_source=rss&utm_medium=rss&utm_campaign=are-we-witnessing-an-intelligence-explosion)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 15 小时前  
 
 **[The avalanche that hit math is coming for AI development](https://www.dwarkesh.com/p/rsi)**  
-`Dwarkesh Patel` · 6 小时前  
+`Dwarkesh Patel` · 15 小时前  
 
 **[A Banker’s Guide to Anthropic](https://www.netinterest.co/p/a-bankers-guide-to-anthropic)**  
-`Marc Rubinstein` · 7 小时前  
+`Marc Rubinstein` · 16 小时前  
 
 **[2026.46: The End of Jensen](https://stratechery.com/2026/the-end-of-jensen/)**  
-`Ben Thompson` · 7 小时前  
+`Ben Thompson` · 16 小时前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-599.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-599)**  
-`Tyler Cowen` · 8 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[Weekly Dose of Optimism #219](https://www.notboring.co/p/weekly-dose-of-optimism-219)**  
-`Packy McCormick` · 11 小时前  
+`Packy McCormick` · 20 小时前  
 
 **[The Economics of Rent Controls](https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-rent-controls.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-rent-controls)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[Outlook email is still down](https://marginalrevolution.com/marginalrevolution/2026/11/outlook-email-is-still-down.html?utm_source=rss&utm_medium=rss&utm_campaign=outlook-email-is-still-down)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 22 小时前  
 
 **[The U.S. Federal AI Observatory](https://marginalrevolution.com/marginalrevolution/2026/11/the-u-s-federal-ai-observatory.html?utm_source=rss&utm_medium=rss&utm_campaign=the-u-s-federal-ai-observatory)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Do not overrate zero-sum status-seeking](https://marginalrevolution.com/marginalrevolution/2026/11/do-not-overrate-zero-sum-status-seeking.html?utm_source=rss&utm_medium=rss&utm_campaign=do-not-overrate-zero-sum-status-seeking)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge](https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/)**  
-`Ben Thompson` · 21 小时前  
+`Ben Thompson` · 1 天前  
 
 **[Jensen Huang and the end of the ‘lol nothing matters’ era of American politics](https://www.platformer.news/jensen-huang-resigns-founder-cult-accountability/)**  
-`Casey Newton` · 23 小时前  
-
-**[187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率](https://podcast.latepost.com/187)**  
-`晚点团队` · 1 天前  
-
-**[科技爱好者周刊（第 419 期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html)**  
-`阮一峰` · 1 天前  
-
-**[156. 《侠》｜对影之刃零制作人梁其伟6小时访谈](https://www.xiaoyuzhoufm.com/episode/6af5debf14d01a26f8a900ac?utm_source=rss)**  
-`张小珺` · 1 天前  
+`Casey Newton` · 1 天前  
 
 <!-- POSTS:END -->

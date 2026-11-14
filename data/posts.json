@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-11-14T01:27:23Z",
-  "count": 634,
+  "generated_at": "2026-11-14T10:27:17Z",
+  "count": 637,
   "posts": [
+    {
+      "id": "https://thetwentyminutevc.libsyn.com/20vc-taking-on-nvidia-fractile-ceo-on-the-future-of-chips-what-everyone-gets-wrong-about-capex-spending-the-winners-and-losers-in-neo-clouds-with-walter-goodwin",
+      "title": "20VC: Taking on NVIDIA: Fractile CEO on the Future of Chips | What Everyone Gets Wrong About Capex Spending | The Winners and Losers in Neo Clouds with Walter Goodwin",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-taking-on-nvidia-fractile-ceo-on-the-future-of-chips-what-everyone-gets-wrong-about-capex-spending-the-winners-and-losers-in-neo-clouds-with-walter-goodwin",
+      "published": "2026-11-14T07:07:00Z",
+      "source": "20VC",
+      "author": "Harry Stebbings",
+      "lang": "en",
+      "tags": [
+        "创投",
+        "深度访谈"
+      ],
+      "type": "interview",
+      "raw_text": "Walter Goodwin is the founder and CEO of Fractile, the British chipmaker taking on Nvidia in the race to make AI models answer faster. Fractile has raised $940M , including a $720M Series C that valued the company at $7.5BN . Thrive, Founders Fund, Lightspeed and Redpoint led the latest round. \n AGENDA:\n 0:00 Can the world build enough chips for the AI we'll want in ten years?\n 5:04 Can you still win by just building chips?\n 13:26 Where can a specialist chip beat Nvidia at its own game?\n 16:14 Why are the world's fastest AI chips still waiting on memory?\n 27:37 How much of the AI chip industry is bullshit? Who's actually shipping?\n 35:48 What happens when you have the chips but nowhere to plug them in?\n 50:13 What will a single AI token cost in ten years?\n 58:46 Was Jensen's Groq deal an insurance policy against losing OpenAI?\n 1:04:00 Fractile raised $720 million. Is that actually enough?\n 1:09:40 Will Nvidia be worth $10 trillion in five years?\n 20VC:",
+      "fetched_at": "2026-11-14T10:27:17Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/people-like-their-jobs-even-british-people.html",
+      "title": "People like their jobs, even British people",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/people-like-their-jobs-even-british-people.html?utm_source=rss&utm_medium=rss&utm_campaign=people-like-their-jobs-even-british-people",
+      "published": "2026-11-14T06:54:06Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "This paper investigates the role of work in providing meaning, purpose, community, and other non-monetary benefits. Using an original cross-national survey of 8,234 working-age adults across the UK, US, Denmark, and India, I study the factors that motivate people in their work, with an eye toward the future AI economic transformation. I find that 81% of respondents report being satisfied with their job, and a majority across all four countries are strongly motivated by the non-monetary components of their employment. Using an original “Work Values” Index, I show that one third of working respondents are motivated intrinsically by their job—valuing their role for its own sake. Nearly one quarter are driven by social and community-related aspects of their employment, 17% by social status, and just over one quarter by the transactional financial benefits of their job. Although a majority of people would leave their role if offered their current salary as a guaranteed income, one fifth of workers would stay even if offered up to 120% of their salary. Intrinsically motivated workers were disproportionately likely to refuse a basic income at any substitution level. Groups attached to their job for non-monetary reasons were also more likely to pursue volunteering or work-like activities if they received guaranteed income substitution but could no longer perform their role. Crucially, these non-monetary work motivations are evenly distributed across the income distribution and between white- and blue-collar workers. I argue that these findings have implications for managing the AI transition, understanding attitudes to AI, and making sense of policy preferences. Guaranteeing a basic income may indeed be necessary for managing any future AI labor shock, yet it could ultimately fail to compensate workers for any loss of the non-monetary benefits they derive from work.\n \n That is from a new paper by Julian Jacobs, via Kevin Bryan . And here is a thread on the paper .\n\n The post People like their jobs, even British people appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-14T10:27:03Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/the-power-and-roots-of-aspirations.html",
+      "title": "The Power and Roots of Aspirations",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-power-and-roots-of-aspirations.html?utm_source=rss&utm_medium=rss&utm_campaign=the-power-and-roots-of-aspirations",
+      "published": "2026-11-14T06:01:15Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Aspirations have become a common theme in empirical economics studies but there is no unified understanding of the range of outcomes they influence, the factors that shape them, and how to measure them. We survey this growing literature. We argue that there is compelling evidence to consider aspirations as a useful lens to analyze human behavior and development outcomes, at the individual and aggregate levels, in poorer and richer countries. The empirical evidence aligns with the theory that high aspirations can lead individuals to achieve better educational, labor market, and other outcomes and can contribute to making countries more equal and prosperous. The empirical evidence also confirms that the mix of social and circumstantial factors shaping aspirations tends to hinder the aspirations of the disadvantaged—such as the poor, immigrants, and women—and can contribute to vicious circles of poverty, high inequality, low social mobility, and low growth. However, high aspirations should not be considered an end in themselves as they can backfire, with deleterious effects, if unmatched with opportunities. Further, we argue that definitional and measurement issues can affect the understanding of the topic and that studies should more explicitly describe their measures of aspirations to ensure that divergent underlying concepts are not mistaken.\n \n That is from a 2025 paper by Anna Fruttero , Noël Muller , and Óscar Calvo-González. And here is a 2026 paper on similar topics.\n\n The post The Power and Roots of Aspirations appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-14T10:27:03Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/11/are-we-witnessing-an-intelligence-explosion.html",
       "title": "Are we witnessing an intelligence explosion?",
@@ -229,7 +277,7 @@
     },
     {
       "id": "https://www.xiaoyuzhoufm.com/episode/6af5debf14d01a26f8a900ac",
-      "title": "156. 《侠》｜对影之刃零制作人梁其伟6小时访谈",
+      "title": "156. 对影之刃零梁其伟的6小时访谈：3A动作游戏、武侠、“最强者是朴实的”，“世界没有敌人，只有你和你的另一个自己”",
       "link": "https://www.xiaoyuzhoufm.com/episode/6af5debf14d01a26f8a900ac?utm_source=rss",
       "published": "2026-11-13T00:00:00Z",
       "source": "张小珺商业访谈录",
