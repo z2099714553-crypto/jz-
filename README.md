@@ -112,28 +112,31 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-14 18:02 UTC*
+*更新于 2026-11-14 22:25 UTC*
+
+**[🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more](https://www.lennysnewsletter.com/p/community-wisdom-when-you-become)**  
+`Lenny Rachitsky` · 1 小时前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-586)**  
-`Tyler Cowen` · 刚刚  
-
-**[Privatize Air Traffic Control, Redux](https://marginalrevolution.com/marginalrevolution/2026/11/privatize-air-traffic-control-redux.html?utm_source=rss&utm_medium=rss&utm_campaign=privatize-air-traffic-control-redux)**  
 `Tyler Cowen` · 5 小时前  
 
+**[Privatize Air Traffic Control, Redux](https://marginalrevolution.com/marginalrevolution/2026/11/privatize-air-traffic-control-redux.html?utm_source=rss&utm_medium=rss&utm_campaign=privatize-air-traffic-control-redux)**  
+`Tyler Cowen` · 10 小时前  
+
 **[20VC: Taking on NVIDIA: Fractile CEO on the Future of Chips \| What Everyone Gets Wrong About Capex Spending \| The Winners and Losers in Neo Clouds with Walter Goodwin](https://thetwentyminutevc.libsyn.com/20vc-taking-on-nvidia-fractile-ceo-on-the-future-of-chips-what-everyone-gets-wrong-about-capex-spending-the-winners-and-losers-in-neo-clouds-with-walter-goodwin)**  
-`Harry Stebbings` · 10 小时前  
+`Harry Stebbings` · 15 小时前  
 
 **[People like their jobs, even British people](https://marginalrevolution.com/marginalrevolution/2026/11/people-like-their-jobs-even-british-people.html?utm_source=rss&utm_medium=rss&utm_campaign=people-like-their-jobs-even-british-people)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 15 小时前  
 
 **[The Power and Roots of Aspirations](https://marginalrevolution.com/marginalrevolution/2026/11/the-power-and-roots-of-aspirations.html?utm_source=rss&utm_medium=rss&utm_campaign=the-power-and-roots-of-aspirations)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 16 小时前  
 
 **[Are we witnessing an intelligence explosion?](https://marginalrevolution.com/marginalrevolution/2026/11/are-we-witnessing-an-intelligence-explosion.html?utm_source=rss&utm_medium=rss&utm_campaign=are-we-witnessing-an-intelligence-explosion)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[The avalanche that hit math is coming for AI development](https://www.dwarkesh.com/p/rsi)**  
-`Dwarkesh Patel` · 23 小时前  
+`Dwarkesh Patel` · 1 天前  
 
 **[A Banker’s Guide to Anthropic](https://www.netinterest.co/p/a-bankers-guide-to-anthropic)**  
 `Marc Rubinstein` · 1 天前  
@@ -154,9 +157,6 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[The U.S. Federal AI Observatory](https://marginalrevolution.com/marginalrevolution/2026/11/the-u-s-federal-ai-observatory.html?utm_source=rss&utm_medium=rss&utm_campaign=the-u-s-federal-ai-observatory)**  
-`Tyler Cowen` · 1 天前  
-
-**[Do not overrate zero-sum status-seeking](https://marginalrevolution.com/marginalrevolution/2026/11/do-not-overrate-zero-sum-status-seeking.html?utm_source=rss&utm_medium=rss&utm_campaign=do-not-overrate-zero-sum-status-seeking)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
