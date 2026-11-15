@@ -112,28 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-15 06:33 UTC*
+*更新于 2026-11-15 16:22 UTC*
+
+**[Meta’s Muse: How we launched the most successful consumer product this year \| Mona Sarantakos](https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most)**  
+`Lenny Rachitsky` · 2 小时前  
+
+**[Tyler Cowen’s strongest musical recommendations, 2003–2026](https://marginalrevolution.com/marginalrevolution/2026/11/tyler-cowens-strongest-musical-recommendations-2003-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=tyler-cowens-strongest-musical-recommendations-2003-2026)**  
+`Tyler Cowen` · 4 小时前  
+
+**[AI and complements](https://marginalrevolution.com/marginalrevolution/2026/11/ai-and-complements.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-complements)**  
+`Tyler Cowen` · 6 小时前  
 
 **[Best films of 2026](https://marginalrevolution.com/marginalrevolution/2026/11/best-films-of-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-films-of-2026)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 10 小时前  
 
 **[188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖](https://podcast.latepost.com/188)**  
-`晚点团队` · 2 小时前  
+`晚点团队` · 12 小时前  
 
 **[🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more](https://www.lennysnewsletter.com/p/community-wisdom-when-you-become)**  
-`Lenny Rachitsky` · 9 小时前  
+`Lenny Rachitsky` · 19 小时前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-586)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[Privatize Air Traffic Control, Redux](https://marginalrevolution.com/marginalrevolution/2026/11/privatize-air-traffic-control-redux.html?utm_source=rss&utm_medium=rss&utm_campaign=privatize-air-traffic-control-redux)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[20VC: Taking on NVIDIA: Fractile CEO on the Future of Chips \| What Everyone Gets Wrong About Capex Spending \| The Winners and Losers in Neo Clouds with Walter Goodwin](https://thetwentyminutevc.libsyn.com/20vc-taking-on-nvidia-fractile-ceo-on-the-future-of-chips-what-everyone-gets-wrong-about-capex-spending-the-winners-and-losers-in-neo-clouds-with-walter-goodwin)**  
-`Harry Stebbings` · 23 小时前  
+`Harry Stebbings` · 1 天前  
 
 **[People like their jobs, even British people](https://marginalrevolution.com/marginalrevolution/2026/11/people-like-their-jobs-even-british-people.html?utm_source=rss&utm_medium=rss&utm_campaign=people-like-their-jobs-even-british-people)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[The Power and Roots of Aspirations](https://marginalrevolution.com/marginalrevolution/2026/11/the-power-and-roots-of-aspirations.html?utm_source=rss&utm_medium=rss&utm_campaign=the-power-and-roots-of-aspirations)**  
 `Tyler Cowen` · 1 天前  
@@ -149,14 +158,5 @@ open docs/index.html
 
 **[2026.46: The End of Jensen](https://stratechery.com/2026/the-end-of-jensen/)**  
 `Ben Thompson` · 1 天前  
-
-**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-599.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-599)**  
-`Tyler Cowen` · 1 天前  
-
-**[Weekly Dose of Optimism #219](https://www.notboring.co/p/weekly-dose-of-optimism-219)**  
-`Packy McCormick` · 1 天前  
-
-**[The Economics of Rent Controls](https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-rent-controls.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-rent-controls)**  
-`Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
