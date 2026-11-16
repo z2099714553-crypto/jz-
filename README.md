@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-16 06:31 UTC*
+*更新于 2026-11-16 19:37 UTC*
 
-**[A scenario for rogue AIs?](https://marginalrevolution.com/marginalrevolution/2026/11/a-scenario-for-rogue-ais.html?utm_source=rss&utm_medium=rss&utm_campaign=a-scenario-for-rogue-ais)**  
+**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-586)**  
 `Tyler Cowen` · 刚刚  
 
-**[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-590.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-590)**  
+**[Paul Christiano – We could be 12 months away from AIs that can overthrow the government](https://www.dwarkesh.com/p/paul-christiano-2)**  
+`Dwarkesh Patel` · 1 小时前  
+
+**[Russ Roberts and I do EconTalk podcast on Montaigne](https://marginalrevolution.com/marginalrevolution/2026/11/russ-roberts-and-i-do-econtalk-podcast-on-montaigne.html?utm_source=rss&utm_medium=rss&utm_campaign=russ-roberts-and-i-do-econtalk-podcast-on-montaigne)**  
+`Tyler Cowen` · 2 小时前  
+
+**[🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS](https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight)**  
+`Lenny Rachitsky` · 3 小时前  
+
+**[How I fight token fraud as a solo founder](https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo)**  
+`Lenny Rachitsky` · 6 小时前  
+
+**[Starship](https://marginalrevolution.com/marginalrevolution/2026/11/starship.html?utm_source=rss&utm_medium=rss&utm_campaign=starship)**  
+`Tyler Cowen` · 7 小时前  
+
+**[Obituaries](https://stratechery.com/2026/obituaries/)**  
+`Ben Thompson` · 8 小时前  
+
+**[Coffeehouses and the Scientific Revolution](https://marginalrevolution.com/marginalrevolution/2026/11/coffeehouses-and-the-scientific-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=coffeehouses-and-the-scientific-revolution)**  
+`Tyler Cowen` · 12 小时前  
+
+**[20VC: Jev Creator on Why Data Is More Important Than Compute \| Will US Open-Source Models Catch Chinese \| The Cost of Intelligence and Tokens: What No One Sees But Needs to Know with Diogo Almeida](https://thetwentyminutevc.libsyn.com/20vc-jev-creator-on-why-data-is-more-important-than-compute-will-us-open-source-models-catch-chinese-the-cost-of-intelligence-and-tokens-what-no-one-sees-but-needs-to-know-with-diogo-almeida)**  
+`Harry Stebbings` · 12 小时前  
+
+**[A scenario for rogue AIs?](https://marginalrevolution.com/marginalrevolution/2026/11/a-scenario-for-rogue-ais.html?utm_source=rss&utm_medium=rss&utm_campaign=a-scenario-for-rogue-ais)**  
 `Tyler Cowen` · 13 小时前  
 
+**[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-590.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-590)**  
+`Tyler Cowen` · 1 天前  
+
 **[Meta’s Muse: How we launched the most successful consumer product this year \| Mona Sarantakos](https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most)**  
-`Lenny Rachitsky` · 16 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[Tyler Cowen’s strongest musical recommendations, 2003–2026](https://marginalrevolution.com/marginalrevolution/2026/11/tyler-cowens-strongest-musical-recommendations-2003-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=tyler-cowens-strongest-musical-recommendations-2003-2026)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[AI and complements](https://marginalrevolution.com/marginalrevolution/2026/11/ai-and-complements.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-complements)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Best films of 2026](https://marginalrevolution.com/marginalrevolution/2026/11/best-films-of-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-films-of-2026)**  
 `Tyler Cowen` · 1 天前  
-
-**[188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖](https://podcast.latepost.com/188)**  
-`晚点团队` · 1 天前  
-
-**[🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more](https://www.lennysnewsletter.com/p/community-wisdom-when-you-become)**  
-`Lenny Rachitsky` · 1 天前  
-
-**[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-586)**  
-`Tyler Cowen` · 1 天前  
-
-**[Privatize Air Traffic Control, Redux](https://marginalrevolution.com/marginalrevolution/2026/11/privatize-air-traffic-control-redux.html?utm_source=rss&utm_medium=rss&utm_campaign=privatize-air-traffic-control-redux)**  
-`Tyler Cowen` · 1 天前  
-
-**[20VC: Taking on NVIDIA: Fractile CEO on the Future of Chips \| What Everyone Gets Wrong About Capex Spending \| The Winners and Losers in Neo Clouds with Walter Goodwin](https://thetwentyminutevc.libsyn.com/20vc-taking-on-nvidia-fractile-ceo-on-the-future-of-chips-what-everyone-gets-wrong-about-capex-spending-the-winners-and-losers-in-neo-clouds-with-walter-goodwin)**  
-`Harry Stebbings` · 1 天前  
-
-**[People like their jobs, even British people](https://marginalrevolution.com/marginalrevolution/2026/11/people-like-their-jobs-even-british-people.html?utm_source=rss&utm_medium=rss&utm_campaign=people-like-their-jobs-even-british-people)**  
-`Tyler Cowen` · 1 天前  
-
-**[The Power and Roots of Aspirations](https://marginalrevolution.com/marginalrevolution/2026/11/the-power-and-roots-of-aspirations.html?utm_source=rss&utm_medium=rss&utm_campaign=the-power-and-roots-of-aspirations)**  
-`Tyler Cowen` · 2 天前  
-
-**[Are we witnessing an intelligence explosion?](https://marginalrevolution.com/marginalrevolution/2026/11/are-we-witnessing-an-intelligence-explosion.html?utm_source=rss&utm_medium=rss&utm_campaign=are-we-witnessing-an-intelligence-explosion)**  
-`Tyler Cowen` · 2 天前  
-
-**[The avalanche that hit math is coming for AI development](https://www.dwarkesh.com/p/rsi)**  
-`Dwarkesh Patel` · 2 天前  
 
 <!-- POSTS:END -->
