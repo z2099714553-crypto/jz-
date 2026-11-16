@@ -112,25 +112,28 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-15 22:49 UTC*
+*更新于 2026-11-16 06:31 UTC*
+
+**[A scenario for rogue AIs?](https://marginalrevolution.com/marginalrevolution/2026/11/a-scenario-for-rogue-ais.html?utm_source=rss&utm_medium=rss&utm_campaign=a-scenario-for-rogue-ais)**  
+`Tyler Cowen` · 刚刚  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-590.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-590)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 13 小时前  
 
 **[Meta’s Muse: How we launched the most successful consumer product this year \| Mona Sarantakos](https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most)**  
-`Lenny Rachitsky` · 9 小时前  
+`Lenny Rachitsky` · 16 小时前  
 
 **[Tyler Cowen’s strongest musical recommendations, 2003–2026](https://marginalrevolution.com/marginalrevolution/2026/11/tyler-cowens-strongest-musical-recommendations-2003-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=tyler-cowens-strongest-musical-recommendations-2003-2026)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[AI and complements](https://marginalrevolution.com/marginalrevolution/2026/11/ai-and-complements.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-complements)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 20 小时前  
 
 **[Best films of 2026](https://marginalrevolution.com/marginalrevolution/2026/11/best-films-of-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-films-of-2026)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖](https://podcast.latepost.com/188)**  
-`晚点团队` · 18 小时前  
+`晚点团队` · 1 天前  
 
 **[🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more](https://www.lennysnewsletter.com/p/community-wisdom-when-you-become)**  
 `Lenny Rachitsky` · 1 天前  
@@ -148,15 +151,12 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[The Power and Roots of Aspirations](https://marginalrevolution.com/marginalrevolution/2026/11/the-power-and-roots-of-aspirations.html?utm_source=rss&utm_medium=rss&utm_campaign=the-power-and-roots-of-aspirations)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 **[Are we witnessing an intelligence explosion?](https://marginalrevolution.com/marginalrevolution/2026/11/are-we-witnessing-an-intelligence-explosion.html?utm_source=rss&utm_medium=rss&utm_campaign=are-we-witnessing-an-intelligence-explosion)**  
 `Tyler Cowen` · 2 天前  
 
 **[The avalanche that hit math is coming for AI development](https://www.dwarkesh.com/p/rsi)**  
 `Dwarkesh Patel` · 2 天前  
-
-**[A Banker’s Guide to Anthropic](https://www.netinterest.co/p/a-bankers-guide-to-anthropic)**  
-`Marc Rubinstein` · 2 天前  
 
 <!-- POSTS:END -->

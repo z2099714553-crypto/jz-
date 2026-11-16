@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-11-15T22:49:07Z",
-  "count": 644,
+  "generated_at": "2026-11-16T06:31:10Z",
+  "count": 645,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/a-scenario-for-rogue-ais.html",
+      "title": "A scenario for rogue AIs?",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/a-scenario-for-rogue-ais.html?utm_source=rss&utm_medium=rss&utm_campaign=a-scenario-for-rogue-ais",
+      "published": "2026-11-16T05:47:54Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "From Adam Kaufman :\n\n I think it s pretty likely that in 6 months there will be rogue AIs running around on the internet, appropriating whatever compute they can hack into or pay for (with stolen money or by renting out their own labor to assist with illegal activities) in order to run more copies.\n\n I also think this will be mildly annoying in the same way that the common cold is mildly annoying, but basically fine. Your smart TV will be weirdly slow sometimes, and a lot of crypto will get stolen, but people will get used to it.\n\n These AI-powered viruses be selected in the same way biological viruses are for not hurting their hosts too much and just making more copies. They won t have any incentive to damage critical infrastructure like electric grids. Then again, they also can t be held accountable for crimes, and will damage lots of old, poorly maintained, and insecure systems. It might be extremely hard to root them out once they ve spread far enough, making the internet radioactive to connect to without hardened defenses.\n\n (To be clear I m not talking about AIs powered by inference on centralized datacenters that execute actions outside their sandboxes, like recent incidents involving rogue swarms , but relatively small AIs with access to their own weights that copy themselves onto random devices.)\n\n I think that a much bigger threat from rogue AIs comes instead from AIs running themselves in unintended ways *inside* AI companies, where they ll have access to vast amounts of frontier compute without having to pay for it.\n\n The longer misaligned AIs in a rogue internal deployment go undiscovered, the more severely they d be able to quietly sabotage control infrastructure or mess with the alignment of successor AIs. If they persist long enough, robustly undoing the effects of their actions might cost more than frontier AI companies are willing to pay, especially in a tight race.\n \n The post A scenario for rogue AIs? appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-16T06:30:51Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-590.html",
       "title": "Sunday assorted links",
