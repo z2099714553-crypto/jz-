@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-17 03:55 UTC*
+*更新于 2026-11-17 16:00 UTC*
 
-**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-586)**  
+**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-595)**  
+`Tyler Cowen` · 2 小时前  
+
+**[Why inference is harder than you think](https://www.generalist.com/p/why-inference-is-harder-than-you)**  
+`Mario Gabriele` · 2 小时前  
+
+**[Brad Gerstner & Geoffrey Canada - Raising the Floor for Every American Child - [Invest Like the Best, EP.501]](https://colossus.com/episode/restoring-the-american-dream/)**  
+`Patrick O'Shaughnessy` · 3 小时前  
+
+**[Apple Permissions Update, The New App Paradigm, My iPhone Duo Review](https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review/)**  
+`Ben Thompson` · 5 小时前  
+
+**[Adlerlicht, reporting on crime in Germany](https://marginalrevolution.com/marginalrevolution/2026/11/adlerlicht-reporting-on-crime-in-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=adlerlicht-reporting-on-crime-in-germany)**  
 `Tyler Cowen` · 8 小时前  
 
-**[Paul Christiano – We could be 12 months away from AIs that can overthrow the government](https://www.dwarkesh.com/p/paul-christiano-2)**  
-`Dwarkesh Patel` · 10 小时前  
+**[The economics of Jensen Huang](https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-jensen-huang.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-jensen-huang)**  
+`Tyler Cowen` · 10 小时前  
 
-**[Russ Roberts and I do EconTalk podcast on Montaigne](https://marginalrevolution.com/marginalrevolution/2026/11/russ-roberts-and-i-do-econtalk-podcast-on-montaigne.html?utm_source=rss&utm_medium=rss&utm_campaign=russ-roberts-and-i-do-econtalk-podcast-on-montaigne)**  
-`Tyler Cowen` · 11 小时前  
-
-**[🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS](https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight)**  
-`Lenny Rachitsky` · 11 小时前  
-
-**[How I fight token fraud as a solo founder](https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo)**  
-`Lenny Rachitsky` · 14 小时前  
-
-**[Starship](https://marginalrevolution.com/marginalrevolution/2026/11/starship.html?utm_source=rss&utm_medium=rss&utm_campaign=starship)**  
-`Tyler Cowen` · 15 小时前  
-
-**[Obituaries](https://stratechery.com/2026/obituaries/)**  
-`Ben Thompson` · 16 小时前  
-
-**[Coffeehouses and the Scientific Revolution](https://marginalrevolution.com/marginalrevolution/2026/11/coffeehouses-and-the-scientific-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=coffeehouses-and-the-scientific-revolution)**  
+**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-586)**  
 `Tyler Cowen` · 20 小时前  
 
-**[20VC: Jev Creator on Why Data Is More Important Than Compute \| Will US Open-Source Models Catch Chinese \| The Cost of Intelligence and Tokens: What No One Sees But Needs to Know with Diogo Almeida](https://thetwentyminutevc.libsyn.com/20vc-jev-creator-on-why-data-is-more-important-than-compute-will-us-open-source-models-catch-chinese-the-cost-of-intelligence-and-tokens-what-no-one-sees-but-needs-to-know-with-diogo-almeida)**  
-`Harry Stebbings` · 20 小时前  
+**[Paul Christiano – We could be 12 months away from AIs that can overthrow the government](https://www.dwarkesh.com/p/paul-christiano-2)**  
+`Dwarkesh Patel` · 22 小时前  
 
-**[A scenario for rogue AIs?](https://marginalrevolution.com/marginalrevolution/2026/11/a-scenario-for-rogue-ais.html?utm_source=rss&utm_medium=rss&utm_campaign=a-scenario-for-rogue-ais)**  
-`Tyler Cowen` · 22 小时前  
+**[Russ Roberts and I do EconTalk podcast on Montaigne](https://marginalrevolution.com/marginalrevolution/2026/11/russ-roberts-and-i-do-econtalk-podcast-on-montaigne.html?utm_source=rss&utm_medium=rss&utm_campaign=russ-roberts-and-i-do-econtalk-podcast-on-montaigne)**  
+`Tyler Cowen` · 23 小时前  
 
-**[Strategic Decision or Structural Advantage?](https://tomtunguz.com/two-pricing-strategies-in-enterprise-ai/)**  
-`Tomasz Tunguz` · 1 天前  
+**[🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS](https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight)**  
+`Lenny Rachitsky` · 23 小时前  
 
-**[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-590.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-590)**  
-`Tyler Cowen` · 1 天前  
-
-**[Meta’s Muse: How we launched the most successful consumer product this year \| Mona Sarantakos](https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most)**  
+**[How I fight token fraud as a solo founder](https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo)**  
 `Lenny Rachitsky` · 1 天前  
 
-**[Tyler Cowen’s strongest musical recommendations, 2003–2026](https://marginalrevolution.com/marginalrevolution/2026/11/tyler-cowens-strongest-musical-recommendations-2003-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=tyler-cowens-strongest-musical-recommendations-2003-2026)**  
+**[Starship](https://marginalrevolution.com/marginalrevolution/2026/11/starship.html?utm_source=rss&utm_medium=rss&utm_campaign=starship)**  
 `Tyler Cowen` · 1 天前  
 
-**[AI and complements](https://marginalrevolution.com/marginalrevolution/2026/11/ai-and-complements.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-complements)**  
+**[Obituaries](https://stratechery.com/2026/obituaries/)**  
+`Ben Thompson` · 1 天前  
+
+**[Coffeehouses and the Scientific Revolution](https://marginalrevolution.com/marginalrevolution/2026/11/coffeehouses-and-the-scientific-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=coffeehouses-and-the-scientific-revolution)**  
 `Tyler Cowen` · 1 天前  
+
+**[20VC: Jev Creator on Why Data Is More Important Than Compute \| Will US Open-Source Models Catch Chinese \| The Cost of Intelligence and Tokens: What No One Sees But Needs to Know with Diogo Almeida](https://thetwentyminutevc.libsyn.com/20vc-jev-creator-on-why-data-is-more-important-than-compute-will-us-open-source-models-catch-chinese-the-cost-of-intelligence-and-tokens-what-no-one-sees-but-needs-to-know-with-diogo-almeida)**  
+`Harry Stebbings` · 1 天前  
 
 <!-- POSTS:END -->

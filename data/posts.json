@@ -1,7 +1,104 @@
 {
-  "generated_at": "2026-11-17T03:55:22Z",
-  "count": 650,
+  "generated_at": "2026-11-17T16:00:31Z",
+  "count": 655,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-595.html",
+      "title": "Tuesday assorted links",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-595",
+      "published": "2026-11-17T13:46:49Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "1. Luka has become a very good player . Defense is much better too.\n\n 2. No comment .\n\n 3. Did England bribe Scotland into political union? \n\n 4. Survey article on the economics of mental health , one of the most important and understudied areas.\n\n 5. Science isn t just a series of lucky accidents .\n\n 6. Kalshi five-year productivity growth contract . Go trade!\n\n 7. Center for Human Progress, now inaugurated .\n\n The post Tuesday assorted links appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-17T16:00:18Z"
+    },
+    {
+      "id": "https://www.generalist.com/p/why-inference-is-harder-than-you",
+      "title": "Why inference is harder than you think",
+      "link": "https://www.generalist.com/p/why-inference-is-harder-than-you",
+      "published": "2026-11-17T13:04:26Z",
+      "source": "The Generalist",
+      "author": "Mario Gabriele",
+      "lang": "en",
+      "tags": [
+        "公司分析",
+        "创投"
+      ],
+      "type": "blog",
+      "raw_text": "If AI is going to eat the world, all that s going to matter is how that AI is run. And even in a world where there is AGI, the only thing left to do will be inference: to run the intelligence itself. Tuhin Srivastava, Co-founder and CEO of Baseten\n \n Tuhin Srivastava is the Co-founder and CEO of Baseten , a company building infrastructure for training and inference. When an AI model runs in production (responding to a user, powering an app, making a decision), Baseten is one of the companies that makes that happen reliably, quickly, and at scale. The company counts Abridge, Cursor, and OpenEvidence among its customers, spans 20 clouds and 90 regions, and was most recently valued at $13 billion following a $1.5 billion funding round.\n Tuhin sees inference as AI s final market : as AI spreads through the economy, the cost of running intelligence grows with it. Baseten s breakout began when it discarded three years of other product work in roughly six weeks to focus on an inference engine it had been giving away.\n In this conversation, we explore why inference has become one of the most consequential and least understood markets in AI, what it actually takes to run a model in production at scale, and why the compute squeeze may be the single largest constraint on AI growth right now. We also examine the customer journey from closed models to custom fine-tuned deployments, the concept of owned intelligence, and why Tuhin believes luck accounts for roughly 90% of startup success, while insisting that the 10% skill is still indispensable.\n Listen on YouTube Spotify Apple Podcasts \n\n From my notebook Inference is the final market is a great provocation. If AI takes over more of the economy, then the inference opportunity could grow to a truly ludicrous size. Tuhin s back-of-the-napkin estimate: about $2 trillion of inference spend by 2030.\n\n Off by 4X. Baseten s January 2025 forecast versus year-end actuals was off by four times, and its forecasts have been wrong every year since 2023. It s fascinating to me how difficult it is for even extremely sharp, knowledgeable humans to adjust to exponentials.\n\n The hyperscalers blind spots are organizational. Inference bridges compute, networking, observability, and workflow primitives that live in four different internal teams. A customer using a hyperscaler is effectively dealing with four different organizations at once, not just one.\n\n Owned intelligence as a thesis (and possible customer moat). This is a theme I hear from an increasing number of companies. Deploy open-weight models, generate production data, capture feedback signals, post-train custom models, redeploy, repeat. The idea is that companies that close that loop accumulate compounding advantages.\n\n Lessons from hospitality. Tuhin referenced Danny Meyer s full service philosophy as a hiring lens. Alongside things like intellectual curiosity, Baseten looks for a high-end hospitality mindset. Teammates should talk to customers every day and go the extra mile. That leads to deep relationships, with one Baseten employee recently attending a customer s wedding!\n\n Tuhin s bookshelf When I asked Tuhin what book he d assign to everyone, he named Breakneck . As mentioned above, he also pointed to Danny Meyer s book about Union Square Cafe, Setting the Table .\n\n Tangents What I m reading, watching, and into this week: \n Few people outside of the UK seem to have heard of Taskmaster . It is one of the most fun shows you could hope to watch, and its latest season is no exception\n\n An idea I have been having that I think I will write a piece on soon is the trend towards intensive, personal surveillance. AI relies on context to do its best work and as it becomes more capable, the right amount of context for it may be: everything. That might lead to some really strange behaviors that effectively amount to state-style surveillance of yourself (e.g. tracking your movement through cameras, recording your every word, and so on.)\n\n Mario \n \n Every timestamp ( 00:00 ) Intro\n ( 02:06 ) What Baseten is building and how it began\n ( 04:47 ) Finding balance in a fast-growing startup\n ( 06:45 ) Why inference is the final market \n ( 08:34 ) Tuhin s path to founding Baseten\n ( 12:06 ) What Australia gets right\n ( 13:43 ) The opportunity Baseten found in inference\n ( 20:34 ) How customers use Baseten\n ( 29:00 ) Managing compute across clouds\n ( 30:40 ) The compute crunch\n ( 32:11 ) Financing inference at scale\n ( 35:40 ) Why inference is hard to build in-house\n ( 36:41 ) Who Baseten wants to hire\n ( 39:46 ) Hard work and skill vs. luck\n ( 42:20 ) Final meditations\n \n Resources Baseten: https://www.baseten.co \n\n Sierra: https://sierra.ai \n\n Coinbase: https://www.coinbase.com \n\n No Priors Ep 56 | With Baseten CEO and Co-Founder Tuhin Srivastava: https://www.youtube.com/watch?v=oe3OSlsf4YA \n\n Etched: https://www.etched.com \n\n Cerebras: https://www.cerebras.ai \n\n NVIDIA Groq 3 LPX: https://www.nvidia.com/en-us/data-center/lpx \n\n Unreasonable Hospitality: The Remarkable Power of Giving People More Than They Expect : https://www.amazon.com/Unreasonable-Hospitality-Remarkable-Giving-People/dp/0593418573 \n\n Blackbird VC: https://www.blackbird.vc \n\n Greylock: https://greylock.com \n\n Conviction: https://www.conviction.com \n\n Where to find Tuhin X: https://x.com/tuhinone \n LinkedIn: https://www.linkedin.com/in/tuhin-srivastava \n \n Subscribe to the show I d love it if you d subscribe and share the show. Your support makes all the difference as we try to bring more curious minds into the conversation.\n YouTube \n Spotify \n Apple \n \n Production and marketing by penname.co . For inquiries about sponsoring the podcast, email jordan@penname.co.",
+      "fetched_at": "2026-11-17T16:00:18Z"
+    },
+    {
+      "id": "https://colossus.com/episode/restoring-the-american-dream",
+      "title": "Brad Gerstner & Geoffrey Canada - Raising the Floor for Every American Child - [Invest Like the Best, EP.501]",
+      "link": "https://colossus.com/episode/restoring-the-american-dream/",
+      "published": "2026-11-17T13:00:00Z",
+      "source": "Invest Like the Best",
+      "author": "Patrick O'Shaughnessy",
+      "lang": "en",
+      "tags": [
+        "深度访谈",
+        "投资",
+        "公司分析"
+      ],
+      "type": "interview",
+      "raw_text": "My guests today are Brad Gerstner, founder of Altimeter Capital,\nand Geoffrey Canada, founder of Harlem Children's Zone. Geoffrey spent decades helping disadvantaged kids get a great education, but it takes more than that to achieve the American dream. Without savings, you’re one emergency away from bankruptcy.\n\n Brad set out to change that. When he first called me about\nInvest America in 2020, I thought it was a fool’s errand. Six years later, nearly 70 million children have accounts in their name, and every American newborn receives $1,000 in the S&P 500. The challenge now is getting families to claim their accounts, since free money is surprisingly hard to give away.\n\n Brad and Geoffrey believe even a small nest egg, when given a head start on compounding, can help rebuild faith in capitalism. As AI reshapes the economy, they see these accounts as the basis of a new social contract built on ownership and participation, where every child owns a piece of the upside.\n\n Please enjoy my conversation with Brad and Geoffrey.\n\n For the full show notes, transcript, and links to mentioned content, check out the episode page ⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠ ⁠ . \n\n ----- \n\n Become a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠ ⁠colossus.com/subscribe⁠ ⁠ .\n\n ----- \n\n ⁠ ⁠Ramp’s⁠ ⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to ⁠ ⁠⁠ramp.com/invest⁠⁠ ⁠ to sign up for free and get a $250 welcome bonus. \n\n ----- \n\n Trusted by thousands of businesses, ⁠ ⁠Vanta⁠ ⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠ ⁠vanta.com/invest⁠ ⁠ . \n\n ----- \n\n ⁠ WorkOS⁠ ⁠ is the infrastructure B2B and AI-native companies use to sell to enterprise. It covers everything enterprise security requires: SSO, SCIM, RBAC, Audit Logs, AI governance, and more. Trusted by 2,000+ fast-growing companies, including OpenAI, Anthropic, Cursor, and Vercel. \n\n ----- \n\n ⁠ Rogo ⁠ is the AI platform for finance. They're building agents for Wall Street that are trained to understand how bankers and investors actually do work: from diligence and modeling, to turning analysis into deliverables. To learn more, visit ⁠ rogo.ai/invest ⁠ . \n\n ----- \n\n ⁠ ⁠Ridgeline⁠ ⁠ has built a complete, real-time, modern operating system for investment managers. It handles trading, portfolio management, compliance, customer reporting, and much more through an all-in-one real-time cloud platform. Visit ⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ridgeline.ai⁠ ⁠ . \n\n ----- \n\n Editing and post-production work for this episode was provided by ⁠ The Podcast Consultant ⁠ . \n\n Timestamps: \n\n (00:00:42) Why Education Alone Isn't Enough\n\n (00:07:41) Is the American Dream Lost?\n\n (00:14:19) Getting 70 Million Accounts Claimed\n\n (00:20:40) How the Accounts Work\n\n (00:24:43) Ownership vs. Populism\n\n (00:28:42) Winning Over Both Parties\n\n (00:35:57) Will the Program Last?\n\n (00:43:30) Lessons From 50 Years of Fighting Poverty\n\n (00:47:43) Financial Education at Scale\n\n (00:57:19) What Young People Fear About AI\n\n (01:05:56) Why Giving Money Away Is Hard\n\n (01:12:08) What's at Stake for America\n\n (01:21:17) The Trip That Changed Geoffrey's Life",
+      "fetched_at": "2026-11-17T16:00:30Z"
+    },
+    {
+      "id": "https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review",
+      "title": "Apple Permissions Update, The New App Paradigm, My iPhone Duo Review",
+      "link": "https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review/",
+      "published": "2026-11-17T11:00:00Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "Apple doesn't ruin the Mac, but they don't fix the agent problem, raising questions if they can think outside the app paradigm. Then, my iPhone Duo review.",
+      "fetched_at": "2026-11-17T16:00:18Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/adlerlicht-reporting-on-crime-in-germany.html",
+      "title": "Adlerlicht, reporting on crime in Germany",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/adlerlicht-reporting-on-crime-in-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=adlerlicht-reporting-on-crime-in-germany",
+      "published": "2026-11-17T07:12:17Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "In both German and English . Built with AI agents, we are going to see much more of this kind of effort. English-language explainer is here .\n\n The post Adlerlicht, reporting on crime in Germany appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-17T16:00:18Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-jensen-huang.html",
+      "title": "The economics of Jensen Huang",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-jensen-huang.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-jensen-huang",
+      "published": "2026-11-17T05:44:15Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Most of my assessment is very positive , but I will excerpt this bit from my latest Free Press piece :\n\n Finally, the company was not built to withstand Huang’s departure. Too much authority and knowledge were concentrated in his hands, as evidenced by his practice of having about 60 different people reporting directly to him. Whatever you may think of that system as a day-to-day routine, it can turn disastrous when the person at the top leaves. No one else has collected and interpreted the information those 60 subordinates have imparted to the CEO. We will see how his interim successor Colette Kress does, but there is a great danger that a lot of the contextual understanding of the company and business departed with Huang.\n\n Again, all those direct reports may have worked wonderfully when things were going great, but as a more general practice it is not resilient. Another way to put the point is that the very best CEOs make themselves at least partially dispensable, rather than indispensable. So a large share price decline, following Huang’s resignation, is a sign of his failures as well as his successes. As one set of commentators wrote recently : “the company was never built for him not to be there.”\n \n And one of the very best Ben Thompson columns (gated!) is on Huang and Nvidia.\n\n The post The economics of Jensen Huang appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-17T16:00:18Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-586.html",
       "title": "Monday assorted links",
@@ -10461,22 +10558,6 @@
       "type": "interview",
       "raw_text": "去年年底，硅谷掀起了一股风潮——“Token Maxing”（最大化token使用量），科技公司创始人和工程师们争相晒出账单，比谁家Token消耗更吓人，以此彰显对AI的全力押注。但到了今年年中，成本失控和虚假生产力让这场烧钱竞赛到达了转折点。Uber在四个月里烧穿了全年的AI预算，Meta被迫给员工设定token使用上限，一些公司会提醒员工使用AI的时候注意成本。大家开始认真思考：如何更经济地使用Token？\n\n这期节目的嘉宾黄东旭，就是Token Maxing热潮的亲历者。他曾经每天烧掉三四百美元，只用最前沿的模型。让他逐渐转变的，是中国开源模型们的崛起，大量的日常任务都可以做到“只烧电费，不烧Token”。他的结论是：不是前沿模型用不起，而是本地开源模型底座+前沿模型的搭配，成本可控，更具性价比。\n\n我们聊了这半年Agent产品的进化史——从OpenClaw，到Hermes，到Agent蜂群的智能涌现潜力，Agent消耗Token的趋势不会停止，未来还会有更复杂的A2A网络。亲历了互联网、移动互联网、AI三波浪潮的张宏江认为，Token Maxing折射出的是所有人在面临AI浪潮时的不知所措，AGI奇点已经到来，现在做Agent是好时机，但关键是：别做容易被大模型碾压的应用。\n\n 【主播】 \n\n泓君，硅谷101创始人，播客主理人\n\n 【嘉宾】 \n\n张宏江，Llama Ventures高级技术合伙人，美国国家工程院外籍院士，北京智源人工智能研究院（BAAI）理事长，源码资本合伙人，曾任微软亚洲工程院院长、微软亚太研发集团首席技术官、北京金山软件有限公司首席执行官\n\n黄东旭，Llama Ventures合伙人，PingCAP CTO&co-founder\n\n 【你将听到】 \n\n04:55 Token maxing，是泡沫吗？\n\n09:52 亲身体验：只选最强最贵，日烧四五百美元\n\n14:15 OpenClaw：从研究到工程的转折点\n\n20:31 龙虾退潮：“普罗米修斯”完成了使命\n\n23:09 Hermes：把成功经验沉淀成Skill\n\n30:09 “Agent动力学”：七嘴八舌烧Token换深度\n\n35:12 智商碾压：Fable 5一次搞定复杂任务\n\n37:20 本地开源模型经济账：每天电费1美元\n\n43:42 Token消耗不会停，更复杂的网络还在后面\n\n52:36 现在做Agent创业是好时机吗？看好toB和infra\n\n01:03:24 彩蛋：“办公室政治”和超预期行为\n\n01:15:30 IQ测试已超人类，AGI奇点已来\n\n01:18:19 新问题：当新岗位也不再需要人，人类如何自处？\n\n 【9月6日·成都 泓君线下开麦】 \n\n华夏基金携手小红书小红点计划，共同推出「红火开麦日2.0」线下活动，以「发现身边的ETF经济学」为主题，从身边小事发现经济趋势，捕捉藏在日常里的投资灵感。9月6日，成都·蔚蓝湖滨艺术中心，泓君将与华夏基金数量投资部总监荣膺一起，聊聊普通人如何被卷入全球AI定价战。\n\n活动免费，名额有限，扫码即可报名，期待与你线下相见！\n\n 【硅谷101听友群】 \n\n在这里，和同好一起深聊科技、商业与未来，期待你的声音，也期待更多有趣的讨论。\n\n扫码加入，即刻相遇！\n\n 【监制】 \n\n泓君\n\n 【后期】 \n\nAmei\n\n 【运营】 \n\n朱婕\n\n 【BGM】 \n\nImpossible Theory - Rachel Sandy\n\nMindscape - Lennon Hutton\n\n 【在这里找到我们】 \n\n公众号：硅谷101\n\n收听渠道：Apple Podcast｜Spotify｜小宇宙｜喜马拉雅｜蜻蜓FM｜荔枝FM｜网易云音乐｜QQ音乐\n\n其他平台：YouTube｜Bilibili 搜索「硅谷101播客」\n\n联系我们： podcast@sv101.net \n Special Guests: 张宏江 and 黄东旭.",
       "fetched_at": "2026-09-14T16:42:31Z"
-    },
-    {
-      "id": "https://cowenconvos.libsyn.com/luke-burgis-on-mimetic-desire-catholicism-and-the-age-of-social-contagion",
-      "title": "Luke Burgis on Mimetic Desire, Catholicism, and the Age of Social Contagion",
-      "link": "https://cowenconvos.libsyn.com/luke-burgis-on-mimetic-desire-catholicism-and-the-age-of-social-contagion",
-      "published": "2026-08-19T12:00:00Z",
-      "source": "Conversations with Tyler",
-      "author": "Tyler Cowen",
-      "lang": "en",
-      "tags": [
-        "深度访谈",
-        "经济学"
-      ],
-      "type": "interview",
-      "raw_text": "Luke Burgis left Wall Street after two years, founded a few successful companies in his twenties, then walked away to spend three years in a Roman seminary on the path to the priesthood. He now runs the Cluny Institute and teaches at Catholic University. His book Wanting made René Girard legible to a general audience; the new one, The One and the Ninety-Nine , takes mimetic theory into the dynamics of self and crowd in an age of social contagion.\n He joined Tyler to discuss whether the age of pessimism is ending, why the Anglo world in particular seems so unhappy, whether Dostoevsky or Thomas Mann better diagnoses modernity, the kind of reader his own book would ruin, why he thinks AI will make social contagion weaker , what put him off consulting with Anthropic on Claude's constitution, what effective altruism misses, why men and women are drifting apart, what he'd fund in every American city, the case for reintroducing friction, whether a Gnostic reading of the lost sheep explains our moment, what Rod Dreher gets right about withdrawal, why Genoa is Italy's most underrated city, what confession times reveal about a church, why Italians seem tired of their Catholicism, why he didn't become a priest, where he differs from Ross Douthat, why exorcists appear to be on the rise, the sudden mimetic antisemitism on the right, the book his 23-year-old self would have hated, what he secretly admires about Silicon Valley, why Michigan never left him, what the original Cluny can teach a modern talent network, how he hopes to face his own death, what he'll do next, and more.\n Read a transcript enhanced with helpful links, or watch the full video on YouTube.\n Recorded April 30th, 2026.\n Other ways to connect\n Follow us on X and Instagram \n Follow Tyler on X\n Follow Luke on X\n Sign up for our newsletter \n Join our Discord \n Email us: cowenconvos@mercatus.gmu.edu \n Learn more about Conversations with Tyler and other Mercatus Center podcasts here .\n Timestamps:\n 00:00:00 - Intro\n 00:05:08 - On overapplying mimetic theory\n 00:06:35 - On AI and social contagion\n 00:07:53 - On declining Anthropic's invitation\n 00:09:36 - On the widening gap between men and women\n 00:12:25 - On anti-mimetic postures, jazz, and porn\n 00:16:46 - On Genoa, Naples, and societal escape fantasies\n 00:18:31 - On Italian Catholicism\n 00:26:59 - On not becoming a priest\n 00:29:13 - On beauty, enchantment, and the Gnostic sheep\n 00:40:22 - On what Wall Street taught him\n 00:43:50 - On Michigan\n 00:45:12 - On the Cluny Institute\n 00:48:41 - On dealing with death and what else is next\n 00:51:21 - Outro\n Image credit: Kirth Bobb",
-      "fetched_at": "2026-09-14T16:42:29Z"
     }
   ]
 }
