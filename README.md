@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-18 00:57 UTC*
+*更新于 2026-11-18 11:43 UTC*
 
-**[The Kalshi market on U.S. productivity growth](https://marginalrevolution.com/marginalrevolution/2026/11/the-kalshi-market-on-u-s-productivity-growth.html?utm_source=rss&utm_medium=rss&utm_campaign=the-kalshi-market-on-u-s-productivity-growth)**  
-`Tyler Cowen` · 4 小时前  
+**[Nvidia Earnings; Office Convergence; OS Wars, AI Edition](https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/)**  
+`Ben Thompson` · 刚刚  
 
-**[What should I ask Alexander Mikaberidze?](https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-alexander-mikaberidze.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-alexander-mikaberidze)**  
+**[Me on the cyberattacks](https://marginalrevolution.com/marginalrevolution/2026/11/me-on-the-cyberattacks.html?utm_source=rss&utm_medium=rss&utm_campaign=me-on-the-cyberattacks)**  
 `Tyler Cowen` · 5 小时前  
 
+**[Jensen wants to come back](https://www.platformer.news/jensen-wants-to-come-back/)**  
+`Casey Newton` · 8 小时前  
+
+**[157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象](https://www.xiaoyuzhoufm.com/episode/6afd12c6a4a79edf137afd61?utm_source=rss)**  
+`张小珺` · 8 小时前  
+
+**[The Kalshi market on U.S. productivity growth](https://marginalrevolution.com/marginalrevolution/2026/11/the-kalshi-market-on-u-s-productivity-growth.html?utm_source=rss&utm_medium=rss&utm_campaign=the-kalshi-market-on-u-s-productivity-growth)**  
+`Tyler Cowen` · 15 小时前  
+
+**[What should I ask Alexander Mikaberidze?](https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-alexander-mikaberidze.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-alexander-mikaberidze)**  
+`Tyler Cowen` · 16 小时前  
+
 **[35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥](https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow)**  
-`Lenny Rachitsky` · 6 小时前  
+`Lenny Rachitsky` · 17 小时前  
 
 **[Alex Imas and I podcast on the economics of AI](https://marginalrevolution.com/marginalrevolution/2026/11/alex-imas-and-i-podcast-on-the-economics-of-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=alex-imas-and-i-podcast-on-the-economics-of-ai)**  
-`Tyler Cowen` · 8 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-595)**  
-`Tyler Cowen` · 11 小时前  
+`Tyler Cowen` · 21 小时前  
 
 **[Why inference is harder than you think](https://www.generalist.com/p/why-inference-is-harder-than-you)**  
-`Mario Gabriele` · 11 小时前  
+`Mario Gabriele` · 22 小时前  
 
 **[Brad Gerstner & Geoffrey Canada - Raising the Floor for Every American Child - [Invest Like the Best, EP.501]](https://colossus.com/episode/restoring-the-american-dream/)**  
-`Patrick O'Shaughnessy` · 11 小时前  
+`Patrick O'Shaughnessy` · 22 小时前  
 
 **[Apple Permissions Update, The New App Paradigm, My iPhone Duo Review](https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review/)**  
-`Ben Thompson` · 13 小时前  
+`Ben Thompson` · 1 天前  
 
 **[Adlerlicht, reporting on crime in Germany](https://marginalrevolution.com/marginalrevolution/2026/11/adlerlicht-reporting-on-crime-in-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=adlerlicht-reporting-on-crime-in-germany)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[The economics of Jensen Huang](https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-jensen-huang.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-jensen-huang)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[The Lakehouse for AI](https://tomtunguz.com/the-lakehouse-for-ai/)**  
 `Tomasz Tunguz` · 1 天前  
-
-**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-586)**  
-`Tyler Cowen` · 1 天前  
-
-**[Paul Christiano – We could be 12 months away from AIs that can overthrow the government](https://www.dwarkesh.com/p/paul-christiano-2)**  
-`Dwarkesh Patel` · 1 天前  
-
-**[Russ Roberts and I do EconTalk podcast on Montaigne](https://marginalrevolution.com/marginalrevolution/2026/11/russ-roberts-and-i-do-econtalk-podcast-on-montaigne.html?utm_source=rss&utm_medium=rss&utm_campaign=russ-roberts-and-i-do-econtalk-podcast-on-montaigne)**  
-`Tyler Cowen` · 1 天前  
-
-**[🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS](https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight)**  
-`Lenny Rachitsky` · 1 天前  
 
 <!-- POSTS:END -->
