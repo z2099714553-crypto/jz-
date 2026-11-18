@@ -1,7 +1,71 @@
 {
-  "generated_at": "2026-11-18T11:43:57Z",
-  "count": 662,
+  "generated_at": "2026-11-18T20:32:09Z",
+  "count": 667,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/uk-productivity-update.html",
+      "title": "UK productivity update",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/uk-productivity-update.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-productivity-update",
+      "published": "2026-11-18T18:53:56Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Output per hour worked increased by 2.5% in Quarter 3 (July to Sept) 2026 compared with the same quarter a year ago, reflecting a 2.0% increase in GVA and a 0.5% decrease in hours worked. \n\n Output per worker increased by 2.0% in Quarter 3 2026 compared with the same quarter a year ago. This was its strongest growth since Quarter 1 (Jan to Mar) 2018, excluding the pandemic period.\n \n Here is the official release , via Peter Whittaker. First, they are going to squeak through. Second, immigration did not ruin the country and will not lead to civil war.\n\n The post UK productivity update appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-18T20:31:52Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-investment-expensing.html",
+      "title": "The economics of investment expensing",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-investment-expensing.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-investment-expensing",
+      "published": "2026-11-18T18:17:04Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "In July 2025, the One Big Beautiful Bill Act made 100% equipment expensing permanent after two decades of temporary bonus depreciation. I evaluate this reform in a general-equilibrium heterogeneous-firm model with collateral constraints and nonrefundable tax deductions. When matched to U.S. tax-return and Compustat moments, the model yields three findings. First, permanent expensing raises long-run capital by 4.5% and output and real wages by 1.1%, roughly double the gains without financial frictions. Per present-value dollar of forgone corporate tax revenue, expensing builds 5.6 times as much capital as a tax rate cut, versus 3.4 times without financial frictions. Second, first-year capital purchases are U-shaped in firm age: young constrained firms and mature profitable firms expand, whereas unconstrained middle-aged firms whose investment exceeds taxable income delay purchases. Third, making expensing permanent gives up countercyclical bonus depreciation; enacted at the onset of a recession, a two-year bonus offsets 44% of the five-year investment drop.\n \n Here is the paper by Doruk Gökalp , who is on the job market this year from NYU.\n\n The post The economics of investment expensing appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-18T20:31:52Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-580.html",
+      "title": "Wednesday assorted links",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-580",
+      "published": "2026-11-18T16:41:46Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "1. Chinese AI companies way down in value .\n\n 2. Allison Schrager is starting a podcast with Ken Rogoff .\n\n 3. Extensive survey of students on AI .\n\n 4. Robert Lynch on lookism .\n\n 5. New version of Claude Blattman .\n\n 6. Seb Krier on the Christiano interview . The whole dialogue over this interview is a good example of why we have needed (and not really received) a peer-reviewed tier to the discourse on these aspects of AI safety. A more rigorous argument really needed to be forced here.\n\n 7. Poland foiled a Kaliningrad operation? \n\n The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-18T20:31:52Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/was-achilles-conscious.html",
+      "title": "Was Achilles Conscious?",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/was-achilles-conscious.html?utm_source=rss&utm_medium=rss&utm_campaign=was-achilles-conscious",
+      "published": "2026-11-18T12:18:00Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Homer’s Greeks had no inner life . That’s the title of a recent introduction to Julian Jaynes’s bicameral theory of mind. To recap: in The Origin of Consciousness in the Breakdown of the Bicameral Mind , Jaynes argued that intelligent behavior preceded introspective consciousness. People could speak, learn, farm, build cities, and solve problems without mentally representing themselves as an “I” deliberating within an internal world.\n\n In Jaynes s theory, routine behavior followed habit but difficult or unfamiliar situations triggered command hallucinations, voices experienced as gods, ancestors, or rulers giving instructions. One part of the mind issued commands; another obeyed—hence “bicameral.” Increasing complexity, migration, and the breakdown of established authority undermined the bicameral mind. Starting around 1200 BC, roughly between the Iliad and the Odyssey, people increasingly began imagining alternatives and narrating their own actions within an internal mental space, in short, they became conscious. Consciousness was thus not a biological given but a product of cultural and linguistic evolution.\n\n I used to dismiss Jaynes’s theory completely, The idea of otherwise normal but unconscious human beings seemed absurd. Today, I am not so sure. If you think AIs are not conscious, then a central premise of Jaynes’s theory becomes much more plausible: namely, a civilization of thinking, talking doing, but unconscious beings. The AIs are an existence proof. That said, I still find the evidence for a sharp break around the Homeric era weak. Linguistic differences between the Iliad and later texts are a weak reed for such a big claim and can be explained in other ways. The case for a near-universal transition in a few centuries is thin. On Occam’s-razor grounds I favor continuity. The fact that some animals appear conscious pushes in the same direction.\n\n AIs also undermine Jaynes’s theory in one way. Jaynes bases part of his theory on a change in the way people spoke—moving from describing their actions in terms of following commands to describing their actions in terms of deliberation and “I.” But if AIs are not conscious, then non-conscious beings can describe what they are doing in conscious terms. Of course, AIs have human culture as a foundation, which the early non-conscious humans would not have had, so I don’t think this is a strong hit on the theory.\n\n Still, Jaynes’s theory is that until very recently most humans lacked introspective consciousness. Does this mean that they couldn’t suffer or didn’t deserve moral consideration? I would think not, but it raises the question of what kind of consciousness are we looking for in AIs? Are AIs as conscious as Jaynes’s Achilles? If we can debate whether Homeric era humans were conscious, it’s no surprise that we have difficulty deciding whether AIs are or could be conscious.\n\n In What Did We Learn from Torturing Babies I wrote about the era when doubts about babies’ capacity to feel pain helped justify surgery without anesthesia. Babies certainly behaved as if they felt pain, but a theory overrode the plain observations. That seems crazy if you take behavior seriously as evidence of experience—a broad Turing-test approach. But taking that approach seriously also suggests AIs might well be conscious.\n\n Ultimately, the issue is not whether Jaynes was right or wrong but the fact that there is any debate at all is telling. We don’t have a good test for consciousness whether applied to the past, to other animals, or to machines. If we are unsure whether Achilles had an inner life perhaps we should be unsure whether Claude has an inner life.\n\n The post Was Achilles Conscious? appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-18T20:31:52Z"
+    },
     {
       "id": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition",
       "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
@@ -65,6 +129,22 @@
       "type": "interview",
       "raw_text": "今天的嘉宾是蚂蚁灵光负责人蔡伟。我们一起聊了聊正在成为中美AI共同焦点的Personal Agent。\n Muse掀起热潮之后，Personal Agent在过去三个月迅速成为AI行业的新赛场。Grok Bot、Instinct、OpenAI Dots、Town、Today、Cue等产品密集涌现，蚂蚁灵光也推出了2.0版本。一场围绕Personal Agent的竞争，正在加速展开。\n 这集节目，我们试图深入讨论：Personal Agent为什么在此刻集中爆发？模型能力与产品形态正在发生怎样的变化？用户需求究竟是真实存在，还是行业的一场集体想象？它会成为AI时代下一个真正的入口吗？ \n 同时，我们也大胆做了一些推演：今年春晚，会不会成为Personal Agent补贴大战的第一个大舞台？\n OUTLINE: \n 00:01:24 AI产品史\n 00:20:49 PA集中出现的根源\n 00:41:57 重构服务业\n 01:04:40 秉赋、不⾜和⽬标\n 01:28:21 产品设计、未来技术与格局推演\n 02:08:42 “市场是打出来的”\n 02:23:21 需求真伪\n 02:32:03 终极想象\n LINKS： \n 我们的播客在 小宇宙 、 Apple Podcast 、Spotify等全音频平台播出；\n 我们的视频播客在 小宇宙 、 Bilibili 、 小红书 、视频号、抖音等全视频平台播出；\n 语言即世界工作室公众号：语言即世界language is world。\n DISCLAIMER: 本内容不作为投资建议。\n CONTACT: xiaojunzhang@lisw.ai\n Jump into the new world-and explore with us! 😉",
       "fetched_at": "2026-11-18T11:43:50Z"
+    },
+    {
+      "id": "https://tomtunguz.com/the-non-hyperscaler-half-of-nvidia",
+      "title": "Squeezing Neoclouds Pushes NVIDIA Back Toward Its Rivals",
+      "link": "https://tomtunguz.com/the-non-hyperscaler-half-of-nvidia/",
+      "published": "2026-11-18T00:00:00Z",
+      "source": "Tomasz Tunguz",
+      "author": "Tomasz Tunguz",
+      "lang": "en",
+      "tags": [
+        "SaaS",
+        "数据分析"
+      ],
+      "type": "blog",
+      "raw_text": "Read on tomtunguz.com &rarr; \n NVIDIA&rsquo;s hardest strategic problem is not demand : it is choosing which customer to feed. 1 \n\n Hyperscalers like Google, Amazon, Microsoft & Meta buy $60.1b of NVIDIA hardware each quarter while racing to replace it with their own custom silicon. Neoclouds & frontier labs buy $47.5b & build no competing chips, yet rely on NVIDIA&rsquo;s balance sheet to scale.\n\n After climbing to a 45% share of Data Center revenue last quarter, non-hyperscaler share ticked down to 44% in Q3 just as NVIDIA signaled tighter financing terms. 2 \n\n Hyperscale revenue grew 71% year over year to $60.1b, while neocloud & enterprise revenue nearly tripled to $47.5b on strong Vera Rubin shipments. 2 \n\n &ldquo;AI Clouds, Industrial & Enterprise revenue of $47 billion increased 18% sequentially & nearly tripled year-over-year.&rdquo;\n\n Yet NVIDIA is tightening the bar on neocloud financing. It holds $102b in cloud & data center lease commitments, including $32b directly with neoclouds, alongside $390b in purchase commitments. 2 Interim CEO & CFO Colette Kress laid down a firmer line, demanding operators bring both powered shells & their own capital :\n\n &ldquo;We have supported the development of this ecosystem, & we will continue to be disciplined & selective in our support.&rdquo;\n\n Because neoclouds lack hyperscaler cash flows, a more selective backstop could moderate growth for smaller, capital-constrained operators. 3 \n\n A diversified buyer base is NVIDIA&rsquo;s best defense against hyperscaler custom silicon. Squeezing neoclouds hands that leverage right back to Google, Amazon, Microsoft & Meta.\n\n NVIDIA Corporation, NVIDIA Announces Financial Results for Third Quarter Fiscal 2027 , November 17, 2026 : total revenue $115.8b (+103% YoY, +20% QoQ), Data Center revenue $107.6b (+110% YoY, +21% QoQ), Q4 FY27 guidance $130.0b & FY28 growth outlook raised from 70% to 75%. \n\n NVIDIA Q3 FY27 CFO Commentary & Earnings Call Transcript (Colette Kress), November 17, 2026 : Hyperscale $60.1b (+71% YoY, +23% QoQ) vs. AI Clouds, Industrial & Enterprise $47.5b (+195% YoY, +18% QoQ) ; $20b in first-quarter Vera Rubin shipments ; $32b in direct neocloud agreements out of $102b total cloud & DC leases ; $390b purchase commitments. \n\n CNBC, Analysts react to Nvidia&rsquo;s first earnings without CEO Jensen Huang , November 18, 2026, quoting Citi ( Buy, $225 ) & Bernstein ( Market Perform, $200 ) on NVIDIA&rsquo;s more measured commentary around neocloud financing & backstops.",
+      "fetched_at": "2026-11-18T20:31:53Z"
     },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/11/the-kalshi-market-on-u-s-productivity-growth.html",
@@ -844,7 +924,7 @@
     },
     {
       "id": "https://www.xiaoyuzhoufm.com/episode/6af5debf14d01a26f8a900ac",
-      "title": "156. 对影之刃零梁其伟的6小时访谈：3A动作游戏、武侠、“最强者是朴实的”，“世界没有敌人，只有你和你的另一个自己”",
+      "title": "156. 对影之刃零梁其伟6小时访谈：3A游戏、15年创业路上斩妖除魔、命运——\"世界没有敌人，只有你和另一个自己\"",
       "link": "https://www.xiaoyuzhoufm.com/episode/6af5debf14d01a26f8a900ac?utm_source=rss",
       "published": "2026-11-13T00:00:00Z",
       "source": "张小珺商业访谈录",

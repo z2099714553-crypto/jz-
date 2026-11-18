@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-18 11:43 UTC*
+*更新于 2026-11-18 20:32 UTC*
+
+**[UK productivity update](https://marginalrevolution.com/marginalrevolution/2026/11/uk-productivity-update.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-productivity-update)**  
+`Tyler Cowen` · 1 小时前  
+
+**[The economics of investment expensing](https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-investment-expensing.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-investment-expensing)**  
+`Tyler Cowen` · 2 小时前  
+
+**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-580)**  
+`Tyler Cowen` · 3 小时前  
+
+**[Was Achilles Conscious?](https://marginalrevolution.com/marginalrevolution/2026/11/was-achilles-conscious.html?utm_source=rss&utm_medium=rss&utm_campaign=was-achilles-conscious)**  
+`Tyler Cowen` · 8 小时前  
 
 **[Nvidia Earnings; Office Convergence; OS Wars, AI Edition](https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/)**  
-`Ben Thompson` · 刚刚  
+`Ben Thompson` · 9 小时前  
 
 **[Me on the cyberattacks](https://marginalrevolution.com/marginalrevolution/2026/11/me-on-the-cyberattacks.html?utm_source=rss&utm_medium=rss&utm_campaign=me-on-the-cyberattacks)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 14 小时前  
 
 **[Jensen wants to come back](https://www.platformer.news/jensen-wants-to-come-back/)**  
-`Casey Newton` · 8 小时前  
+`Casey Newton` · 17 小时前  
 
 **[157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象](https://www.xiaoyuzhoufm.com/episode/6afd12c6a4a79edf137afd61?utm_source=rss)**  
-`张小珺` · 8 小时前  
+`张小珺` · 17 小时前  
+
+**[Squeezing Neoclouds Pushes NVIDIA Back Toward Its Rivals](https://tomtunguz.com/the-non-hyperscaler-half-of-nvidia/)**  
+`Tomasz Tunguz` · 20 小时前  
 
 **[The Kalshi market on U.S. productivity growth](https://marginalrevolution.com/marginalrevolution/2026/11/the-kalshi-market-on-u-s-productivity-growth.html?utm_source=rss&utm_medium=rss&utm_campaign=the-kalshi-market-on-u-s-productivity-growth)**  
-`Tyler Cowen` · 15 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[What should I ask Alexander Mikaberidze?](https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-alexander-mikaberidze.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-alexander-mikaberidze)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥](https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow)**  
-`Lenny Rachitsky` · 17 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[Alex Imas and I podcast on the economics of AI](https://marginalrevolution.com/marginalrevolution/2026/11/alex-imas-and-i-podcast-on-the-economics-of-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=alex-imas-and-i-podcast-on-the-economics-of-ai)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-595)**  
-`Tyler Cowen` · 21 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Why inference is harder than you think](https://www.generalist.com/p/why-inference-is-harder-than-you)**  
-`Mario Gabriele` · 22 小时前  
-
-**[Brad Gerstner & Geoffrey Canada - Raising the Floor for Every American Child - [Invest Like the Best, EP.501]](https://colossus.com/episode/restoring-the-american-dream/)**  
-`Patrick O'Shaughnessy` · 22 小时前  
-
-**[Apple Permissions Update, The New App Paradigm, My iPhone Duo Review](https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review/)**  
-`Ben Thompson` · 1 天前  
-
-**[Adlerlicht, reporting on crime in Germany](https://marginalrevolution.com/marginalrevolution/2026/11/adlerlicht-reporting-on-crime-in-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=adlerlicht-reporting-on-crime-in-germany)**  
-`Tyler Cowen` · 1 天前  
-
-**[The economics of Jensen Huang](https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-jensen-huang.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-jensen-huang)**  
-`Tyler Cowen` · 1 天前  
-
-**[The Lakehouse for AI](https://tomtunguz.com/the-lakehouse-for-ai/)**  
-`Tomasz Tunguz` · 1 天前  
+`Mario Gabriele` · 1 天前  
 
 <!-- POSTS:END -->
