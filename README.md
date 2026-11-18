@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-17 16:00 UTC*
+*更新于 2026-11-18 00:57 UTC*
 
-**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-595)**  
-`Tyler Cowen` · 2 小时前  
+**[The Kalshi market on U.S. productivity growth](https://marginalrevolution.com/marginalrevolution/2026/11/the-kalshi-market-on-u-s-productivity-growth.html?utm_source=rss&utm_medium=rss&utm_campaign=the-kalshi-market-on-u-s-productivity-growth)**  
+`Tyler Cowen` · 4 小时前  
 
-**[Why inference is harder than you think](https://www.generalist.com/p/why-inference-is-harder-than-you)**  
-`Mario Gabriele` · 2 小时前  
+**[What should I ask Alexander Mikaberidze?](https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-alexander-mikaberidze.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-alexander-mikaberidze)**  
+`Tyler Cowen` · 5 小时前  
 
-**[Brad Gerstner & Geoffrey Canada - Raising the Floor for Every American Child - [Invest Like the Best, EP.501]](https://colossus.com/episode/restoring-the-american-dream/)**  
-`Patrick O'Shaughnessy` · 3 小时前  
+**[35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥](https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow)**  
+`Lenny Rachitsky` · 6 小时前  
 
-**[Apple Permissions Update, The New App Paradigm, My iPhone Duo Review](https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review/)**  
-`Ben Thompson` · 5 小时前  
-
-**[Adlerlicht, reporting on crime in Germany](https://marginalrevolution.com/marginalrevolution/2026/11/adlerlicht-reporting-on-crime-in-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=adlerlicht-reporting-on-crime-in-germany)**  
+**[Alex Imas and I podcast on the economics of AI](https://marginalrevolution.com/marginalrevolution/2026/11/alex-imas-and-i-podcast-on-the-economics-of-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=alex-imas-and-i-podcast-on-the-economics-of-ai)**  
 `Tyler Cowen` · 8 小时前  
 
+**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-595)**  
+`Tyler Cowen` · 11 小时前  
+
+**[Why inference is harder than you think](https://www.generalist.com/p/why-inference-is-harder-than-you)**  
+`Mario Gabriele` · 11 小时前  
+
+**[Brad Gerstner & Geoffrey Canada - Raising the Floor for Every American Child - [Invest Like the Best, EP.501]](https://colossus.com/episode/restoring-the-american-dream/)**  
+`Patrick O'Shaughnessy` · 11 小时前  
+
+**[Apple Permissions Update, The New App Paradigm, My iPhone Duo Review](https://stratechery.com/2026/apple-permissions-update-the-new-app-paradigm-my-iphone-duo-review/)**  
+`Ben Thompson` · 13 小时前  
+
+**[Adlerlicht, reporting on crime in Germany](https://marginalrevolution.com/marginalrevolution/2026/11/adlerlicht-reporting-on-crime-in-germany.html?utm_source=rss&utm_medium=rss&utm_campaign=adlerlicht-reporting-on-crime-in-germany)**  
+`Tyler Cowen` · 17 小时前  
+
 **[The economics of Jensen Huang](https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-jensen-huang.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-jensen-huang)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 19 小时前  
+
+**[The Lakehouse for AI](https://tomtunguz.com/the-lakehouse-for-ai/)**  
+`Tomasz Tunguz` · 1 天前  
 
 **[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-586.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-586)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Paul Christiano – We could be 12 months away from AIs that can overthrow the government](https://www.dwarkesh.com/p/paul-christiano-2)**  
-`Dwarkesh Patel` · 22 小时前  
+`Dwarkesh Patel` · 1 天前  
 
 **[Russ Roberts and I do EconTalk podcast on Montaigne](https://marginalrevolution.com/marginalrevolution/2026/11/russ-roberts-and-i-do-econtalk-podcast-on-montaigne.html?utm_source=rss&utm_medium=rss&utm_campaign=russ-roberts-and-i-do-econtalk-podcast-on-montaigne)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS](https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight)**  
-`Lenny Rachitsky` · 23 小时前  
-
-**[How I fight token fraud as a solo founder](https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo)**  
 `Lenny Rachitsky` · 1 天前  
-
-**[Starship](https://marginalrevolution.com/marginalrevolution/2026/11/starship.html?utm_source=rss&utm_medium=rss&utm_campaign=starship)**  
-`Tyler Cowen` · 1 天前  
-
-**[Obituaries](https://stratechery.com/2026/obituaries/)**  
-`Ben Thompson` · 1 天前  
-
-**[Coffeehouses and the Scientific Revolution](https://marginalrevolution.com/marginalrevolution/2026/11/coffeehouses-and-the-scientific-revolution.html?utm_source=rss&utm_medium=rss&utm_campaign=coffeehouses-and-the-scientific-revolution)**  
-`Tyler Cowen` · 1 天前  
-
-**[20VC: Jev Creator on Why Data Is More Important Than Compute \| Will US Open-Source Models Catch Chinese \| The Cost of Intelligence and Tokens: What No One Sees But Needs to Know with Diogo Almeida](https://thetwentyminutevc.libsyn.com/20vc-jev-creator-on-why-data-is-more-important-than-compute-will-us-open-source-models-catch-chinese-the-cost-of-intelligence-and-tokens-what-no-one-sees-but-needs-to-know-with-diogo-almeida)**  
-`Harry Stebbings` · 1 天前  
 
 <!-- POSTS:END -->
