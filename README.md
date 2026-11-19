@@ -112,37 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-18 20:32 UTC*
+*更新于 2026-11-19 02:34 UTC*
+
+**[189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](https://podcast.latepost.com/189)**  
+`晚点团队` · 2 小时前  
 
 **[UK productivity update](https://marginalrevolution.com/marginalrevolution/2026/11/uk-productivity-update.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-productivity-update)**  
-`Tyler Cowen` · 1 小时前  
+`Tyler Cowen` · 7 小时前  
 
 **[The economics of investment expensing](https://marginalrevolution.com/marginalrevolution/2026/11/the-economics-of-investment-expensing.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-investment-expensing)**  
-`Tyler Cowen` · 2 小时前  
-
-**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-580)**  
-`Tyler Cowen` · 3 小时前  
-
-**[Was Achilles Conscious?](https://marginalrevolution.com/marginalrevolution/2026/11/was-achilles-conscious.html?utm_source=rss&utm_medium=rss&utm_campaign=was-achilles-conscious)**  
 `Tyler Cowen` · 8 小时前  
 
-**[Nvidia Earnings; Office Convergence; OS Wars, AI Edition](https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/)**  
-`Ben Thompson` · 9 小时前  
+**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-580)**  
+`Tyler Cowen` · 9 小时前  
 
-**[Me on the cyberattacks](https://marginalrevolution.com/marginalrevolution/2026/11/me-on-the-cyberattacks.html?utm_source=rss&utm_medium=rss&utm_campaign=me-on-the-cyberattacks)**  
+**[Was Achilles Conscious?](https://marginalrevolution.com/marginalrevolution/2026/11/was-achilles-conscious.html?utm_source=rss&utm_medium=rss&utm_campaign=was-achilles-conscious)**  
 `Tyler Cowen` · 14 小时前  
 
+**[Nvidia Earnings; Office Convergence; OS Wars, AI Edition](https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/)**  
+`Ben Thompson` · 15 小时前  
+
+**[Me on the cyberattacks](https://marginalrevolution.com/marginalrevolution/2026/11/me-on-the-cyberattacks.html?utm_source=rss&utm_medium=rss&utm_campaign=me-on-the-cyberattacks)**  
+`Tyler Cowen` · 20 小时前  
+
 **[Jensen wants to come back](https://www.platformer.news/jensen-wants-to-come-back/)**  
-`Casey Newton` · 17 小时前  
+`Casey Newton` · 23 小时前  
 
 **[157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象](https://www.xiaoyuzhoufm.com/episode/6afd12c6a4a79edf137afd61?utm_source=rss)**  
-`张小珺` · 17 小时前  
+`张小珺` · 23 小时前  
 
 **[Squeezing Neoclouds Pushes NVIDIA Back Toward Its Rivals](https://tomtunguz.com/the-non-hyperscaler-half-of-nvidia/)**  
-`Tomasz Tunguz` · 20 小时前  
+`Tomasz Tunguz` · 1 天前  
 
 **[The Kalshi market on U.S. productivity growth](https://marginalrevolution.com/marginalrevolution/2026/11/the-kalshi-market-on-u-s-productivity-growth.html?utm_source=rss&utm_medium=rss&utm_campaign=the-kalshi-market-on-u-s-productivity-growth)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[What should I ask Alexander Mikaberidze?](https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-alexander-mikaberidze.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-alexander-mikaberidze)**  
 `Tyler Cowen` · 1 天前  
@@ -155,8 +158,5 @@ open docs/index.html
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-595.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-595)**  
 `Tyler Cowen` · 1 天前  
-
-**[Why inference is harder than you think](https://www.generalist.com/p/why-inference-is-harder-than-you)**  
-`Mario Gabriele` · 1 天前  
 
 <!-- POSTS:END -->
