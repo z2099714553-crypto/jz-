@@ -1,7 +1,71 @@
 {
-  "generated_at": "2026-11-19T02:34:40Z",
-  "count": 667,
+  "generated_at": "2026-11-19T11:41:03Z",
+  "count": 671,
   "posts": [
+    {
+      "id": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce",
+      "title": "An Interview With Eric Seufert About Agentic Commerce",
+      "link": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce/",
+      "published": "2026-11-19T11:00:00Z",
+      "source": "Stratechery",
+      "author": "Ben Thompson",
+      "lang": "en",
+      "tags": [
+        "战略",
+        "科技商业"
+      ],
+      "type": "blog",
+      "raw_text": "An interview with Eric Seufert about agentic commerce, including why he thinks ads will be the answer, and why I want retailers who cater to agents.",
+      "fetched_at": "2026-11-19T11:40:50Z"
+    },
+    {
+      "id": "https://thetwentyminutevc.libsyn.com/20vc-will-jensen-return-to-nvidia-anthropic-set-for-largest-ipo-of-all-time-kalshi-mercor-fractile-mega-rounds-continue",
+      "title": "20VC: Will Jensen Return to NVIDIA | Anthropic Set for Largest IPO of All Time | Kalshi, Mercor & Fractile: Mega-Rounds Continue",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-will-jensen-return-to-nvidia-anthropic-set-for-largest-ipo-of-all-time-kalshi-mercor-fractile-mega-rounds-continue",
+      "published": "2026-11-19T07:07:00Z",
+      "source": "20VC",
+      "author": "Harry Stebbings",
+      "lang": "en",
+      "tags": [
+        "创投",
+        "深度访谈"
+      ],
+      "type": "interview",
+      "raw_text": "AGENDA: \n 00:00 Nvidia's $600B Wipeout: Pressure Mounts for Jensen's Return\n 14:00 Anthropic's $1.4T IPO: A New Record for Venture Capital\n 19:00 The $20B Club: Unicorns Are No Longer Enough\n 23:00 Kalshi, Mercor & Fractile: Mega-Rounds Divide Investors\n 29:00 Nvidia's Deal Spree Under Threat: AI Startups Lose Their Safety Net\n 32:00 HubSpot's Founders Return as Customer Growth Slumps\n 41:00 Small Businesses Shun SaaS: AI Agents Win the Budget\n 45:00 Microsoft Outage & FAA Shutdown Expose Fragile Infrastructure\n 54:00 OpenAI Buys Odessia: The End of Vertical Personal Assistants?\n 56:00 Meta's Muse Takes Aim at the $100K Software Stack\n 01:06:00 SpaceX Catches Starship: The Stock Is Now a Bet on Compute",
+      "fetched_at": "2026-11-19T11:41:03Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-ipo.html",
+      "title": "The Anthropic IPO",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-ipo.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anthropic-ipo",
+      "published": "2026-11-19T06:40:05Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "In general I am bullish on the commercial prospects of AI companies, including Anthropic (do note I am on the Advisory Board, though with zero governance role and zero access to internal information).\n\n But I view today s IPO as a sign of bearishness on any kind of extreme superintelligence, no matter what involved parties might say.\n\n If superintelligence is coming soon, why turn yourself into a public company, with all the extra scrutiny and regulation that requires? Raising extra money through debt is the obvious alternative why cut other in on such an amazing deal?\n\n Furthermore, true superintelligence is likely to raise real interest rates, which raises the return to borrowing today (you can always reinvest at higher rates later, if you do not need the money for compute, etc.).\n\n Now raising money through debt would be relatively costly for Anthropic, but at the very least they could have shrunk the size of the IPO and borrowed more at the margin. Claude says they would have had to pay about ten to eleven percent on that debt .\n\n So presumably Anthropic thinks that pending advances, whatever you might wish to call them, will not yield ten to eleven percent at the margin.\n\n That seems wise and prudent to me. But I am taking that estimate under advisement, and it does not imply an incredibly radical near future. Keep in mind that the average return on American corporate capital is about seven percent.\n\n Addendum : Maybe there is some clever 3-D chess strategy whereby they do the IPO, and then turn around and borrow lots at a much lower rate, say six to seven percent. And still come out ahead, relative to no IPO, by busting through a credit constraint. Maybe. We ll see if that happens, but it strikes me as a rather strained possibility.\n\n Here is some sanity from Theo .\n\n The post The Anthropic IPO appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-19T11:40:50Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/will-baird-book-maven-from-my-email.html",
+      "title": "Will Baird, book maven (from my email)",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/will-baird-book-maven-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=will-baird-book-maven-from-my-email",
+      "published": "2026-11-19T06:02:15Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Tyler and Alex,\n\n I have built Marginalia Library : using AI and the archives you have helpfully posted, I found every time a book has been mentioned on Marginal Revolution and created a searchable, browsable catalog.\n\n The catalog currently covers 13,315 mentions of 7,968 books across 7,306 posts. Mentions come from the entire Marginal Revolution corpus, not just posts in the Books category. The site does not directly quote anything from Marginal Revolution other than post titles, which link to the relevant post where a book was mentioned.\n\n In addition to compiling mentioned books, I had Claude determine whether books were evaluated (positively, negatively, or mixed), recommended, or described as “self-recommending.” This let me identify books you’ve both evaluated : while there are 98 books you have evaluated similarly, there are 10 where you’ve differed.\n\n This project was created almost entirely with Claude Code and the Claude API, though I used GPT-6 Luna to do the first pass over the entire archive. I checked about 2,000 links and 650 labels by hand. I’m sure there are still some mistakes, and each record has a contact address for users to reach out with a correction.\n\n I’ve been a reader of Marginal Revolution for a long time and have discovered some of my favorite books by reading about them on MR. This project was a way for me to improve my discovery of new books and learn more about how to use AI (I’m already reading Robert Hughes’ The Fatal Shore after finding it in this process). This is a labor of love: Marginalia Library does not and will not have ads, tracking, or affiliate links, and I plan to keep it current from the weekly Marginal Revolution AI Archive updates.\n\n The post Will Baird, book maven (from my email) appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-19T11:40:50Z"
+    },
     {
       "id": "https://podcast.latepost.com/189",
       "title": "189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始",
