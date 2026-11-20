@@ -112,31 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-20 02:19 UTC*
+*更新于 2026-11-20 11:40 UTC*
+
+**[Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo](https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo/)**  
+`Ben Thompson` · 刚刚  
+
+**[Phonics-based Instruction and Student Achievement](https://marginalrevolution.com/marginalrevolution/2026/11/phonics-based-instruction-and-student-achievement.html?utm_source=rss&utm_medium=rss&utm_campaign=phonics-based-instruction-and-student-achievement)**  
+`Tyler Cowen` · 3 小时前  
+
+**[AIs vs. humans in economics papers](https://marginalrevolution.com/marginalrevolution/2026/11/ais-vs-humans-in-economics-papers.html?utm_source=rss&utm_medium=rss&utm_campaign=ais-vs-humans-in-economics-papers)**  
+`Tyler Cowen` · 5 小时前  
 
 **[Anthropic goes public](https://www.platformer.news/anthropic-goes-public/)**  
-`Casey Newton` · 刚刚  
+`Casey Newton` · 10 小时前  
 
 **[科技爱好者周刊（第 420 期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html)**  
-`阮一峰` · 2 小时前  
+`阮一峰` · 11 小时前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/thursday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-579)**  
-`Tyler Cowen` · 9 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[Future 50 is back](https://www.generalist.com/p/future-50-2026)**  
-`Mario Gabriele` · 10 小时前  
+`Mario Gabriele` · 20 小时前  
 
 **[An Interview With Eric Seufert About Agentic Commerce](https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce/)**  
-`Ben Thompson` · 15 小时前  
+`Ben Thompson` · 1 天前  
 
 **[20VC: Will Jensen Return to NVIDIA \| Anthropic Set for Largest IPO of All Time \| Kalshi, Mercor & Fractile: Mega-Rounds Continue](https://thetwentyminutevc.libsyn.com/20vc-will-jensen-return-to-nvidia-anthropic-set-for-largest-ipo-of-all-time-kalshi-mercor-fractile-mega-rounds-continue)**  
-`Harry Stebbings` · 19 小时前  
+`Harry Stebbings` · 1 天前  
 
 **[The Anthropic IPO](https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-ipo.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anthropic-ipo)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Will Baird, book maven (from my email)](https://marginalrevolution.com/marginalrevolution/2026/11/will-baird-book-maven-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=will-baird-book-maven-from-my-email)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](https://podcast.latepost.com/189)**  
 `晚点团队` · 1 天前  
@@ -148,15 +157,6 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-580.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-580)**  
-`Tyler Cowen` · 1 天前  
-
-**[Was Achilles Conscious?](https://marginalrevolution.com/marginalrevolution/2026/11/was-achilles-conscious.html?utm_source=rss&utm_medium=rss&utm_campaign=was-achilles-conscious)**  
-`Tyler Cowen` · 1 天前  
-
-**[Nvidia Earnings; Office Convergence; OS Wars, AI Edition](https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/)**  
-`Ben Thompson` · 1 天前  
-
-**[Me on the cyberattacks](https://marginalrevolution.com/marginalrevolution/2026/11/me-on-the-cyberattacks.html?utm_source=rss&utm_medium=rss&utm_campaign=me-on-the-cyberattacks)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
