@@ -112,28 +112,34 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-19 20:38 UTC*
+*更新于 2026-11-20 02:19 UTC*
+
+**[Anthropic goes public](https://www.platformer.news/anthropic-goes-public/)**  
+`Casey Newton` · 刚刚  
+
+**[科技爱好者周刊（第 420 期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html)**  
+`阮一峰` · 2 小时前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/thursday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-579)**  
-`Tyler Cowen` · 3 小时前  
+`Tyler Cowen` · 9 小时前  
 
 **[Future 50 is back](https://www.generalist.com/p/future-50-2026)**  
-`Mario Gabriele` · 5 小时前  
+`Mario Gabriele` · 10 小时前  
 
 **[An Interview With Eric Seufert About Agentic Commerce](https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce/)**  
-`Ben Thompson` · 9 小时前  
+`Ben Thompson` · 15 小时前  
 
 **[20VC: Will Jensen Return to NVIDIA \| Anthropic Set for Largest IPO of All Time \| Kalshi, Mercor & Fractile: Mega-Rounds Continue](https://thetwentyminutevc.libsyn.com/20vc-will-jensen-return-to-nvidia-anthropic-set-for-largest-ipo-of-all-time-kalshi-mercor-fractile-mega-rounds-continue)**  
-`Harry Stebbings` · 13 小时前  
+`Harry Stebbings` · 19 小时前  
 
 **[The Anthropic IPO](https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-ipo.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anthropic-ipo)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 19 小时前  
 
 **[Will Baird, book maven (from my email)](https://marginalrevolution.com/marginalrevolution/2026/11/will-baird-book-maven-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=will-baird-book-maven-from-my-email)**  
-`Tyler Cowen` · 14 小时前  
+`Tyler Cowen` · 20 小时前  
 
 **[189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始](https://podcast.latepost.com/189)**  
-`晚点团队` · 20 小时前  
+`晚点团队` · 1 天前  
 
 **[UK productivity update](https://marginalrevolution.com/marginalrevolution/2026/11/uk-productivity-update.html?utm_source=rss&utm_medium=rss&utm_campaign=uk-productivity-update)**  
 `Tyler Cowen` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[Me on the cyberattacks](https://marginalrevolution.com/marginalrevolution/2026/11/me-on-the-cyberattacks.html?utm_source=rss&utm_medium=rss&utm_campaign=me-on-the-cyberattacks)**  
 `Tyler Cowen` · 1 天前  
-
-**[Jensen wants to come back](https://www.platformer.news/jensen-wants-to-come-back/)**  
-`Casey Newton` · 1 天前  
-
-**[157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象](https://www.xiaoyuzhoufm.com/episode/6afd12c6a4a79edf137afd61?utm_source=rss)**  
-`张小珺` · 1 天前  
 
 <!-- POSTS:END -->
