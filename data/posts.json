@@ -1,7 +1,88 @@
 {
-  "generated_at": "2026-11-21T11:03:11Z",
-  "count": 681,
+  "generated_at": "2026-11-21T19:16:23Z",
+  "count": 685,
   "posts": [
+    {
+      "id": "https://www.lennysnewsletter.com/p/community-wisdom-handling-context",
+      "title": "🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on",
+      "link": "https://www.lennysnewsletter.com/p/community-wisdom-handling-context",
+      "published": "2026-11-21T16:49:56Z",
+      "source": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "lang": "en",
+      "tags": [
+        "产品",
+        "增长",
+        "访谈"
+      ],
+      "type": "interview",
+      "raw_text": "Hello and welcome to this week s edition of Community Wisdom a subscriber-only email, delivered every Saturday, highlighting the most helpful conversations in our members-only Slack community . \n\n Read more",
+      "fetched_at": "2026-11-21T19:16:12Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-587.html",
+      "title": "Saturday assorted links",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-587",
+      "published": "2026-11-21T16:41:52Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "1. Many federal agencies are hiring economists .\n\n 2. Theodore Zeldin, RIP .\n\n 3. Henry Oliver on Paradise Lost .\n\n 4. Quantum computing even weirder than you think? (NYT) And an article bullish on quantum computing (NYT).\n\n 5. What Venus looks like .\n\n 6. Good AI policy ideas from Joshua Saxe .\n\n 7. Podcast with SBF from prison , have not had a chance to listen, looks interesting.\n\n 8.. Possible implications of the generalized Riemann proof? \n\n The post Saturday assorted links appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-21T19:16:10Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/a-simple-observation.html",
+      "title": "A simple observation",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/a-simple-observation.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-observation",
+      "published": "2026-11-21T15:12:31Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "The Riemann proof seems like a true surprise. Yet on the same day Anthropic shares fell about ten percent. In other words, the market feels that capabilities do not necessarily translate into significant social and economic outcomes.\n\n Yet cybersecurity stocks are up considerably over the last few months, due to heightened cyber risk. So the market is hardly unaware of AI and its potential, when the connection is real and evident.\n\n Just a simple point to ponder. Here are good comments from Alex Imas and Seb Krier .\n\n The post A simple observation appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-21T19:16:10Z"
+    },
+    {
+      "id": "https://thetwentyminutevc.libsyn.com/20vc-the-state-of-compute-what-everyone-needs-to-know-why-neo-clouds-are-great-businesses-what-everyone-is-missing-about-gpu-prices-how-ai-infrastructure-investors-will-win-with-kush-bavaria-co-founder-ornn",
+      "title": "20VC: The State of Compute: What Everyone Needs to Know | Why Neo-Clouds are Great Businesses | What Everyone Is Missing About GPU Prices? | How AI Infrastructure Investors Will Win with Kush Bavaria, Co-Founder @ Ornn",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-the-state-of-compute-what-everyone-needs-to-know-why-neo-clouds-are-great-businesses-what-everyone-is-missing-about-gpu-prices-how-ai-infrastructure-investors-will-win-with-kush-bavaria-co-founder-ornn",
+      "published": "2026-11-21T14:50:00Z",
+      "source": "20VC",
+      "author": "Harry Stebbings",
+      "lang": "en",
+      "tags": [
+        "创投",
+        "深度访谈"
+      ],
+      "type": "interview",
+      "raw_text": "Kush Bavaria is the Co-founder and CEO of Ornn, building the financial market for AI compute. Ornn helps companies price, finance and hedge GPU capacity—bringing the tools of commodity markets to AI infrastructure. Kush is just 23 years old and has raised funding from some of the best in the world including Andreessen Horowitz, Thrive Capital and BoxGroup.\n AGENDA: \n 05:00 Building a Viral Sports Betting Platform from a Dormroom at MIT\n 09:00 Can AI Win While Infrastructure Investors Lose?\n 13:00 What Is Everyone Missing About GPU Prices?\n 14:00 Why Is Everyone Betting Against CoreWeave and Nebius?\n 19:00 Are Older GPUs Really Becoming Obsolete?\n 24:00 Where Are AI's Biggest Untapped Opportunities?\n 29:00 What Would It Take for Compute to Trade Like Oil?\n 43:00 What Wins the AI Race: Better Talent or More Compute?\n 48:00 Why Raise Money When You Don't Need It?\n 59:00 How Do You Build a Team That Hates Losing?\n 01:05:00 Would You Buy OpenAI or Anthropic?",
+      "fetched_at": "2026-11-21T19:16:23Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/paul-litvaks-evidence-guide.html",
+      "title": "Paul Litvak’s Evidence Guide",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/paul-litvaks-evidence-guide.html?utm_source=rss&utm_medium=rss&utm_campaign=paul-litvaks-evidence-guide",
+      "published": "2026-11-21T11:58:56Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "I m excited to announce the launch of Evidence Guide, the place to store and find computational audits of papers. I built it to fill a major gap in research quality evaluation.\n \n Here is the rest of the thread . Here is the site . This is happening quickly, people. Via Andrea.\n\n The post Paul Litvak s Evidence Guide appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-21T19:16:10Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/11/the-great-enrichment.html",
       "title": "*The Great Enrichment*",
@@ -10959,22 +11040,6 @@
       "type": "interview",
       "raw_text": "Julien Bek is a Partner at Sequoia Capital, one of the most renowned venture firms in the world. At Sequoia, he has partnered with companies including Rillet, Tacto, and Auctor. Before joining Sequoia, Julien spent five years at Accel, where he worked with companies including Miro, Melio, and BeReal. He is also an angel investor in Revolut and Attio.\n AGENDA:\n 06:35 – What did Julien only discover about Sequoia after joining the firm?\n 08:05 – What does everyone get wrong about Sequoia?\n 13:00 – Is Series A the hardest stage at which to invest today?\n 14:00 – Is Sequoia less focused on ownership as outcomes become larger?\n 19:20 – Does Sequoia simply pay more than everyone else to win deals?\n 22:00 – Is the \"triple, triple, double, double\" growth model dead?\n 25:00 – What is Sequoia's investment process really like behind the scenes?\n 27:15 – Can a partner still invest when the rest of Sequoia votes against them?\n 30:00 – Why can a flawless founder pitch actually be a warning sign?\n 31:00 – How do you judge whether a founder is exceptional in just 30 minutes?\n 33:00 – How can investors tell whether a founder's story is genuine?\n 35:10 – Is arrogance a bad trait in a founder?\n 36:00 – Which great founder did Julien completely misread?\n 37:15 – How should investors adjust their founder assessment across different cultures?\n 39:00 – What does a founder's childhood reveal about their future trajectory?\n 40:30 – What has Julien learned from Doug Leone, Pat Grady, Alfred Lin and Shaun Maguire?\n 47:00 – What does it mean when \"agents become the new customer\"?\n 49:00 – Does UI become irrelevant in an agent-first economy?\n 50:15 – Will answer-engine optimisation become larger than SEO?\n 52:00 – Will AI agents destroy software margins and brand loyalty?\n 53:00 – How quickly will enterprises allow agents to make purchasing decisions?\n 54:00 – Is AI infrastructure a safer investment than applications?\n 56:00 – Do software margins matter less when the potential outcomes are larger?\n 58:00 – Could the next trillion-dollar company masquerade as a services business?\n 01:00:00 – Which service industries can AI truly automate end-to-end?\n 01:02:00 – Are enterprises simply crying out for more help implementing AI?\n 01:03:10 – Will AI lead to dramatically smaller teams?\n 01:06:15 – Is traditional private equity screwed?\n 01:07:00 – The most overfunded and underfunded categories in venture\n 01:08:15 – What is the best AI agent company outside Sequoia's portfolio?\n 01:09:00 – Which missed investment still haunts Julien?\n 01:09:45 – Which founder trait will Julien never compromise on?\n 01:10:00 – Which competing fund makes Sequoia bring its A-game?\n 01:10:45 – How Julien missed Revolut—and helped his mother retire by investing anyway\n 01:14:00 – What does Julien believe that other Sequoia partners might disagree with?\n 01:15:00 – What is Julien most excited about over the next five years of AI?",
       "fetched_at": "2026-09-14T16:42:37Z"
-    },
-    {
-      "id": "https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by",
-      "title": "How to close $100K+ enterprise deals, step by step | Jen Abel",
-      "link": "https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by",
-      "published": "2026-08-23T12:31:43Z",
-      "source": "Lenny's Newsletter",
-      "author": "Lenny Rachitsky",
-      "lang": "en",
-      "tags": [
-        "产品",
-        "增长"
-      ],
-      "raw_text": "Jen Abel is the co-founder of JJellyfish and GM of enterprise sales at State Affairs. She is widely regarded as one of the sharpest practitioners in enterprise sales, and for that reason, this is her third visit to the podcast. In our first conversation we went deep on founder-led sales; in our second we mapped the $1M $10M playbook. This time we do something I ve never seen on another podcast: walk step by step through the full enterprise sales cycle. Most people think it s five steps. Jen shows it s closer to 15.\n Listen on YouTube , Spotify , and Apple Podcasts \n\n In our in-depth conversation, we discuss: Why the standard five-stage CRM pipeline is a forecasting tool, not a sales process, and what the real 15-step cycle looks like\n\n The pincer model for landing the first meeting at the executive and N-minus-one level simultaneously\n\n How to craft a two-to-three-sentence message around giving them alpha \n\n How to run an intro call that extracts maximum intelligence before you ever show a demo\n\n The two-to-three-day pilot structure, how to define success jointly, and when to charge for a longer pilot versus giving it away\n\n Navigating pricing, procurement, redline negotiations, and the final signature without losing momentum\n\n Brought to you by: \n\n WorkOS Make your app enterprise-ready, with SSO, SCIM, RBAC, and more\n Mercury Radically different banking, now with Command\n\n Where to find Jen Abel: X: https://x.com/jjen_abel \n LinkedIn: https://www.linkedin.com/in/earlystagesales \n Website: https://www.jjellyfish.com \n \n Referenced: State Affairs: https://stateaffairs.com \n The ultimate guide to founder-led sales | Jen Abel (co-founder of JJELLYFISH): https://www.lennysnewsletter.com/p/master-founder-led-sales-jen-abel \n Sell the alpha, not the feature : The enterprise sales playbook for $1M to $10M ARR | Jen Abel: https://www.lennysnewsletter.com/p/the-enterprise-sales-playbook-1m-to-10m-arr \n SpaceX: https://www.spacex.com \n Lemlist: https://www.lemlist.com \n Palantir: https://www.palantir.com \n Jason Lemkin on X: https://x.com/jasonlk \n We replaced our sales team with 20 AI agents here s what happened | Jason Lemkin (SaaStr): https://www.lennysnewsletter.com/p/we-replaced-our-sales-team-with-20-ai-agents \n Building a world-class sales org | Jason Lemkin (SaaStr): https://www.lennysnewsletter.com/p/building-a-world-class-sales-org \n Careers at State Affairs: https://stateaffairs.com/careers \n \n Production and marketing by https://penname.co/ . For inquiries about sponsoring the podcast, email podcast@lennyrachitsky.com .\n Lenny may be an investor in the companies discussed. \n \n My biggest takeaways from this conversation: \n\n Read more",
-      "fetched_at": "2026-09-14T16:03:26Z",
-      "type": "interview"
     }
   ]
 }
