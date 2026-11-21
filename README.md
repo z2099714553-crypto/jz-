@@ -112,37 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-20 20:21 UTC*
+*更新于 2026-11-21 02:16 UTC*
 
 **[2026.47: Down in DC](https://stratechery.com/2026/down-in-dc/)**  
-`Ben Thompson` · 1 小时前  
+`Ben Thompson` · 7 小时前  
 
 **[What should I ask Walter Isaacson?](https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-walter-isaacson.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-walter-isaacson)**  
-`Tyler Cowen` · 1 小时前  
+`Tyler Cowen` · 7 小时前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-600.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-600)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 10 小时前  
 
 **[Weekly Dose of Optimism #220](https://www.notboring.co/p/weekly-dose-of-optimism-220)**  
-`Packy McCormick` · 6 小时前  
+`Packy McCormick` · 12 小时前  
 
 **[Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo](https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo/)**  
-`Ben Thompson` · 9 小时前  
+`Ben Thompson` · 15 小时前  
 
 **[Phonics-based Instruction and Student Achievement](https://marginalrevolution.com/marginalrevolution/2026/11/phonics-based-instruction-and-student-achievement.html?utm_source=rss&utm_medium=rss&utm_campaign=phonics-based-instruction-and-student-achievement)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[AIs vs. humans in economics papers](https://marginalrevolution.com/marginalrevolution/2026/11/ais-vs-humans-in-economics-papers.html?utm_source=rss&utm_medium=rss&utm_campaign=ais-vs-humans-in-economics-papers)**  
-`Tyler Cowen` · 14 小时前  
+`Tyler Cowen` · 20 小时前  
 
 **[Anthropic goes public](https://www.platformer.news/anthropic-goes-public/)**  
-`Casey Newton` · 18 小时前  
+`Casey Newton` · 1 天前  
 
 **[科技爱好者周刊（第 420 期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html)**  
-`阮一峰` · 20 小时前  
+`阮一峰` · 1 天前  
 
 **[The 10x Wall](https://tomtunguz.com/the-10x-wall/)**  
-`Tomasz Tunguz` · 20 小时前  
+`Tomasz Tunguz` · 1 天前  
 
 **[Thursday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/thursday-assorted-links-579.html?utm_source=rss&utm_medium=rss&utm_campaign=thursday-assorted-links-579)**  
 `Tyler Cowen` · 1 天前  
