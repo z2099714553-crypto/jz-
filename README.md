@@ -112,28 +112,34 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-21 02:16 UTC*
+*更新于 2026-11-21 11:03 UTC*
+
+**[*The Great Enrichment*](https://marginalrevolution.com/marginalrevolution/2026/11/the-great-enrichment.html?utm_source=rss&utm_medium=rss&utm_campaign=the-great-enrichment)**  
+`Tyler Cowen` · 3 小时前  
+
+**[Emergent Ventures, 60th cohort](https://marginalrevolution.com/marginalrevolution/2026/11/emergent-ventures-60th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-60th-cohort)**  
+`Tyler Cowen` · 4 小时前  
 
 **[2026.47: Down in DC](https://stratechery.com/2026/down-in-dc/)**  
-`Ben Thompson` · 7 小时前  
-
-**[What should I ask Walter Isaacson?](https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-walter-isaacson.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-walter-isaacson)**  
-`Tyler Cowen` · 7 小时前  
-
-**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-600.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-600)**  
-`Tyler Cowen` · 10 小时前  
-
-**[Weekly Dose of Optimism #220](https://www.notboring.co/p/weekly-dose-of-optimism-220)**  
-`Packy McCormick` · 12 小时前  
-
-**[Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo](https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo/)**  
 `Ben Thompson` · 15 小时前  
 
+**[What should I ask Walter Isaacson?](https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-walter-isaacson.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-walter-isaacson)**  
+`Tyler Cowen` · 16 小时前  
+
+**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-600.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-600)**  
+`Tyler Cowen` · 19 小时前  
+
+**[Weekly Dose of Optimism #220](https://www.notboring.co/p/weekly-dose-of-optimism-220)**  
+`Packy McCormick` · 21 小时前  
+
+**[Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo](https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo/)**  
+`Ben Thompson` · 1 天前  
+
 **[Phonics-based Instruction and Student Achievement](https://marginalrevolution.com/marginalrevolution/2026/11/phonics-based-instruction-and-student-achievement.html?utm_source=rss&utm_medium=rss&utm_campaign=phonics-based-instruction-and-student-achievement)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[AIs vs. humans in economics papers](https://marginalrevolution.com/marginalrevolution/2026/11/ais-vs-humans-in-economics-papers.html?utm_source=rss&utm_medium=rss&utm_campaign=ais-vs-humans-in-economics-papers)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Anthropic goes public](https://www.platformer.news/anthropic-goes-public/)**  
 `Casey Newton` · 1 天前  
@@ -151,12 +157,6 @@ open docs/index.html
 `Mario Gabriele` · 1 天前  
 
 **[An Interview With Eric Seufert About Agentic Commerce](https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce/)**  
-`Ben Thompson` · 1 天前  
-
-**[20VC: Will Jensen Return to NVIDIA \| Anthropic Set for Largest IPO of All Time \| Kalshi, Mercor & Fractile: Mega-Rounds Continue](https://thetwentyminutevc.libsyn.com/20vc-will-jensen-return-to-nvidia-anthropic-set-for-largest-ipo-of-all-time-kalshi-mercor-fractile-mega-rounds-continue)**  
-`Harry Stebbings` · 1 天前  
-
-**[The Anthropic IPO](https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-ipo.html?utm_source=rss&utm_medium=rss&utm_campaign=the-anthropic-ipo)**  
-`Tyler Cowen` · 1 天前  
+`Ben Thompson` · 2 天前  
 
 <!-- POSTS:END -->
