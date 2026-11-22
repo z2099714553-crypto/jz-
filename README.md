@@ -112,28 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-22 11:26 UTC*
+*更新于 2026-11-22 19:41 UTC*
+
+**[Increasing pay for lower wage workers](https://marginalrevolution.com/marginalrevolution/2026/11/increasing-pay-for-lower-wage-workers.html?utm_source=rss&utm_medium=rss&utm_campaign=increasing-pay-for-lower-wage-workers)**  
+`Tyler Cowen` · 刚刚  
+
+**[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-591)**  
+`Tyler Cowen` · 2 小时前  
+
+**[First principles: What it takes to be a great product manager in the AI era \| Sherif Mansour](https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to)**  
+`Lenny Rachitsky` · 6 小时前  
 
 **[Danish daughters](https://marginalrevolution.com/marginalrevolution/2026/11/danish-daughters.html?utm_source=rss&utm_medium=rss&utm_campaign=danish-daughters)**  
-`Tyler Cowen` · 3 小时前  
+`Tyler Cowen` · 12 小时前  
 
 **[Will AI Growth Reach the Developing World?](https://marginalrevolution.com/marginalrevolution/2026/11/will-ai-growth-reach-the-developing-world.html?utm_source=rss&utm_medium=rss&utm_campaign=will-ai-growth-reach-the-developing-world)**  
-`Tyler Cowen` · 5 小时前  
+`Tyler Cowen` · 13 小时前  
 
 **[🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on](https://www.lennysnewsletter.com/p/community-wisdom-handling-context)**  
-`Lenny Rachitsky` · 18 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-587)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[A simple observation](https://marginalrevolution.com/marginalrevolution/2026/11/a-simple-observation.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-observation)**  
-`Tyler Cowen` · 20 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[20VC: The State of Compute: What Everyone Needs to Know \| Why Neo-Clouds are Great Businesses \| What Everyone Is Missing About GPU Prices? \| How AI Infrastructure Investors Will Win with Kush Bavaria, Co-Founder @ Ornn](https://thetwentyminutevc.libsyn.com/20vc-the-state-of-compute-what-everyone-needs-to-know-why-neo-clouds-are-great-businesses-what-everyone-is-missing-about-gpu-prices-how-ai-infrastructure-investors-will-win-with-kush-bavaria-co-founder-ornn)**  
-`Harry Stebbings` · 20 小时前  
+`Harry Stebbings` · 1 天前  
 
 **[Paul Litvak’s Evidence Guide](https://marginalrevolution.com/marginalrevolution/2026/11/paul-litvaks-evidence-guide.html?utm_source=rss&utm_medium=rss&utm_campaign=paul-litvaks-evidence-guide)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[*The Great Enrichment*](https://marginalrevolution.com/marginalrevolution/2026/11/the-great-enrichment.html?utm_source=rss&utm_medium=rss&utm_campaign=the-great-enrichment)**  
 `Tyler Cowen` · 1 天前  
@@ -142,21 +151,12 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[2026.47: Down in DC](https://stratechery.com/2026/down-in-dc/)**  
-`Ben Thompson` · 1 天前  
-
-**[What should I ask Walter Isaacson?](https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-walter-isaacson.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-walter-isaacson)**  
-`Tyler Cowen` · 1 天前  
-
-**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-600.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-600)**  
-`Tyler Cowen` · 1 天前  
-
-**[Weekly Dose of Optimism #220](https://www.notboring.co/p/weekly-dose-of-optimism-220)**  
-`Packy McCormick` · 1 天前  
-
-**[Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo](https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo/)**  
 `Ben Thompson` · 2 天前  
 
-**[Phonics-based Instruction and Student Achievement](https://marginalrevolution.com/marginalrevolution/2026/11/phonics-based-instruction-and-student-achievement.html?utm_source=rss&utm_medium=rss&utm_campaign=phonics-based-instruction-and-student-achievement)**  
+**[What should I ask Walter Isaacson?](https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-walter-isaacson.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-walter-isaacson)**  
+`Tyler Cowen` · 2 天前  
+
+**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-600.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-600)**  
 `Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
