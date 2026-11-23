@@ -112,28 +112,43 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-23 01:44 UTC*
+*更新于 2026-11-23 12:43 UTC*
 
-**[190: 对话蚂蚁蔡伟：灵光来做「个人Agent」，不是因为它很火](https://podcast.latepost.com/190)**  
-`晚点团队` · 刚刚  
+**[Still Unproven: Can Britain Build a Tunnel?](https://marginalrevolution.com/marginalrevolution/2026/11/still-unproven-can-britain-build-a-tunnel.html?utm_source=rss&utm_medium=rss&utm_campaign=still-unproven-can-britain-build-a-tunnel)**  
+`Tyler Cowen` · 刚刚  
 
-**[E259｜机械神教与反人性策略：华尔街量化巨头的AI之路](https://sv101.fireside.fm/273)**  
-`陈茜` · 2 小时前  
+**[The Tyranny of the Alphabet 2](https://marginalrevolution.com/marginalrevolution/2026/11/94257.html?utm_source=rss&utm_medium=rss&utm_campaign=94257)**  
+`Tyler Cowen` · 刚刚  
 
-**[Increasing pay for lower wage workers](https://marginalrevolution.com/marginalrevolution/2026/11/increasing-pay-for-lower-wage-workers.html?utm_source=rss&utm_medium=rss&utm_campaign=increasing-pay-for-lower-wage-workers)**  
+**[Amazon Earnings, The Chip Question, About Agents](https://stratechery.com/2026/amazon-earnings-the-chip-question-about-agents/)**  
+`Ben Thompson` · 1 小时前  
+
+**[20VC: Nvidia Without Jensen: Is Anthropic the Real Winner? \| "Fire the Bankers": Why Most VCs Won't Survive AI \| Why the Inference Layer is Uninvestable and Tranched Rounds Should Be Banned with Anjney Midha](https://thetwentyminutevc.libsyn.com/20vc-nvidia-without-jensen-is-anthropic-the-real-winner-fire-the-bankers-why-most-vcs-wont-survive-ai-why-the-inference-layer-is-uninvestable-and-tranched-rounds-should-be-banned-with-anjney-midha)**  
+`Harry Stebbings` · 5 小时前  
+
+**[Best non-fiction books of 2026](https://marginalrevolution.com/marginalrevolution/2026/11/best-non-fiction-books-of-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-non-fiction-books-of-2026)**  
 `Tyler Cowen` · 6 小时前  
 
+**[190: 对话蚂蚁灵光蔡伟：大厂首个「个人 Agent」，验证了什么](https://podcast.latepost.com/190)**  
+`晚点团队` · 11 小时前  
+
+**[E259｜机械神教与反人性策略：华尔街量化巨头的AI之路](https://sv101.fireside.fm/273)**  
+`陈茜` · 13 小时前  
+
+**[Increasing pay for lower wage workers](https://marginalrevolution.com/marginalrevolution/2026/11/increasing-pay-for-lower-wage-workers.html?utm_source=rss&utm_medium=rss&utm_campaign=increasing-pay-for-lower-wage-workers)**  
+`Tyler Cowen` · 17 小时前  
+
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-591)**  
-`Tyler Cowen` · 8 小时前  
+`Tyler Cowen` · 19 小时前  
 
 **[First principles: What it takes to be a great product manager in the AI era \| Sherif Mansour](https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to)**  
-`Lenny Rachitsky` · 12 小时前  
+`Lenny Rachitsky` · 23 小时前  
 
 **[Danish daughters](https://marginalrevolution.com/marginalrevolution/2026/11/danish-daughters.html?utm_source=rss&utm_medium=rss&utm_campaign=danish-daughters)**  
-`Tyler Cowen` · 18 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Will AI Growth Reach the Developing World?](https://marginalrevolution.com/marginalrevolution/2026/11/will-ai-growth-reach-the-developing-world.html?utm_source=rss&utm_medium=rss&utm_campaign=will-ai-growth-reach-the-developing-world)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on](https://www.lennysnewsletter.com/p/community-wisdom-handling-context)**  
 `Lenny Rachitsky` · 1 天前  
@@ -143,20 +158,5 @@ open docs/index.html
 
 **[A simple observation](https://marginalrevolution.com/marginalrevolution/2026/11/a-simple-observation.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-observation)**  
 `Tyler Cowen` · 1 天前  
-
-**[20VC: The State of Compute: What Everyone Needs to Know \| Why Neo-Clouds are Great Businesses \| What Everyone Is Missing About GPU Prices? \| How AI Infrastructure Investors Will Win with Kush Bavaria, Co-Founder @ Ornn](https://thetwentyminutevc.libsyn.com/20vc-the-state-of-compute-what-everyone-needs-to-know-why-neo-clouds-are-great-businesses-what-everyone-is-missing-about-gpu-prices-how-ai-infrastructure-investors-will-win-with-kush-bavaria-co-founder-ornn)**  
-`Harry Stebbings` · 1 天前  
-
-**[Paul Litvak’s Evidence Guide](https://marginalrevolution.com/marginalrevolution/2026/11/paul-litvaks-evidence-guide.html?utm_source=rss&utm_medium=rss&utm_campaign=paul-litvaks-evidence-guide)**  
-`Tyler Cowen` · 1 天前  
-
-**[*The Great Enrichment*](https://marginalrevolution.com/marginalrevolution/2026/11/the-great-enrichment.html?utm_source=rss&utm_medium=rss&utm_campaign=the-great-enrichment)**  
-`Tyler Cowen` · 1 天前  
-
-**[Emergent Ventures, 60th cohort](https://marginalrevolution.com/marginalrevolution/2026/11/emergent-ventures-60th-cohort.html?utm_source=rss&utm_medium=rss&utm_campaign=emergent-ventures-60th-cohort)**  
-`Tyler Cowen` · 1 天前  
-
-**[2026.47: Down in DC](https://stratechery.com/2026/down-in-dc/)**  
-`Ben Thompson` · 2 天前  
 
 <!-- POSTS:END -->
