@@ -112,22 +112,28 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-22 19:41 UTC*
+*更新于 2026-11-23 01:44 UTC*
+
+**[190: 对话蚂蚁蔡伟：灵光来做「个人Agent」，不是因为它很火](https://podcast.latepost.com/190)**  
+`晚点团队` · 刚刚  
+
+**[E259｜机械神教与反人性策略：华尔街量化巨头的AI之路](https://sv101.fireside.fm/273)**  
+`陈茜` · 2 小时前  
 
 **[Increasing pay for lower wage workers](https://marginalrevolution.com/marginalrevolution/2026/11/increasing-pay-for-lower-wage-workers.html?utm_source=rss&utm_medium=rss&utm_campaign=increasing-pay-for-lower-wage-workers)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 6 小时前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-591)**  
-`Tyler Cowen` · 2 小时前  
+`Tyler Cowen` · 8 小时前  
 
 **[First principles: What it takes to be a great product manager in the AI era \| Sherif Mansour](https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to)**  
-`Lenny Rachitsky` · 6 小时前  
+`Lenny Rachitsky` · 12 小时前  
 
 **[Danish daughters](https://marginalrevolution.com/marginalrevolution/2026/11/danish-daughters.html?utm_source=rss&utm_medium=rss&utm_campaign=danish-daughters)**  
-`Tyler Cowen` · 12 小时前  
+`Tyler Cowen` · 18 小时前  
 
 **[Will AI Growth Reach the Developing World?](https://marginalrevolution.com/marginalrevolution/2026/11/will-ai-growth-reach-the-developing-world.html?utm_source=rss&utm_medium=rss&utm_campaign=will-ai-growth-reach-the-developing-world)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 19 小时前  
 
 **[🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on](https://www.lennysnewsletter.com/p/community-wisdom-handling-context)**  
 `Lenny Rachitsky` · 1 天前  
@@ -152,11 +158,5 @@ open docs/index.html
 
 **[2026.47: Down in DC](https://stratechery.com/2026/down-in-dc/)**  
 `Ben Thompson` · 2 天前  
-
-**[What should I ask Walter Isaacson?](https://marginalrevolution.com/marginalrevolution/2026/11/what-should-i-ask-walter-isaacson.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-walter-isaacson)**  
-`Tyler Cowen` · 2 天前  
-
-**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-600.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-600)**  
-`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
