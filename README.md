@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-23 12:43 UTC*
+*更新于 2026-11-24 02:13 UTC*
+
+**[Jensen is back](https://www.platformer.news/jensen-huang-returns-nvidia/)**  
+`Casey Newton` · 刚刚  
+
+**[The AI gains that gdp misses](https://marginalrevolution.com/marginalrevolution/2026/11/the-ai-gains-that-gdp-misses.html?utm_source=rss&utm_medium=rss&utm_campaign=the-ai-gains-that-gdp-misses)**  
+`Tyler Cowen` · 7 小时前  
+
+**[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-587)**  
+`Tyler Cowen` · 9 小时前  
+
+**[🎙️ How I AI: OpenClaw for executives: Automate every 1% annoyance](https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives)**  
+`Lenny Rachitsky` · 10 小时前  
+
+**[Supply and Demand](https://www.netinterest.co/p/supply-and-demand)**  
+`Marc Rubinstein` · 10 小时前  
+
+**[OpenClaw for executives: Automate every 1% annoyance \| Ankit Maheshwari (Innovaccer)](https://www.lennysnewsletter.com/p/openclaw-for-executives-automate)**  
+`Lenny Rachitsky` · 13 小时前  
 
 **[Still Unproven: Can Britain Build a Tunnel?](https://marginalrevolution.com/marginalrevolution/2026/11/still-unproven-can-britain-build-a-tunnel.html?utm_source=rss&utm_medium=rss&utm_campaign=still-unproven-can-britain-build-a-tunnel)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 13 小时前  
 
 **[The Tyranny of the Alphabet 2](https://marginalrevolution.com/marginalrevolution/2026/11/94257.html?utm_source=rss&utm_medium=rss&utm_campaign=94257)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 13 小时前  
 
 **[Amazon Earnings, The Chip Question, About Agents](https://stratechery.com/2026/amazon-earnings-the-chip-question-about-agents/)**  
-`Ben Thompson` · 1 小时前  
+`Ben Thompson` · 15 小时前  
 
 **[20VC: Nvidia Without Jensen: Is Anthropic the Real Winner? \| "Fire the Bankers": Why Most VCs Won't Survive AI \| Why the Inference Layer is Uninvestable and Tranched Rounds Should Be Banned with Anjney Midha](https://thetwentyminutevc.libsyn.com/20vc-nvidia-without-jensen-is-anthropic-the-real-winner-fire-the-bankers-why-most-vcs-wont-survive-ai-why-the-inference-layer-is-uninvestable-and-tranched-rounds-should-be-banned-with-anjney-midha)**  
-`Harry Stebbings` · 5 小时前  
+`Harry Stebbings` · 19 小时前  
 
 **[Best non-fiction books of 2026](https://marginalrevolution.com/marginalrevolution/2026/11/best-non-fiction-books-of-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-non-fiction-books-of-2026)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 20 小时前  
 
 **[190: 对话蚂蚁灵光蔡伟：大厂首个「个人 Agent」，验证了什么](https://podcast.latepost.com/190)**  
-`晚点团队` · 11 小时前  
+`晚点团队` · 1 天前  
 
 **[E259｜机械神教与反人性策略：华尔街量化巨头的AI之路](https://sv101.fireside.fm/273)**  
-`陈茜` · 13 小时前  
+`陈茜` · 1 天前  
 
 **[Increasing pay for lower wage workers](https://marginalrevolution.com/marginalrevolution/2026/11/increasing-pay-for-lower-wage-workers.html?utm_source=rss&utm_medium=rss&utm_campaign=increasing-pay-for-lower-wage-workers)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-591)**  
-`Tyler Cowen` · 19 小时前  
-
-**[First principles: What it takes to be a great product manager in the AI era \| Sherif Mansour](https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to)**  
-`Lenny Rachitsky` · 23 小时前  
-
-**[Danish daughters](https://marginalrevolution.com/marginalrevolution/2026/11/danish-daughters.html?utm_source=rss&utm_medium=rss&utm_campaign=danish-daughters)**  
-`Tyler Cowen` · 1 天前  
-
-**[Will AI Growth Reach the Developing World?](https://marginalrevolution.com/marginalrevolution/2026/11/will-ai-growth-reach-the-developing-world.html?utm_source=rss&utm_medium=rss&utm_campaign=will-ai-growth-reach-the-developing-world)**  
-`Tyler Cowen` · 1 天前  
-
-**[🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on](https://www.lennysnewsletter.com/p/community-wisdom-handling-context)**  
-`Lenny Rachitsky` · 1 天前  
-
-**[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-587)**  
-`Tyler Cowen` · 1 天前  
-
-**[A simple observation](https://marginalrevolution.com/marginalrevolution/2026/11/a-simple-observation.html?utm_source=rss&utm_medium=rss&utm_campaign=a-simple-observation)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
