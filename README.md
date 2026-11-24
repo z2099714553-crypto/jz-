@@ -112,51 +112,51 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-24 02:13 UTC*
+*更新于 2026-11-24 13:44 UTC*
 
-**[Jensen is back](https://www.platformer.news/jensen-huang-returns-nvidia/)**  
-`Casey Newton` · 刚刚  
+**[The Individual Exception](https://stratechery.com/2026/the-individual-exception/)**  
+`Ben Thompson` · 2 小时前  
 
-**[The AI gains that gdp misses](https://marginalrevolution.com/marginalrevolution/2026/11/the-ai-gains-that-gdp-misses.html?utm_source=rss&utm_medium=rss&utm_campaign=the-ai-gains-that-gdp-misses)**  
+**[Learning From Bezos, Jobs, and Spielberg \| Bing Gordon](https://fs.blog/knowledge-project-podcast/bing-gordon/)**  
+`Shane Parrish` · 2 小时前  
+
+**[Best fiction 2026](https://marginalrevolution.com/marginalrevolution/2026/11/best-fiction-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-fiction-2026)**  
+`Tyler Cowen` · 6 小时前  
+
+**[The Health Effects of Eating Red Meat](https://marginalrevolution.com/marginalrevolution/2026/11/the-health-effects-of-eating-red-meat.html?utm_source=rss&utm_medium=rss&utm_campaign=the-health-effects-of-eating-red-meat)**  
 `Tyler Cowen` · 7 小时前  
 
+**[Jensen is back](https://www.platformer.news/jensen-huang-returns-nvidia/)**  
+`Casey Newton` · 12 小时前  
+
+**[The AI gains that gdp misses](https://marginalrevolution.com/marginalrevolution/2026/11/the-ai-gains-that-gdp-misses.html?utm_source=rss&utm_medium=rss&utm_campaign=the-ai-gains-that-gdp-misses)**  
+`Tyler Cowen` · 19 小时前  
+
 **[Monday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/monday-assorted-links-587.html?utm_source=rss&utm_medium=rss&utm_campaign=monday-assorted-links-587)**  
-`Tyler Cowen` · 9 小时前  
-
-**[🎙️ How I AI: OpenClaw for executives: Automate every 1% annoyance](https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives)**  
-`Lenny Rachitsky` · 10 小时前  
-
-**[Supply and Demand](https://www.netinterest.co/p/supply-and-demand)**  
-`Marc Rubinstein` · 10 小时前  
-
-**[OpenClaw for executives: Automate every 1% annoyance \| Ankit Maheshwari (Innovaccer)](https://www.lennysnewsletter.com/p/openclaw-for-executives-automate)**  
-`Lenny Rachitsky` · 13 小时前  
-
-**[Still Unproven: Can Britain Build a Tunnel?](https://marginalrevolution.com/marginalrevolution/2026/11/still-unproven-can-britain-build-a-tunnel.html?utm_source=rss&utm_medium=rss&utm_campaign=still-unproven-can-britain-build-a-tunnel)**  
-`Tyler Cowen` · 13 小时前  
-
-**[The Tyranny of the Alphabet 2](https://marginalrevolution.com/marginalrevolution/2026/11/94257.html?utm_source=rss&utm_medium=rss&utm_campaign=94257)**  
-`Tyler Cowen` · 13 小时前  
-
-**[Amazon Earnings, The Chip Question, About Agents](https://stratechery.com/2026/amazon-earnings-the-chip-question-about-agents/)**  
-`Ben Thompson` · 15 小时前  
-
-**[20VC: Nvidia Without Jensen: Is Anthropic the Real Winner? \| "Fire the Bankers": Why Most VCs Won't Survive AI \| Why the Inference Layer is Uninvestable and Tranched Rounds Should Be Banned with Anjney Midha](https://thetwentyminutevc.libsyn.com/20vc-nvidia-without-jensen-is-anthropic-the-real-winner-fire-the-bankers-why-most-vcs-wont-survive-ai-why-the-inference-layer-is-uninvestable-and-tranched-rounds-should-be-banned-with-anjney-midha)**  
-`Harry Stebbings` · 19 小时前  
-
-**[Best non-fiction books of 2026](https://marginalrevolution.com/marginalrevolution/2026/11/best-non-fiction-books-of-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-non-fiction-books-of-2026)**  
 `Tyler Cowen` · 20 小时前  
 
-**[190: 对话蚂蚁灵光蔡伟：大厂首个「个人 Agent」，验证了什么](https://podcast.latepost.com/190)**  
-`晚点团队` · 1 天前  
+**[🎙️ How I AI: OpenClaw for executives: Automate every 1% annoyance](https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives)**  
+`Lenny Rachitsky` · 21 小时前  
 
-**[E259｜机械神教与反人性策略：华尔街量化巨头的AI之路](https://sv101.fireside.fm/273)**  
-`陈茜` · 1 天前  
+**[Supply and Demand](https://www.netinterest.co/p/supply-and-demand)**  
+`Marc Rubinstein` · 22 小时前  
 
-**[Increasing pay for lower wage workers](https://marginalrevolution.com/marginalrevolution/2026/11/increasing-pay-for-lower-wage-workers.html?utm_source=rss&utm_medium=rss&utm_campaign=increasing-pay-for-lower-wage-workers)**  
+**[OpenClaw for executives: Automate every 1% annoyance \| Ankit Maheshwari (Innovaccer)](https://www.lennysnewsletter.com/p/openclaw-for-executives-automate)**  
+`Lenny Rachitsky` · 1 天前  
+
+**[Still Unproven: Can Britain Build a Tunnel?](https://marginalrevolution.com/marginalrevolution/2026/11/still-unproven-can-britain-build-a-tunnel.html?utm_source=rss&utm_medium=rss&utm_campaign=still-unproven-can-britain-build-a-tunnel)**  
 `Tyler Cowen` · 1 天前  
 
-**[Sunday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/sunday-assorted-links-591.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-591)**  
+**[The Tyranny of the Alphabet 2](https://marginalrevolution.com/marginalrevolution/2026/11/94257.html?utm_source=rss&utm_medium=rss&utm_campaign=94257)**  
+`Tyler Cowen` · 1 天前  
+
+**[Amazon Earnings, The Chip Question, About Agents](https://stratechery.com/2026/amazon-earnings-the-chip-question-about-agents/)**  
+`Ben Thompson` · 1 天前  
+
+**[20VC: Nvidia Without Jensen: Is Anthropic the Real Winner? \| "Fire the Bankers": Why Most VCs Won't Survive AI \| Why the Inference Layer is Uninvestable and Tranched Rounds Should Be Banned with Anjney Midha](https://thetwentyminutevc.libsyn.com/20vc-nvidia-without-jensen-is-anthropic-the-real-winner-fire-the-bankers-why-most-vcs-wont-survive-ai-why-the-inference-layer-is-uninvestable-and-tranched-rounds-should-be-banned-with-anjney-midha)**  
+`Harry Stebbings` · 1 天前  
+
+**[Best non-fiction books of 2026](https://marginalrevolution.com/marginalrevolution/2026/11/best-non-fiction-books-of-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-non-fiction-books-of-2026)**  
 `Tyler Cowen` · 1 天前  
 
 <!-- POSTS:END -->
