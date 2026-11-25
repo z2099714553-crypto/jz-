@@ -112,37 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-24 23:54 UTC*
+*更新于 2026-11-25 08:35 UTC*
+
+**[Avoiding disempowerment through protectionism?](https://marginalrevolution.com/marginalrevolution/2026/11/avoiding-disempowerment-through-protectionism.html?utm_source=rss&utm_medium=rss&utm_campaign=avoiding-disempowerment-through-protectionism)**  
+`Tyler Cowen` · 2 小时前  
 
 **[E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场](https://sv101.fireside.fm/274)**  
-`陈茜` · 刚刚  
+`陈茜` · 9 小时前  
 
 **[Responding to objections to recursive self-improvement](https://www.dwarkesh.com/p/rsiobjections)**  
-`Dwarkesh Patel` · 2 小时前  
+`Dwarkesh Patel` · 10 小时前  
 
 **[Gambling for Goals](https://marginalrevolution.com/marginalrevolution/2026/11/gambling-for-goals.html?utm_source=rss&utm_medium=rss&utm_campaign=gambling-for-goals)**  
-`Tyler Cowen` · 4 小时前  
+`Tyler Cowen` · 13 小时前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-596.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-596)**  
-`Tyler Cowen` · 7 小时前  
-
-**[The Individual Exception](https://stratechery.com/2026/the-individual-exception/)**  
-`Ben Thompson` · 12 小时前  
-
-**[Learning From Bezos, Jobs, and Spielberg \| Bing Gordon](https://fs.blog/knowledge-project-podcast/bing-gordon/)**  
-`Shane Parrish` · 12 小时前  
-
-**[Best fiction 2026](https://marginalrevolution.com/marginalrevolution/2026/11/best-fiction-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-fiction-2026)**  
 `Tyler Cowen` · 16 小时前  
 
+**[The Individual Exception](https://stratechery.com/2026/the-individual-exception/)**  
+`Ben Thompson` · 21 小时前  
+
+**[Learning From Bezos, Jobs, and Spielberg \| Bing Gordon](https://fs.blog/knowledge-project-podcast/bing-gordon/)**  
+`Shane Parrish` · 21 小时前  
+
+**[Best fiction 2026](https://marginalrevolution.com/marginalrevolution/2026/11/best-fiction-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-fiction-2026)**  
+`Tyler Cowen` · 1 天前  
+
 **[The Health Effects of Eating Red Meat](https://marginalrevolution.com/marginalrevolution/2026/11/the-health-effects-of-eating-red-meat.html?utm_source=rss&utm_medium=rss&utm_campaign=the-health-effects-of-eating-red-meat)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Jensen is back](https://www.platformer.news/jensen-huang-returns-nvidia/)**  
-`Casey Newton` · 22 小时前  
+`Casey Newton` · 1 天前  
 
 **[Engineering at Machine Speed](https://tomtunguz.com/engineering-at-machine-speed-office-hours/)**  
-`Tomasz Tunguz` · 23 小时前  
+`Tomasz Tunguz` · 1 天前  
 
 **[The AI gains that gdp misses](https://marginalrevolution.com/marginalrevolution/2026/11/the-ai-gains-that-gdp-misses.html?utm_source=rss&utm_medium=rss&utm_campaign=the-ai-gains-that-gdp-misses)**  
 `Tyler Cowen` · 1 天前  
@@ -155,8 +158,5 @@ open docs/index.html
 
 **[Supply and Demand](https://www.netinterest.co/p/supply-and-demand)**  
 `Marc Rubinstein` · 1 天前  
-
-**[OpenClaw for executives: Automate every 1% annoyance \| Ankit Maheshwari (Innovaccer)](https://www.lennysnewsletter.com/p/openclaw-for-executives-automate)**  
-`Lenny Rachitsky` · 1 天前  
 
 <!-- POSTS:END -->
