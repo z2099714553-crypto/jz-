@@ -1,7 +1,88 @@
 {
-  "generated_at": "2026-11-25T08:35:48Z",
-  "count": 704,
+  "generated_at": "2026-11-25T19:17:35Z",
+  "count": 710,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/ai-in-research.html",
+      "title": "AI in research",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/ai-in-research.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-research",
+      "published": "2026-11-25T18:51:23Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "We found that recent frontier models are now consistently proposing research designs that human and LLM graders alike judge more compelling than what the very top expert in the field has been developing. Yet these outstanding AI research designs are still often in service of new research questions that graders found substantially less valuable than leading research in political science.\n \n Here is much more from Andy Hall and Andy Myers .\n\n The post AI in research appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-25T19:17:15Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-581.html",
+      "title": "Wednesday assorted links",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-581",
+      "published": "2026-11-25T17:20:25Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "1. Macrohistory in six facts .\n\n 2. Patrick Collison on Tocqueville .\n\n 3. The minimum wage: current vs. lifetime perspectives . By Francisco Libano-Monteiro, on the economics job market from LSE. \n\n 4. Kurt Rosenwinkel, Ruby My Dear .\n\n 5. Profile of Perry Mehrling .\n\n 6. The jagged frontier .\n\n The post Wednesday assorted links appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-25T19:17:15Z"
+    },
+    {
+      "id": "https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude",
+      "title": "Gemini 4 Neon beat GPT-6.2 and Claude in my 25-task AI benchmark",
+      "link": "https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude",
+      "published": "2026-11-25T13:04:21Z",
+      "source": "Lenny's Newsletter",
+      "author": "Lenny Rachitsky",
+      "lang": "en",
+      "tags": [
+        "产品",
+        "增长",
+        "访谈"
+      ],
+      "type": "interview",
+      "raw_text": "We re back in model release season, and I put the newest frontier models through my How I AI bench: 25 tasks across coding, writing, creative, video, prototyping, and personal-assistant work, with six models scored blind. I compare GPT-6.2 Astra and Sol, Claude Fable 5.2 and Opus 5.5, and Gemini 4 Neon and Carbon. I also walk through the SVG, animation, storybook, and prototype tests side by side and share a new eval I built from my own session data: the Claire Annoyance Bench. The dark-horse winner surprised me and it wasn t close.\n Listen or watch on YouTube , Spotify , or Apple Podcasts \n\n What you ll learn: Why Gemini 4 Neon was the surprise winner of my 25-task benchmark\n\n How I blind-score models and blend in LLM-as-judge ratings\n\n Why coding no longer separates the frontier models\n\n How to build your own Annoyance Bench from your local agent sessions\n\n Why my favorite model to work with lost my blind test\n\n Where Fable 5.2 shines, and where I d never use it\n\n The animated storybook build that blew my mind\n\n The hidden cost of a slow model, even a great one\n\n Brought to you by: \n\n Parallel Web search built for AI scale\n Jira Product Discovery Prioritize with insights, build with confidence\n \n In this episode, we cover: ( 00:00 ) Model release season is back\n ( 02:06 ) The surprise winner\n ( 03:39 ) How the How I AI bench works\n ( 06:20 ) The overall leaderboard\n ( 13:39 ) SVGs and the family newspaper\n ( 16:30 ) Thumbnail benchmark\n ( 17:00 ) Animated bots\n ( 19:10 ) The animated storybook\n ( 23:08 ) TL;DR on creative tasks\n ( 23:35 ) Prototyping results\n ( 25:09 ) Cost and speed tradeoffs\n ( 27:28 ) The Annoyance Bench\n ( 30:03 ) Final thoughts\n \n Tools referenced: Gemini 4 Neon: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ \n Gemini 4 Carbon: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ \n GPT-6.2 Astra and Sol: https://openai.com/index/introducing-gpt-6-2-astra-sol/ \n Claude Fable 5.2: https://www.anthropic.com/claude-fable-and-mythos-5-2 \n Claude Opus 5.5: https://www.anthropic.com/claude-opus-5-5 \n Claude Code: https://claude.com/product/claude-code \n Claude Projects: https://support.claude.com/en/articles/9517075-what-are-projects \n Google Antigravity: https://antigravity.google/ \n OpenAI Codex: https://openai.com/codex/ \n ElevenLabs: https://elevenlabs.io/ \n Grok Bot: https://x.ai/news/introducing-grok-bot \n \n Where to find Claire Vo: ChatPRD: https://www.chatprd.ai/ \n Website: https://clairevo.com/ \n LinkedIn: https://www.linkedin.com/in/clairevo/ \n X: https://x.com/clairevo \n \n Production and marketing by https://penname.co/ . For inquiries about sponsoring the podcast, email jordan@penname.co.",
+      "fetched_at": "2026-11-25T19:17:17Z"
+    },
+    {
+      "id": "https://cowenconvos.libsyn.com/moxie-marlinspike-on-cryptography-privacy-and-mass-surveillance",
+      "title": "Moxie Marlinspike on Cryptography, Privacy, and Mass Surveillance",
+      "link": "https://cowenconvos.libsyn.com/moxie-marlinspike-on-cryptography-privacy-and-mass-surveillance",
+      "published": "2026-11-25T12:08:00Z",
+      "source": "Conversations with Tyler",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "深度访谈",
+        "经济学"
+      ],
+      "type": "interview",
+      "raw_text": "Help us keep the conversations going in 2027. Donate to Conversations with Tyler today .\n Moxie Marlinspike built Signal and designed the encryption protocol underneath it — the same protocol that also secures WhatsApp, Facebook Messenger, and Skype. He's spent his career on the unglamorous, structural side of privacy, down to whether the company itself can see your contacts, your group names, or your search history. That background makes him an unusually direct interlocutor on the biggest live question in his field: whether the recent flood of AI-assisted math results could put cryptography itself at risk, and what the world should actually do if public-key encryption stopped working with little warning.\n Tyler and Moxie discuss whether AI could break cryptography, Marlinspike's own private AI chat service, his case for surveilling AI models instead of the humans using them, his skepticism of airport facial recognition, the case he tentatively makes for consent-based over centralized surveillance, why he thinks law enforcement should stay deliberately imperfect, what makes Signal different from WhatsApp, his doubts about cryptocurrency as it's currently used, a Pentagon group chat scandal he seems almost pleased about, nearly drowning alone in San Francisco Bay, what Starlink has taken from solo sailing, hitchhiking across America in the late '90s, a mysterious period of being secretly flagged every time he flew internationally, what he's building next, and more.\n Read a transcript enhanced with helpful links, or watch the full video on YouTube.\n Recorded live at the Progress Conference, hosted by the Roots of Progress Institute, October 10th, 2026. \n Other ways to connect\n Follow us on X and Instagram \n Follow Tyler on X\n Follow Moxie on X\n Sign up for our newsletter \n Join our Discord \n Email us: cowenconvos@mercatus.gmu.edu \n Learn more about Conversations with Tyler and other Mercatus Center podcasts here .\n Timestamps:\n 00:00:00 - Support CWT\n 00:01:34 - Intro\n 00:02:40 - On whether AI will break cryptography\n 00:07:31 - On private AI and mass surveillance\n 00:25:21 - On fame\n 00:29:03 - On Signal\n 00:31:47 - On crypto as a slot machine\n 00:35:30 - On nearly drowning in San Francisco Bay\n 00:39:51 - On hitchhiking\n 00:42:42 - On years of unexplained airport flagging\n 00:44:43 - On what's next\n 00:45:15 - Outro",
+      "fetched_at": "2026-11-25T19:17:21Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/how-did-the-united-states-become-a-lawyerly-society.html",
+      "title": "How did the United States become a lawyerly society?",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/how-did-the-united-states-become-a-lawyerly-society.html?utm_source=rss&utm_medium=rss&utm_campaign=how-did-the-united-states-become-a-lawyerly-society",
+      "published": "2026-11-25T10:18:10Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Between 1970 and 1990 the U.S. legal services industry underwent a dramatic demand shift. Its employment share more than doubled and the relative wages of lawyers rose by 60%, in contrast to stability before and after. We attribute this shift to three related changes in the legal environment: a wave of new legislation and regulation broadened the scope of the law, left its application uncertain, and enlisted private lawyers to enforce it through fee-shifting. Using over a century of data, we show that lawyers’ employment and compensation track all three changes. Event studies link specific statutes to increased litigation and demand for the affected fields of law. Other explanations, including lawyer quality, industrial composition, and technology, do not account for the demand shift. We estimate that legislative uncertainty accounts for roughly 13% of the demand shift—a cost of about $23 billion in 2024 alone.\n \n That is from a new paper by Ariell Resheff and Cailin Slattery. Via Krzysztof Tyszka-Drozdowski . \n\n The post How did the United States become a lawyerly society? appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-25T19:17:15Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/11/avoiding-disempowerment-through-protectionism.html",
       "title": "Avoiding disempowerment through protectionism?",
@@ -178,6 +259,22 @@
       "type": "blog",
       "raw_text": "Read on tomtunguz.com &rarr; \n\n On Tuesday, December 1st at 10:30 AM Pacific / 1:30 PM Eastern, Office Hours will host Dan Shiebler , Co-Founder & CTO at Artemis Security, for a conversation on engineering at machine speed.\n\n We&rsquo;ll talk about :\n\n How Artemis merged more than 31,000 pull requests in a single quarter, & why most feature requests reach customers in under 24 hours. 1 \n\n Why every engineer runs 4 to 8 coding agents in parallel, & what that pace does to design, code review & ownership. 2 \n\n How evaluation pipelines & row-level inspection of failures hold quality steady at that pace. 3 \n\n The format. Office Hours is a 15-minute online conversation about a single topic with a luminary in the AI world, where we collect questions ahead of time, accept call-in questions live, in a candid conversation.\n\n Register here for Office Hours : Engineering at Machine Speed with Dan Shiebler .\n\n Theory Ventures, &ldquo;Engineering at Machine Speed,&rdquo; November 20, 2026 . \n\n First Round Review, &ldquo;Inside Artemis&rsquo; AI vs AI war,&rdquo; April 21, 2026 . \n\n Dan Shiebler, &ldquo;Efficacy Engineering,&rdquo; July 21, 2025 .",
       "fetched_at": "2026-11-24T23:53:47Z"
+    },
+    {
+      "id": "https://tomtunguz.com/jevons-works-on-tokens-not-on-dollars",
+      "title": "Will AI Deflate Like Lightbulbs or Compound Like Copper?",
+      "link": "https://tomtunguz.com/jevons-works-on-tokens-not-on-dollars/",
+      "published": "2026-11-24T00:00:00Z",
+      "source": "Tomasz Tunguz",
+      "author": "Tomasz Tunguz",
+      "lang": "en",
+      "tags": [
+        "SaaS",
+        "数据分析"
+      ],
+      "type": "blog",
+      "raw_text": "Read on tomtunguz.com &rarr; \n The mantra of the era is Jevons Paradox. 1 The cheaper a commodity is, the more we use of it.\n\n But what happened to the revenue from that higher use? Mass production can crush costs like lightbulbs, keeping revenue flat as a % of GDP while volume rises 25,000x. Or total dollars can grow, like copper.\n\n What is the price elasticity of demand for AI?\n\n Let&rsquo;s go to the grocery store : if a 50% cut on the price of bread gets you to buy twice as many loaves, your grocery bill stays flat, an elasticity of 1 ; if you only buy 25% more, your bill shrinks, an elasticity of 0.5.\n\n So far, GPUs look more like copper than lightbulbs : neocloud GPU rents rose 48% over the past year, & CoreWeave repriced 30% to 50% when leases renew. 2 \n\n Both Ramp & OpenRouter show high price elasticity of demand : a 1% price drop drives 4.3% more tokens on Ramp & 6.8% on OpenRouter, as volume ran 11.1x against 4.7x spending on Ramp & 50x against 21x on OpenRouter. 3 , 4 , 5 \n\n Anthropic&rsquo;s S-1 is the counterpoint : revenue grew 13.6x to $16.3b in the first half of 2026 on 900% net revenue retention, & when Opus 4.5 cut cost per task in November 2025, quarterly sales growth jumped from 48% to 132%, implying a price elasticity of demand well above 1.0. 6 \n\n More efficient inference cuts the bill inside the lab : shrinking models, reusing past answers & sending easy questions to smaller models. Each trick lowers the cost of a token faster than GPU rents rise.\n\n We&rsquo;re watching these numbers in 2027 :\n\n Spending against volume : does the 2.4x wedge narrow toward parity like oil & copper, or widen toward lighting?\n\n GPU rents against blended token prices : do the two meet as new clusters come online, or keep squeezing lab margins? 7 \n\n Frontier gross margins : does cheaper serving hold labs above 40% while token prices keep falling?\n\n Gross profit against signed compute bills : do dollars compound fast enough to cover them?\n\n Consumption looks unbounded. How much deflation hits commodity AI tokens is still up for debate. So far, the closest parallel is CPUs : commodity chips deflated while each new frontier generation expanded the dollar market.\n\n Veblen & Jevon Walk Into a Data Center , Tomasz Tunguz, March 30, 2026. \n\n Silicon Data, Hopper & Ampere GPU rents vs CoreWeave repricing , 16 November 2026, including CoreWeave repricing of 30% to 50% when leases renew. \n\n Ramp, The Ramp AI Index , token volume, token spend & blended price per million tokens, 97 observed weeks, week ending 12 January 2025 through 15 November 2026, plus the October 2026 adoption & spend-per-employee tables. Retrieved 24 November 2026. \n\n OpenRouter API Tracker , data through 23 November 2026. \n\n Both panels have biases : corporate cards miss direct enterprise deals & cloud marketplaces, where nearly half of Anthropic&rsquo;s revenue lands ; blended prices mix list cuts with routing to cheaper models ; & cached tokens cost up to 90% less. \n\n Anthropic S-1 Analysis: How 7 Key Metrics Stack Up , Tomasz Tunguz, 26 October 2026, including the 11,900+ customers over $100k. \n\n Who Captures the Most Margin in AI? , Tomasz Tunguz.",
+      "fetched_at": "2026-11-25T19:17:15Z"
     },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/11/the-ai-gains-that-gdp-misses.html",
