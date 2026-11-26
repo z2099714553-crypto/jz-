@@ -112,34 +112,34 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-25 19:17 UTC*
+*更新于 2026-11-26 03:34 UTC*
 
 **[AI in research](https://marginalrevolution.com/marginalrevolution/2026/11/ai-in-research.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-research)**  
-`Tyler Cowen` · 刚刚  
-
-**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-581)**  
-`Tyler Cowen` · 1 小时前  
-
-**[Gemini 4 Neon beat GPT-6.2 and Claude in my 25-task AI benchmark](https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude)**  
-`Lenny Rachitsky` · 6 小时前  
-
-**[Moxie Marlinspike on Cryptography, Privacy, and Mass Surveillance](https://cowenconvos.libsyn.com/moxie-marlinspike-on-cryptography-privacy-and-mass-surveillance)**  
-`Tyler Cowen` · 7 小时前  
-
-**[How did the United States become a lawyerly society?](https://marginalrevolution.com/marginalrevolution/2026/11/how-did-the-united-states-become-a-lawyerly-society.html?utm_source=rss&utm_medium=rss&utm_campaign=how-did-the-united-states-become-a-lawyerly-society)**  
 `Tyler Cowen` · 8 小时前  
 
+**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-581)**  
+`Tyler Cowen` · 10 小时前  
+
+**[Gemini 4 Neon beat GPT-6.2 and Claude in my 25-task AI benchmark](https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude)**  
+`Lenny Rachitsky` · 14 小时前  
+
+**[Moxie Marlinspike on Cryptography, Privacy, and Mass Surveillance](https://cowenconvos.libsyn.com/moxie-marlinspike-on-cryptography-privacy-and-mass-surveillance)**  
+`Tyler Cowen` · 15 小时前  
+
+**[How did the United States become a lawyerly society?](https://marginalrevolution.com/marginalrevolution/2026/11/how-did-the-united-states-become-a-lawyerly-society.html?utm_source=rss&utm_medium=rss&utm_campaign=how-did-the-united-states-become-a-lawyerly-society)**  
+`Tyler Cowen` · 17 小时前  
+
 **[Avoiding disempowerment through protectionism?](https://marginalrevolution.com/marginalrevolution/2026/11/avoiding-disempowerment-through-protectionism.html?utm_source=rss&utm_medium=rss&utm_campaign=avoiding-disempowerment-through-protectionism)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 21 小时前  
 
 **[E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场](https://sv101.fireside.fm/274)**  
-`陈茜` · 19 小时前  
+`陈茜` · 1 天前  
 
 **[Responding to objections to recursive self-improvement](https://www.dwarkesh.com/p/rsiobjections)**  
-`Dwarkesh Patel` · 21 小时前  
+`Dwarkesh Patel` · 1 天前  
 
 **[Gambling for Goals](https://marginalrevolution.com/marginalrevolution/2026/11/gambling-for-goals.html?utm_source=rss&utm_medium=rss&utm_campaign=gambling-for-goals)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-596.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-596)**  
 `Tyler Cowen` · 1 天前  
@@ -157,6 +157,6 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[Jensen is back](https://www.platformer.news/jensen-huang-returns-nvidia/)**  
-`Casey Newton` · 1 天前  
+`Casey Newton` · 2 天前  
 
 <!-- POSTS:END -->
