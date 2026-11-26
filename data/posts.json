@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-26T03:34:43Z",
-  "count": 707,
+  "generated_at": "2026-11-26T16:55:23Z",
+  "count": 710,
   "posts": [
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/thanksgiving-assorted-links-6.html",
+      "title": "Thanksgiving assorted links",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/thanksgiving-assorted-links-6.html?utm_source=rss&utm_medium=rss&utm_campaign=thanksgiving-assorted-links-6",
+      "published": "2026-11-26T16:45:28Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "1. What is Rockabilly? (short video)\n\n 2. What is the plan to grow Chicago? \n\n 3. On Chinese clinical trials .\n\n 4. The economy is booming .\n\n 5. Seb Krier, on Pinker .\n\n 6. At least one attempt at asteroid deflection succeeded .\n\n 7. Progress in green cement production? \n\n The post Thanksgiving assorted links appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-26T16:55:11Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/what-we-are-grateful-for.html",
+      "title": "What we are grateful for",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/what-we-are-grateful-for.html?utm_source=rss&utm_medium=rss&utm_campaign=what-we-are-grateful-for",
+      "published": "2026-11-26T12:14:54Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Here is The Free Press symposium . Here is an excerpt from my piece, which has a chance of turning out to be prescient by a day:\n\n Since I was born in 1962, what has been the biggest fundamental theoretical breakthrough? We put a man on the moon and built the internet, but what about on a theoretical level? The standard model of particle physics, from the 1960s and 1970s, is one candidate. Still, the early 20th century was more exciting for theory.\n\n We still lack a theory of quantum gravity, and string theory looks less likely with time. The fundamentals of economics, my own field, have barely changed, even as our empirical knowledge has grown. Now I have more hope for some thrilling new theories, aided by both man and machine.\n \n Just last night Ven Chandrasekaran and Astra dropped a new (and not yet confirmed) theory of quantum gravity .\n\n The post What we are grateful for appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-26T16:55:11Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/five-facts-about-stablecoins.html",
+      "title": "Five Facts About Stablecoins",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/five-facts-about-stablecoins.html?utm_source=rss&utm_medium=rss&utm_campaign=five-facts-about-stablecoins",
+      "published": "2026-11-26T10:50:37Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "We document five facts about payment stablecoins using wallet-level blockchain data from 2020 to 2025. First, stablecoins serve as a transaction currency: onchain volume exceeds Bitcoin’s despite a much smaller supply, velocity has risen sharply, and transactions have shifted toward low-value transfers. Second, using transaction timing to refine exchange-based attribution, we find activity spread across the Americas, Europe, and Asia and fewer cross-regional flows than the standard method implies. Third, we estimate a structural cash-management model on the holdings data and find that the costs of accessing stablecoin wallets have fallen since 2023. Fourth, stablecoins are becoming the settlement currency of a fast-growing onchain credit market, and their growth appears to reallocate rather than destroy credit. Fifth, smart contracts are involved in about a third of Ethereum stablecoin transactions and over two thirds of volume, and protocols such as x402 demonstrate sub-cent machine-to-machine payments. Stablecoins behave as tokenized money, with implications for financial markets and regulation.\n \n That is from a recent NBER working paper by Lin William Cong , Gordon Y. Liao , Eswar S. Prasad & Tony Zhang . \n\n The post Five Facts About Stablecoins appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-26T16:55:11Z"
+    },
+    {
+      "id": "https://thetwentyminutevc.libsyn.com/20vc-jensen-huangs-1trn-return-what-happens-now-anthropic-goes-public-largest-ipo-of-all-time-how-it-changes-venture-applied-compute-billcom-and-mailchimp-acquisitions-broken-down",
+      "title": "20VC: Jensen Huang's $1TRN Return: What Happens Now | Anthropic Goes Public: Largest IPO Of All Time & How It Changes Venture | Applied Compute, Bill.com and Mailchimp Acquisitions Broken Down",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-jensen-huangs-1trn-return-what-happens-now-anthropic-goes-public-largest-ipo-of-all-time-how-it-changes-venture-applied-compute-billcom-and-mailchimp-acquisitions-broken-down",
+      "published": "2026-11-26T07:07:00Z",
+      "source": "20VC",
+      "author": "Harry Stebbings",
+      "lang": "en",
+      "tags": [
+        "创投",
+        "深度访谈"
+      ],
+      "type": "interview",
+      "raw_text": "AGENDA: \n 04:00 Jensen's $1 Trillion Comeback: Nvidia's King Returns\n 13:00 Anthropic Goes Public: Inside the Biggest IPO Ever\n 21:00 AI Cyberattacks Threaten SaaS and Vibe Coding\n 29:00 Cognition Eyes $75B as the AI Coding Frenzy Escalates\n 34:00 Databricks, Ramp & Sierra: The Hunt for the Next 10x\n 40:00 Palo Alto's $4.5B AI Acquisition Divides Investors\n 44:00 Mailchimp's $12B Price Tag Crashes to $3.68B\n 50:00 CrowdStrike's $44B Zscaler Deal Reshapes Cybersecurity\n 54:00 Claude's Maths Breakthrough Pushes AI Into New Territory\n 58:00 Chinese AI Models Face a Security Reckoning\n 01:05:00 Anthropic's Wealth Explosion: 600 People Worth $100M",
+      "fetched_at": "2026-11-26T16:55:23Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/my-excellent-conversation-with-moxie-marlinspike-of-signal.html",
+      "title": "My excellent Conversation with Moxie Marlinspike of Signal",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/my-excellent-conversation-with-moxie-marlinspike-of-signal.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-moxie-marlinspike-of-signal",
+      "published": "2026-11-26T05:56:51Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Here is the audio, video, and transcript . From the episode summary:\n\n Tyler and Moxie discuss whether AI could break cryptography, Marlinspike’s own private AI chat service, his case for surveilling AI models instead of the humans using them, his skepticism of airport facial recognition, the case he tentatively makes for consent-based over centralized surveillance, why he thinks law enforcement should stay deliberately imperfect, what makes Signal different from WhatsApp, his doubts about cryptocurrency as it’s currently used, a Pentagon group chat scandal he seems almost pleased about, nearly drowning alone in San Francisco Bay, what Starlink has taken from solo sailing, hitchhiking across America in the late ’90s, a mysterious period of being secretly flagged every time he flew internationally, what he’s building next, and more.\n \n And an excerpt:\n\n COWEN: Now say when people use agents, and there’s a certain level of accountability we want for agents. If the agents hack someone else’s privacy, we want some kind of recourse, liability. Can there be privacy in a world with agents and accountability at the same time?\n\n MARLINSPIKE: This is a line that’s very difficult to navigate private or unprivate of what does AI safety mean. I think that it’s probably possible to navigate in the private AI world, but it’s just as difficult and thorny as in the nonprivate AI world.\n\n COWEN: If we want to trace what agents have done and then trace what you told the agent, if the law is to have that power, definitionally, it’s not truly private, right?\n\n MARLINSPIKE: You’re talking about loss of control as your concern?\n\n COWEN: People telling their agents to do evil things.\n\n MARLINSPIKE: Okay. This is a big challenge because there’s a version of AI safety that is concerned with this question. This question is an interesting one. The fear is that people have an equal ability. When you think about things like cyber or cyber risks, this is what you’re suggesting, where suddenly people can use an agent to compromise computer systems, these are things that have always been possible. It just required humans with specific talent or ability.\n\n What AI does is democratize that ability, where now anybody has access to this talent. It’s interesting that that’s actually a scary thought of the democratization of ability. There’s something, for some reason, that makes you think that someone having to develop that ability on their own makes them somehow less dangerous or less likely to use it in an inappropriate way. Right now, the AI safety approach to this question is mass surveillance.\n\n COWEN: That’s not your approach.\n\n MARLINSPIKE: I think that’s a really dangerous approach. The current approach is basically we don’t want bad people to do bad things. What we’re going to do is classify everything that everyone does on a score of badness, and we’re going to rank that from most bad to least bad. We’re going to have an army of human reviewers that just go through and are looking at everything and evaluating the badness. You’re building a machinery of mass surveillance that is larger and more efficient than any other mass surveillance machinery in history. That just seems like a dangerous thing to be constructing.\n\n COWEN: What’s your approach?\n \n Interesting throughout, a very good episode.\n\n The post My excellent Conversation with Moxie Marlinspike of Signal appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-26T16:55:11Z"
+    },
     {
       "id": "https://marginalrevolution.com/marginalrevolution/2026/11/ai-in-research.html",
       "title": "AI in research",
@@ -11363,38 +11443,6 @@
       "type": "interview",
       "raw_text": "Eno Reyes is the co-founder and CTO of Factory, the agent-native software development platform building autonomous \"Droids\" for enterprise engineering teams. Factory has raised $220 million, most recently a $150 million Series C at a $1.5 billion valuation, from investors including Khosla Ventures, Sequoia Capital, 20VC, NEA, Blackstone, Insight Partners and Nvidia. Before founding Factory, Eno worked as a machine-learning engineer at Hugging Face, training, optimizing and deploying large language models for enterprise customers.\n AGENDA:\n 00:00 Are We Underestimating AI by an Order of Magnitude? \n 06:35 Why Can the Smartest AI Model Be the Cheapest? \n 18:51 Is Anthropic's Coding Business Really Worth $2 Trillion? \n 33:41 Will Continuous-Learning Models Help or Hurt Factory? \n 40:43 Will 80–90% of Neo-Labs Die in the Next 18 Months? \n 44:33 Should American Enterprises Work With Open-Source Chinese Models? \n 55:42 Must AI Founders Radically Rethink What a Great Outcome Looks Like? \n 1:04:30 Do Pedigree and Credentials Still Matter in AI Hiring? \n 1:19:17 Which Is the Biggest Threat: Claude Code, Codex, Cognition or Cursor? \n 1:24:20 What Seems Crazy Today but Will Be Obvious in Five Years?",
       "fetched_at": "2026-09-14T16:42:37Z"
-    },
-    {
-      "id": "https://www.netinterest.co/p/untangling-guggenheim",
-      "title": "Untangling Guggenheim",
-      "link": "https://www.netinterest.co/p/untangling-guggenheim",
-      "published": "2026-08-28T15:05:53Z",
-      "source": "Net Interest",
-      "author": "Marc Rubinstein",
-      "lang": "en",
-      "tags": [
-        "金融",
-        "商业分析"
-      ],
-      "raw_text": "We ve dressed up in our best and are prepared to go down like gentlemen. Benjamin Guggenheim. 1 \n When Clarice Whitmore bought an annuity from Security Benefit Life Insurance Company in 2012, she had no idea her premium would help fund the purchase of the LA Dodgers baseball team. A resident of Arkansas, she was unlikely to have been a fan. Yet according to a class action suit, the first investment Security Benefit made after Whitmore paid almost $45,000 for her annuity was a $35 million loan to Guggenheim Baseball Management, a newly-formed partnership set up to acquire the Dodgers. Her lawyers reckon that later in the year, Security Benefit extended another $925 million to fund the acquisition. \n Of course, policyholders have no more say over how their funds are used than bank depositors. Whitmore s lawyers may harrumph that the Dodgers investment was highly speculative and exceptionally illiquid wholly inappropriate for an insurance company with long-term obligations to its annuity holders. But as a single position in a diversified portfolio subject to regulatory oversight, that s not enough to make a case. \n Where Whitmore s lawyers did make their case was in the conflicts of interest that circled the position. At the time it made its investment, Security Benefit was owned by Guggenheim Partners, whose CEO, Mark Walter, set up Guggenheim Baseball Management alongside company president Todd Boehly. The pair tapped Security Benefit and other insurance companies under their control for over half of the $2.15 billion it cost to acquire the Dodgers. Walter took a controlling stake and became chairman of the board, a position he has held since. \n The lawyers allege other conflicts, too. Guggenheim controlled four insurance companies in all. Between them, they invested $5.1 billion in debt issued by companies linked to Guggenheim and loaned almost $1 billion to Guggenheim business associates. Against a total reported surplus of $2 billion, this was no small change. \n They also reinsured risk with each other, and with a fifth insurer that wasn t classified as an affiliate but behaved as one. By circumventing the world of legitimate, arms -length reinsurance , the Guggenheim-operated insurance companies inflated their apparent financial strength. Whitmore s lawyers assert that had she known Security Benefit Life s true financial condition, she would not have purchased her annuity. Guggenheim has essentially operated the Guggenheim Insurers like a cash machine, they conclude. \n The suit didn t survive. The day after it was filed, one of Whitmore s attorneys filed a notice of voluntary dismissal. A year later, Todd Boehly left Guggenheim to form his own firm, Eldridge Industries, taking Security Benefit with him. 2 \n But the allegations stuck even as the Guggenheim insurance empire grew. Earlier this year, two of its lynchpins, Delaware Life and Clear Spring Life, received grand jury subpoenas in connection with an investigation into whether certain private credit investments should have been treated as related-party transactions. After receiving their subpoenas, the companies went back through their books and found $22 billion in private credit deals that weren t properly disclosed to regulators as being sent to borrowers ultimately linked to Guggenheim. At Delaware Life, restatements pushed affiliated investments from 3% of invested assets to 42%. \n\n Stan Kasten, Mark Walter, Magic Johnson, Peter Gruber and Todd Boehly celebrate buying the LA Dodgers | Credit: SHUTTERSTOCK \n Mark Walter is at pains to rectify the situation. He has presented a plan to the Delaware Department of Insurance to reduce affiliated exposures and has already swapped $6.5 billion of Delaware Life s related-party investments for an equivalent amount of assets classified as independent. He has agreed to sell the majority stake in the Los Angeles Lakers he bought last year and is in talks to sell his stake in Chelsea FC. There is no victim here, he contends . 3 \n But the episode casts a shadow over the private credit industry much as strains at Blue Owl did earlier in the year. Affiliated investments have been growing across the industry as private credit expands its footprint in insurance; Guggenheim, it turns out, is just the sharp edge of a much broader pattern. To see how far it cuts, read on. 4 \n \n I am honored to be nominated for an Independent Media Award in the finance/business category. Voting is open until Sept 2. You can vote here . Thank you! \n\n Read more",
-      "fetched_at": "2026-09-14T16:03:26Z",
-      "type": "blog"
-    },
-    {
-      "id": "https://www.notboring.co/p/weekly-dose-of-optimism-208",
-      "title": "Weekly Dose of Optimism #208",
-      "link": "https://www.notboring.co/p/weekly-dose-of-optimism-208",
-      "published": "2026-08-28T12:14:36Z",
-      "source": "Not Boring",
-      "author": "Packy McCormick",
-      "lang": "en",
-      "tags": [
-        "公司分析",
-        "创投"
-      ],
-      "raw_text": "Hi friends ,\n Happy Friday and welcome back to our 208th Weekly Dose of Optimism. \n While there was a ton of good news this week, the videos of the floods in Nepal and Tibet are some of the most heartbreaking I ve ever seen. We re going to cover the good stuff, but if you d like to donate to the relief efforts, I m giving to DirectRelief s Nepal Flood Relief 2026 , where 100% of donations support Nepal response activities. \n Now, August rules: you should be outside as much as possible while you can, so we will just quickly tell you to check out Matthew s Field Notes from China , and then \n Let s get to it. \n \n Today s Not Boring is brought to you by Create \n\n Dan and Sienna rolled out what looks like the most delicious creatine ever made, the Lemonade Collection . To celebrate, they agreed to give not boring readers 50% off through the weekend. Go get your Lemonade Creatine + Electrolytes and code notboring50 at checkout . \n \n (1) FDA Approves Targeted Therapy for Metastatic Pancreatic Cancer Xavier Martinez for WSJ \n\n Pancreatic cancer has long been one of the deadliest and hardest to treat forms of the disease thanks to a mutation that sticks the RAS protein on and causes runaway cell growth. \n In terrible news for cancer and great news for people, the FDA has approved a drug, Revolution Medicines Rasonque, that targets the mutation and helped subjects in a late-stage study live for more than 13 months instead of around 6.7 months for those who receive chemotherapy alone. \n The drug does have side effects, and 13 months isn t forever, both issues personified by Former Nebraska Sen. Ben Sasse, who went public in the spring with what he described as a significant reduction in his tumors while in a clinical trial of the drug, appeared on television with his face covered in red blotches. Sasse lived longer than expected, but he still expects to pass away, as discussed in his incredible conversation with Leopold s wedding officiant Ross Douthat, titled How Ben Sasse is Living Now That He is Dying . \n Still, this is a massive win, one that drew a standing ovation at a cancer conference last spring when Revolution announced the results. \n As one patient, former Disney exec Jay Williams, told WSJ, What it does is buy you time, and that s one thing you don t always have with pancreatic cancer. \n And speaking of time, good on the FDA for approving this so quickly. Per the Agency, The FDA granted Rasonque Breakthrough Therapy and Orphan Drug designations. Rasonque received Priority Review for this indication. The application was also reviewed under the Commissioner s National Priority Voucher pilot program, which is intended to help accelerate the review of therapies that address national public health priorities. As a result, it was approved about 6.5 months faster than the standard PDUFA timeline, which means means it went through in roughly half the usual already-accelerated window for a priority oncology drug.\n Patients, oncologists, all of us, and regulators are saying the same thing: get fucked, cancer. \n (2) Airbound Announces $37M Raise and Drops Manifesto Naman Pushp for Airbound \n \n Last year, I invested in a company called Airbound founded by a young guy from India who taught himself physics and engineering on YouTube during COVID and used that knowledge to build better drones. \n After we got introduced but before we met, I didn t really think I d invest - drones are a fairly crowded space and Zipline is awesome. Then I met Naman, and decided to invest immediately. \n Over the past couple of months, I ve had the chance to work with him on his Manifesto for Airbound , in which he did a great job laying out the future where all movement is in the air that got me so excited in our first conversation. \n He published it this week, along with the news that he raised $37M from Greenoaks, Lachy Groom, and others. \n Read it - and stay tuned for more. \n (3) Radiant and Antares Selected for US Army Janus Program U.S. Army Communication and Outreach Office \n\n We love to see friends get contracts from the US Army to make a lot of nuclear reactors and hopefully save a lot of lives in the process, so we were very happy to see the Army choose Radiant Nuclear , who we wrote about in 2024 , and Antares Nuclear , whose co-founder Julia DeWahl was my Age of Miracles co-host, sign deals as two of five companies selected for the $2.2B Janus program. \n Radiant is getting $750M to make 15 Kaleidos microreactors, and while Antares didn t reveal specifics on this contract, they tweeted that they now have a contract value on the order of $1B that is growing rapidly. \n While the business side is awesome, the most important piece is what this might mean for warfighters. As Doug said in the deep dive, Over 55% of US soldier casualties in the two Iraqi conflicts are from ambushed convoys . And convoys move ammo, water, and fuel. So if you could put a reactor in one of these locations, you completely remove all those fuel shipments, you save tens of thousands of lives. \n As a bonus, our portfolio company Standard Nuclear has signed a binding agreement to supply Antares with TRISO fuel through 2035 for microreactors built for defense and space missions, which means it s now supplying both Janus-winning startups. \n (3a) Actinide Becomes First Startup to Enrich Uranium to HALEU \n\n And speaking of nuclear fuel, Actinide became the first startup to enrich uranium and produce HALEU (High-Assay Low-Enriched Uranium), the fuel that many advanced reactors use (it goes inside the TRISO pellets). \n They did it using their particle accelerator, Endurance, designed and built in Texas, which had been producing enriched Yb-176, a precursor for cancer therapies worth roughly $30,000 per gram, just last month. \n HALEU will be one of many isotopes the company makes in its attempt to address humanity's greatest unsolved problem: control of the atom. \n (4) Anthropic Kicks Off Preview for Model Hardware Standard \n\n MHS enables AI agents to operate multiple lab and manufacturing instruments, such as microscopes, liquid handlers, and robotic arms, in parallel, and perform intricate tasks ranging from routine drug discovery experiments to laser calibration on a quantum computer. \n Ruxandra Teslo has some good quick thoughts here , which you should read, but which are basically: this is aiming to automate boring stuff, like laser alignment, so humans can do science, which is core to the human spirit. \n David Hansen has some, too, on what humans at US manufacturing companies can already do with Claude and Codex. \n \n Read more here .\n (5) Hugging Face Quacks into Robotics with Microduck ( and sells to Nvidia for $12.9B ) \n Two days ago, rumors swirled that Nvidia would be buying Hugging Face, the open source model repository, for $12.9 billion. Open source makes sense for Nvidia - commoditize your complements! \n So when Hugging Face co-founder Thomas Wolf tweeted on Thursday morning, he tweeted what was on everyone s mind: We have a huge news to share today! \n The news, though, was that Pollen Robotics, which the company acquired in 2025 , was unveiling the first truly accessible RL robot - welcome Microduck. \n The thing is cute, costs $399, and you can train it yourself with reinforcement learning. Before you do, it can do a bunch of stuff out of the box, like walk, sit, crouch, roller-skate, pick up objects with its articulated beak, and recover on its own. \n Asked to comment on Hugging Face s big week, Billy Madison said, That s quacktastic! \n EXTRA DOSES: Science Breakthroughs, Stony Brook Quantum, Figma Podcast, Anthropic Model Hardware Standard, Dyna ROI, Alex Colville \n\n Read more",
-      "fetched_at": "2026-09-14T16:03:26Z",
-      "type": "blog"
     }
   ]
 }

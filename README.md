@@ -112,25 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-26 03:34 UTC*
+*更新于 2026-11-26 16:55 UTC*
 
-**[AI in research](https://marginalrevolution.com/marginalrevolution/2026/11/ai-in-research.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-research)**  
-`Tyler Cowen` · 8 小时前  
+**[Thanksgiving assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/thanksgiving-assorted-links-6.html?utm_source=rss&utm_medium=rss&utm_campaign=thanksgiving-assorted-links-6)**  
+`Tyler Cowen` · 刚刚  
 
-**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-581)**  
+**[What we are grateful for](https://marginalrevolution.com/marginalrevolution/2026/11/what-we-are-grateful-for.html?utm_source=rss&utm_medium=rss&utm_campaign=what-we-are-grateful-for)**  
+`Tyler Cowen` · 4 小时前  
+
+**[Five Facts About Stablecoins](https://marginalrevolution.com/marginalrevolution/2026/11/five-facts-about-stablecoins.html?utm_source=rss&utm_medium=rss&utm_campaign=five-facts-about-stablecoins)**  
+`Tyler Cowen` · 6 小时前  
+
+**[20VC: Jensen Huang's $1TRN Return: What Happens Now \| Anthropic Goes Public: Largest IPO Of All Time & How It Changes Venture \| Applied Compute, Bill.com and Mailchimp Acquisitions Broken Down](https://thetwentyminutevc.libsyn.com/20vc-jensen-huangs-1trn-return-what-happens-now-anthropic-goes-public-largest-ipo-of-all-time-how-it-changes-venture-applied-compute-billcom-and-mailchimp-acquisitions-broken-down)**  
+`Harry Stebbings` · 9 小时前  
+
+**[My excellent Conversation with Moxie Marlinspike of Signal](https://marginalrevolution.com/marginalrevolution/2026/11/my-excellent-conversation-with-moxie-marlinspike-of-signal.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-moxie-marlinspike-of-signal)**  
 `Tyler Cowen` · 10 小时前  
 
+**[AI in research](https://marginalrevolution.com/marginalrevolution/2026/11/ai-in-research.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-research)**  
+`Tyler Cowen` · 22 小时前  
+
+**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-581)**  
+`Tyler Cowen` · 23 小时前  
+
 **[Gemini 4 Neon beat GPT-6.2 and Claude in my 25-task AI benchmark](https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude)**  
-`Lenny Rachitsky` · 14 小时前  
+`Lenny Rachitsky` · 1 天前  
 
 **[Moxie Marlinspike on Cryptography, Privacy, and Mass Surveillance](https://cowenconvos.libsyn.com/moxie-marlinspike-on-cryptography-privacy-and-mass-surveillance)**  
-`Tyler Cowen` · 15 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[How did the United States become a lawyerly society?](https://marginalrevolution.com/marginalrevolution/2026/11/how-did-the-united-states-become-a-lawyerly-society.html?utm_source=rss&utm_medium=rss&utm_campaign=how-did-the-united-states-become-a-lawyerly-society)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Avoiding disempowerment through protectionism?](https://marginalrevolution.com/marginalrevolution/2026/11/avoiding-disempowerment-through-protectionism.html?utm_source=rss&utm_medium=rss&utm_campaign=avoiding-disempowerment-through-protectionism)**  
-`Tyler Cowen` · 21 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场](https://sv101.fireside.fm/274)**  
 `陈茜` · 1 天前  
@@ -142,21 +157,6 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-596.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-596)**  
-`Tyler Cowen` · 1 天前  
-
-**[The Individual Exception](https://stratechery.com/2026/the-individual-exception/)**  
-`Ben Thompson` · 1 天前  
-
-**[Learning From Bezos, Jobs, and Spielberg \| Bing Gordon](https://fs.blog/knowledge-project-podcast/bing-gordon/)**  
-`Shane Parrish` · 1 天前  
-
-**[Best fiction 2026](https://marginalrevolution.com/marginalrevolution/2026/11/best-fiction-2026.html?utm_source=rss&utm_medium=rss&utm_campaign=best-fiction-2026)**  
-`Tyler Cowen` · 1 天前  
-
-**[The Health Effects of Eating Red Meat](https://marginalrevolution.com/marginalrevolution/2026/11/the-health-effects-of-eating-red-meat.html?utm_source=rss&utm_medium=rss&utm_campaign=the-health-effects-of-eating-red-meat)**  
-`Tyler Cowen` · 1 天前  
-
-**[Jensen is back](https://www.platformer.news/jensen-huang-returns-nvidia/)**  
-`Casey Newton` · 2 天前  
+`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
