@@ -112,28 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-27 12:22 UTC*
+*更新于 2026-11-27 23:27 UTC*
+
+**[AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil](https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil)**  
+`Dwarkesh Patel` · 5 小时前  
+
+**[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-601.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-601)**  
+`Tyler Cowen` · 5 小时前  
+
+**[Weekly Dose of Optimism #221](https://www.notboring.co/p/weekly-dose-of-optimism-221)**  
+`Packy McCormick` · 9 小时前  
 
 **[India is on the Move](https://marginalrevolution.com/marginalrevolution/2026/11/india-is-on-the-move.html?utm_source=rss&utm_medium=rss&utm_campaign=india-is-on-the-move)**  
-`Tyler Cowen` · 刚刚  
+`Tyler Cowen` · 11 小时前  
 
 **[The mental illness theory of politics is modestly underrated](https://marginalrevolution.com/marginalrevolution/2026/11/the-mental-illness-theory-of-politics-is-modestly-underrated.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mental-illness-theory-of-politics-is-modestly-underrated)**  
-`Tyler Cowen` · 3 小时前  
+`Tyler Cowen` · 14 小时前  
 
 **[My podcast with Hasan](https://marginalrevolution.com/marginalrevolution/2026/11/my-podcast-with-hasan.html?utm_source=rss&utm_medium=rss&utm_campaign=my-podcast-with-hasan)**  
-`Tyler Cowen` · 6 小时前  
+`Tyler Cowen` · 17 小时前  
 
 **[科技爱好者周刊（第 421 期）：AI 的疯狂造富](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html)**  
-`阮一峰` · 12 小时前  
+`阮一峰` · 23 小时前  
 
 **[E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？](https://sv101.fireside.fm/275)**  
-`陈茜` · 13 小时前  
+`陈茜` · 1 天前  
 
 **[HumanFish — Predicting Who Actually Wins a Human Chess Game](https://marginalrevolution.com/marginalrevolution/2026/11/humanfish-predicting-who-actually-wins-a-human-chess-game.html?utm_source=rss&utm_medium=rss&utm_campaign=humanfish-predicting-who-actually-wins-a-human-chess-game)**  
-`Tyler Cowen` · 16 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Thanksgiving assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/thanksgiving-assorted-links-6.html?utm_source=rss&utm_medium=rss&utm_campaign=thanksgiving-assorted-links-6)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[What we are grateful for](https://marginalrevolution.com/marginalrevolution/2026/11/what-we-are-grateful-for.html?utm_source=rss&utm_medium=rss&utm_campaign=what-we-are-grateful-for)**  
 `Tyler Cowen` · 1 天前  
@@ -148,15 +157,6 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[AI in research](https://marginalrevolution.com/marginalrevolution/2026/11/ai-in-research.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-research)**  
-`Tyler Cowen` · 1 天前  
-
-**[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-581)**  
-`Tyler Cowen` · 1 天前  
-
-**[Gemini 4 Neon beat GPT-6.2 and Claude in my 25-task AI benchmark](https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude)**  
-`Lenny Rachitsky` · 1 天前  
-
-**[Moxie Marlinspike on Cryptography, Privacy, and Mass Surveillance](https://cowenconvos.libsyn.com/moxie-marlinspike-on-cryptography-privacy-and-mass-surveillance)**  
 `Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
