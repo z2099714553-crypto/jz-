@@ -112,31 +112,40 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-27 01:45 UTC*
+*更新于 2026-11-27 12:22 UTC*
 
-**[科技爱好者周刊（第 421 期）：AI 的疯狂造富](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html)**  
-`阮一峰` · 1 小时前  
+**[India is on the Move](https://marginalrevolution.com/marginalrevolution/2026/11/india-is-on-the-move.html?utm_source=rss&utm_medium=rss&utm_campaign=india-is-on-the-move)**  
+`Tyler Cowen` · 刚刚  
 
-**[E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？](https://sv101.fireside.fm/275)**  
-`陈茜` · 2 小时前  
+**[The mental illness theory of politics is modestly underrated](https://marginalrevolution.com/marginalrevolution/2026/11/the-mental-illness-theory-of-politics-is-modestly-underrated.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mental-illness-theory-of-politics-is-modestly-underrated)**  
+`Tyler Cowen` · 3 小时前  
 
-**[HumanFish — Predicting Who Actually Wins a Human Chess Game](https://marginalrevolution.com/marginalrevolution/2026/11/humanfish-predicting-who-actually-wins-a-human-chess-game.html?utm_source=rss&utm_medium=rss&utm_campaign=humanfish-predicting-who-actually-wins-a-human-chess-game)**  
+**[My podcast with Hasan](https://marginalrevolution.com/marginalrevolution/2026/11/my-podcast-with-hasan.html?utm_source=rss&utm_medium=rss&utm_campaign=my-podcast-with-hasan)**  
 `Tyler Cowen` · 6 小时前  
 
+**[科技爱好者周刊（第 421 期）：AI 的疯狂造富](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html)**  
+`阮一峰` · 12 小时前  
+
+**[E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？](https://sv101.fireside.fm/275)**  
+`陈茜` · 13 小时前  
+
+**[HumanFish — Predicting Who Actually Wins a Human Chess Game](https://marginalrevolution.com/marginalrevolution/2026/11/humanfish-predicting-who-actually-wins-a-human-chess-game.html?utm_source=rss&utm_medium=rss&utm_campaign=humanfish-predicting-who-actually-wins-a-human-chess-game)**  
+`Tyler Cowen` · 16 小时前  
+
 **[Thanksgiving assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/thanksgiving-assorted-links-6.html?utm_source=rss&utm_medium=rss&utm_campaign=thanksgiving-assorted-links-6)**  
-`Tyler Cowen` · 8 小时前  
+`Tyler Cowen` · 19 小时前  
 
 **[What we are grateful for](https://marginalrevolution.com/marginalrevolution/2026/11/what-we-are-grateful-for.html?utm_source=rss&utm_medium=rss&utm_campaign=what-we-are-grateful-for)**  
-`Tyler Cowen` · 13 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Five Facts About Stablecoins](https://marginalrevolution.com/marginalrevolution/2026/11/five-facts-about-stablecoins.html?utm_source=rss&utm_medium=rss&utm_campaign=five-facts-about-stablecoins)**  
-`Tyler Cowen` · 14 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[20VC: Jensen Huang's $1TRN Return: What Happens Now \| Anthropic Goes Public: Largest IPO Of All Time & How It Changes Venture \| Applied Compute, Bill.com and Mailchimp Acquisitions Broken Down](https://thetwentyminutevc.libsyn.com/20vc-jensen-huangs-1trn-return-what-happens-now-anthropic-goes-public-largest-ipo-of-all-time-how-it-changes-venture-applied-compute-billcom-and-mailchimp-acquisitions-broken-down)**  
-`Harry Stebbings` · 18 小时前  
+`Harry Stebbings` · 1 天前  
 
 **[My excellent Conversation with Moxie Marlinspike of Signal](https://marginalrevolution.com/marginalrevolution/2026/11/my-excellent-conversation-with-moxie-marlinspike-of-signal.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-moxie-marlinspike-of-signal)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[AI in research](https://marginalrevolution.com/marginalrevolution/2026/11/ai-in-research.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-research)**  
 `Tyler Cowen` · 1 天前  
@@ -148,15 +157,6 @@ open docs/index.html
 `Lenny Rachitsky` · 1 天前  
 
 **[Moxie Marlinspike on Cryptography, Privacy, and Mass Surveillance](https://cowenconvos.libsyn.com/moxie-marlinspike-on-cryptography-privacy-and-mass-surveillance)**  
-`Tyler Cowen` · 1 天前  
-
-**[How did the United States become a lawyerly society?](https://marginalrevolution.com/marginalrevolution/2026/11/how-did-the-united-states-become-a-lawyerly-society.html?utm_source=rss&utm_medium=rss&utm_campaign=how-did-the-united-states-become-a-lawyerly-society)**  
-`Tyler Cowen` · 1 天前  
-
-**[Avoiding disempowerment through protectionism?](https://marginalrevolution.com/marginalrevolution/2026/11/avoiding-disempowerment-through-protectionism.html?utm_source=rss&utm_medium=rss&utm_campaign=avoiding-disempowerment-through-protectionism)**  
-`Tyler Cowen` · 1 天前  
-
-**[E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场](https://sv101.fireside.fm/274)**  
-`陈茜` · 2 天前  
+`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
