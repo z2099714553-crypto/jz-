@@ -112,28 +112,37 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-26 16:55 UTC*
+*更新于 2026-11-27 01:45 UTC*
 
-**[Thanksgiving assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/thanksgiving-assorted-links-6.html?utm_source=rss&utm_medium=rss&utm_campaign=thanksgiving-assorted-links-6)**  
-`Tyler Cowen` · 刚刚  
+**[科技爱好者周刊（第 421 期）：AI 的疯狂造富](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html)**  
+`阮一峰` · 1 小时前  
 
-**[What we are grateful for](https://marginalrevolution.com/marginalrevolution/2026/11/what-we-are-grateful-for.html?utm_source=rss&utm_medium=rss&utm_campaign=what-we-are-grateful-for)**  
-`Tyler Cowen` · 4 小时前  
+**[E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？](https://sv101.fireside.fm/275)**  
+`陈茜` · 2 小时前  
 
-**[Five Facts About Stablecoins](https://marginalrevolution.com/marginalrevolution/2026/11/five-facts-about-stablecoins.html?utm_source=rss&utm_medium=rss&utm_campaign=five-facts-about-stablecoins)**  
+**[HumanFish — Predicting Who Actually Wins a Human Chess Game](https://marginalrevolution.com/marginalrevolution/2026/11/humanfish-predicting-who-actually-wins-a-human-chess-game.html?utm_source=rss&utm_medium=rss&utm_campaign=humanfish-predicting-who-actually-wins-a-human-chess-game)**  
 `Tyler Cowen` · 6 小时前  
 
+**[Thanksgiving assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/thanksgiving-assorted-links-6.html?utm_source=rss&utm_medium=rss&utm_campaign=thanksgiving-assorted-links-6)**  
+`Tyler Cowen` · 8 小时前  
+
+**[What we are grateful for](https://marginalrevolution.com/marginalrevolution/2026/11/what-we-are-grateful-for.html?utm_source=rss&utm_medium=rss&utm_campaign=what-we-are-grateful-for)**  
+`Tyler Cowen` · 13 小时前  
+
+**[Five Facts About Stablecoins](https://marginalrevolution.com/marginalrevolution/2026/11/five-facts-about-stablecoins.html?utm_source=rss&utm_medium=rss&utm_campaign=five-facts-about-stablecoins)**  
+`Tyler Cowen` · 14 小时前  
+
 **[20VC: Jensen Huang's $1TRN Return: What Happens Now \| Anthropic Goes Public: Largest IPO Of All Time & How It Changes Venture \| Applied Compute, Bill.com and Mailchimp Acquisitions Broken Down](https://thetwentyminutevc.libsyn.com/20vc-jensen-huangs-1trn-return-what-happens-now-anthropic-goes-public-largest-ipo-of-all-time-how-it-changes-venture-applied-compute-billcom-and-mailchimp-acquisitions-broken-down)**  
-`Harry Stebbings` · 9 小时前  
+`Harry Stebbings` · 18 小时前  
 
 **[My excellent Conversation with Moxie Marlinspike of Signal](https://marginalrevolution.com/marginalrevolution/2026/11/my-excellent-conversation-with-moxie-marlinspike-of-signal.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-moxie-marlinspike-of-signal)**  
-`Tyler Cowen` · 10 小时前  
+`Tyler Cowen` · 19 小时前  
 
 **[AI in research](https://marginalrevolution.com/marginalrevolution/2026/11/ai-in-research.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-research)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Wednesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/wednesday-assorted-links-581.html?utm_source=rss&utm_medium=rss&utm_campaign=wednesday-assorted-links-581)**  
-`Tyler Cowen` · 23 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[Gemini 4 Neon beat GPT-6.2 and Claude in my 25-task AI benchmark](https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude)**  
 `Lenny Rachitsky` · 1 天前  
@@ -148,15 +157,6 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场](https://sv101.fireside.fm/274)**  
-`陈茜` · 1 天前  
-
-**[Responding to objections to recursive self-improvement](https://www.dwarkesh.com/p/rsiobjections)**  
-`Dwarkesh Patel` · 1 天前  
-
-**[Gambling for Goals](https://marginalrevolution.com/marginalrevolution/2026/11/gambling-for-goals.html?utm_source=rss&utm_medium=rss&utm_campaign=gambling-for-goals)**  
-`Tyler Cowen` · 1 天前  
-
-**[Tuesday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/tuesday-assorted-links-596.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-596)**  
-`Tyler Cowen` · 2 天前  
+`陈茜` · 2 天前  
 
 <!-- POSTS:END -->
