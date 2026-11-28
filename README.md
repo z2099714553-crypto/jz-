@@ -112,28 +112,34 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-27 23:27 UTC*
+*更新于 2026-11-28 07:50 UTC*
+
+**[20VC: Why ARR Per Employee is a BS Metric \| Message-Market Fit vs. Product-Market Fit: Why Founders Should Launch Broken Products \| The Biggest Mistakes Founders Make When Scaling Sales Teams with David Paffenholz, Juicebox](https://thetwentyminutevc.libsyn.com/20vc-why-arr-per-employee-is-a-bs-metric-message-market-fit-vs-product-market-fit-why-founders-should-launch-broken-products-the-biggest-mistakes-founders-make-when-scaling-sales-teams-with-david-paffenholz-juicebox)**  
+`Harry Stebbings` · 刚刚  
+
+**[Disempowerment vs. net disempowerment](https://marginalrevolution.com/marginalrevolution/2026/11/disempowerment-vs-net-disempowerment.html?utm_source=rss&utm_medium=rss&utm_campaign=disempowerment-vs-net-disempowerment)**  
+`Tyler Cowen` · 1 小时前  
 
 **[AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil](https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil)**  
-`Dwarkesh Patel` · 5 小时前  
+`Dwarkesh Patel` · 13 小时前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-601.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-601)**  
-`Tyler Cowen` · 5 小时前  
-
-**[Weekly Dose of Optimism #221](https://www.notboring.co/p/weekly-dose-of-optimism-221)**  
-`Packy McCormick` · 9 小时前  
-
-**[India is on the Move](https://marginalrevolution.com/marginalrevolution/2026/11/india-is-on-the-move.html?utm_source=rss&utm_medium=rss&utm_campaign=india-is-on-the-move)**  
-`Tyler Cowen` · 11 小时前  
-
-**[The mental illness theory of politics is modestly underrated](https://marginalrevolution.com/marginalrevolution/2026/11/the-mental-illness-theory-of-politics-is-modestly-underrated.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mental-illness-theory-of-politics-is-modestly-underrated)**  
 `Tyler Cowen` · 14 小时前  
 
+**[Weekly Dose of Optimism #221](https://www.notboring.co/p/weekly-dose-of-optimism-221)**  
+`Packy McCormick` · 18 小时前  
+
+**[India is on the Move](https://marginalrevolution.com/marginalrevolution/2026/11/india-is-on-the-move.html?utm_source=rss&utm_medium=rss&utm_campaign=india-is-on-the-move)**  
+`Tyler Cowen` · 19 小时前  
+
+**[The mental illness theory of politics is modestly underrated](https://marginalrevolution.com/marginalrevolution/2026/11/the-mental-illness-theory-of-politics-is-modestly-underrated.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mental-illness-theory-of-politics-is-modestly-underrated)**  
+`Tyler Cowen` · 22 小时前  
+
 **[My podcast with Hasan](https://marginalrevolution.com/marginalrevolution/2026/11/my-podcast-with-hasan.html?utm_source=rss&utm_medium=rss&utm_campaign=my-podcast-with-hasan)**  
-`Tyler Cowen` · 17 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[科技爱好者周刊（第 421 期）：AI 的疯狂造富](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html)**  
-`阮一峰` · 23 小时前  
+`阮一峰` · 1 天前  
 
 **[E261｜表演有效、组团出海，韩国美妆如何抢占美国市场？](https://sv101.fireside.fm/275)**  
 `陈茜` · 1 天前  
@@ -151,12 +157,6 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[20VC: Jensen Huang's $1TRN Return: What Happens Now \| Anthropic Goes Public: Largest IPO Of All Time & How It Changes Venture \| Applied Compute, Bill.com and Mailchimp Acquisitions Broken Down](https://thetwentyminutevc.libsyn.com/20vc-jensen-huangs-1trn-return-what-happens-now-anthropic-goes-public-largest-ipo-of-all-time-how-it-changes-venture-applied-compute-billcom-and-mailchimp-acquisitions-broken-down)**  
-`Harry Stebbings` · 1 天前  
-
-**[My excellent Conversation with Moxie Marlinspike of Signal](https://marginalrevolution.com/marginalrevolution/2026/11/my-excellent-conversation-with-moxie-marlinspike-of-signal.html?utm_source=rss&utm_medium=rss&utm_campaign=my-excellent-conversation-with-moxie-marlinspike-of-signal)**  
-`Tyler Cowen` · 1 天前  
-
-**[AI in research](https://marginalrevolution.com/marginalrevolution/2026/11/ai-in-research.html?utm_source=rss&utm_medium=rss&utm_campaign=ai-in-research)**  
-`Tyler Cowen` · 2 天前  
+`Harry Stebbings` · 2 天前  
 
 <!-- POSTS:END -->

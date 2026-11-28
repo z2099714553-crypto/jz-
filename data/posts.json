@@ -1,7 +1,39 @@
 {
-  "generated_at": "2026-11-27T23:27:55Z",
-  "count": 716,
+  "generated_at": "2026-11-28T07:50:17Z",
+  "count": 718,
   "posts": [
+    {
+      "id": "https://thetwentyminutevc.libsyn.com/20vc-why-arr-per-employee-is-a-bs-metric-message-market-fit-vs-product-market-fit-why-founders-should-launch-broken-products-the-biggest-mistakes-founders-make-when-scaling-sales-teams-with-david-paffenholz-juicebox",
+      "title": "20VC: Why ARR Per Employee is a BS Metric | Message-Market Fit vs. Product-Market Fit: Why Founders Should Launch Broken Products | The Biggest Mistakes Founders Make When Scaling Sales Teams with David Paffenholz, Juicebox",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-why-arr-per-employee-is-a-bs-metric-message-market-fit-vs-product-market-fit-why-founders-should-launch-broken-products-the-biggest-mistakes-founders-make-when-scaling-sales-teams-with-david-paffenholz-juicebox",
+      "published": "2026-11-28T07:07:00Z",
+      "source": "20VC",
+      "author": "Harry Stebbings",
+      "lang": "en",
+      "tags": [
+        "创投",
+        "深度访谈"
+      ],
+      "type": "interview",
+      "raw_text": "David Paffenholz is the Co-Founder and CEO of Juicebox, one of Silicon Valley's fastest-growing AI startups.\n To date, Juicebox has raised $116M in funding, most recently an $80M Series B at an $850M valuation.\n Investors include Sequoia, DST, Coatue, Nat Friedman, Daniel Gross and Y Combinator.\n AGENDA: \n 00:00 From a Music App to Taking on LinkedIn: The Incredible Story of Juicebox\n 04:00 Could Juicebox Have Ever Succeeded in Europe?\n 08:00 Two and a Half Years in the Wilderness: When to Pivot vs. When to Persist\n 12:00 Why VCs Hate Recruiting Tech & Why Everyone Has Got It Wrong\n 14:00 Message-Market Fit vs. Product-Market Fit: Why Founders Should Launch Broken Products\n 20:00 From $1M to $5M ARR in Five Months: What Unlocked Hypergrowth?\n 23:00 Inside Sequoia's Investment Committee: Does the Sequoia Discount Really Exist?\n 27:00 The Biggest Mistakes Founders Make When Scaling Sales Teams\n 30:00 How to Hire World-Class Talent Before You Are a World-Class Company\n 36:00 The Playbook for International Expansion: Why Juicebox Pays SF Salaries in London\n 39:00 Are AI-Enabled Services Businesses Massively Overhyped?\n 44:00 Why Juicebox Turned Down a 2x+ Valuation Increase the Day Sequoia Wired the Money\n 46:00 Raising from DST: Why You Should Never Optimise for the Highest Valuation\n 50:00 Inside Silicon Valley's Brutal War for Talent: How Do You Compete with OpenAI?\n 53:00 The Most Overrated and Underrated Opportunities in AI Today\n 55:00 Why ARR per Employee Is a Vanity Metric",
+      "fetched_at": "2026-11-28T07:50:17Z"
+    },
+    {
+      "id": "https://marginalrevolution.com/marginalrevolution/2026/11/disempowerment-vs-net-disempowerment.html",
+      "title": "Disempowerment vs. net disempowerment",
+      "link": "https://marginalrevolution.com/marginalrevolution/2026/11/disempowerment-vs-net-disempowerment.html?utm_source=rss&utm_medium=rss&utm_campaign=disempowerment-vs-net-disempowerment",
+      "published": "2026-11-28T06:02:07Z",
+      "source": "Marginal Revolution",
+      "author": "Tyler Cowen",
+      "lang": "en",
+      "tags": [
+        "经济学",
+        "商业评论"
+      ],
+      "type": "blog",
+      "raw_text": "Here was my prompt:\n\n There are many discussions of disempowerment as a result of strong AI, and of whether humans lose control or agency. Do any of these discussions offer specific, detailed comparisons of how strong AI also may empower humans? Do they have any specific consideration, working through some examples and details, of the net empowerment effect, namely whether the empowering functions of AI are more important than the disempowering functions? Please give me specific citations of what comes closest to this, or can it be found at all?\n \n Here is a brief summary:\n\n But my impression from searching the literature is that systematic analysis of the net empowerment effect of very powerful AI remains surprisingly underdeveloped, especially relative to the volume of work on disempowerment.\n \n The main example they give, by Bentham’s Bulldog and John Halstead , largely argues against the likelihood of net disempowerment.\n\n The best academic example GPT has recognizes that establishing the prospect of extraordinarily powerful AI is not sufficient to establish the prospect of human disempowerment. \n\n Read the whole GPT answer yourself. I will repeat my general claim that the disempowerment critiques of strong AI are long on emotion and short on social science, marginal thinking, and comparative analysis. The beast that disempowered me from writing all of this blog post myself seems to agree. And that same beast offers some very nice general remarks:\n\n I would particularly like to see a treatment of the general-equilibrium effects of AI on the power of humans over other humans . Much of what currently limits human agency is not the absence of cognitive abilities per se, but dependence on other people who possess scarce cognitive abilities.\n\n Furthermore, many disempowerment scenarios seem to assume that AI capabilities will continue improving while the technologies available to humans for controlling, monitoring, bargaining with, and directing those AIs remain comparatively static. Why should that be the appropriate default assumption?\n\n The strongest counterargument is that empowerment might be temporary and revocable, whereas eventual disempowerment might be irreversible. That asymmetry deserves serious consideration, but it too requires explicit modeling rather than simply counting the decisions delegated to machines.\n \n Amen.\n\n And do keep in mind the comparative analysis. The same assumptions that get you disempowerment from AI (e.g., mental laziness) also tend to get you disempowerment from growing wealth, albeit at a likely slower pace. The marginal increase in disempowerment, should the risks of AI lead us to fall into that path, may not be so great in the longer term? Maybe so, but that is not a question you see being raised very often.\n\n Seb Krier has some characteristically excellent remarks .\n\n The post Disempowerment vs. net disempowerment appeared first on Marginal REVOLUTION .",
+      "fetched_at": "2026-11-28T07:50:04Z"
+    },
     {
       "id": "https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil",
       "title": "AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil",
