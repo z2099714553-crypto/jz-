@@ -112,28 +112,31 @@ open docs/index.html
 ## 最新文章
 
 <!-- POSTS:START -->
-*更新于 2026-11-28 07:50 UTC*
+*更新于 2026-11-28 17:33 UTC*
+
+**[Saturday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/saturday-assorted-links-588.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-588)**  
+`Tyler Cowen` · 2 小时前  
 
 **[20VC: Why ARR Per Employee is a BS Metric \| Message-Market Fit vs. Product-Market Fit: Why Founders Should Launch Broken Products \| The Biggest Mistakes Founders Make When Scaling Sales Teams with David Paffenholz, Juicebox](https://thetwentyminutevc.libsyn.com/20vc-why-arr-per-employee-is-a-bs-metric-message-market-fit-vs-product-market-fit-why-founders-should-launch-broken-products-the-biggest-mistakes-founders-make-when-scaling-sales-teams-with-david-paffenholz-juicebox)**  
-`Harry Stebbings` · 刚刚  
+`Harry Stebbings` · 10 小时前  
 
 **[Disempowerment vs. net disempowerment](https://marginalrevolution.com/marginalrevolution/2026/11/disempowerment-vs-net-disempowerment.html?utm_source=rss&utm_medium=rss&utm_campaign=disempowerment-vs-net-disempowerment)**  
-`Tyler Cowen` · 1 小时前  
+`Tyler Cowen` · 11 小时前  
 
 **[AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil](https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil)**  
-`Dwarkesh Patel` · 13 小时前  
+`Dwarkesh Patel` · 23 小时前  
 
 **[Friday assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/friday-assorted-links-601.html?utm_source=rss&utm_medium=rss&utm_campaign=friday-assorted-links-601)**  
-`Tyler Cowen` · 14 小时前  
+`Tyler Cowen` · 23 小时前  
 
 **[Weekly Dose of Optimism #221](https://www.notboring.co/p/weekly-dose-of-optimism-221)**  
-`Packy McCormick` · 18 小时前  
+`Packy McCormick` · 1 天前  
 
 **[India is on the Move](https://marginalrevolution.com/marginalrevolution/2026/11/india-is-on-the-move.html?utm_source=rss&utm_medium=rss&utm_campaign=india-is-on-the-move)**  
-`Tyler Cowen` · 19 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[The mental illness theory of politics is modestly underrated](https://marginalrevolution.com/marginalrevolution/2026/11/the-mental-illness-theory-of-politics-is-modestly-underrated.html?utm_source=rss&utm_medium=rss&utm_campaign=the-mental-illness-theory-of-politics-is-modestly-underrated)**  
-`Tyler Cowen` · 22 小时前  
+`Tyler Cowen` · 1 天前  
 
 **[My podcast with Hasan](https://marginalrevolution.com/marginalrevolution/2026/11/my-podcast-with-hasan.html?utm_source=rss&utm_medium=rss&utm_campaign=my-podcast-with-hasan)**  
 `Tyler Cowen` · 1 天前  
@@ -148,15 +151,12 @@ open docs/index.html
 `Tyler Cowen` · 1 天前  
 
 **[Thanksgiving assorted links](https://marginalrevolution.com/marginalrevolution/2026/11/thanksgiving-assorted-links-6.html?utm_source=rss&utm_medium=rss&utm_campaign=thanksgiving-assorted-links-6)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 **[What we are grateful for](https://marginalrevolution.com/marginalrevolution/2026/11/what-we-are-grateful-for.html?utm_source=rss&utm_medium=rss&utm_campaign=what-we-are-grateful-for)**  
-`Tyler Cowen` · 1 天前  
+`Tyler Cowen` · 2 天前  
 
 **[Five Facts About Stablecoins](https://marginalrevolution.com/marginalrevolution/2026/11/five-facts-about-stablecoins.html?utm_source=rss&utm_medium=rss&utm_campaign=five-facts-about-stablecoins)**  
-`Tyler Cowen` · 1 天前  
-
-**[20VC: Jensen Huang's $1TRN Return: What Happens Now \| Anthropic Goes Public: Largest IPO Of All Time & How It Changes Venture \| Applied Compute, Bill.com and Mailchimp Acquisitions Broken Down](https://thetwentyminutevc.libsyn.com/20vc-jensen-huangs-1trn-return-what-happens-now-anthropic-goes-public-largest-ipo-of-all-time-how-it-changes-venture-applied-compute-billcom-and-mailchimp-acquisitions-broken-down)**  
-`Harry Stebbings` · 2 天前  
+`Tyler Cowen` · 2 天前  
 
 <!-- POSTS:END -->
